@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Son Depremler | Türkiye ve Çevresi</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <meta
+      name="description"
+      content="Türkiye ve çevresinde son 24 saatte meydana gelen depremlerin güncel listesi"
+    />
+    <meta
+      name="keywords"
+      content="deprem, son depremler, Türkiye deprem, Kandilli, USGS, EMSC"
+    />
+    <meta property="og:title" content="Son Depremler | Türkiye ve Çevresi" />
+    <meta
+      property="og:description"
+      content="Türkiye ve çevresinde son 24 saatte meydana gelen depremlerin güncel listesi"
+    />
+    <meta property="og:type" content="website" />
+
+    <!-- Favicons and Theme -->
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-96x96.png">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="images/site.webmanifest">
+    <link rel="mask-icon" href="images/favicon.svg" color="#d9534f">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body>
+    <header>
+      <h1>Son Depremler</h1>
+      <p class="subtitle">
+        Türkiye ve çevresinde son 24 saatte meydana gelen depremler
+      </p>
+    </header>
+
+    <div class="container">
+      <div class="filter-controls">
+        <select id="magnitude-filter">
+          <option value="0">Tüm Büyüklükler</option>
+          <option value="2">2.0+</option>
+          <option value="3">3.0+</option>
+          <option value="4">4.0+</option>
+          <option value="5">5.0+</option>
+        </select>
+        <select id="region-filter">
+          <option value="all">Tüm Bölgeler</option>
+          <option value="marmara">Marmara</option>
+          <option value="ege">Ege</option>
+          <option value="akdeniz">Akdeniz</option>
+          <option value="anadolu">İç Anadolu</option>
+          <option value="karadeniz">Karadeniz</option>
+          <option value="dogu">Doğu Anadolu</option>
+          <option value="güneydoğu">Güneydoğu Anadolu</option>
+          <option value="yunanistan">Yunanistan</option>
+          <option value="iran">İran</option>
+          <option value="suriye">Suriye</option>
+          <option value="bulgaristan">Bulgaristan</option>
+          <option value="gürcistan">Gürcistan</option>
+          <option value="kıbrıs">Kıbrıs</option>
+          <option value="kafkasya">Kafkasya</option>
+        </select>
+        <input type="text" id="search-input" placeholder="Konum ara..." />
+      </div>
+
+      <div id="loading">
+        <i class="fas fa-spinner fa-spin"></i> Deprem verileri yükleniyor...
+      </div>
+
+      <ul id="earthquake-list">
+        <!-- Deprem verileri buraya eklenecek -->
+      </ul>
+    </div>
+
+    <footer>
+      <p>Veri Kaynakları: Kandilli Rasathanesi, USGS, EMSC</p>
+      <p>Son güncelleme: <span id="last-updated"></span></p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
