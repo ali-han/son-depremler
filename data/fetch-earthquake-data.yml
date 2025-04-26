@@ -1,0 +1,28 @@
+name: Fetch Earthquake Data
+
+on:
+  schedule:
+    - cron: '*/1 * * * *' # Her dakika çalışır
+  workflow_dispatch: # Elle tetiklemek icin
+
+jobs:
+  fetch_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create data directory if not exists
+        run: mkdir -p data
+
+      - name: Download earthquake data
+        run: |
+          curl -s "http://udim.koeri.boun.edu.tr/zeqmap/xmlt/son24saat.xml" -o data/son24saat.xml
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*
+          git commit -m "Update earthquake data [skip ci]" || echo "No changes to commit"
+          git push
