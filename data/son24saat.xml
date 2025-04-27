@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.04.27 01:02:51"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8205"	lng="28.2543"	mag="1.5" Depth="5.3" />
-	<earhquake	name="2025.04.27 01:09:20"	lokasyon="KORUBASI-AYVACIK (CANAKKALE)                      "	lat="39.5157"	lng="26.2433"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.04.27 01:25:33"	lokasyon="ARMUTLU-PAZARCIK (KAHRAMANMARAS)                  "	lat="37.5052"	lng="37.2652"	mag="1.7" Depth="3.1" />
-	<earhquake	name="2025.04.27 01:36:09"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8400"	lng="28.7830"	mag="1.7" Depth="13.0" />
-	<earhquake	name="2025.04.27 01:40:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2432"	lng="28.9990"	mag="2.6" Depth="12.4" />
-	<earhquake	name="2025.04.27 01:41:32"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2485"	lng="29.0002"	mag="3.5" Depth="11.6" />
 	<earhquake	name="2025.04.27 02:04:10"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="37.3562"	lng="26.6297"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.04.27 02:14:13"	lokasyon="GOKCELER-SIMAV (KUTAHYA)                          "	lat="39.0960"	lng="29.0458"	mag="1.0" Depth="5.0" />
 	<earhquake	name="2025.04.27 02:41:47"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8687"	lng="26.9212"	mag="1.5" Depth="1.6" />
@@ -122,4 +116,6 @@
 	<earhquake	name="2025.04.28 00:00:14"	lokasyon="SARITAS-BASKIL (ELAZIG)                           "	lat="38.4333"	lng="38.9497"	mag="1.5" Depth="11.4" />
 	<earhquake	name="2025.04.28 00:01:19"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1960"	lng="28.9710"	mag="1.8" Depth="5.4" />
 	<earhquake	name="2025.04.28 00:10:01"	lokasyon="KIZILLI-BUCAK (BURDUR)                            "	lat="37.3552"	lng="30.8800"	mag="1.5" Depth="5.3" />
+	<earhquake	name="2025.04.28 00:44:29"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2352"	lng="29.0282"	mag="1.6" Depth="10.6" />
+	<earhquake	name="2025.04.28 01:02:44"	lokasyon="YAYLACIK-(HATAY)                                  "	lat="36.2378"	lng="36.0308"	mag="1.3" Depth="7.6" />
 </eqlist>
