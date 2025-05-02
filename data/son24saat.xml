@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.01 08:54:08"	lokasyon="TAVAK-SELENDI (MANISA)                            "	lat="38.9038"	lng="28.8642"	mag="0.8" Depth="4.8" />
-	<earhquake	name="2025.05.01 08:54:46"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2313"	lng="28.9688"	mag="1.4" Depth="11.6" />
 	<earhquake	name="2025.05.01 09:05:21"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2417"	lng="28.9700"	mag="2.1" Depth="5.3" />
 	<earhquake	name="2025.05.01 09:15:55"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2215"	lng="29.0073"	mag="1.4" Depth="9.2" />
 	<earhquake	name="2025.05.01 09:32:33"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2303"	lng="29.0312"	mag="1.1" Depth="13.3" />
@@ -107,4 +105,5 @@
 	<earhquake	name="2025.05.02 06:25:14"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2613"	lng="29.0045"	mag="1.4" Depth="10.3" />
 	<earhquake	name="2025.05.02 07:38:35"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2287"	lng="28.9737"	mag="1.8" Depth="14.1" />
 	<earhquake	name="2025.05.02 07:44:27"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2308"	lng="28.9512"	mag="1.8" Depth="12.5" />
+	<earhquake	name="2025.05.02 08:36:22"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8033"	lng="28.2797"	mag="2.3" Depth="7.6" />
 </eqlist>
