@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.01 20:07:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2360"	lng="28.9783"	mag="3.6" Depth="5.3" />
-	<earhquake	name="2025.05.01 20:08:23"	lokasyon="YESILKOY-DOGANYOL (MALATYA)                       "	lat="38.2478"	lng="39.0617"	mag="1.3" Depth="4.7" />
-	<earhquake	name="2025.05.01 20:09:57"	lokasyon="YIPRAK-DINAR (AFYONKARAHISAR)                     "	lat="38.3882"	lng="30.4283"	mag="1.8" Depth="5.7" />
-	<earhquake	name="2025.05.01 20:13:21"	lokasyon="ELEKGOLU-CAMARDI (NIGDE)                          "	lat="37.7657"	lng="35.1537"	mag="1.7" Depth="4.2" />
-	<earhquake	name="2025.05.01 20:18:04"	lokasyon="GIRESUN ACIKLARI (KARADENIZ)                      "	lat="41.2328"	lng="38.6808"	mag="2.1" Depth="26.0" />
-	<earhquake	name="2025.05.01 20:31:02"	lokasyon="CAVDARUSAGI-YAHYALI (KAYSERI)                     "	lat="37.8847"	lng="35.5008"	mag="1.1" Depth="24.3" />
-	<earhquake	name="2025.05.01 20:56:59"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2585"	lng="28.9812"	mag="1.3" Depth="10.4" />
-	<earhquake	name="2025.05.01 20:57:35"	lokasyon="KULAK-SUHUT (AFYONKARAHISAR)                      "	lat="38.3597"	lng="30.5328"	mag="1.1" Depth="5.3" />
 	<earhquake	name="2025.05.01 21:11:11"	lokasyon="DARICA-AKCADAG (MALATYA)                          "	lat="38.3642"	lng="37.6282"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.05.01 21:20:17"	lokasyon="MARMARA DENIZI                                    "	lat="40.7225"	lng="28.6697"	mag="1.5" Depth="19.3" />
 	<earhquake	name="2025.05.01 21:48:03"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2410"	lng="29.0188"	mag="0.8" Depth="5.2" />
@@ -83,5 +75,6 @@
 	<earhquake	name="2025.05.02 18:04:30"	lokasyon="MARMARA DENIZI                                    "	lat="40.7113"	lng="28.6410"	mag="1.9" Depth="16.3" />
 	<earhquake	name="2025.05.02 18:20:50"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2435"	lng="29.0292"	mag="1.5" Depth="3.8" />
 	<earhquake	name="2025.05.02 18:34:44"	lokasyon="KAVALLI-SIVRICE (ELAZIG)                          "	lat="38.4767"	lng="39.1517"	mag="1.4" Depth="18.0" />
+	<earhquake	name="2025.05.02 18:50:57"	lokasyon="EGE DENIZI                                        "	lat="36.6255"	lng="25.5303"	mag="2.9" Depth="21.1" />
 	<earhquake	name="2025.05.02 18:57:46"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2348"	lng="29.0535"	mag="1.5" Depth="2.1" />
 </eqlist>
