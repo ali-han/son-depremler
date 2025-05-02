@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.01 23:18:23"	lokasyon="ORMANKOY-TORBALI (IZMIR)                          "	lat="38.2607"	lng="27.4482"	mag="1.9" Depth="6.3" />
-	<earhquake	name="2025.05.01 23:45:50"	lokasyon="IKIZKUYU-NURDAGI (GAZIANTEP)                      "	lat="37.1613"	lng="36.9655"	mag="2.1" Depth="5.3" />
-	<earhquake	name="2025.05.01 23:57:42"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2323"	lng="28.9642"	mag="1.6" Depth="11.6" />
 	<earhquake	name="2025.05.02 00:04:19"	lokasyon="BELKARACAOREN-(AFYONKARAHISAR)                    "	lat="38.6185"	lng="30.5348"	mag="1.5" Depth="8.6" />
 	<earhquake	name="2025.05.02 00:05:39"	lokasyon="EGE DENIZI                                        "	lat="36.0698"	lng="27.3522"	mag="2.0" Depth="18.1" />
 	<earhquake	name="2025.05.02 00:41:37"	lokasyon="DEMIRCI (MANISA)                                  "	lat="39.0520"	lng="28.6362"	mag="1.7" Depth="9.9" />
@@ -74,4 +71,5 @@
 	<earhquake	name="2025.05.02 20:43:02"	lokasyon="EGE DENIZI                                        "	lat="36.4575"	lng="25.6992"	mag="2.1" Depth="7.5" />
 	<earhquake	name="2025.05.02 20:58:44"	lokasyon="EGE DENIZI                                        "	lat="36.6367"	lng="25.7173"	mag="3.5" Depth="14.2" />
 	<earhquake	name="2025.05.02 21:58:52"	lokasyon="CAMONU-MENDERES (IZMIR)                           "	lat="38.0838"	lng="27.1088"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2025.05.02 22:26:17"	lokasyon="AVCILARSUYU-ARSUZ (HATAY)                         "	lat="36.3455"	lng="35.9130"	mag="1.6" Depth="1.6" />
 </eqlist>
