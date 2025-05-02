@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.01 17:17:12"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2352"	lng="29.0197"	mag="2.1" Depth="10.1" />
-	<earhquake	name="2025.05.01 17:19:43"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2745"	lng="28.9813"	mag="1.4" Depth="5.1" />
-	<earhquake	name="2025.05.01 17:24:35"	lokasyon="CICEK-PAZARCIK (KAHRAMANMARAS)                    "	lat="37.3177"	lng="37.1590"	mag="1.4" Depth="9.7" />
-	<earhquake	name="2025.05.01 17:43:44"	lokasyon="HACIOSMANLAR-SERIK (ANTALYA)                      REVIZE01   (2025.05.01 17:43:44)"	lat="37.1833"	lng="30.9267"	mag="4.0" Depth="98.0" />
-	<earhquake	name="2025.05.01 17:54:27"	lokasyon="EGE DENIZI                                        "	lat="36.0448"	lng="27.3877"	mag="1.7" Depth="27.9" />
-	<earhquake	name="2025.05.01 17:57:27"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         REVIZE01   (2025.05.01 17:57:27)"	lat="39.2472"	lng="29.0563"	mag="0.8" Depth="1.4" />
-	<earhquake	name="2025.05.01 17:59:21"	lokasyon="KIBRIS RUM KESIMI                                 "	lat="34.7708"	lng="32.6257"	mag="2.7" Depth="54.8" />
 	<earhquake	name="2025.05.01 18:06:31"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2377"	lng="29.0030"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2025.05.01 18:11:28"	lokasyon="YUKARIULUPINAR-DARENDE (MALATYA)                  "	lat="38.3667"	lng="37.5835"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2025.05.01 18:19:17"	lokasyon="DARICA-AKCADAG (MALATYA)                          "	lat="38.3440"	lng="37.6280"	mag="1.7" Depth="6.7" />
@@ -92,4 +85,5 @@
 	<earhquake	name="2025.05.02 15:51:15"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2350"	lng="28.9822"	mag="4.0" Depth="8.0" />
 	<earhquake	name="2025.05.02 16:05:22"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2415"	lng="28.9732"	mag="3.2" Depth="5.5" />
 	<earhquake	name="2025.05.02 16:09:03"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2355"	lng="28.9878"	mag="2.3" Depth="15.5" />
+	<earhquake	name="2025.05.02 17:00:42"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2378"	lng="29.0240"	mag="1.5" Depth="9.9" />
 </eqlist>
