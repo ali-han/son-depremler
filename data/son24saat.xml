@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.02 22:26:17"	lokasyon="AVCILARSUYU-ARSUZ (HATAY)                         "	lat="36.3455"	lng="35.9130"	mag="1.6" Depth="1.6" />
-	<earhquake	name="2025.05.02 22:33:13"	lokasyon="EGE DENIZI                                        "	lat="36.1012"	lng="25.4395"	mag="3.1" Depth="9.8" />
 	<earhquake	name="2025.05.02 23:15:50"	lokasyon="COMLEKCI-BIGA (CANAKKALE)                         "	lat="40.2338"	lng="27.0263"	mag="2.1" Depth="1.4" />
 	<earhquake	name="2025.05.02 23:25:23"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2385"	lng="28.9868"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2025.05.03 00:42:32"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2610"	lng="29.0240"	mag="2.0" Depth="2.5" />
@@ -72,4 +70,5 @@
 	<earhquake	name="2025.05.03 20:32:53"	lokasyon="BOZBUK-MILAS (MUGLA)                              "	lat="37.3250"	lng="27.4253"	mag="2.5" Depth="1.9" />
 	<earhquake	name="2025.05.03 20:57:01"	lokasyon="YAMACOBA-SEHITKAMIL (GAZIANTEP)                   "	lat="37.1857"	lng="37.0782"	mag="2.3" Depth="0.0" />
 	<earhquake	name="2025.05.03 21:06:36"	lokasyon="YUNANISTAN                                        "	lat="40.3060"	lng="24.1260"	mag="1.9" Depth="7.1" />
+	<earhquake	name="2025.05.03 22:18:11"	lokasyon="MARMARA DENIZI                                    "	lat="40.8708"	lng="28.3978"	mag="2.1" Depth="5.4" />
 </eqlist>
