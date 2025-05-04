@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.04 02:22:35"	lokasyon="MARMARA DENIZI                                    "	lat="40.8592"	lng="28.2812"	mag="1.8" Depth="15.1" />
-	<earhquake	name="2025.05.04 02:25:25"	lokasyon="ULA (MUGLA)                                       "	lat="37.0977"	lng="28.3977"	mag="3.3" Depth="5.3" />
-	<earhquake	name="2025.05.04 02:50:28"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2303"	lng="29.0087"	mag="1.6" Depth="9.3" />
-	<earhquake	name="2025.05.04 02:53:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2470"	lng="28.9848"	mag="4.0" Depth="6.8" />
 	<earhquake	name="2025.05.04 03:08:17"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2240"	lng="29.0275"	mag="1.4" Depth="4.5" />
 	<earhquake	name="2025.05.04 03:16:04"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2207"	lng="28.9842"	mag="0.8" Depth="9.1" />
 	<earhquake	name="2025.05.04 03:28:21"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8907"	lng="28.7275"	mag="2.3" Depth="5.4" />
@@ -85,4 +81,6 @@
 	<earhquake	name="2025.05.05 00:20:28"	lokasyon="DINGILLER-AKHISAR (MANISA)                        "	lat="38.9838"	lng="27.8993"	mag="2.7" Depth="4.6" />
 	<earhquake	name="2025.05.05 00:21:15"	lokasyon="YENICE-AKHISAR (MANISA)                           "	lat="38.9943"	lng="27.9163"	mag="1.9" Depth="12.6" />
 	<earhquake	name="2025.05.05 00:54:25"	lokasyon="YENICE-AKHISAR (MANISA)                           "	lat="39.0045"	lng="27.9038"	mag="2.9" Depth="8.2" />
+	<earhquake	name="2025.05.05 01:03:05"	lokasyon="KARABORKLU-AKHISAR (MANISA)                       "	lat="38.9848"	lng="27.8745"	mag="1.1" Depth="9.8" />
+	<earhquake	name="2025.05.05 02:23:06"	lokasyon="BUYUKTATLI-AFSIN (KAHRAMANMARAS)                  "	lat="38.4850"	lng="36.9557"	mag="1.8" Depth="5.0" />
 </eqlist>
