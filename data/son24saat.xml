@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.04 19:08:30"	lokasyon="SUCATI-DOGANSEHIR (MALATYA)                       "	lat="38.2095"	lng="37.9712"	mag="2.6" Depth="5.5" />
-	<earhquake	name="2025.05.04 19:14:06"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4395"	lng="26.3118"	mag="1.6" Depth="17.6" />
-	<earhquake	name="2025.05.04 19:19:04"	lokasyon="BELEVI-CAL (DENIZLI)                              "	lat="37.9522"	lng="29.4178"	mag="1.7" Depth="20.0" />
-	<earhquake	name="2025.05.04 19:21:04"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2142"	lng="28.9978"	mag="2.0" Depth="9.3" />
-	<earhquake	name="2025.05.04 19:24:46"	lokasyon="MARMARA DENIZI                                    "	lat="40.8408"	lng="28.3465"	mag="2.5" Depth="9.7" />
-	<earhquake	name="2025.05.04 19:41:16"	lokasyon="CALIKLAR-KEMAH (ERZINCAN)                         "	lat="39.8573"	lng="39.0522"	mag="1.9" Depth="10.4" />
 	<earhquake	name="2025.05.04 20:19:32"	lokasyon="KAMISTAS-(MALATYA)                                "	lat="38.3288"	lng="38.7028"	mag="2.1" Depth="9.3" />
 	<earhquake	name="2025.05.04 20:23:58"	lokasyon="EGE DENIZI                                        "	lat="36.6433"	lng="25.6920"	mag="3.7" Depth="16.4" />
 	<earhquake	name="2025.05.04 21:07:02"	lokasyon="CUKURCAYIR-CAT (ERZURUM)                          "	lat="39.6690"	lng="41.2185"	mag="2.8" Depth="4.9" />
@@ -88,4 +82,6 @@
 	<earhquake	name="2025.05.05 17:30:20"	lokasyon="CORUS-ULA (MUGLA)                                 "	lat="36.9702"	lng="28.5022"	mag="2.3" Depth="15.1" />
 	<earhquake	name="2025.05.05 17:33:46"	lokasyon="CANAKCI-KALE (MALATYA)                            "	lat="38.3252"	lng="38.7890"	mag="1.5" Depth="4.5" />
 	<earhquake	name="2025.05.05 18:12:32"	lokasyon="SARIOT-KALE (MALATYA)                             "	lat="38.3517"	lng="38.7365"	mag="3.4" Depth="5.0" />
+	<earhquake	name="2025.05.05 19:14:42"	lokasyon="KARAKECILI-(CORUM)                                "	lat="40.5327"	lng="34.6407"	mag="2.7" Depth="2.5" />
+	<earhquake	name="2025.05.05 19:34:53"	lokasyon="AHMETCIK-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0297"	lng="36.6610"	mag="2.2" Depth="7.0" />
 </eqlist>
