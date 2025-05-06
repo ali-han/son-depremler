@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.05 23:17:07"	lokasyon="DEMIRCI (MANISA)                                  "	lat="39.0357"	lng="28.6482"	mag="1.3" Depth="6.5" />
-	<earhquake	name="2025.05.05 23:29:14"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2410"	lng="28.9333"	mag="1.9" Depth="6.6" />
-	<earhquake	name="2025.05.05 23:34:35"	lokasyon="KOYUNOBA-SIMAV (KUTAHYA)                          "	lat="39.2188"	lng="28.9120"	mag="0.9" Depth="5.2" />
-	<earhquake	name="2025.05.05 23:56:27"	lokasyon="GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)       "	lat="40.8932"	lng="28.4478"	mag="1.4" Depth="20.2" />
 	<earhquake	name="2025.05.06 00:27:44"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2433"	lng="29.0183"	mag="1.5" Depth="11.2" />
 	<earhquake	name="2025.05.06 01:23:34"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2362"	lng="28.9900"	mag="2.3" Depth="6.6" />
 	<earhquake	name="2025.05.06 01:32:13"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2422"	lng="28.9950"	mag="2.5" Depth="5.2" />
@@ -82,4 +78,5 @@
 	<earhquake	name="2025.05.06 21:44:54"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.7662"	lng="27.4270"	mag="1.3" Depth="19.5" />
 	<earhquake	name="2025.05.06 21:58:23"	lokasyon="AKKOY-DIDIM (AYDIN)                               "	lat="37.4933"	lng="27.2692"	mag="2.1" Depth="13.5" />
 	<earhquake	name="2025.05.06 22:05:29"	lokasyon="HAMZALAR-TEKMAN (ERZURUM)                         "	lat="39.4630"	lng="41.2193"	mag="1.3" Depth="15.5" />
+	<earhquake	name="2025.05.06 23:34:31"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2335"	lng="29.0228"	mag="2.1" Depth="6.3" />
 </eqlist>
