@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.05 17:16:01"	lokasyon="YESILLER-ORHANELI (BURSA)                         "	lat="39.8747"	lng="28.8852"	mag="1.9" Depth="0.0" />
-	<earhquake	name="2025.05.05 17:30:20"	lokasyon="CORUS-ULA (MUGLA)                                 "	lat="36.9702"	lng="28.5022"	mag="2.3" Depth="15.1" />
-	<earhquake	name="2025.05.05 17:33:46"	lokasyon="CANAKCI-KALE (MALATYA)                            "	lat="38.3252"	lng="38.7890"	mag="1.5" Depth="4.5" />
-	<earhquake	name="2025.05.05 17:48:12"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2365"	lng="29.0752"	mag="0.9" Depth="5.0" />
-	<earhquake	name="2025.05.05 17:59:33"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2412"	lng="29.0223"	mag="1.0" Depth="9.8" />
 	<earhquake	name="2025.05.05 18:12:32"	lokasyon="SARIOT-KALE (MALATYA)                             "	lat="38.3517"	lng="38.7365"	mag="3.4" Depth="5.0" />
 	<earhquake	name="2025.05.05 18:35:15"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2355"	lng="29.0240"	mag="1.7" Depth="14.3" />
 	<earhquake	name="2025.05.05 18:40:41"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9118"	lng="25.9982"	mag="2.3" Depth="5.3" />
@@ -67,7 +62,7 @@
 	<earhquake	name="2025.05.06 12:27:57"	lokasyon="BUYUKCAMURLU-GOKSUN (KAHRAMANMARAS)               "	lat="37.9065"	lng="36.3898"	mag="2.6" Depth="7.5" />
 	<earhquake	name="2025.05.06 12:36:44"	lokasyon="ELAZIG                                            "	lat="38.6415"	lng="39.1917"	mag="1.3" Depth="23.5" />
 	<earhquake	name="2025.05.06 12:43:19"	lokasyon="SIRAPINAR-BALA (ANKARA)                           "	lat="39.4798"	lng="33.2660"	mag="1.6" Depth="0.0" />
-	<earhquake	name="2025.05.06 12:45:51"	lokasyon="EGE DENIZI                                        REVIZE02   (2025.05.06 12:45:51)"	lat="36.5900"	lng="25.7223"	mag="2.7" Depth="18.9" />
+	<earhquake	name="2025.05.06 12:45:51"	lokasyon="EGE DENIZI                                        "	lat="36.5900"	lng="25.7223"	mag="2.7" Depth="18.9" />
 	<earhquake	name="2025.05.06 12:50:12"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4933"	lng="28.1015"	mag="1.6" Depth="5.8" />
 	<earhquake	name="2025.05.06 12:50:49"	lokasyon="ATALAR-YESILYURT (MALATYA)                        "	lat="38.2203"	lng="38.1418"	mag="1.3" Depth="8.7" />
 	<earhquake	name="2025.05.06 12:53:12"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0030"	lng="37.5142"	mag="1.2" Depth="15.9" />
@@ -80,4 +75,5 @@
 	<earhquake	name="2025.05.06 15:20:13"	lokasyon="SULUKLU-MECITOZU (CORUM)                          "	lat="40.6087"	lng="35.3253"	mag="1.8" Depth="11.7" />
 	<earhquake	name="2025.05.06 15:24:13"	lokasyon="BESGOZE-TERCAN (ERZINCAN)                         "	lat="39.6433"	lng="40.4537"	mag="2.8" Depth="2.3" />
 	<earhquake	name="2025.05.06 16:44:16"	lokasyon="YANISLI-GULNAR (MERSIN)                           "	lat="36.1363"	lng="33.5225"	mag="1.2" Depth="0.0" />
+	<earhquake	name="2025.05.06 17:45:16"	lokasyon="USAKPINARI-SILIFKE (MERSIN)                       "	lat="36.2993"	lng="33.6627"	mag="1.4" Depth="0.0" />
 </eqlist>
