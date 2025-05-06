@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.05 09:00:21"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2178"	lng="29.0388"	mag="1.8" Depth="16.0" />
-	<earhquake	name="2025.05.05 09:00:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2497"	lng="28.9875"	mag="1.9" Depth="12.4" />
-	<earhquake	name="2025.05.05 09:06:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2285"	lng="29.0050"	mag="2.0" Depth="17.5" />
-	<earhquake	name="2025.05.05 09:07:31"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2205"	lng="29.0100"	mag="1.7" Depth="18.1" />
-	<earhquake	name="2025.05.05 09:08:26"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2232"	lng="29.0147"	mag="1.8" Depth="17.3" />
-	<earhquake	name="2025.05.05 09:20:58"	lokasyon="DIKENLI-CERKES (CANKIRI)                          REVIZE01   (2025.05.05 09:20:58)"	lat="40.7857"	lng="32.7685"	mag="1.6" Depth="14.8" />
-	<earhquake	name="2025.05.05 09:28:12"	lokasyon="SARICALAR-SELCUKLU (KONYA)                        "	lat="38.0587"	lng="32.6440"	mag="2.2" Depth="13.1" />
-	<earhquake	name="2025.05.05 09:52:49"	lokasyon="YUNANISTAN                                        "	lat="40.3118"	lng="24.1380"	mag="2.7" Depth="9.2" />
 	<earhquake	name="2025.05.05 10:13:30"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2330"	lng="28.9922"	mag="2.5" Depth="7.3" />
 	<earhquake	name="2025.05.05 10:27:24"	lokasyon="YANKILI-KOZLUK (BATMAN)                           "	lat="38.1080"	lng="41.4673"	mag="2.1" Depth="11.4" />
 	<earhquake	name="2025.05.05 10:53:37"	lokasyon="MARMARA DENIZI                                    "	lat="40.8340"	lng="28.3453"	mag="1.7" Depth="27.5" />
@@ -75,4 +67,8 @@
 	<earhquake	name="2025.05.06 06:59:04"	lokasyon="KALECIK-CELIKHAN (ADIYAMAN)                       "	lat="38.1098"	lng="38.3182"	mag="2.3" Depth="2.8" />
 	<earhquake	name="2025.05.06 07:49:41"	lokasyon="SAVRANLI-BAHCE (OSMANIYE)                         "	lat="37.1535"	lng="36.5870"	mag="1.8" Depth="9.3" />
 	<earhquake	name="2025.05.06 08:16:04"	lokasyon="AMBAROBA-BIGA (CANAKKALE)                         "	lat="40.2123"	lng="27.4018"	mag="2.4" Depth="11.6" />
+	<earhquake	name="2025.05.06 08:54:41"	lokasyon="KIZILCAGEDIK-GERMENCIK (AYDIN)                    "	lat="37.8832"	lng="27.6392"	mag="1.5" Depth="5.4" />
+	<earhquake	name="2025.05.06 08:59:41"	lokasyon="BOZKOY-GERMENCIK (AYDIN)                          "	lat="37.9555"	lng="27.6417"	mag="1.8" Depth="5.5" />
+	<earhquake	name="2025.05.06 09:03:45"	lokasyon="DEREKOY-SOMA (MANISA)                             "	lat="39.0965"	lng="27.5293"	mag="1.7" Depth="0.0" />
+	<earhquake	name="2025.05.06 09:12:48"	lokasyon="EKINOZU (KAHRAMANMARAS)                           "	lat="38.0820"	lng="37.1703"	mag="2.4" Depth="8.0" />
 </eqlist>
