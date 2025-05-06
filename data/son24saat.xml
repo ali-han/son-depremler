@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.05 05:20:46"	lokasyon="AYDINCIK ACIKLARI-MERSIN (AKDENIZ)                "	lat="35.9977"	lng="33.5155"	mag="1.7" Depth="14.6" />
-	<earhquake	name="2025.05.05 05:23:46"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2427"	lng="29.0178"	mag="2.2" Depth="7.6" />
-	<earhquake	name="2025.05.05 05:39:02"	lokasyon="ALANCIK-SINCIK (ADIYAMAN)                         "	lat="38.0380"	lng="38.5628"	mag="1.0" Depth="21.2" />
-	<earhquake	name="2025.05.05 05:40:52"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.1893"	lng="28.9475"	mag="1.0" Depth="14.2" />
-	<earhquake	name="2025.05.05 05:41:42"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2082"	lng="29.0360"	mag="1.2" Depth="8.9" />
-	<earhquake	name="2025.05.05 05:51:24"	lokasyon="SARIKAVAK-CAMELI (DENIZLI)                        "	lat="37.0103"	lng="29.1832"	mag="2.4" Depth="8.5" />
-	<earhquake	name="2025.05.05 06:07:32"	lokasyon="MARMARA DENIZI                                    "	lat="40.8477"	lng="28.4053"	mag="2.2" Depth="9.5" />
-	<earhquake	name="2025.05.05 06:22:29"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8687"	lng="28.6918"	mag="2.0" Depth="5.4" />
-	<earhquake	name="2025.05.05 06:43:45"	lokasyon="YUKARISELIMLI-HEKIMHAN (MALATYA)                  "	lat="38.7820"	lng="37.7878"	mag="1.7" Depth="7.5" />
-	<earhquake	name="2025.05.05 06:52:05"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2427"	lng="28.9870"	mag="2.2" Depth="5.6" />
 	<earhquake	name="2025.05.05 07:26:04"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2303"	lng="29.0240"	mag="1.2" Depth="3.0" />
 	<earhquake	name="2025.05.05 08:22:51"	lokasyon="ERDEK KORFEZI (MARMARA DENIZI)                    "	lat="40.3468"	lng="27.8220"	mag="1.9" Depth="14.5" />
 	<earhquake	name="2025.05.05 08:24:46"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2723"	lng="28.9937"	mag="1.5" Depth="14.6" />
@@ -78,4 +68,7 @@
 	<earhquake	name="2025.05.06 04:11:23"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1795"	lng="28.9542"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.05.06 04:23:10"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2270"	lng="29.0182"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2025.05.06 04:27:36"	lokasyon="HEKIMHAN (MALATYA)                                "	lat="38.8480"	lng="37.9402"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2025.05.06 04:31:08"	lokasyon="TUFANLI-KOZAN (ADANA)                             "	lat="37.4210"	lng="35.7442"	mag="0.9" Depth="19.9" />
+	<earhquake	name="2025.05.06 04:41:25"	lokasyon="BALOTU-BULANIK (MUS)                              "	lat="39.0907"	lng="42.1165"	mag="1.6" Depth="13.9" />
+	<earhquake	name="2025.05.06 05:26:16"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8458"	lng="28.2497"	mag="1.4" Depth="4.8" />
 </eqlist>
