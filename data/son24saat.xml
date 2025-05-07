@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.06 18:24:13"	lokasyon="YOLBASI-BIGADIC (BALIKESIR)                       "	lat="39.4872"	lng="28.2287"	mag="1.7" Depth="10.3" />
 	<earhquake	name="2025.05.06 19:06:42"	lokasyon="KIZILAGAC-ULA (MUGLA)                             "	lat="37.0723"	lng="28.3807"	mag="1.9" Depth="4.1" />
 	<earhquake	name="2025.05.06 19:07:31"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1832"	lng="29.0302"	mag="1.5" Depth="3.5" />
 	<earhquake	name="2025.05.06 19:11:16"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2320"	lng="28.9870"	mag="2.0" Depth="14.6" />
@@ -69,5 +68,9 @@
 	<earhquake	name="2025.05.07 15:08:24"	lokasyon="SARIOGLAN (KAYSERI)                               "	lat="39.0675"	lng="35.9372"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.05.07 16:08:30"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2315"	lng="29.0020"	mag="1.7" Depth="10.9" />
 	<earhquake	name="2025.05.07 17:36:25"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2287"	lng="29.0050"	mag="1.8" Depth="4.2" />
+	<earhquake	name="2025.05.07 17:37:19"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="28.9787"	mag="1.5" Depth="14.4" />
 	<earhquake	name="2025.05.07 17:38:56"	lokasyon="PAYAMBURNU-GOKSUN (KAHRAMANMARAS)                 "	lat="37.8680"	lng="36.3065"	mag="1.8" Depth="5.0" />
+	<earhquake	name="2025.05.07 17:50:30"	lokasyon="KAYALAR-CEKEREK (YOZGAT)                          "	lat="40.0917"	lng="35.5003"	mag="2.0" Depth="6.8" />
+	<earhquake	name="2025.05.07 18:11:51"	lokasyon="MIRZAOBA-MUDANYA (BURSA)                          "	lat="40.3600"	lng="28.7927"	mag="2.2" Depth="6.2" />
+	<earhquake	name="2025.05.07 18:23:49"	lokasyon="ALIBEYCAGILI-KIRIKHAN (HATAY)                     "	lat="36.6155"	lng="36.3475"	mag="2.0" Depth="8.1" />
 </eqlist>
