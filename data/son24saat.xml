@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.06 03:36:06"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2153"	lng="29.0582"	mag="1.1" Depth="12.2" />
-	<earhquake	name="2025.05.06 03:51:16"	lokasyon="BUYUKYAYALAR-ESKIPAZAR (KARABUK)                  "	lat="40.9288"	lng="32.4800"	mag="2.1" Depth="4.9" />
-	<earhquake	name="2025.05.06 04:10:32"	lokasyon="ESENCE-AFSIN (KAHRAMANMARAS)                      "	lat="38.1605"	lng="36.8887"	mag="1.9" Depth="6.6" />
-	<earhquake	name="2025.05.06 04:11:23"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1795"	lng="28.9542"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2025.05.06 04:23:10"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2270"	lng="29.0182"	mag="2.1" Depth="5.4" />
-	<earhquake	name="2025.05.06 04:27:36"	lokasyon="HEKIMHAN (MALATYA)                                "	lat="38.8480"	lng="37.9402"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2025.05.06 04:31:08"	lokasyon="TUFANLI-KOZAN (ADANA)                             "	lat="37.4210"	lng="35.7442"	mag="0.9" Depth="19.9" />
-	<earhquake	name="2025.05.06 04:41:25"	lokasyon="BALOTU-BULANIK (MUS)                              "	lat="39.0907"	lng="42.1165"	mag="1.6" Depth="13.9" />
-	<earhquake	name="2025.05.06 05:06:58"	lokasyon="KARABOGURTLEN-ULA (MUGLA)                         "	lat="37.0518"	lng="28.5438"	mag="1.2" Depth="3.1" />
-	<earhquake	name="2025.05.06 05:20:24"	lokasyon="CAKMAK-MURADIYE (VAN)                             "	lat="38.8442"	lng="43.7922"	mag="1.5" Depth="30.8" />
-	<earhquake	name="2025.05.06 05:22:44"	lokasyon="IRAK-IRAN SINIR BOLGESI                           "	lat="36.2673"	lng="44.9675"	mag="3.6" Depth="16.4" />
-	<earhquake	name="2025.05.06 05:26:16"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8458"	lng="28.2497"	mag="1.4" Depth="4.8" />
-	<earhquake	name="2025.05.06 05:31:00"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2350"	lng="29.0178"	mag="1.7" Depth="6.8" />
-	<earhquake	name="2025.05.06 06:20:32"	lokasyon="CIMENOZU-NIKSAR (TOKAT)                           "	lat="40.6053"	lng="36.9068"	mag="2.7" Depth="5.0" />
-	<earhquake	name="2025.05.06 06:32:58"	lokasyon="KARATERZI-DOGANSEHIR (MALATYA)                    "	lat="38.1788"	lng="37.8858"	mag="1.9" Depth="8.7" />
-	<earhquake	name="2025.05.06 06:36:53"	lokasyon="GOKOVA-ULA (MUGLA)                                "	lat="37.0523"	lng="28.3572"	mag="0.9" Depth="2.0" />
-	<earhquake	name="2025.05.06 06:59:04"	lokasyon="KALECIK-CELIKHAN (ADIYAMAN)                       "	lat="38.1098"	lng="38.3182"	mag="2.3" Depth="2.8" />
 	<earhquake	name="2025.05.06 07:49:41"	lokasyon="SAVRANLI-BAHCE (OSMANIYE)                         "	lat="37.1535"	lng="36.5870"	mag="1.8" Depth="9.3" />
 	<earhquake	name="2025.05.06 08:16:04"	lokasyon="AMBAROBA-BIGA (CANAKKALE)                         "	lat="40.2123"	lng="27.4018"	mag="2.4" Depth="11.6" />
 	<earhquake	name="2025.05.06 08:22:56"	lokasyon="AKDAG-GELENDOST (ISPARTA)                         "	lat="38.1780"	lng="30.8760"	mag="1.9" Depth="5.0" />
@@ -78,4 +61,8 @@
 	<earhquake	name="2025.05.07 01:10:49"	lokasyon="GOKGOZ-KOZAN (ADANA)                              "	lat="37.5828"	lng="35.6183"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.05.07 01:55:04"	lokasyon="KAFACAKAPLANCIK-YATAGAN (MUGLA)                   "	lat="37.4247"	lng="28.1553"	mag="1.8" Depth="3.4" />
 	<earhquake	name="2025.05.07 02:11:11"	lokasyon="KIBRIS ACIKLARI-GUNEY--(AKDENIZ)                  "	lat="34.4872"	lng="33.9385"	mag="3.6" Depth="23.2" />
+	<earhquake	name="2025.05.07 02:39:53"	lokasyon="AKDENIZ                                           "	lat="35.4610"	lng="27.3767"	mag="2.1" Depth="2.7" />
+	<earhquake	name="2025.05.07 03:18:53"	lokasyon="EGE DENIZI                                        "	lat="36.6385"	lng="25.7787"	mag="2.5" Depth="10.4" />
+	<earhquake	name="2025.05.07 03:27:47"	lokasyon="AKDENIZ                                           "	lat="35.5053"	lng="27.3390"	mag="2.3" Depth="7.0" />
+	<earhquake	name="2025.05.07 03:30:00"	lokasyon="KORHACIOBASI-ARABAN (GAZIANTEP)                   "	lat="37.3987"	lng="37.6428"	mag="2.1" Depth="5.5" />
 </eqlist>
