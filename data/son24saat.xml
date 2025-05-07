@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.06 14:07:06"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2428"	lng="29.0145"	mag="1.7" Depth="15.2" />
-	<earhquake	name="2025.05.06 14:48:15"	lokasyon="ASAGIKOY-YESILYURT (MALATYA)                      "	lat="38.1465"	lng="38.3218"	mag="1.5" Depth="22.2" />
 	<earhquake	name="2025.05.06 15:20:13"	lokasyon="SULUKLU-MECITOZU (CORUM)                          "	lat="40.6087"	lng="35.3253"	mag="1.8" Depth="11.7" />
 	<earhquake	name="2025.05.06 15:24:13"	lokasyon="BESGOZE-TERCAN (ERZINCAN)                         "	lat="39.6433"	lng="40.4537"	mag="2.8" Depth="2.3" />
 	<earhquake	name="2025.05.06 16:44:16"	lokasyon="YANISLI-GULNAR (MERSIN)                           "	lat="36.1363"	lng="33.5225"	mag="1.2" Depth="0.0" />
@@ -72,4 +70,5 @@
 	<earhquake	name="2025.05.07 12:46:05"	lokasyon="MARMARA DENIZI                                    "	lat="40.8180"	lng="28.4660"	mag="2.0" Depth="20.2" />
 	<earhquake	name="2025.05.07 12:59:33"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9295"	lng="27.5615"	mag="2.0" Depth="5.4" />
 	<earhquake	name="2025.05.07 13:22:58"	lokasyon="EFENDIKOPRUSU-CAVDARHISAR (KUTAHYA)               "	lat="39.1243"	lng="29.5612"	mag="1.4" Depth="11.6" />
+	<earhquake	name="2025.05.07 13:48:06"	lokasyon="AYANOGLU-YEDISU (BINGOL)                          "	lat="39.5008"	lng="40.4053"	mag="2.2" Depth="13.3" />
 </eqlist>
