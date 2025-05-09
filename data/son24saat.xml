@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.08 12:02:07"	lokasyon="BOLUKKAYA-PUTURGE (MALATYA)                       "	lat="38.3028"	lng="38.8315"	mag="2.5" Depth="7.2" />
-	<earhquake	name="2025.05.08 12:15:07"	lokasyon="DALYANKOY ACIKLARI-IZMIR (EGE DENIZI)             "	lat="38.4933"	lng="26.3555"	mag="2.2" Depth="13.7" />
-	<earhquake	name="2025.05.08 12:44:08"	lokasyon="MARMARA DENIZI                                    "	lat="40.8345"	lng="28.1115"	mag="1.9" Depth="1.9" />
-	<earhquake	name="2025.05.08 12:44:59"	lokasyon="EGE DENIZI                                        "	lat="36.7220"	lng="25.6867"	mag="2.1" Depth="9.5" />
 	<earhquake	name="2025.05.08 13:10:23"	lokasyon="NAIPLI-(BALIKESIR)                                "	lat="39.6475"	lng="27.7477"	mag="2.2" Depth="8.7" />
 	<earhquake	name="2025.05.08 13:13:04"	lokasyon="KARAPINAR-DURSUNBEY (BALIKESIR)                   "	lat="39.6218"	lng="28.4685"	mag="1.8" Depth="9.8" />
 	<earhquake	name="2025.05.08 14:17:41"	lokasyon="KIZILOZ-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0305"	lng="36.6988"	mag="1.5" Depth="13.6" />
@@ -13,7 +9,7 @@
 	<earhquake	name="2025.05.08 15:46:47"	lokasyon="YUNANISTAN                                        "	lat="40.1858"	lng="23.8717"	mag="2.6" Depth="6.9" />
 	<earhquake	name="2025.05.08 16:05:22"	lokasyon="KINIK-KAS (ANTALYA)                               "	lat="36.3402"	lng="29.3410"	mag="1.9" Depth="14.0" />
 	<earhquake	name="2025.05.08 16:06:30"	lokasyon="GELEMIS-KAS (ANTALYA)                             "	lat="36.2838"	lng="29.3055"	mag="2.0" Depth="14.5" />
-	<earhquake	name="2025.05.08 16:23:22"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.7770"	lng="24.8165"	mag="2.8" Depth="5.0" />
+	<earhquake	name="2025.05.08 16:23:22"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    REVIZE01   (2025.05.08 16:23:22)"	lat="34.7950"	lng="24.8605"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.05.08 16:56:20"	lokasyon="DEREKOY-(BALIKESIR)                               "	lat="39.6453"	lng="27.7575"	mag="2.5" Depth="17.0" />
 	<earhquake	name="2025.05.08 17:06:31"	lokasyon="KIZILCAYER-CIVRIL (DENIZLI)                       "	lat="38.2133"	lng="29.6415"	mag="1.2" Depth="3.5" />
 	<earhquake	name="2025.05.08 17:20:06"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.1007"	lng="30.5877"	mag="2.7" Depth="1.1" />
