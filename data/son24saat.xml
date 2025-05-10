@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.09 22:10:21"	lokasyon="EGE DENIZI                                        "	lat="35.8135"	lng="25.5687"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2025.05.09 22:12:49"	lokasyon="CARDAK (DENIZLI)                                  "	lat="37.8302"	lng="29.7502"	mag="1.9" Depth="7.7" />
-	<earhquake	name="2025.05.09 22:15:00"	lokasyon="DEREBASI-KOPRUKOY (ERZURUM)                       "	lat="39.9017"	lng="41.8227"	mag="1.9" Depth="5.1" />
-	<earhquake	name="2025.05.09 22:17:34"	lokasyon="EGE DENIZI                                        "	lat="36.5798"	lng="25.7240"	mag="1.9" Depth="8.7" />
-	<earhquake	name="2025.05.09 22:20:31"	lokasyon="GOLLUCE-DARENDE (MALATYA)                         "	lat="38.6363"	lng="37.5217"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.05.09 22:33:13"	lokasyon="ESKIBEYLI-DIVRIGI (SIVAS)                         "	lat="39.5357"	lng="38.0580"	mag="2.6" Depth="5.0" />
-	<earhquake	name="2025.05.09 22:44:45"	lokasyon="YUKARIULUPINAR-DARENDE (MALATYA)                  "	lat="38.3813"	lng="37.5950"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.05.09 23:29:04"	lokasyon="YUNANISTAN                                        "	lat="40.3665"	lng="24.1188"	mag="1.9" Depth="4.1" />
 	<earhquake	name="2025.05.10 00:19:22"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.0965"	lng="30.5937"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.05.10 00:25:41"	lokasyon="MARMARA DENIZI                                    "	lat="40.8263"	lng="28.2942"	mag="2.2" Depth="15.9" />
@@ -46,4 +39,5 @@
 	<earhquake	name="2025.05.10 20:00:16"	lokasyon="MUGLA (MUGLA)                                     "	lat="37.2247"	lng="28.3495"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.05.10 20:19:26"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2277"	lng="29.0092"	mag="1.5" Depth="11.3" />
 	<earhquake	name="2025.05.10 21:05:48"	lokasyon="YUKARIULUPINAR-DARENDE (MALATYA)                  "	lat="38.3993"	lng="37.5325"	mag="1.9" Depth="5.3" />
+	<earhquake	name="2025.05.10 22:06:10"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2467"	lng="29.0422"	mag="1.4" Depth="5.4" />
 </eqlist>
