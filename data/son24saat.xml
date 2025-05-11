@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.10 03:26:39"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2262"	lng="29.0163"	mag="1.8" Depth="7.6" />
-	<earhquake	name="2025.05.10 03:37:13"	lokasyon="YUNANISTAN                                        "	lat="39.0285"	lng="24.1722"	mag="1.6" Depth="6.9" />
-	<earhquake	name="2025.05.10 03:41:06"	lokasyon="KARAALI-(HATAY)                                   "	lat="36.3212"	lng="36.1220"	mag="2.3" Depth="5.1" />
-	<earhquake	name="2025.05.10 03:55:34"	lokasyon="BUYUKYILDIZ-(TOKAT)                               "	lat="40.3700"	lng="36.3833"	mag="1.5" Depth="3.2" />
 	<earhquake	name="2025.05.10 04:22:19"	lokasyon="SARICALAR-SELCUKLU (KONYA)                        "	lat="38.0253"	lng="32.5977"	mag="3.6" Depth="5.0" />
 	<earhquake	name="2025.05.10 05:01:42"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1208"	lng="38.4592"	mag="2.5" Depth="7.6" />
 	<earhquake	name="2025.05.10 05:55:34"	lokasyon="GUZELKOY-ISKENDERUN (HATAY)                       "	lat="36.5892"	lng="36.2608"	mag="1.6" Depth="5.0" />
@@ -42,4 +38,8 @@
 	<earhquake	name="2025.05.11 01:10:55"	lokasyon="MARMARA DENIZI                                    "	lat="40.6315"	lng="28.4195"	mag="1.5" Depth="5.3" />
 	<earhquake	name="2025.05.11 01:29:13"	lokasyon="YAZYURDU-BEYSEHIR (KONYA)                         "	lat="37.7278"	lng="31.9223"	mag="1.4" Depth="5.9" />
 	<earhquake	name="2025.05.11 02:19:01"	lokasyon="MARMARA DENIZI                                    "	lat="40.8200"	lng="28.6315"	mag="1.4" Depth="14.9" />
+	<earhquake	name="2025.05.11 02:37:10"	lokasyon="EGE DENIZI                                        "	lat="36.5917"	lng="25.5113"	mag="2.9" Depth="14.5" />
+	<earhquake	name="2025.05.11 03:09:10"	lokasyon="ZAFER-BUCA (IZMIR)                                "	lat="38.3482"	lng="27.1830"	mag="1.7" Depth="11.5" />
+	<earhquake	name="2025.05.11 03:11:19"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6873"	lng="36.1283"	mag="1.4" Depth="7.0" />
+	<earhquake	name="2025.05.11 03:11:32"	lokasyon="YARDIBI-SAIMBEYLI (ADANA)                         "	lat="37.8550"	lng="36.1040"	mag="1.4" Depth="8.7" />
 </eqlist>
