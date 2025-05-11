@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.10 20:00:16"	lokasyon="MUGLA (MUGLA)                                     "	lat="37.2247"	lng="28.3495"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2025.05.10 20:19:26"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2277"	lng="29.0092"	mag="1.5" Depth="11.3" />
 	<earhquake	name="2025.05.10 21:05:48"	lokasyon="YUKARIULUPINAR-DARENDE (MALATYA)                  "	lat="38.3993"	lng="37.5325"	mag="1.9" Depth="5.3" />
 	<earhquake	name="2025.05.10 21:51:23"	lokasyon="DANISMENT-KURUCASILE (BARTIN)                     "	lat="41.8220"	lng="32.6923"	mag="1.8" Depth="13.4" />
 	<earhquake	name="2025.05.10 22:06:10"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2467"	lng="29.0422"	mag="1.4" Depth="5.4" />
@@ -56,4 +54,5 @@
 	<earhquake	name="2025.05.11 18:04:31"	lokasyon="IPSALA (EDIRNE)                                   "	lat="40.9437"	lng="26.4077"	mag="2.6" Depth="10.0" />
 	<earhquake	name="2025.05.11 18:26:34"	lokasyon="KEKLIKPINARI-AKCADAG (MALATYA)                    "	lat="38.4825"	lng="38.0087"	mag="1.8" Depth="16.0" />
 	<earhquake	name="2025.05.11 19:05:19"	lokasyon="EGE DENIZI                                        "	lat="36.7543"	lng="25.6440"	mag="2.6" Depth="8.8" />
+	<earhquake	name="2025.05.11 19:54:17"	lokasyon="CIGSAR-ANDIRIN (KAHRAMANMARAS)                    "	lat="37.7957"	lng="36.3355"	mag="1.7" Depth="10.8" />
 </eqlist>
