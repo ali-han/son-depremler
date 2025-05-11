@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.11 00:14:49"	lokasyon="KALEKOY-AYRANCI (KARAMAN)                         "	lat="37.4667"	lng="33.6060"	mag="1.9" Depth="5.7" />
-	<earhquake	name="2025.05.11 00:23:30"	lokasyon="YENIDAMLAR-KALE (MALATYA)                         "	lat="38.3780"	lng="38.8508"	mag="0.8" Depth="9.8" />
-	<earhquake	name="2025.05.11 00:50:28"	lokasyon="YALINKAYA-YESILYURT (MALATYA)                     "	lat="38.1645"	lng="38.1363"	mag="1.4" Depth="5.0" />
-	<earhquake	name="2025.05.11 00:52:21"	lokasyon="GELINPERTEK-YEDISU (BINGOL)                       "	lat="39.5030"	lng="40.3653"	mag="1.8" Depth="8.5" />
-	<earhquake	name="2025.05.11 01:10:55"	lokasyon="MARMARA DENIZI                                    "	lat="40.6315"	lng="28.4195"	mag="1.5" Depth="5.3" />
-	<earhquake	name="2025.05.11 01:29:13"	lokasyon="YAZYURDU-BEYSEHIR (KONYA)                         "	lat="37.7278"	lng="31.9223"	mag="1.4" Depth="5.9" />
 	<earhquake	name="2025.05.11 02:19:01"	lokasyon="MARMARA DENIZI                                    "	lat="40.8200"	lng="28.6315"	mag="1.4" Depth="14.9" />
 	<earhquake	name="2025.05.11 02:37:10"	lokasyon="EGE DENIZI                                        "	lat="36.5917"	lng="25.5113"	mag="2.9" Depth="14.5" />
 	<earhquake	name="2025.05.11 03:03:19"	lokasyon="EGE DENIZI                                        "	lat="36.4223"	lng="25.6485"	mag="2.2" Depth="8.4" />
@@ -52,4 +46,5 @@
 	<earhquake	name="2025.05.11 21:58:15"	lokasyon="CALTILI-SAVASTEPE (BALIKESIR)                     "	lat="39.4723"	lng="27.7538"	mag="2.2" Depth="9.0" />
 	<earhquake	name="2025.05.11 21:58:25"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    REVIZE01   (2025.05.11 21:58:25)"	lat="38.2727"	lng="38.1745"	mag="3.5" Depth="4.6" />
 	<earhquake	name="2025.05.11 23:26:00"	lokasyon="BAGISLAR-(BOLU)                                   "	lat="40.9065"	lng="31.7302"	mag="1.4" Depth="11.0" />
+	<earhquake	name="2025.05.12 01:09:00"	lokasyon="GEBEN-ANDIRIN (KAHRAMANMARAS)                     "	lat="37.8340"	lng="36.4408"	mag="2.1" Depth="8.1" />
 </eqlist>
