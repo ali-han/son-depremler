@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.11 19:05:19"	lokasyon="EGE DENIZI                                        "	lat="36.7543"	lng="25.6440"	mag="2.6" Depth="8.8" />
-	<earhquake	name="2025.05.11 19:54:17"	lokasyon="CIGSAR-ANDIRIN (KAHRAMANMARAS)                    "	lat="37.7957"	lng="36.3355"	mag="1.7" Depth="10.8" />
-	<earhquake	name="2025.05.11 20:15:44"	lokasyon="MARMARA DENIZI                                    "	lat="40.7908"	lng="27.8648"	mag="1.8" Depth="8.3" />
-	<earhquake	name="2025.05.11 20:20:25"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      REVIZE01   (2025.05.11 20:20:25)"	lat="38.0673"	lng="37.5935"	mag="2.4" Depth="5.4" />
-	<earhquake	name="2025.05.11 20:51:24"	lokasyon="MARMARA DENIZI                                    "	lat="40.8488"	lng="28.4250"	mag="2.1" Depth="4.2" />
 	<earhquake	name="2025.05.11 21:50:15"	lokasyon="EGE DENIZI                                        "	lat="36.3078"	lng="25.6295"	mag="2.5" Depth="10.7" />
 	<earhquake	name="2025.05.11 21:58:15"	lokasyon="CALTILI-SAVASTEPE (BALIKESIR)                     "	lat="39.4723"	lng="27.7538"	mag="2.2" Depth="9.0" />
 	<earhquake	name="2025.05.11 21:58:25"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    REVIZE01   (2025.05.11 21:58:25)"	lat="38.2727"	lng="38.1745"	mag="3.5" Depth="4.6" />
@@ -58,4 +53,5 @@
 	<earhquake	name="2025.05.12 17:00:33"	lokasyon="KULAKSIZLAR-AKHISAR (MANISA)                      "	lat="38.8075"	lng="27.8990"	mag="1.9" Depth="10.6" />
 	<earhquake	name="2025.05.12 17:17:23"	lokasyon="KALEDIBI-HANI (DIYARBAKIR)                        "	lat="38.5543"	lng="40.3908"	mag="2.4" Depth="10.1" />
 	<earhquake	name="2025.05.12 17:53:56"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2558"	lng="29.0043"	mag="2.3" Depth="5.4" />
+	<earhquake	name="2025.05.12 20:01:24"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.7998"	lng="31.4895"	mag="1.7" Depth="10.3" />
 </eqlist>
