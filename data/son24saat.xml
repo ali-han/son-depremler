@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.11 23:26:00"	lokasyon="BAGISLAR-(BOLU)                                   "	lat="40.9065"	lng="31.7302"	mag="1.4" Depth="11.0" />
 	<earhquake	name="2025.05.12 01:09:00"	lokasyon="GEBEN-ANDIRIN (KAHRAMANMARAS)                     "	lat="37.8340"	lng="36.4408"	mag="2.1" Depth="8.1" />
 	<earhquake	name="2025.05.12 01:31:24"	lokasyon="MARMARA DENIZI                                    "	lat="40.7977"	lng="28.0372"	mag="1.5" Depth="7.9" />
 	<earhquake	name="2025.05.12 01:37:13"	lokasyon="EGE DENIZI                                        "	lat="37.8487"	lng="26.7698"	mag="1.1" Depth="5.3" />
@@ -54,5 +53,9 @@
 	<earhquake	name="2025.05.12 20:03:21"	lokasyon="KIZILAGAC-KAS (ANTALYA)                           "	lat="36.3293"	lng="29.6905"	mag="2.0" Depth="4.3" />
 	<earhquake	name="2025.05.12 20:17:27"	lokasyon="AKSAAGAC-SAIMBEYLI (ADANA)                        "	lat="37.9243"	lng="36.2593"	mag="2.7" Depth="3.8" />
 	<earhquake	name="2025.05.12 20:38:53"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8200"	lng="28.2828"	mag="2.3" Depth="7.0" />
+	<earhquake	name="2025.05.12 22:03:36"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1467"	lng="37.7470"	mag="1.3" Depth="11.2" />
 	<earhquake	name="2025.05.12 22:15:23"	lokasyon="EGE DENIZI                                        "	lat="38.1440"	lng="25.7717"	mag="2.5" Depth="5.5" />
+	<earhquake	name="2025.05.12 22:22:01"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.0960"	lng="30.5942"	mag="1.7" Depth="11.1" />
+	<earhquake	name="2025.05.12 23:02:02"	lokasyon="SOGUT-DOGANSEHIR (MALATYA)                        "	lat="38.0658"	lng="37.7682"	mag="1.4" Depth="18.4" />
+	<earhquake	name="2025.05.12 23:12:49"	lokasyon="BOSIN-(HATAY)                                     "	lat="36.1757"	lng="36.3927"	mag="1.8" Depth="6.7" />
 </eqlist>
