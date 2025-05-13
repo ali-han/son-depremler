@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.12 03:47:50"	lokasyon="INCIRLI-NURDAGI (GAZIANTEP)                       "	lat="37.2402"	lng="36.9442"	mag="1.8" Depth="5.4" />
-	<earhquake	name="2025.05.12 04:11:27"	lokasyon="EMIROGLU-PAZARCIK (KAHRAMANMARAS)                 "	lat="37.3343"	lng="37.0380"	mag="1.9" Depth="5.7" />
-	<earhquake	name="2025.05.12 04:45:30"	lokasyon="BAYATBADEMLERI-KORKUTELI (ANTALYA)                "	lat="37.0528"	lng="30.4825"	mag="1.6" Depth="79.4" />
-	<earhquake	name="2025.05.12 04:47:32"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2392"	lng="38.5910"	mag="2.5" Depth="2.8" />
 	<earhquake	name="2025.05.12 05:17:45"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2198"	lng="22.6615"	mag="4.3" Depth="13.8" />
 	<earhquake	name="2025.05.12 05:18:17"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2190"	lng="38.5530"	mag="1.5" Depth="7.3" />
 	<earhquake	name="2025.05.12 05:23:12"	lokasyon="MARMARA DENIZI                                    "	lat="40.8760"	lng="28.1198"	mag="1.5" Depth="10.0" />
@@ -62,9 +58,17 @@
 	<earhquake	name="2025.05.13 01:18:27"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1648"	lng="38.4758"	mag="1.6" Depth="20.3" />
 	<earhquake	name="2025.05.13 01:20:32"	lokasyon="BALIKESIR (BALIKESIR)                             "	lat="39.6648"	lng="27.8685"	mag="1.8" Depth="5.4" />
 	<earhquake	name="2025.05.13 01:29:52"	lokasyon="SESLITAS-DOGUBAYAZIT (AGRI)                       "	lat="39.5882"	lng="43.8520"	mag="1.6" Depth="4.2" />
+	<earhquake	name="2025.05.13 01:33:12"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0235"	lng="37.6108"	mag="1.3" Depth="7.2" />
 	<earhquake	name="2025.05.13 01:34:44"	lokasyon="GUNPINAR-DARENDE (MALATYA)                        "	lat="38.5495"	lng="37.4303"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2025.05.13 01:36:44"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2420"	lng="29.0117"	mag="1.2" Depth="8.0" />
+	<earhquake	name="2025.05.13 01:39:43"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0097"	lng="37.6317"	mag="1.0" Depth="14.8" />
 	<earhquake	name="2025.05.13 02:06:23"	lokasyon="ARIKONAK-SINCIK (ADIYAMAN)                        "	lat="38.1268"	lng="38.5742"	mag="1.0" Depth="11.4" />
 	<earhquake	name="2025.05.13 02:09:25"	lokasyon="AKHISAR (MANISA)                                  "	lat="38.9268"	lng="27.8260"	mag="2.7" Depth="8.1" />
 	<earhquake	name="2025.05.13 02:30:10"	lokasyon="EGE DENIZI                                        "	lat="36.6548"	lng="25.6607"	mag="4.8" Depth="16.9" />
+	<earhquake	name="2025.05.13 02:44:19"	lokasyon="PINARBASI-CELIKHAN (ADIYAMAN)                     "	lat="38.0470"	lng="38.2020"	mag="1.5" Depth="12.3" />
+	<earhquake	name="2025.05.13 02:44:35"	lokasyon="EGE DENIZI                                        "	lat="37.3887"	lng="26.9555"	mag="1.5" Depth="10.4" />
+	<earhquake	name="2025.05.13 02:47:50"	lokasyon="EGE DENIZI                                        "	lat="35.7715"	lng="25.4908"	mag="2.5" Depth="5.0" />
+	<earhquake	name="2025.05.13 03:07:23"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1323"	lng="25.1988"	mag="1.8" Depth="5.7" />
+	<earhquake	name="2025.05.13 04:30:06"	lokasyon="MARMARA DENIZI                                    "	lat="40.8368"	lng="28.3100"	mag="1.7" Depth="4.9" />
+	<earhquake	name="2025.05.13 04:39:33"	lokasyon="ASLANBEYCIFTLIGI-GOKSUN (KAHRAMANMARAS)           "	lat="37.9945"	lng="36.5477"	mag="2.1" Depth="5.0" />
 </eqlist>
