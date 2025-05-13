@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.12 22:03:36"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1467"	lng="37.7470"	mag="1.3" Depth="11.2" />
-	<earhquake	name="2025.05.12 22:15:23"	lokasyon="EGE DENIZI                                        "	lat="38.1440"	lng="25.7717"	mag="2.5" Depth="5.5" />
-	<earhquake	name="2025.05.12 22:22:01"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.0960"	lng="30.5942"	mag="1.7" Depth="11.1" />
 	<earhquake	name="2025.05.12 23:02:02"	lokasyon="SOGUT-DOGANSEHIR (MALATYA)                        "	lat="38.0658"	lng="37.7682"	mag="1.4" Depth="18.4" />
 	<earhquake	name="2025.05.12 23:12:49"	lokasyon="BOSIN-(HATAY)                                     "	lat="36.1757"	lng="36.3927"	mag="1.8" Depth="6.7" />
 	<earhquake	name="2025.05.12 23:42:31"	lokasyon="EGE DENIZI                                        "	lat="36.5950"	lng="25.6700"	mag="2.5" Depth="16.9" />
@@ -94,7 +91,10 @@
 	<earhquake	name="2025.05.13 18:56:59"	lokasyon="PURSAKLAR (ANKARA)                                "	lat="40.0953"	lng="32.8215"	mag="1.8" Depth="13.1" />
 	<earhquake	name="2025.05.13 19:29:09"	lokasyon="DEGIRMENDERE-KAGIZMAN (KARS)                      "	lat="40.0437"	lng="42.8148"	mag="1.8" Depth="2.6" />
 	<earhquake	name="2025.05.13 19:39:47"	lokasyon="SURIYE                                            REVIZE01   (2025.05.13 19:39:47)"	lat="36.1742"	lng="36.8345"	mag="1.7" Depth="10.4" />
+	<earhquake	name="2025.05.13 19:41:28"	lokasyon="DEGIRMENDERE-(AFYONKARAHISAR)                     REVIZE01   (2025.05.13 19:41:28)"	lat="38.6663"	lng="30.8295"	mag="1.9" Depth="6.2" />
+	<earhquake	name="2025.05.13 19:42:33"	lokasyon="SULUMENLI-(AFYONKARAHISAR)                        "	lat="38.7330"	lng="30.7627"	mag="1.4" Depth="9.9" />
 	<earhquake	name="2025.05.13 20:46:30"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8362"	lng="28.2410"	mag="4.0" Depth="4.4" />
 	<earhquake	name="2025.05.13 20:50:47"	lokasyon="EGE DENIZI                                        "	lat="39.6798"	lng="25.7582"	mag="3.5" Depth="5.5" />
 	<earhquake	name="2025.05.13 20:53:31"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8567"	lng="28.2547"	mag="2.3" Depth="8.7" />
+	<earhquake	name="2025.05.13 21:40:54"	lokasyon="MESELI-GERMENCIK (AYDIN)                          REVIZE01   (2025.05.13 21:40:54)"	lat="37.9510"	lng="27.6790"	mag="1.6" Depth="5.0" />
 </eqlist>
