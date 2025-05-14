@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.14 00:08:24"	lokasyon="YUKARIULUPINAR-DARENDE (MALATYA)                  "	lat="38.3992"	lng="37.5378"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.05.14 00:16:18"	lokasyon="TEKIR (KAHRAMANMARAS)                             "	lat="37.9345"	lng="36.6400"	mag="1.9" Depth="4.4" />
-	<earhquake	name="2025.05.14 00:29:07"	lokasyon="KIRIKTAS-REFAHIYE (ERZINCAN)                      "	lat="39.8588"	lng="38.6078"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2025.05.14 00:52:18"	lokasyon="AKCAKOY (BALIKESIR)                               "	lat="39.4640"	lng="27.9440"	mag="1.7" Depth="9.0" />
 	<earhquake	name="2025.05.14 01:03:48"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2612"	lng="28.9798"	mag="1.6" Depth="4.6" />
 	<earhquake	name="2025.05.14 01:15:36"	lokasyon="EGE DENIZI                                        "	lat="37.8965"	lng="26.7915"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.05.14 01:51:14"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2407"	lng="26.9855"	mag="6.0" Depth="80.2" />
@@ -79,4 +75,5 @@
 	<earhquake	name="2025.05.14 23:18:57"	lokasyon="BALIBEY-(ELAZIG)                                  "	lat="38.7877"	lng="38.9285"	mag="1.7" Depth="9.5" />
 	<earhquake	name="2025.05.14 23:32:23"	lokasyon="ELBASI-SOLHAN (BINGOL)                            "	lat="39.0308"	lng="41.0225"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.05.14 23:32:49"	lokasyon="GOYNUK-KARLIOVA (BINGOL)                          "	lat="39.1083"	lng="40.9302"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2025.05.15 00:22:33"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0252"	lng="37.5983"	mag="1.3" Depth="6.5" />
 </eqlist>
