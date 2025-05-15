@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.14 08:59:20"	lokasyon="EGE DENIZI                                        "	lat="35.9603"	lng="25.3107"	mag="2.7" Depth="5.0" />
 	<earhquake	name="2025.05.14 09:00:36"	lokasyon="KUCUKLU-DOGANSEHIR (MALATYA)                      "	lat="38.0332"	lng="37.7047"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2025.05.14 09:09:13"	lokasyon="EGE DENIZI                                        "	lat="36.5838"	lng="25.6415"	mag="2.3" Depth="19.8" />
 	<earhquake	name="2025.05.14 09:21:48"	lokasyon="EGE DENIZI                                        "	lat="36.7757"	lng="25.4565"	mag="1.9" Depth="31.5" />
@@ -66,4 +65,7 @@
 	<earhquake	name="2025.05.15 05:57:03"	lokasyon="MARMARA DENIZI                                    "	lat="40.8640"	lng="28.4305"	mag="1.4" Depth="4.3" />
 	<earhquake	name="2025.05.15 06:28:01"	lokasyon="KAPIDERE-DOGANSEHIR (MALATYA)                     "	lat="37.9700"	lng="37.6610"	mag="1.4" Depth="9.7" />
 	<earhquake	name="2025.05.15 06:54:18"	lokasyon="ASAGISAKRAN-ALIAGA (IZMIR)                        "	lat="38.9328"	lng="27.1062"	mag="1.3" Depth="7.9" />
+	<earhquake	name="2025.05.15 07:19:48"	lokasyon="KIBRIS RUM KESIMI                                 "	lat="35.0782"	lng="32.7033"	mag="2.1" Depth="78.1" />
+	<earhquake	name="2025.05.15 07:46:35"	lokasyon="BALIKESIR (BALIKESIR)                             "	lat="39.6595"	lng="27.8748"	mag="1.2" Depth="10.6" />
+	<earhquake	name="2025.05.15 08:22:08"	lokasyon="CEVRECIK-RESADIYE (TOKAT)                         "	lat="40.4485"	lng="37.2152"	mag="2.4" Depth="3.5" />
 </eqlist>
