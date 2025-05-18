@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.17 12:00:52"	lokasyon="ORTAKISLA-SUNGURLU (CORUM)                        "	lat="39.9675"	lng="34.2593"	mag="2.3" Depth="2.5" />
-	<earhquake	name="2025.05.17 12:29:09"	lokasyon="YANISLI-GULNAR (MERSIN)                           "	lat="36.1113"	lng="33.5277"	mag="1.5" Depth="0.0" />
-	<earhquake	name="2025.05.17 12:37:41"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0472"	lng="33.2593"	mag="2.5" Depth="7.3" />
-	<earhquake	name="2025.05.17 12:46:59"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0720"	lng="33.2413"	mag="1.8" Depth="9.2" />
-	<earhquake	name="2025.05.17 12:59:21"	lokasyon="KADIKOY-BIGADIC (BALIKESIR)                       "	lat="39.4548"	lng="28.0843"	mag="1.8" Depth="12.2" />
 	<earhquake	name="2025.05.17 13:00:32"	lokasyon="BAHATLAR-EMET (KUTAHYA)                           "	lat="39.3050"	lng="29.3355"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.05.17 13:01:32"	lokasyon="YUMURTALIK-SURUC (SANLIURFA)                      "	lat="36.8460"	lng="38.2678"	mag="1.9" Depth="5.6" />
 	<earhquake	name="2025.05.17 13:09:54"	lokasyon="GURCESME-BIGA (CANAKKALE)                         "	lat="40.2297"	lng="27.0347"	mag="1.9" Depth="11.8" />
@@ -75,5 +70,6 @@
 	<earhquake	name="2025.05.18 10:21:02"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2388"	lng="29.0025"	mag="1.7" Depth="4.6" />
 	<earhquake	name="2025.05.18 10:29:51"	lokasyon="AKDENIZ                                           "	lat="36.0352"	lng="28.1140"	mag="4.2" Depth="5.0" />
 	<earhquake	name="2025.05.18 11:28:37"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0892"	lng="33.2995"	mag="1.8" Depth="5.3" />
-	<earhquake	name="2025.05.18 11:52:00"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3633"	lng="37.4255"	mag="1.7" Depth="5.7" />
+	<earhquake	name="2025.05.18 11:52:01"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3883"	lng="37.4155"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2025.05.18 11:52:35"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9900"	lng="27.9673"	mag="1.8" Depth="7.8" />
 </eqlist>
