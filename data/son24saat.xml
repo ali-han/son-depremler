@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.17 05:28:08"	lokasyon="MARMARA DENIZI                                    "	lat="40.8372"	lng="28.2947"	mag="2.5" Depth="7.1" />
-	<earhquake	name="2025.05.17 05:31:16"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0607"	lng="33.2652"	mag="1.8" Depth="7.6" />
-	<earhquake	name="2025.05.17 05:53:27"	lokasyon="MARMARA DENIZI                                    "	lat="40.8473"	lng="28.3825"	mag="1.9" Depth="11.7" />
 	<earhquake	name="2025.05.17 06:24:21"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2480"	lng="29.0108"	mag="1.7" Depth="7.3" />
 	<earhquake	name="2025.05.17 06:53:24"	lokasyon="EGE DENIZI                                        "	lat="35.9888"	lng="27.2323"	mag="2.3" Depth="9.4" />
 	<earhquake	name="2025.05.17 06:59:52"	lokasyon="GURSU-CAMELI (DENIZLI)                            "	lat="36.9090"	lng="29.3500"	mag="3.1" Depth="6.1" />
@@ -57,4 +54,9 @@
 	<earhquake	name="2025.05.18 03:01:38"	lokasyon="GURSU-CAMELI (DENIZLI)                            "	lat="36.9173"	lng="29.3358"	mag="1.2" Depth="11.3" />
 	<earhquake	name="2025.05.18 03:34:07"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.7537"	lng="25.0850"	mag="3.2" Depth="17.4" />
 	<earhquake	name="2025.05.18 03:50:34"	lokasyon="AKDENIZ                                           "	lat="35.7687"	lng="30.8148"	mag="2.1" Depth="10.1" />
+	<earhquake	name="2025.05.18 04:14:29"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="29.0008"	mag="1.7" Depth="10.7" />
+	<earhquake	name="2025.05.18 04:53:57"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9697"	lng="27.9722"	mag="3.7" Depth="5.0" />
+	<earhquake	name="2025.05.18 05:08:10"	lokasyon="GUZELYALI-UNYE (ORDU)                             "	lat="41.0747"	lng="37.3700"	mag="1.5" Depth="5.4" />
+	<earhquake	name="2025.05.18 05:28:31"	lokasyon="BASMEZRA-PUTURGE (MALATYA)                        "	lat="38.1380"	lng="38.6785"	mag="3.1" Depth="2.6" />
+	<earhquake	name="2025.05.18 05:44:11"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0632"	lng="33.2568"	mag="1.8" Depth="5.4" />
 </eqlist>
