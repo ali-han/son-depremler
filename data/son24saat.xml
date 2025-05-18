@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.17 10:20:16"	lokasyon="KOYUNOBA-SIMAV (KUTAHYA)                          "	lat="39.2158"	lng="28.9207"	mag="1.7" Depth="13.8" />
-	<earhquake	name="2025.05.17 10:27:44"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6592"	lng="26.5778"	mag="2.3" Depth="10.6" />
 	<earhquake	name="2025.05.17 11:37:01"	lokasyon="KOLDERE-DOGANYOL (MALATYA)                        "	lat="38.3163"	lng="38.9693"	mag="2.1" Depth="8.0" />
 	<earhquake	name="2025.05.17 11:49:52"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2495"	lng="28.9880"	mag="1.3" Depth="10.8" />
 	<earhquake	name="2025.05.17 12:00:52"	lokasyon="ORTAKISLA-SUNGURLU (CORUM)                        "	lat="39.9675"	lng="34.2593"	mag="2.3" Depth="2.5" />
@@ -72,4 +70,7 @@
 	<earhquake	name="2025.05.18 07:51:39"	lokasyon="GENCALI-SENIRKENT (ISPARTA)                       "	lat="38.2218"	lng="30.7745"	mag="2.1" Depth="6.4" />
 	<earhquake	name="2025.05.18 08:26:13"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2375"	lng="28.9182"	mag="1.0" Depth="11.6" />
 	<earhquake	name="2025.05.18 08:48:30"	lokasyon="YESILKOY-TEFENNI (BURDUR)                         "	lat="37.1743"	lng="29.8080"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2025.05.18 08:59:04"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0747"	lng="33.2807"	mag="1.5" Depth="2.5" />
+	<earhquake	name="2025.05.18 09:10:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2477"	lng="29.0158"	mag="0.8" Depth="5.4" />
+	<earhquake	name="2025.05.18 09:24:48"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2498"	lng="29.0257"	mag="1.6" Depth="7.8" />
 </eqlist>
