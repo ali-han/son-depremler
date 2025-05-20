@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.19 03:16:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2322"	lng="29.0003"	mag="1.5" Depth="15.1" />
-	<earhquake	name="2025.05.19 03:23:30"	lokasyon="YUNANISTAN                                        "	lat="38.7792"	lng="23.5510"	mag="4.6" Depth="11.0" />
-	<earhquake	name="2025.05.19 03:43:43"	lokasyon="YUNANISTAN                                        "	lat="38.7188"	lng="23.5175"	mag="3.6" Depth="26.4" />
-	<earhquake	name="2025.05.19 03:52:49"	lokasyon="MARMARA DENIZI                                    "	lat="40.8548"	lng="28.3825"	mag="2.0" Depth="12.2" />
 	<earhquake	name="2025.05.19 04:11:59"	lokasyon="SEMERCILER-(BOLU)                                 "	lat="40.8480"	lng="31.8252"	mag="1.4" Depth="7.4" />
 	<earhquake	name="2025.05.19 04:21:38"	lokasyon="SAKARCIFTLIGI-HACILAR (KAYSERI)                   "	lat="38.6028"	lng="35.4102"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.05.19 04:27:13"	lokasyon="EGE DENIZI                                        "	lat="35.7953"	lng="25.4345"	mag="2.5" Depth="5.9" />
@@ -81,4 +77,9 @@
 	<earhquake	name="2025.05.20 00:51:47"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0823"	lng="33.2515"	mag="1.5" Depth="9.2" />
 	<earhquake	name="2025.05.20 01:08:10"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2402"	lng="29.0138"	mag="2.4" Depth="7.9" />
 	<earhquake	name="2025.05.20 01:57:43"	lokasyon="AKDENIZ                                           "	lat="34.6617"	lng="33.9972"	mag="2.6" Depth="29.9" />
+	<earhquake	name="2025.05.20 02:04:33"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.7095"	lng="26.6642"	mag="2.0" Depth="3.9" />
+	<earhquake	name="2025.05.20 02:21:06"	lokasyon="VAKIFGECITVEREN-(BOLU)                            "	lat="40.7402"	lng="31.6905"	mag="2.2" Depth="15.6" />
+	<earhquake	name="2025.05.20 02:36:15"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0572"	lng="33.2565"	mag="1.6" Depth="5.2" />
+	<earhquake	name="2025.05.20 02:39:35"	lokasyon="YENIAKCAKAVAK-(BOLU)                              "	lat="40.7448"	lng="31.6858"	mag="2.7" Depth="12.7" />
+	<earhquake	name="2025.05.20 02:56:44"	lokasyon="KONAKPINAR-GURUN (SIVAS)                          "	lat="38.8942"	lng="37.3115"	mag="1.2" Depth="3.1" />
 </eqlist>
