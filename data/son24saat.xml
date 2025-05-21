@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.20 13:07:48"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0762"	lng="33.2587"	mag="2.0" Depth="5.5" />
-	<earhquake	name="2025.05.20 13:09:30"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2238"	lng="28.9605"	mag="1.1" Depth="18.4" />
-	<earhquake	name="2025.05.20 13:14:13"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2362"	lng="28.9705"	mag="1.4" Depth="19.4" />
-	<earhquake	name="2025.05.20 13:51:07"	lokasyon="KARAKOY-AKHISAR (MANISA)                          "	lat="39.0240"	lng="27.9062"	mag="2.1" Depth="8.2" />
 	<earhquake	name="2025.05.20 14:26:00"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="36.1268"	lng="28.0575"	mag="3.3" Depth="9.0" />
 	<earhquake	name="2025.05.20 14:47:53"	lokasyon="ELMALI-YEDISU (BINGOL)                            "	lat="39.3573"	lng="40.6218"	mag="2.1" Depth="3.9" />
 	<earhquake	name="2025.05.20 14:58:44"	lokasyon="PINAR-KOYCEGIZ (MUGLA)                            "	lat="36.9313"	lng="28.8007"	mag="1.8" Depth="6.0" />
@@ -62,4 +58,6 @@
 	<earhquake	name="2025.05.21 11:22:18"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9757"	lng="27.9562"	mag="1.4" Depth="19.6" />
 	<earhquake	name="2025.05.21 12:22:09"	lokasyon="MECIDIYE-EZINE (CANAKKALE)                        "	lat="39.8192"	lng="26.2493"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.05.21 12:23:11"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.4893"	lng="28.1562"	mag="1.9" Depth="0.0" />
+	<earhquake	name="2025.05.21 12:28:41"	lokasyon="KONAKALMAZ-(ELAZIG)                               "	lat="38.6303"	lng="39.6398"	mag="1.7" Depth="5.6" />
+	<earhquake	name="2025.05.21 12:59:24"	lokasyon="TUNCBILEK-TAVSANLI (KUTAHYA)                      "	lat="39.6623"	lng="29.4622"	mag="1.4" Depth="0.0" />
 </eqlist>
