@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.21 21:06:51"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0967"	lng="33.2917"	mag="1.3" Depth="8.7" />
-	<earhquake	name="2025.05.21 21:22:32"	lokasyon="BAGKOY-AKCADAG (MALATYA)                          "	lat="38.4612"	lng="37.9157"	mag="1.6" Depth="13.9" />
 	<earhquake	name="2025.05.21 22:12:22"	lokasyon="MOLLAKASIM-(VAN)                                  "	lat="38.6828"	lng="43.1915"	mag="2.7" Depth="5.0" />
 	<earhquake	name="2025.05.21 22:13:06"	lokasyon="MOLLAKASIM-(VAN)                                  "	lat="38.6747"	lng="43.1855"	mag="2.9" Depth="2.2" />
 	<earhquake	name="2025.05.21 22:54:12"	lokasyon="EGE DENIZI                                        "	lat="36.6815"	lng="26.3320"	mag="2.0" Depth="6.9" />
@@ -75,4 +73,6 @@
 	<earhquake	name="2025.05.22 19:21:21"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6378"	lng="35.9365"	mag="2.2" Depth="11.4" />
 	<earhquake	name="2025.05.22 19:36:17"	lokasyon="ORTAKDARACIK-IMRANLI (SIVAS)                      "	lat="39.6365"	lng="38.2225"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.05.22 20:01:30"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.0913"	lng="30.5980"	mag="1.9" Depth="2.4" />
+	<earhquake	name="2025.05.22 20:05:23"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.8298"	lng="26.8113"	mag="1.9" Depth="13.0" />
+	<earhquake	name="2025.05.22 20:54:02"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1348"	lng="38.3667"	mag="2.9" Depth="5.4" />
 </eqlist>
