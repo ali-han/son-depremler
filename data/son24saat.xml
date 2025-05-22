@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.21 20:11:13"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0617"	lng="33.2502"	mag="1.4" Depth="4.0" />
-	<earhquake	name="2025.05.21 20:19:27"	lokasyon="MARMARA DENIZI                                    "	lat="40.8658"	lng="28.4288"	mag="1.3" Depth="5.4" />
-	<earhquake	name="2025.05.21 20:23:08"	lokasyon="ASAGIYAPICI-ERDEK (BALIKESIR)                     "	lat="40.3750"	lng="27.9197"	mag="1.4" Depth="15.4" />
-	<earhquake	name="2025.05.21 20:27:59"	lokasyon="EGE DENIZI                                        "	lat="38.0925"	lng="26.0610"	mag="1.6" Depth="5.1" />
 	<earhquake	name="2025.05.21 21:06:51"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0967"	lng="33.2917"	mag="1.3" Depth="8.7" />
 	<earhquake	name="2025.05.21 21:22:32"	lokasyon="BAGKOY-AKCADAG (MALATYA)                          "	lat="38.4612"	lng="37.9157"	mag="1.6" Depth="13.9" />
 	<earhquake	name="2025.05.21 22:12:22"	lokasyon="MOLLAKASIM-(VAN)                                  "	lat="38.6828"	lng="43.1915"	mag="2.7" Depth="5.0" />
@@ -72,6 +68,7 @@
 	<earhquake	name="2025.05.22 16:26:12"	lokasyon="MARMARA DENIZI                                    "	lat="40.8392"	lng="28.7957"	mag="1.4" Depth="17.1" />
 	<earhquake	name="2025.05.22 18:24:33"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5020"	lng="28.1538"	mag="1.5" Depth="7.9" />
 	<earhquake	name="2025.05.22 18:27:26"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5053"	lng="28.1700"	mag="1.7" Depth="15.7" />
+	<earhquake	name="2025.05.22 18:41:51"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.8440"	lng="26.7853"	mag="2.6" Depth="12.1" />
 	<earhquake	name="2025.05.22 19:19:25"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6557"	lng="35.9508"	mag="2.4" Depth="2.6" />
 	<earhquake	name="2025.05.22 19:20:46"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6658"	lng="35.9595"	mag="2.4" Depth="1.9" />
 	<earhquake	name="2025.05.22 19:21:21"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6378"	lng="35.9365"	mag="2.2" Depth="11.4" />
