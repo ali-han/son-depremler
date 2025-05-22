@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.21 17:32:03"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2463"	lng="28.9627"	mag="2.1" Depth="9.6" />
-	<earhquake	name="2025.05.21 17:42:05"	lokasyon="EGE DENIZI                                        "	lat="38.8690"	lng="25.8338"	mag="1.7" Depth="9.5" />
-	<earhquake	name="2025.05.21 18:09:21"	lokasyon="BEYNAM-BALA (ANKARA)                              "	lat="39.6223"	lng="32.9347"	mag="1.4" Depth="14.1" />
-	<earhquake	name="2025.05.21 18:30:58"	lokasyon="YUVA-GURUN (SIVAS)                                "	lat="38.7983"	lng="37.3982"	mag="1.9" Depth="8.3" />
-	<earhquake	name="2025.05.21 18:53:19"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2570"	lng="29.0193"	mag="1.5" Depth="1.7" />
-	<earhquake	name="2025.05.21 19:32:38"	lokasyon="MEYDAN-SAMANDAG (HATAY)                           "	lat="36.0290"	lng="35.8753"	mag="2.5" Depth="9.6" />
-	<earhquake	name="2025.05.21 19:38:31"	lokasyon="KALINPELIT-BAYAT (CORUM)                          "	lat="40.7293"	lng="34.0805"	mag="1.7" Depth="8.6" />
-	<earhquake	name="2025.05.21 19:48:28"	lokasyon="KARAARSLAN-(AFYONKARAHISAR)                       "	lat="38.7220"	lng="30.6292"	mag="2.5" Depth="10.7" />
 	<earhquake	name="2025.05.21 20:11:13"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0617"	lng="33.2502"	mag="1.4" Depth="4.0" />
 	<earhquake	name="2025.05.21 20:19:27"	lokasyon="MARMARA DENIZI                                    "	lat="40.8658"	lng="28.4288"	mag="1.3" Depth="5.4" />
 	<earhquake	name="2025.05.21 20:23:08"	lokasyon="ASAGIYAPICI-ERDEK (BALIKESIR)                     "	lat="40.3750"	lng="27.9197"	mag="1.4" Depth="15.4" />
@@ -78,4 +70,7 @@
 	<earhquake	name="2025.05.22 16:01:48"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8397"	lng="28.7803"	mag="1.5" Depth="11.9" />
 	<earhquake	name="2025.05.22 16:21:51"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8395"	lng="28.7842"	mag="1.4" Depth="16.5" />
 	<earhquake	name="2025.05.22 16:26:12"	lokasyon="MARMARA DENIZI                                    "	lat="40.8392"	lng="28.7957"	mag="1.4" Depth="17.1" />
+	<earhquake	name="2025.05.22 18:24:33"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5020"	lng="28.1538"	mag="1.5" Depth="7.9" />
+	<earhquake	name="2025.05.22 18:27:26"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5053"	lng="28.1700"	mag="1.7" Depth="15.7" />
+	<earhquake	name="2025.05.22 19:20:46"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6658"	lng="35.9595"	mag="2.4" Depth="1.9" />
 </eqlist>
