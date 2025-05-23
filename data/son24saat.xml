@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.22 05:02:31"	lokasyon="NAIMLER-NURDAGI (GAZIANTEP)                       "	lat="37.2125"	lng="36.9248"	mag="1.7" Depth="5.1" />
-	<earhquake	name="2025.05.22 05:09:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2418"	lng="28.9728"	mag="1.6" Depth="12.4" />
-	<earhquake	name="2025.05.22 05:57:11"	lokasyon="TASMIS-PUTURGE (MALATYA)                          "	lat="38.1885"	lng="38.8375"	mag="1.6" Depth="13.2" />
-	<earhquake	name="2025.05.22 05:57:28"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2493"	lng="28.9612"	mag="2.1" Depth="7.1" />
-	<earhquake	name="2025.05.22 06:19:35"	lokasyon="EGE DENIZI                                        REVIZE01   (2025.05.22 06:19:36)"	lat="35.7255"	lng="25.8838"	mag="6.1" Depth="73.3" />
-	<earhquake	name="2025.05.22 06:34:24"	lokasyon="EGE DENIZI                                        "	lat="35.6925"	lng="25.7942"	mag="2.9" Depth="63.9" />
-	<earhquake	name="2025.05.22 06:38:01"	lokasyon="CETMI-GUMUSHACIKOY (AMASYA)                       "	lat="40.8292"	lng="35.2090"	mag="3.1" Depth="4.7" />
-	<earhquake	name="2025.05.22 06:38:36"	lokasyon="EGE DENIZI                                        "	lat="35.7097"	lng="25.8862"	mag="2.4" Depth="69.3" />
-	<earhquake	name="2025.05.22 06:59:51"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2450"	lng="28.9495"	mag="1.8" Depth="11.7" />
 	<earhquake	name="2025.05.22 07:19:27"	lokasyon="EGE DENIZI                                        "	lat="35.6917"	lng="25.8593"	mag="3.4" Depth="73.8" />
 	<earhquake	name="2025.05.22 07:19:39"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0928"	lng="33.3027"	mag="1.4" Depth="5.4" />
 	<earhquake	name="2025.05.22 07:27:48"	lokasyon="EGE DENIZI                                        "	lat="35.7328"	lng="25.9122"	mag="3.0" Depth="66.8" />
@@ -79,4 +70,9 @@
 	<earhquake	name="2025.05.23 03:06:12"	lokasyon="EGE DENIZI                                        "	lat="37.3020"	lng="26.9870"	mag="1.7" Depth="4.4" />
 	<earhquake	name="2025.05.23 03:18:20"	lokasyon="AKDENIZ                                           "	lat="36.0122"	lng="29.0338"	mag="2.3" Depth="9.2" />
 	<earhquake	name="2025.05.23 03:50:10"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2798"	lng="38.7440"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2025.05.23 05:03:35"	lokasyon="AYVACIK-MENEMEN (IZMIR)                           "	lat="38.6207"	lng="27.1750"	mag="1.7" Depth="12.0" />
+	<earhquake	name="2025.05.23 05:07:40"	lokasyon="AYVACIK-MENEMEN (IZMIR)                           "	lat="38.5990"	lng="27.1827"	mag="1.8" Depth="15.7" />
+	<earhquake	name="2025.05.23 05:21:08"	lokasyon="KAZANDERE-GOKSUN (KAHRAMANMARAS)                  "	lat="37.9752"	lng="36.2882"	mag="1.8" Depth="1.5" />
+	<earhquake	name="2025.05.23 05:55:45"	lokasyon="KANLIKAVAK-GOKSUN (KAHRAMANMARAS)                 "	lat="38.0972"	lng="36.6363"	mag="1.7" Depth="8.3" />
+	<earhquake	name="2025.05.23 06:16:28"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.8607"	lng="26.4312"	mag="2.0" Depth="12.3" />
 </eqlist>
