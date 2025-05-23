@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.22 15:55:33"	lokasyon="NURIKOY-SILIFKE (MERSIN)                          "	lat="36.4312"	lng="33.5645"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.05.22 16:01:48"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8397"	lng="28.7803"	mag="1.5" Depth="11.9" />
 	<earhquake	name="2025.05.22 16:21:51"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8395"	lng="28.7842"	mag="1.4" Depth="16.5" />
 	<earhquake	name="2025.05.22 16:26:12"	lokasyon="MARMARA DENIZI                                    "	lat="40.8392"	lng="28.7957"	mag="1.4" Depth="17.1" />
@@ -71,5 +70,9 @@
 	<earhquake	name="2025.05.23 12:25:12"	lokasyon="AKUSAGI-KALE (MALATYA)                            "	lat="38.3590"	lng="38.8262"	mag="1.5" Depth="12.6" />
 	<earhquake	name="2025.05.23 12:42:36"	lokasyon="EGE DENIZI                                        "	lat="36.6958"	lng="25.6597"	mag="1.8" Depth="4.4" />
 	<earhquake	name="2025.05.23 13:48:26"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1905"	lng="28.9703"	mag="1.8" Depth="5.0" />
+	<earhquake	name="2025.05.23 14:25:27"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.6337"	lng="25.7410"	mag="2.0" Depth="24.0" />
 	<earhquake	name="2025.05.23 14:28:42"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8342"	lng="28.2533"	mag="2.4" Depth="15.3" />
+	<earhquake	name="2025.05.23 15:00:53"	lokasyon="KARAYAHSILER-CIVRIL (DENIZLI)                     REVIZE01   (2025.05.23 15:00:53)"	lat="38.2065"	lng="29.7132"	mag="1.8" Depth="3.0" />
+	<earhquake	name="2025.05.23 15:11:34"	lokasyon="PINARKOY-MILAS (MUGLA)                            "	lat="37.0772"	lng="27.9573"	mag="1.7" Depth="4.9" />
+	<earhquake	name="2025.05.23 15:15:15"	lokasyon="MOLLAKASIM-(VAN)                                  "	lat="38.6415"	lng="43.1532"	mag="2.8" Depth="5.1" />
 </eqlist>
