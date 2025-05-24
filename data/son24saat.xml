@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.23 14:25:27"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.6337"	lng="25.7410"	mag="2.0" Depth="24.0" />
-	<earhquake	name="2025.05.23 14:28:42"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8342"	lng="28.2533"	mag="2.4" Depth="15.3" />
 	<earhquake	name="2025.05.23 15:00:53"	lokasyon="KARAYAHSILER-CIVRIL (DENIZLI)                     REVIZE01   (2025.05.23 15:00:53)"	lat="38.2065"	lng="29.7132"	mag="1.8" Depth="3.0" />
 	<earhquake	name="2025.05.23 15:11:34"	lokasyon="PINARKOY-MILAS (MUGLA)                            "	lat="37.0772"	lng="27.9573"	mag="1.7" Depth="4.9" />
 	<earhquake	name="2025.05.23 15:15:15"	lokasyon="MOLLAKASIM-(VAN)                                  "	lat="38.6415"	lng="43.1532"	mag="2.8" Depth="5.1" />
@@ -62,5 +60,7 @@
 	<earhquake	name="2025.05.24 11:06:19"	lokasyon="KARAAGAC-(VAN)                                    "	lat="38.8240"	lng="43.4757"	mag="2.1" Depth="22.6" />
 	<earhquake	name="2025.05.24 11:13:51"	lokasyon="MARMARA DENIZI                                    "	lat="40.6987"	lng="27.5445"	mag="1.5" Depth="5.3" />
 	<earhquake	name="2025.05.24 11:43:31"	lokasyon="SATIRHUYUK-NURDAGI (GAZIANTEP)                    "	lat="37.1950"	lng="36.9738"	mag="1.8" Depth="4.8" />
+	<earhquake	name="2025.05.24 13:31:28"	lokasyon="TASLICA-MARMARIS (MUGLA)                          "	lat="36.5880"	lng="28.1347"	mag="2.7" Depth="5.0" />
 	<earhquake	name="2025.05.24 13:51:59"	lokasyon="FOCA (IZMIR)                                      "	lat="38.6243"	lng="26.7258"	mag="3.6" Depth="15.8" />
+	<earhquake	name="2025.05.24 14:08:26"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6150"	lng="26.7128"	mag="2.7" Depth="17.9" />
 </eqlist>
