@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.23 21:26:36"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2687"	lng="28.9542"	mag="3.6" Depth="5.4" />
-	<earhquake	name="2025.05.23 21:41:44"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.5728"	lng="26.2005"	mag="3.0" Depth="15.2" />
-	<earhquake	name="2025.05.23 21:48:37"	lokasyon="EGE DENIZI                                        "	lat="35.6920"	lng="25.8232"	mag="2.5" Depth="28.2" />
-	<earhquake	name="2025.05.23 21:54:32"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2477"	lng="28.9745"	mag="3.1" Depth="6.7" />
-	<earhquake	name="2025.05.23 21:56:15"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2403"	lng="28.9638"	mag="2.9" Depth="5.4" />
-	<earhquake	name="2025.05.23 21:57:08"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2545"	lng="28.9775"	mag="3.6" Depth="5.8" />
 	<earhquake	name="2025.05.23 22:05:39"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2600"	lng="28.9603"	mag="2.5" Depth="5.6" />
 	<earhquake	name="2025.05.23 22:15:52"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2510"	lng="28.9925"	mag="2.6" Depth="5.4" />
 	<earhquake	name="2025.05.23 22:16:25"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2635"	lng="28.9792"	mag="2.5" Depth="5.5" />
@@ -64,5 +58,6 @@
 	<earhquake	name="2025.05.24 18:22:04"	lokasyon="UGURLUBAG-FEKE (ADANA)                            "	lat="37.7117"	lng="35.9353"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.05.24 19:49:26"	lokasyon="KIRMIZIDAM-YUMURTALIK (ADANA)                     "	lat="36.7065"	lng="35.5077"	mag="2.2" Depth="24.8" />
 	<earhquake	name="2025.05.24 20:06:04"	lokasyon="CAMONU-MENDERES (IZMIR)                           "	lat="38.0888"	lng="27.0970"	mag="3.2" Depth="4.6" />
+	<earhquake	name="2025.05.24 20:07:31"	lokasyon="KASALTI-FEKE (ADANA)                              "	lat="37.7027"	lng="35.9598"	mag="2.1" Depth="7.9" />
 	<earhquake	name="2025.05.24 20:18:58"	lokasyon="CAMONU-MENDERES (IZMIR)                           "	lat="38.1052"	lng="27.0973"	mag="2.2" Depth="7.1" />
 </eqlist>
