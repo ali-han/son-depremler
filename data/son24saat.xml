@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.23 16:03:55"	lokasyon="MARMARA DENIZI                                    "	lat="40.7888"	lng="28.6922"	mag="2.1" Depth="17.9" />
-	<earhquake	name="2025.05.23 16:14:17"	lokasyon="CALIBAHCE-BERGAMA (IZMIR)                         "	lat="39.0115"	lng="27.1285"	mag="1.9" Depth="9.6" />
-	<earhquake	name="2025.05.23 16:44:06"	lokasyon="KABAKDERE-(BALIKESIR)                             "	lat="39.6810"	lng="27.8312"	mag="1.8" Depth="5.9" />
 	<earhquake	name="2025.05.23 17:16:26"	lokasyon="BALIKESIR                                         "	lat="39.6498"	lng="27.8372"	mag="1.4" Depth="10.9" />
 	<earhquake	name="2025.05.23 17:29:45"	lokasyon="EGE DENIZI                                        "	lat="35.7113"	lng="25.8120"	mag="2.3" Depth="29.1" />
 	<earhquake	name="2025.05.23 17:58:12"	lokasyon="YOLUKLAR-HASSA (HATAY)                            "	lat="36.7843"	lng="36.4577"	mag="1.8" Depth="22.2" />
@@ -67,4 +64,5 @@
 	<earhquake	name="2025.05.24 14:08:26"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6150"	lng="26.7128"	mag="2.7" Depth="17.9" />
 	<earhquake	name="2025.05.24 14:34:17"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2383"	lng="29.0010"	mag="1.8" Depth="11.9" />
 	<earhquake	name="2025.05.24 14:45:23"	lokasyon="CUKURALIC-KARGI (CORUM)                           "	lat="41.0013"	lng="34.3993"	mag="1.9" Depth="8.6" />
+	<earhquake	name="2025.05.24 15:04:28"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.5993"	lng="26.7288"	mag="1.6" Depth="1.4" />
 </eqlist>
