@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.24 11:06:19"	lokasyon="KARAAGAC-(VAN)                                    "	lat="38.8240"	lng="43.4757"	mag="2.1" Depth="22.6" />
-	<earhquake	name="2025.05.24 11:13:51"	lokasyon="MARMARA DENIZI                                    "	lat="40.6987"	lng="27.5445"	mag="1.5" Depth="5.3" />
-	<earhquake	name="2025.05.24 11:39:07"	lokasyon="SULARBASI-GURUN (SIVAS)                           "	lat="38.7847"	lng="37.3265"	mag="2.0" Depth="5.0" />
-	<earhquake	name="2025.05.24 11:43:31"	lokasyon="SATIRHUYUK-NURDAGI (GAZIANTEP)                    "	lat="37.1950"	lng="36.9738"	mag="1.8" Depth="4.8" />
 	<earhquake	name="2025.05.24 12:34:10"	lokasyon="IKIZPINAR-KALE (MALATYA)                          "	lat="38.3610"	lng="38.7350"	mag="2.2" Depth="1.6" />
 	<earhquake	name="2025.05.24 13:12:42"	lokasyon="BULAK-SINDIRGI (BALIKESIR)                        "	lat="39.1650"	lng="28.5128"	mag="1.5" Depth="12.8" />
 	<earhquake	name="2025.05.24 13:30:55"	lokasyon="SALMANLI-BIGADIC (BALIKESIR)                      "	lat="39.4467"	lng="28.1480"	mag="1.7" Depth="10.7" />
@@ -64,4 +60,5 @@
 	<earhquake	name="2025.05.25 09:29:11"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.1100"	lng="38.3542"	mag="1.7" Depth="7.5" />
 	<earhquake	name="2025.05.25 09:49:47"	lokasyon="DALAMAN ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.5767"	lng="28.7353"	mag="1.8" Depth="9.3" />
 	<earhquake	name="2025.05.25 10:12:47"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2393"	lng="28.9613"	mag="2.6" Depth="4.9" />
+	<earhquake	name="2025.05.25 10:27:58"	lokasyon="KAYIKOY-(ISPARTA)                                 "	lat="37.8130"	lng="30.5192"	mag="1.6" Depth="3.7" />
 </eqlist>
