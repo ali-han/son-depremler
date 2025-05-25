@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.24 18:19:17"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2347"	lng="29.0427"	mag="1.3" Depth="5.0" />
-	<earhquake	name="2025.05.24 18:22:04"	lokasyon="UGURLUBAG-FEKE (ADANA)                            "	lat="37.7117"	lng="35.9353"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2025.05.24 18:56:48"	lokasyon="KARACASU-(KAHRAMANMARAS)                          "	lat="37.4980"	lng="36.9595"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2025.05.24 19:00:33"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1753"	lng="37.8072"	mag="1.5" Depth="5.4" />
 	<earhquake	name="2025.05.24 19:27:47"	lokasyon="IKIZCE-YESILYURT (MALATYA)                        "	lat="38.2948"	lng="38.2108"	mag="1.9" Depth="8.3" />
 	<earhquake	name="2025.05.24 19:49:26"	lokasyon="KIRMIZIDAM-YUMURTALIK (ADANA)                     "	lat="36.7065"	lng="35.5077"	mag="2.2" Depth="24.8" />
@@ -66,4 +63,6 @@
 	<earhquake	name="2025.05.25 15:09:14"	lokasyon="TUZLA ACIKLARI-ADANA (AKDENIZ)                    "	lat="36.6438"	lng="34.9427"	mag="1.8" Depth="13.1" />
 	<earhquake	name="2025.05.25 17:07:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2368"	lng="28.9785"	mag="1.8" Depth="7.2" />
 	<earhquake	name="2025.05.25 17:08:56"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2662"	lng="28.9970"	mag="1.2" Depth="7.0" />
+	<earhquake	name="2025.05.25 17:43:29"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6818"	lng="35.9787"	mag="2.6" Depth="5.4" />
+	<earhquake	name="2025.05.25 17:52:06"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2272"	lng="29.0185"	mag="1.6" Depth="6.1" />
 </eqlist>
