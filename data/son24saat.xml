@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.24 19:00:33"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1753"	lng="37.8072"	mag="1.5" Depth="5.4" />
-	<earhquake	name="2025.05.24 19:27:47"	lokasyon="IKIZCE-YESILYURT (MALATYA)                        "	lat="38.2948"	lng="38.2108"	mag="1.9" Depth="8.3" />
-	<earhquake	name="2025.05.24 19:49:26"	lokasyon="KIRMIZIDAM-YUMURTALIK (ADANA)                     "	lat="36.7065"	lng="35.5077"	mag="2.2" Depth="24.8" />
-	<earhquake	name="2025.05.24 20:01:10"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.0987"	lng="38.4175"	mag="1.4" Depth="5.0" />
-	<earhquake	name="2025.05.24 20:06:04"	lokasyon="CAMONU-MENDERES (IZMIR)                           "	lat="38.0888"	lng="27.0970"	mag="3.2" Depth="4.6" />
-	<earhquake	name="2025.05.24 20:07:31"	lokasyon="KASALTI-FEKE (ADANA)                              "	lat="37.7027"	lng="35.9598"	mag="2.1" Depth="7.9" />
-	<earhquake	name="2025.05.24 20:18:58"	lokasyon="CAMONU-MENDERES (IZMIR)                           "	lat="38.1052"	lng="27.0973"	mag="2.2" Depth="7.1" />
 	<earhquake	name="2025.05.24 21:06:53"	lokasyon="YAZOREN-SAVASTEPE (BALIKESIR)                     "	lat="39.3393"	lng="27.8148"	mag="1.3" Depth="17.1" />
 	<earhquake	name="2025.05.24 21:10:01"	lokasyon="BULMUS-TERCAN (ERZINCAN)                          "	lat="39.6665"	lng="40.0907"	mag="1.2" Depth="23.0" />
 	<earhquake	name="2025.05.24 21:12:18"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0905"	lng="33.2758"	mag="1.4" Depth="6.1" />
@@ -67,4 +60,5 @@
 	<earhquake	name="2025.05.25 17:43:29"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6818"	lng="35.9787"	mag="2.6" Depth="5.4" />
 	<earhquake	name="2025.05.25 17:52:06"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2272"	lng="29.0185"	mag="1.6" Depth="6.1" />
 	<earhquake	name="2025.05.25 18:42:18"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8555"	lng="27.2012"	mag="1.9" Depth="6.4" />
+	<earhquake	name="2025.05.25 20:19:45"	lokasyon="BOLUKKAYA-PUTURGE (MALATYA)                       "	lat="38.3017"	lng="38.8125"	mag="2.3" Depth="2.7" />
 </eqlist>
