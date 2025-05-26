@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.25 17:07:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2368"	lng="28.9785"	mag="1.8" Depth="7.2" />
-	<earhquake	name="2025.05.25 17:08:56"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2662"	lng="28.9970"	mag="1.2" Depth="7.0" />
-	<earhquake	name="2025.05.25 17:31:07"	lokasyon="MINNETLI-KOZAN (ADANA)                            "	lat="37.6130"	lng="35.9283"	mag="1.6" Depth="17.7" />
-	<earhquake	name="2025.05.25 17:43:29"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6818"	lng="35.9787"	mag="2.6" Depth="5.4" />
-	<earhquake	name="2025.05.25 17:52:06"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2272"	lng="29.0185"	mag="1.6" Depth="6.1" />
 	<earhquake	name="2025.05.25 18:42:18"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8555"	lng="27.2012"	mag="1.9" Depth="6.4" />
 	<earhquake	name="2025.05.25 20:19:45"	lokasyon="BOLUKKAYA-PUTURGE (MALATYA)                       "	lat="38.3017"	lng="38.8125"	mag="2.3" Depth="2.7" />
 	<earhquake	name="2025.05.25 20:29:05"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8533"	lng="28.2760"	mag="1.7" Depth="6.1" />
@@ -72,4 +67,5 @@
 	<earhquake	name="2025.05.26 15:20:41"	lokasyon="BUDAKLI-KARACOBAN (ERZURUM)                       "	lat="39.3192"	lng="42.0652"	mag="2.1" Depth="24.1" />
 	<earhquake	name="2025.05.26 15:23:17"	lokasyon="UFACIK-SEYDISEHIR (KONYA)                         "	lat="37.6552"	lng="31.9718"	mag="1.7" Depth="11.6" />
 	<earhquake	name="2025.05.26 16:12:32"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1653"	lng="38.3890"	mag="1.4" Depth="10.6" />
+	<earhquake	name="2025.05.26 16:22:07"	lokasyon="CIFTLIKKOY-KARLIOVA (BINGOL)                      "	lat="39.3898"	lng="41.0598"	mag="1.7" Depth="5.9" />
 </eqlist>
