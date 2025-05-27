@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.27 02:48:02"	lokasyon="VAKIFLI-SAMANDAG (HATAY)                          "	lat="36.1038"	lng="35.9830"	mag="3.1" Depth="10.7" />
 	<earhquake	name="2025.05.27 03:00:26"	lokasyon="MOLLATOPUZ-OZALP (VAN)                            "	lat="38.6230"	lng="44.0900"	mag="1.6" Depth="9.0" />
 	<earhquake	name="2025.05.27 03:12:25"	lokasyon="YAYLASUYU-CAT (ERZURUM)                           "	lat="39.7758"	lng="40.9522"	mag="1.7" Depth="6.3" />
 	<earhquake	name="2025.05.27 03:44:13"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1417"	lng="37.7827"	mag="2.3" Depth="5.5" />
@@ -54,4 +53,7 @@
 	<earhquake	name="2025.05.27 23:46:05"	lokasyon="ARITOPRAK-PUTURGE (MALATYA)                       "	lat="38.1925"	lng="38.6660"	mag="1.2" Depth="21.2" />
 	<earhquake	name="2025.05.28 01:02:15"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9533"	lng="27.3518"	mag="1.8" Depth="10.9" />
 	<earhquake	name="2025.05.28 01:13:02"	lokasyon="YENIKOY-(BOLU)                                    "	lat="40.7462"	lng="31.6435"	mag="3.8" Depth="4.7" />
+	<earhquake	name="2025.05.28 01:40:13"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2505"	lng="29.0060"	mag="1.8" Depth="10.1" />
+	<earhquake	name="2025.05.28 01:41:31"	lokasyon="KAVAKYOLU-(ERZINCAN)                              "	lat="39.7598"	lng="39.4727"	mag="1.3" Depth="28.6" />
+	<earhquake	name="2025.05.28 02:23:11"	lokasyon="ALGI-(MUGLA)                                      "	lat="37.1562"	lng="28.2580"	mag="1.5" Depth="14.3" />
 </eqlist>
