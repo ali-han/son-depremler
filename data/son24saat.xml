@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.27 01:31:30"	lokasyon="MARMARA DENIZI                                    "	lat="40.8050"	lng="27.9508"	mag="1.7" Depth="11.9" />
 	<earhquake	name="2025.05.27 02:48:02"	lokasyon="VAKIFLI-SAMANDAG (HATAY)                          "	lat="36.1038"	lng="35.9830"	mag="3.1" Depth="10.7" />
 	<earhquake	name="2025.05.27 03:00:26"	lokasyon="MOLLATOPUZ-OZALP (VAN)                            "	lat="38.6230"	lng="44.0900"	mag="1.6" Depth="9.0" />
 	<earhquake	name="2025.05.27 03:12:25"	lokasyon="YAYLASUYU-CAT (ERZURUM)                           "	lat="39.7758"	lng="40.9522"	mag="1.7" Depth="6.3" />
@@ -53,4 +52,6 @@
 	<earhquake	name="2025.05.27 22:58:27"	lokasyon="NAIPLI-GERMENCIK (AYDIN)                          "	lat="37.9002"	lng="27.4703"	mag="1.6" Depth="11.7" />
 	<earhquake	name="2025.05.27 23:24:05"	lokasyon="GULPINAR-AYVACIK (CANAKKALE)                      "	lat="39.5638"	lng="26.1115"	mag="1.9" Depth="2.9" />
 	<earhquake	name="2025.05.27 23:46:05"	lokasyon="ARITOPRAK-PUTURGE (MALATYA)                       "	lat="38.1925"	lng="38.6660"	mag="1.2" Depth="21.2" />
+	<earhquake	name="2025.05.28 01:02:15"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9533"	lng="27.3518"	mag="1.8" Depth="10.9" />
+	<earhquake	name="2025.05.28 01:13:02"	lokasyon="YENIKOY-(BOLU)                                    "	lat="40.7462"	lng="31.6435"	mag="3.8" Depth="4.7" />
 </eqlist>
