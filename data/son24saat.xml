@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.26 15:01:45"	lokasyon="SERINCE-SINCIK (ADIYAMAN)                         "	lat="38.0392"	lng="38.6078"	mag="1.5" Depth="4.3" />
-	<earhquake	name="2025.05.26 15:08:12"	lokasyon="SADIKLI-YAZIHAN (MALATYA)                         "	lat="38.5525"	lng="37.9418"	mag="1.8" Depth="20.3" />
-	<earhquake	name="2025.05.26 15:13:05"	lokasyon="YUNANISTAN                                        "	lat="40.3067"	lng="23.7002"	mag="2.0" Depth="10.5" />
-	<earhquake	name="2025.05.26 15:20:41"	lokasyon="BUDAKLI-KARACOBAN (ERZURUM)                       "	lat="39.3192"	lng="42.0652"	mag="2.1" Depth="24.1" />
-	<earhquake	name="2025.05.26 15:23:17"	lokasyon="UFACIK-SEYDISEHIR (KONYA)                         "	lat="37.6552"	lng="31.9718"	mag="1.7" Depth="11.6" />
-	<earhquake	name="2025.05.26 16:12:32"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1653"	lng="38.3890"	mag="1.4" Depth="10.6" />
-	<earhquake	name="2025.05.26 16:22:07"	lokasyon="CIFTLIKKOY-KARLIOVA (BINGOL)                      "	lat="39.3898"	lng="41.0598"	mag="1.7" Depth="5.9" />
 	<earhquake	name="2025.05.26 17:12:17"	lokasyon="AKDENIZ                                           "	lat="35.7157"	lng="28.5545"	mag="2.9" Depth="30.3" />
 	<earhquake	name="2025.05.26 17:48:02"	lokasyon="YARPUZ-AKSEKI (ANTALYA)                           "	lat="37.0800"	lng="31.9555"	mag="1.9" Depth="21.2" />
 	<earhquake	name="2025.05.26 19:19:10"	lokasyon="SEKIBAGI-OSMANCIK (CORUM)                         "	lat="40.9232"	lng="34.5992"	mag="1.8" Depth="4.0" />
@@ -42,4 +35,6 @@
 	<earhquake	name="2025.05.27 14:31:37"	lokasyon="MARMARA DENIZI                                    "	lat="40.8015"	lng="27.7140"	mag="2.0" Depth="4.0" />
 	<earhquake	name="2025.05.27 14:35:46"	lokasyon="OTENCAY-BELEN (HATAY)                             "	lat="36.4385"	lng="36.2073"	mag="2.4" Depth="2.9" />
 	<earhquake	name="2025.05.27 14:43:20"	lokasyon="BASISKELE (KOCAELI)                               "	lat="40.7492"	lng="29.9835"	mag="2.9" Depth="5.0" />
+	<earhquake	name="2025.05.27 14:47:11"	lokasyon="CALTEPE-MANAVGAT (ANTALYA)                        "	lat="37.3530"	lng="31.1448"	mag="1.5" Depth="8.0" />
+	<earhquake	name="2025.05.27 14:47:27"	lokasyon="TERZILER-DERINCE (KOCAELI)                        "	lat="40.9562"	lng="29.8980"	mag="1.8" Depth="2.3" />
 </eqlist>
