@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.27 15:42:19"	lokasyon="BASISKELE (KOCAELI)                               "	lat="40.7595"	lng="29.9783"	mag="3.1" Depth="7.5" />
-	<earhquake	name="2025.05.27 15:58:10"	lokasyon="DOGANTEPE-BASISKELE (KOCAELI)                     "	lat="40.6935"	lng="29.9625"	mag="1.9" Depth="0.0" />
-	<earhquake	name="2025.05.27 15:58:55"	lokasyon="DOGANTEPE-BASISKELE (KOCAELI)                     "	lat="40.7150"	lng="29.9972"	mag="1.9" Depth="0.0" />
 	<earhquake	name="2025.05.27 16:34:43"	lokasyon="AKDENIZ                                           "	lat="36.2487"	lng="28.4672"	mag="3.0" Depth="13.7" />
 	<earhquake	name="2025.05.27 16:44:52"	lokasyon="MARMARA DENIZI                                    "	lat="40.7987"	lng="27.7037"	mag="2.7" Depth="11.6" />
 	<earhquake	name="2025.05.27 16:51:06"	lokasyon="DEMIRKANAT-KIGI (BINGOL)                          "	lat="39.2277"	lng="40.3305"	mag="4.0" Depth="5.0" />
@@ -69,5 +66,9 @@
 	<earhquake	name="2025.05.28 13:33:53"	lokasyon="SERIFLI-KOZAN (ADANA)                             "	lat="37.6808"	lng="35.9277"	mag="1.9" Depth="2.6" />
 	<earhquake	name="2025.05.28 13:52:45"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.4950"	lng="26.7620"	mag="1.8" Depth="6.5" />
 	<earhquake	name="2025.05.28 14:32:16"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1377"	lng="38.4097"	mag="1.9" Depth="5.3" />
+	<earhquake	name="2025.05.28 14:35:44"	lokasyon="MARMARA DENIZI                                    "	lat="40.7965"	lng="28.3760"	mag="1.9" Depth="11.1" />
 	<earhquake	name="2025.05.28 14:37:17"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1083"	lng="38.4530"	mag="1.9" Depth="14.2" />
+	<earhquake	name="2025.05.28 14:41:32"	lokasyon="AKDENIZ                                           "	lat="36.2885"	lng="28.9183"	mag="2.3" Depth="18.5" />
+	<earhquake	name="2025.05.28 14:56:06"	lokasyon="KANLIKAVAK-GOKSUN (KAHRAMANMARAS)                 "	lat="38.1120"	lng="36.6122"	mag="2.2" Depth="6.0" />
+	<earhquake	name="2025.05.28 15:15:20"	lokasyon="KARAOMER-GOKSUN (KAHRAMANMARAS)                   "	lat="38.1583"	lng="36.7077"	mag="2.0" Depth="6.6" />
 </eqlist>
