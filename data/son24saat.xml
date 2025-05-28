@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.27 07:56:48"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.1960"	lng="31.6117"	mag="2.3" Depth="29.0" />
 	<earhquake	name="2025.05.27 08:06:07"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3623"	lng="26.2672"	mag="1.7" Depth="15.8" />
 	<earhquake	name="2025.05.27 08:58:44"	lokasyon="SIRINCAVUS-BANDIRMA (BALIKESIR)                   "	lat="40.3213"	lng="27.7050"	mag="2.0" Depth="5.4" />
 	<earhquake	name="2025.05.27 09:28:27"	lokasyon="KABAOGLU-IZMIT (KOCAELI)                          "	lat="40.8027"	lng="29.9373"	mag="2.0" Depth="7.6" />
@@ -61,4 +60,6 @@
 	<earhquake	name="2025.05.28 06:14:14"	lokasyon="KURUCAY-AHIRLI (KONYA)                            "	lat="37.2295"	lng="32.0378"	mag="1.6" Depth="9.9" />
 	<earhquake	name="2025.05.28 06:15:42"	lokasyon="CATMAKAYA-SEYDISEHIR (KONYA)                      "	lat="37.2230"	lng="31.9912"	mag="1.8" Depth="9.6" />
 	<earhquake	name="2025.05.28 06:28:05"	lokasyon="IVRINDI (BALIKESIR)                               "	lat="39.5897"	lng="27.4905"	mag="1.6" Depth="7.0" />
+	<earhquake	name="2025.05.28 07:24:05"	lokasyon="YESILBAGCILAR-YATAGAN (MUGLA)                     "	lat="37.3493"	lng="28.0548"	mag="1.4" Depth="5.2" />
+	<earhquake	name="2025.05.28 07:32:49"	lokasyon="BALIKESIR (BALIKESIR)                             "	lat="39.6625"	lng="27.9063"	mag="1.1" Depth="12.3" />
 </eqlist>
