@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.29 02:15:37"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="36.5848"	lng="26.9225"	mag="2.1" Depth="127.1" />
-	<earhquake	name="2025.05.29 02:28:28"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0107"	lng="25.1613"	mag="1.9" Depth="8.3" />
-	<earhquake	name="2025.05.29 02:43:15"	lokasyon="BULGARISTAN                                       "	lat="42.1588"	lng="25.7002"	mag="1.6" Depth="5.0" />
-	<earhquake	name="2025.05.29 02:49:09"	lokasyon="EGE DENIZI                                        "	lat="36.6577"	lng="25.6478"	mag="1.7" Depth="9.7" />
 	<earhquake	name="2025.05.29 04:04:16"	lokasyon="GELINCIK-DICLE (DIYARBAKIR)                       "	lat="38.4308"	lng="40.1520"	mag="1.7" Depth="5.8" />
 	<earhquake	name="2025.05.29 04:15:21"	lokasyon="KOZLUK-KALE (MALATYA)                             "	lat="38.3673"	lng="38.7825"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.05.29 04:21:26"	lokasyon="SATIRHUYUK-NURDAGI (GAZIANTEP)                    "	lat="37.2167"	lng="36.9742"	mag="1.2" Depth="5.4" />
@@ -99,4 +95,5 @@
 	<earhquake	name="2025.05.30 00:49:29"	lokasyon="DINGILLER-AKHISAR (MANISA)                        "	lat="38.9972"	lng="27.8967"	mag="2.1" Depth="7.4" />
 	<earhquake	name="2025.05.30 00:58:18"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2003"	lng="40.2680"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2025.05.30 01:24:27"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6517"	lng="35.9408"	mag="1.6" Depth="10.0" />
+	<earhquake	name="2025.05.30 02:22:51"	lokasyon="TARTISIK-AYVACIK (CANAKKALE)                      "	lat="39.6258"	lng="26.4522"	mag="1.7" Depth="10.9" />
 </eqlist>
