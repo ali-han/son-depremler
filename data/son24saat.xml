@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.28 15:15:20"	lokasyon="KARAOMER-GOKSUN (KAHRAMANMARAS)                   "	lat="38.1583"	lng="36.7077"	mag="2.0" Depth="6.6" />
-	<earhquake	name="2025.05.28 15:56:08"	lokasyon="KOKPINAR-PUTURGE (MALATYA)                        "	lat="38.2225"	lng="38.7045"	mag="1.9" Depth="6.3" />
 	<earhquake	name="2025.05.28 16:47:29"	lokasyon="KARAOMER-GOKSUN (KAHRAMANMARAS)                   "	lat="38.1548"	lng="36.6902"	mag="1.9" Depth="4.3" />
 	<earhquake	name="2025.05.28 17:09:24"	lokasyon="ESKIMANTAS-KOZAN (ADANA)                          "	lat="37.5555"	lng="35.9008"	mag="1.0" Depth="20.3" />
 	<earhquake	name="2025.05.28 17:13:33"	lokasyon="EGE DENIZI                                        "	lat="35.7948"	lng="25.5682"	mag="1.9" Depth="7.6" />
@@ -80,4 +78,5 @@
 	<earhquake	name="2025.05.29 13:23:10"	lokasyon="ELMALI-(BINGOL)                                   "	lat="39.0310"	lng="40.7637"	mag="2.1" Depth="5.7" />
 	<earhquake	name="2025.05.29 13:39:45"	lokasyon="CEVIZDERE-(ELAZIG)                                "	lat="38.5228"	lng="39.3930"	mag="2.7" Depth="10.1" />
 	<earhquake	name="2025.05.29 13:51:30"	lokasyon="KUSKAYA-(BALIKESIR)                               "	lat="39.4213"	lng="27.8908"	mag="2.5" Depth="5.0" />
+	<earhquake	name="2025.05.29 14:17:54"	lokasyon="ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)                REVIZE01   (2025.05.29 14:17:54)"	lat="38.0923"	lng="36.5467"	mag="2.1" Depth="5.0" />
 </eqlist>
