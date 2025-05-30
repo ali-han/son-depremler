@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.29 22:00:04"	lokasyon="CAMLICA-MILAS (MUGLA)                             "	lat="37.0493"	lng="27.9322"	mag="1.7" Depth="12.0" />
-	<earhquake	name="2025.05.29 22:19:51"	lokasyon="MEHMETDEDEOBRUGU-DODURGA (CORUM)                  "	lat="40.8073"	lng="34.8115"	mag="1.7" Depth="6.7" />
-	<earhquake	name="2025.05.29 22:54:30"	lokasyon="EGE DENIZI                                        "	lat="38.2995"	lng="25.3498"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2025.05.29 22:56:36"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2547"	lng="29.0197"	mag="1.6" Depth="8.5" />
 	<earhquake	name="2025.05.29 23:10:02"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.3697"	lng="26.1153"	mag="2.1" Depth="8.4" />
 	<earhquake	name="2025.05.29 23:22:30"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2497"	lng="29.0123"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.05.29 23:22:53"	lokasyon="YAZGUNU-KIGI (BINGOL)                             "	lat="39.2483"	lng="40.2618"	mag="2.6" Depth="4.4" />
@@ -112,4 +108,8 @@
 	<earhquake	name="2025.05.30 21:26:29"	lokasyon="EGE DENIZI                                        "	lat="36.3075"	lng="25.3985"	mag="3.0" Depth="6.3" />
 	<earhquake	name="2025.05.30 21:30:56"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2087"	lng="38.6247"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2025.05.30 21:41:01"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6728"	lng="35.9687"	mag="2.4" Depth="5.0" />
+	<earhquake	name="2025.05.30 21:43:40"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6633"	lng="35.9590"	mag="2.4" Depth="5.0" />
+	<earhquake	name="2025.05.30 21:49:15"	lokasyon="MAHYALAR-KOZAN (ADANA)                            "	lat="37.6580"	lng="35.9287"	mag="1.3" Depth="8.3" />
+	<earhquake	name="2025.05.30 21:50:51"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0713"	lng="25.1910"	mag="3.0" Depth="7.9" />
+	<earhquake	name="2025.05.30 22:01:00"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6385"	lng="35.9995"	mag="2.9" Depth="5.0" />
 </eqlist>
