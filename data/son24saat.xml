@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.30 00:07:08"	lokasyon="BURHANIYE (BALIKESIR)                             "	lat="39.4988"	lng="26.9423"	mag="2.1" Depth="10.1" />
-	<earhquake	name="2025.05.30 00:09:36"	lokasyon="BASOREN-SUHUT (AFYONKARAHISAR)                    "	lat="38.4095"	lng="30.4325"	mag="1.4" Depth="8.0" />
-	<earhquake	name="2025.05.30 00:15:08"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2348"	lng="28.9945"	mag="1.1" Depth="15.3" />
-	<earhquake	name="2025.05.30 00:17:07"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2298"	lng="29.0145"	mag="1.1" Depth="6.8" />
-	<earhquake	name="2025.05.30 00:18:45"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6720"	lng="35.9747"	mag="3.1" Depth="5.0" />
-	<earhquake	name="2025.05.30 00:23:52"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2618"	lng="28.9472"	mag="2.0" Depth="3.6" />
-	<earhquake	name="2025.05.30 00:36:02"	lokasyon="DUZAGAC-KOZAN (ADANA)                             "	lat="37.6005"	lng="35.8487"	mag="1.1" Depth="20.3" />
-	<earhquake	name="2025.05.30 00:46:12"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8375"	lng="28.2558"	mag="2.0" Depth="7.1" />
-	<earhquake	name="2025.05.30 00:49:29"	lokasyon="DINGILLER-AKHISAR (MANISA)                        "	lat="38.9972"	lng="27.8967"	mag="2.1" Depth="7.4" />
-	<earhquake	name="2025.05.30 00:58:18"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2003"	lng="40.2680"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2025.05.30 01:02:43"	lokasyon="MARMARA DENIZI                                    "	lat="40.8543"	lng="28.3680"	mag="1.5" Depth="6.7" />
 	<earhquake	name="2025.05.30 01:21:46"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2083"	lng="40.2975"	mag="2.0" Depth="1.7" />
 	<earhquake	name="2025.05.30 01:24:27"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6525"	lng="35.9393"	mag="1.8" Depth="10.0" />
@@ -108,4 +98,6 @@
 	<earhquake	name="2025.05.30 22:22:12"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2203"	lng="40.2508"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.05.30 22:26:09"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1958"	lng="29.0743"	mag="1.5" Depth="6.6" />
 	<earhquake	name="2025.05.30 23:24:38"	lokasyon="EGE DENIZI                                        "	lat="35.7235"	lng="25.8528"	mag="2.6" Depth="26.8" />
+	<earhquake	name="2025.05.30 23:41:28"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.7180"	lng="27.4067"	mag="1.5" Depth="8.5" />
+	<earhquake	name="2025.05.30 23:54:59"	lokasyon="KOCYAZI-FEKE (ADANA)                              "	lat="37.7137"	lng="35.8125"	mag="1.1" Depth="12.3" />
 </eqlist>
