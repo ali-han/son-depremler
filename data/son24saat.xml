@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.29 17:00:49"	lokasyon="KARAAGIL-HISARCIK (KUTAHYA)                       "	lat="39.2107"	lng="29.0682"	mag="1.6" Depth="10.7" />
-	<earhquake	name="2025.05.29 17:05:50"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.1050"	lng="38.3192"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2025.05.29 17:10:10"	lokasyon="VAN GOLU                                          "	lat="38.5688"	lng="43.1798"	mag="2.2" Depth="16.8" />
-	<earhquake	name="2025.05.29 17:28:36"	lokasyon="KOCAGUR-BIGA (CANAKKALE)                          "	lat="40.3597"	lng="27.1935"	mag="2.2" Depth="9.8" />
-	<earhquake	name="2025.05.29 17:39:25"	lokasyon="UZUNCAM-EMET (KUTAHYA)                            "	lat="39.2897"	lng="29.3753"	mag="1.6" Depth="7.4" />
 	<earhquake	name="2025.05.29 18:09:00"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5198"	lng="28.1288"	mag="1.6" Depth="8.9" />
 	<earhquake	name="2025.05.29 18:09:41"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5113"	lng="28.1430"	mag="1.6" Depth="8.6" />
 	<earhquake	name="2025.05.29 18:10:12"	lokasyon="CALDERE-BIGADIC (BALIKESIR)                       "	lat="39.5358"	lng="28.2113"	mag="1.1" Depth="13.9" />
@@ -110,4 +105,5 @@
 	<earhquake	name="2025.05.30 15:40:16"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1758"	lng="25.2008"	mag="4.0" Depth="6.5" />
 	<earhquake	name="2025.05.30 15:41:45"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.1033"	lng="38.4925"	mag="2.4" Depth="9.6" />
 	<earhquake	name="2025.05.30 16:18:46"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="37.0335"	lng="27.1777"	mag="1.8" Depth="21.4" />
+	<earhquake	name="2025.05.30 16:52:09"	lokasyon="EGE DENIZI                                        "	lat="36.6550"	lng="25.7138"	mag="2.4" Depth="13.8" />
 </eqlist>
