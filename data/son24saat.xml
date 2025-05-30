@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.29 07:04:36"	lokasyon="GOLARDI (ELAZIG)                                  "	lat="38.5403"	lng="39.4367"	mag="2.7" Depth="1.1" />
-	<earhquake	name="2025.05.29 07:27:28"	lokasyon="TARTISIK-AYVACIK (CANAKKALE)                      "	lat="39.6255"	lng="26.4367"	mag="2.6" Depth="14.9" />
-	<earhquake	name="2025.05.29 07:41:17"	lokasyon="TARTISIK-AYVACIK (CANAKKALE)                      "	lat="39.6302"	lng="26.4402"	mag="1.9" Depth="13.6" />
-	<earhquake	name="2025.05.29 07:45:28"	lokasyon="TARTISIK-AYVACIK (CANAKKALE)                      "	lat="39.6212"	lng="26.4435"	mag="2.1" Depth="13.7" />
-	<earhquake	name="2025.05.29 07:47:46"	lokasyon="KARLIOVA (BINGOL)                                 "	lat="39.3093"	lng="40.9903"	mag="2.4" Depth="4.0" />
 	<earhquake	name="2025.05.29 08:42:03"	lokasyon="CULLUUSAGI-KOZAN (ADANA)                          "	lat="37.7055"	lng="35.8437"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2025.05.29 09:01:07"	lokasyon="PINARCIK-ALTINTAS (KUTAHYA)                       "	lat="39.0288"	lng="29.9672"	mag="1.4" Depth="17.2" />
 	<earhquake	name="2025.05.29 09:39:40"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2665"	lng="28.9280"	mag="2.2" Depth="3.3" />
@@ -113,4 +108,5 @@
 	<earhquake	name="2025.05.30 05:17:39"	lokasyon="UCOCAK-ARICAK (ELAZIG)                            "	lat="38.4922"	lng="40.2685"	mag="1.6" Depth="6.9" />
 	<earhquake	name="2025.05.30 06:10:36"	lokasyon="MARMARA DENIZI                                    "	lat="40.8888"	lng="28.4195"	mag="1.4" Depth="12.0" />
 	<earhquake	name="2025.05.30 06:25:57"	lokasyon="TOPRAKHISAR-ELBISTAN (KAHRAMANMARAS)              "	lat="38.3195"	lng="37.5960"	mag="1.7" Depth="2.2" />
+	<earhquake	name="2025.05.30 07:19:01"	lokasyon="KIBRIS RUM KESIMI                                 "	lat="34.8180"	lng="32.6877"	mag="2.1" Depth="48.9" />
 </eqlist>
