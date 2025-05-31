@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.31 01:07:57"	lokasyon="CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             "	lat="37.3160"	lng="37.0323"	mag="1.9" Depth="5.4" />
-	<earhquake	name="2025.05.31 01:31:38"	lokasyon="EGE DENIZI                                        "	lat="36.6500"	lng="26.8055"	mag="2.6" Depth="130.5" />
-	<earhquake	name="2025.05.31 02:21:10"	lokasyon="AKYARLAR-BODRUM (MUGLA)                           "	lat="36.9677"	lng="27.3252"	mag="2.6" Depth="14.5" />
-	<earhquake	name="2025.05.31 02:36:25"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9755"	lng="27.3640"	mag="1.7" Depth="13.4" />
-	<earhquake	name="2025.05.31 02:57:47"	lokasyon="AKDENIZ                                           "	lat="35.8425"	lng="35.2905"	mag="1.8" Depth="20.5" />
 	<earhquake	name="2025.05.31 03:03:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2558"	lng="28.9860"	mag="2.3" Depth="5.5" />
 	<earhquake	name="2025.05.31 04:02:42"	lokasyon="ISKENDERUN KORFEZI (AKDENIZ)                      "	lat="36.3927"	lng="35.6645"	mag="2.0" Depth="5.9" />
 	<earhquake	name="2025.05.31 04:19:36"	lokasyon="CINARCIK-TAVSANLI (KUTAHYA)                       "	lat="39.4913"	lng="29.0828"	mag="1.1" Depth="8.3" />
@@ -53,4 +48,7 @@
 	<earhquake	name="2025.05.31 23:59:26"	lokasyon="KARAMAGARA-AKCADAG (MALATYA)                      "	lat="38.4670"	lng="37.9890"	mag="1.2" Depth="6.5" />
 	<earhquake	name="2025.06.01 00:35:17"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2440"	lng="28.9653"	mag="2.6" Depth="7.5" />
 	<earhquake	name="2025.06.01 00:38:30"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2412"	lng="28.9895"	mag="1.6" Depth="3.7" />
+	<earhquake	name="2025.06.01 00:58:52"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1883"	lng="40.2678"	mag="2.8" Depth="5.0" />
+	<earhquake	name="2025.06.01 01:19:10"	lokasyon="AKDENIZ                                           "	lat="36.0793"	lng="31.1013"	mag="4.1" Depth="18.0" />
+	<earhquake	name="2025.06.01 02:00:28"	lokasyon="DEDEPINARI-(ELAZIG)                               "	lat="38.4992"	lng="39.1810"	mag="3.0" Depth="7.9" />
 </eqlist>
