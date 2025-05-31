@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.30 12:27:51"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1490"	lng="38.4218"	mag="2.8" Depth="5.0" />
-	<earhquake	name="2025.05.30 12:44:44"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2530"	lng="28.9690"	mag="1.6" Depth="11.9" />
 	<earhquake	name="2025.05.30 13:02:10"	lokasyon="KAPLAN-BEYPAZARI (ANKARA)                         "	lat="40.2160"	lng="31.8065"	mag="2.1" Depth="3.3" />
 	<earhquake	name="2025.05.30 13:02:35"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.4883"	lng="28.1485"	mag="2.1" Depth="9.8" />
 	<earhquake	name="2025.05.30 13:39:42"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2685"	lng="28.9745"	mag="1.6" Depth="7.8" />
@@ -79,4 +77,5 @@
 	<earhquake	name="2025.05.31 09:28:59"	lokasyon="YAZGUNU-KIGI (BINGOL)                             "	lat="39.2432"	lng="40.2493"	mag="2.6" Depth="8.7" />
 	<earhquake	name="2025.05.31 09:39:53"	lokasyon="EGE DENIZI                                        "	lat="35.7005"	lng="25.8520"	mag="2.7" Depth="27.5" />
 	<earhquake	name="2025.05.31 09:47:16"	lokasyon="ESMEDERE-SINDIRGI (BALIKESIR)                     "	lat="39.3427"	lng="28.0428"	mag="0.9" Depth="21.7" />
+	<earhquake	name="2025.05.31 11:55:14"	lokasyon="GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS)               "	lat="38.0957"	lng="37.2625"	mag="2.1" Depth="5.9" />
 </eqlist>
