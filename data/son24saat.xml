@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.30 09:01:21"	lokasyon="CEVIZDERE-(ELAZIG)                                "	lat="38.5253"	lng="39.3777"	mag="2.1" Depth="22.6" />
-	<earhquake	name="2025.05.30 09:16:17"	lokasyon="KUMKUYUCAK-SARUHANLI (MANISA)                     "	lat="38.7388"	lng="27.7843"	mag="2.0" Depth="10.6" />
-	<earhquake	name="2025.05.30 09:21:13"	lokasyon="KARAAGAC-KALE (MALATYA)                           "	lat="38.3973"	lng="38.8182"	mag="1.2" Depth="2.3" />
-	<earhquake	name="2025.05.30 09:33:58"	lokasyon="EMIROGLU-PAZARCIK (KAHRAMANMARAS)                 "	lat="37.3410"	lng="37.0463"	mag="1.6" Depth="11.0" />
 	<earhquake	name="2025.05.30 10:37:53"	lokasyon="KUMTEPE-REYHANLI (HATAY)                          "	lat="36.3410"	lng="36.3422"	mag="2.1" Depth="14.2" />
 	<earhquake	name="2025.05.30 11:58:48"	lokasyon="YALINKAYA-AKCADAG (MALATYA)                       "	lat="38.3978"	lng="37.9027"	mag="1.5" Depth="21.6" />
 	<earhquake	name="2025.05.30 12:27:51"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1490"	lng="38.4218"	mag="2.8" Depth="5.0" />
@@ -81,4 +77,5 @@
 	<earhquake	name="2025.05.31 06:21:44"	lokasyon="YILDIRIMAYDOGAN-CUBUK (ANKARA)                    "	lat="40.4802"	lng="32.9088"	mag="1.1" Depth="14.0" />
 	<earhquake	name="2025.05.31 07:08:26"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.3765"	lng="31.5067"	mag="2.1" Depth="21.8" />
 	<earhquake	name="2025.05.31 07:22:35"	lokasyon="YESILOVA-ULA (MUGLA)                              "	lat="37.0688"	lng="28.4188"	mag="1.1" Depth="13.6" />
+	<earhquake	name="2025.05.31 09:09:51"	lokasyon="HAMZAHOCALI-KINIK (IZMIR)                         "	lat="39.1205"	lng="27.4547"	mag="1.8" Depth="6.4" />
 </eqlist>
