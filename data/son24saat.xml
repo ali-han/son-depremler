@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.01 01:19:10"	lokasyon="AKDENIZ                                           "	lat="36.0793"	lng="31.1013"	mag="4.1" Depth="18.0" />
 	<earhquake	name="2025.06.01 02:00:28"	lokasyon="DEDEPINARI-(ELAZIG)                               "	lat="38.4992"	lng="39.1810"	mag="3.0" Depth="7.9" />
 	<earhquake	name="2025.06.01 02:20:15"	lokasyon="MARMARA DENIZI                                    "	lat="40.7680"	lng="28.6685"	mag="1.6" Depth="17.6" />
 	<earhquake	name="2025.06.01 02:21:12"	lokasyon="KURUCAOVA-DOGANSEHIR (MALATYA)                    "	lat="37.9843"	lng="38.0880"	mag="1.6" Depth="8.5" />
@@ -92,4 +91,6 @@
 	<earhquake	name="2025.06.02 00:26:06"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     "	lat="38.4960"	lng="37.9887"	mag="1.4" Depth="8.7" />
 	<earhquake	name="2025.06.02 00:31:27"	lokasyon="ALIBEYCAGILI-KIRIKHAN (HATAY)                     "	lat="36.6045"	lng="36.3215"	mag="2.9" Depth="7.0" />
 	<earhquake	name="2025.06.02 00:38:47"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1950"	lng="40.2790"	mag="2.9" Depth="5.0" />
+	<earhquake	name="2025.06.02 00:45:40"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2343"	lng="40.2635"	mag="1.8" Depth="5.5" />
+	<earhquake	name="2025.06.02 00:55:05"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2207"	lng="40.2832"	mag="1.7" Depth="7.7" />
 </eqlist>
