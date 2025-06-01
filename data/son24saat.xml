@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.05.31 20:26:14"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5598"	lng="37.9937"	mag="2.8" Depth="5.0" />
-	<earhquake	name="2025.05.31 20:32:21"	lokasyon="GOZEBASI-(ELAZIG)                                 "	lat="38.5360"	lng="39.2407"	mag="2.6" Depth="5.0" />
-	<earhquake	name="2025.05.31 20:45:07"	lokasyon="GOZEBASI-(ELAZIG)                                 "	lat="38.5228"	lng="39.2447"	mag="1.4" Depth="3.9" />
-	<earhquake	name="2025.05.31 20:58:56"	lokasyon="CATALTEPE-KIRIKHAN (HATAY)                        "	lat="36.5155"	lng="36.4365"	mag="1.4" Depth="7.7" />
 	<earhquake	name="2025.05.31 21:49:18"	lokasyon="KALEBOYNU-GOKSUN (KAHRAMANMARAS)                  "	lat="37.9390"	lng="36.2490"	mag="1.5" Depth="4.8" />
 	<earhquake	name="2025.05.31 22:09:36"	lokasyon="AKDENIZ                                           "	lat="34.7880"	lng="32.5193"	mag="1.9" Depth="17.4" />
 	<earhquake	name="2025.05.31 22:27:25"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2400"	lng="40.2900"	mag="1.8" Depth="9.5" />
@@ -78,4 +74,6 @@
 	<earhquake	name="2025.06.01 18:55:44"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2520"	lng="40.3033"	mag="1.9" Depth="5.3" />
 	<earhquake	name="2025.06.01 19:09:51"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2495"	lng="40.2840"	mag="2.0" Depth="10.6" />
 	<earhquake	name="2025.06.01 19:18:36"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2373"	lng="28.9918"	mag="2.1" Depth="8.4" />
+	<earhquake	name="2025.06.01 19:19:29"	lokasyon="ESME-KIGI (BINGOL)                                "	lat="39.2445"	lng="40.3378"	mag="2.1" Depth="2.6" />
+	<earhquake	name="2025.06.01 19:52:48"	lokasyon="ACIKGUNEY-KIGI (BINGOL)                           "	lat="39.2663"	lng="40.2357"	mag="1.8" Depth="9.8" />
 </eqlist>
