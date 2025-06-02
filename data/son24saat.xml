@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.01 23:12:27"	lokasyon="ERMENISTAN                                        "	lat="40.6940"	lng="44.2957"	mag="2.6" Depth="8.3" />
-	<earhquake	name="2025.06.01 23:17:29"	lokasyon="DEMIRKANAT-KIGI (BINGOL)                          "	lat="39.2240"	lng="40.2967"	mag="2.1" Depth="8.3" />
-	<earhquake	name="2025.06.01 23:32:25"	lokasyon="PINAR-KOYCEGIZ (MUGLA)                            "	lat="36.9332"	lng="28.8603"	mag="1.8" Depth="16.3" />
-	<earhquake	name="2025.06.01 23:52:01"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1437"	lng="38.4640"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.06.02 00:02:51"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2070"	lng="40.2703"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2025.06.02 00:06:03"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2343"	lng="40.2995"	mag="2.0" Depth="5.3" />
 	<earhquake	name="2025.06.02 00:18:51"	lokasyon="AGAMCAGAM-OTLUKBELI (ERZINCAN)                    "	lat="40.0415"	lng="40.0732"	mag="2.0" Depth="20.8" />
@@ -72,4 +68,6 @@
 	<earhquake	name="2025.06.02 21:30:43"	lokasyon="PINARARASI-MILAS (MUGLA)                          "	lat="37.1147"	lng="27.8542"	mag="1.4" Depth="9.0" />
 	<earhquake	name="2025.06.02 21:43:17"	lokasyon="KIRBAS-SERIK (ANTALYA)                            "	lat="37.1920"	lng="30.8612"	mag="1.6" Depth="107.6" />
 	<earhquake	name="2025.06.02 21:53:30"	lokasyon="DEMIRKANAT-KIGI (BINGOL)                          "	lat="39.2172"	lng="40.3135"	mag="1.7" Depth="18.3" />
+	<earhquake	name="2025.06.02 22:50:44"	lokasyon="CANAKCI-KIGI (BINGOL)                             "	lat="39.1567"	lng="40.3047"	mag="1.9" Depth="9.0" />
+	<earhquake	name="2025.06.02 22:58:42"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.3993"	lng="25.9352"	mag="2.3" Depth="9.1" />
 </eqlist>
