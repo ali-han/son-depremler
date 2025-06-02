@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.01 22:10:53"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2207"	lng="40.2720"	mag="2.9" Depth="5.7" />
-	<earhquake	name="2025.06.01 22:11:19"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0177"	lng="25.1630"	mag="2.5" Depth="8.6" />
-	<earhquake	name="2025.06.01 22:29:13"	lokasyon="DEMIRKANAT-KIGI (BINGOL)                          "	lat="39.2237"	lng="40.3033"	mag="2.0" Depth="4.2" />
 	<earhquake	name="2025.06.01 23:12:27"	lokasyon="ERMENISTAN                                        "	lat="40.6940"	lng="44.2957"	mag="2.6" Depth="8.3" />
 	<earhquake	name="2025.06.01 23:17:29"	lokasyon="DEMIRKANAT-KIGI (BINGOL)                          "	lat="39.2240"	lng="40.2967"	mag="2.1" Depth="8.3" />
 	<earhquake	name="2025.06.01 23:32:25"	lokasyon="PINAR-KOYCEGIZ (MUGLA)                            "	lat="36.9332"	lng="28.8603"	mag="1.8" Depth="16.3" />
@@ -71,5 +68,6 @@
 	<earhquake	name="2025.06.02 19:53:22"	lokasyon="EGE DENIZI                                        "	lat="35.7512"	lng="25.9195"	mag="2.8" Depth="61.7" />
 	<earhquake	name="2025.06.02 20:49:30"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2352"	lng="29.0807"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.06.02 20:55:36"	lokasyon="EGE DENIZI                                        "	lat="36.7260"	lng="25.6698"	mag="2.2" Depth="9.6" />
+	<earhquake	name="2025.06.02 21:00:44"	lokasyon="EGE DENIZI                                        "	lat="36.5463"	lng="27.8640"	mag="1.6" Depth="9.1" />
 	<earhquake	name="2025.06.02 21:30:43"	lokasyon="PINARARASI-MILAS (MUGLA)                          "	lat="37.1147"	lng="27.8542"	mag="1.4" Depth="0.0" />
 </eqlist>
