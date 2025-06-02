@@ -54,7 +54,7 @@
 	<earhquake	name="2025.06.02 01:31:24"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2388"	lng="40.2958"	mag="1.9" Depth="12.2" />
 	<earhquake	name="2025.06.02 01:43:12"	lokasyon="BASKAVAK-HEKIMHAN (MALATYA)                       "	lat="38.8113"	lng="38.1190"	mag="1.7" Depth="3.1" />
 	<earhquake	name="2025.06.02 01:49:51"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2273"	lng="40.2815"	mag="2.1" Depth="4.8" />
-	<earhquake	name="2025.06.02 02:06:59"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     REVIZE01   (2025.06.02 02:06:59)"	lat="38.5142"	lng="38.0153"	mag="2.5" Depth="5.0" />
+	<earhquake	name="2025.06.02 02:06:59"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     "	lat="38.5142"	lng="38.0153"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2025.06.02 02:11:27"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1833"	lng="40.2740"	mag="2.2" Depth="8.0" />
 	<earhquake	name="2025.06.02 02:16:09"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.7170"	lng="26.6605"	mag="2.4" Depth="11.4" />
 	<earhquake	name="2025.06.02 03:07:18"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     "	lat="38.5097"	lng="37.9995"	mag="1.4" Depth="8.0" />
@@ -79,4 +79,8 @@
 	<earhquake	name="2025.06.02 12:05:22"	lokasyon="KARACAAGAC-MILAS (MUGLA)                          "	lat="37.1625"	lng="27.8903"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2025.06.02 12:05:41"	lokasyon="GUZELBURC-(HATAY)                                 "	lat="36.2407"	lng="36.1992"	mag="1.3" Depth="5.4" />
 	<earhquake	name="2025.06.02 12:06:53"	lokasyon="KAYADERE-MILAS (MUGLA)                            "	lat="37.2058"	lng="27.9173"	mag="1.7" Depth="0.0" />
+	<earhquake	name="2025.06.02 12:24:32"	lokasyon="CICEKLI-BORNOVA (IZMIR)                           "	lat="38.4808"	lng="27.2963"	mag="1.0" Depth="22.0" />
+	<earhquake	name="2025.06.02 12:28:26"	lokasyon="CICEKLI-BORNOVA (IZMIR)                           "	lat="38.5082"	lng="27.2903"	mag="1.5" Depth="5.3" />
+	<earhquake	name="2025.06.02 12:32:05"	lokasyon="AGACLI-EYUP (ISTANBUL)                            "	lat="41.2953"	lng="28.9067"	mag="0.9" Depth="0.0" />
+	<earhquake	name="2025.06.02 12:40:35"	lokasyon="HORZUMKESERLER-ALASEHIR (MANISA)                  "	lat="38.3733"	lng="28.3408"	mag="1.9" Depth="12.5" />
 </eqlist>
