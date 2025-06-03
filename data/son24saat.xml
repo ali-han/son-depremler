@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.02 17:04:38"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2240"	lng="40.2765"	mag="2.2" Depth="11.3" />
-	<earhquake	name="2025.06.02 17:42:52"	lokasyon="KARAAGIL-HISARCIK (KUTAHYA)                       "	lat="39.2177"	lng="29.0753"	mag="1.9" Depth="10.0" />
-	<earhquake	name="2025.06.02 17:45:45"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2560"	lng="28.9595"	mag="2.0" Depth="8.5" />
-	<earhquake	name="2025.06.02 17:50:07"	lokasyon="BEYNAM-BALA (ANKARA)                              "	lat="39.6313"	lng="32.9690"	mag="1.4" Depth="15.7" />
-	<earhquake	name="2025.06.02 17:51:50"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2558"	lng="28.9502"	mag="1.4" Depth="10.8" />
 	<earhquake	name="2025.06.02 18:10:47"	lokasyon="EGE DENIZI                                        "	lat="36.7067"	lng="25.8292"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.06.02 18:25:32"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0807"	lng="25.1948"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.06.02 18:41:44"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2477"	lng="28.9927"	mag="1.2" Depth="4.4" />
@@ -81,4 +76,5 @@
 	<earhquake	name="2025.06.03 15:37:07"	lokasyon="EGE DENIZI                                        "	lat="36.7408"	lng="26.3030"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.06.03 15:53:10"	lokasyon="CANDIR-SELCUKLU (KONYA)                           "	lat="38.1168"	lng="32.6358"	mag="1.1" Depth="0.0" />
 	<earhquake	name="2025.06.03 16:15:37"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.4667"	lng="25.8860"	mag="1.7" Depth="9.9" />
+	<earhquake	name="2025.06.03 17:10:36"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2458"	lng="40.2838"	mag="2.4" Depth="12.0" />
 </eqlist>
