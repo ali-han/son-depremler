@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.02 20:49:30"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2352"	lng="29.0807"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2025.06.02 20:55:36"	lokasyon="EGE DENIZI                                        "	lat="36.7260"	lng="25.6698"	mag="2.2" Depth="9.6" />
-	<earhquake	name="2025.06.02 21:00:44"	lokasyon="EGE DENIZI                                        "	lat="36.5463"	lng="27.8640"	mag="1.6" Depth="9.1" />
-	<earhquake	name="2025.06.02 21:30:43"	lokasyon="PINARARASI-MILAS (MUGLA)                          "	lat="37.1147"	lng="27.8542"	mag="1.4" Depth="9.0" />
-	<earhquake	name="2025.06.02 21:43:17"	lokasyon="KIRBAS-SERIK (ANTALYA)                            "	lat="37.1920"	lng="30.8612"	mag="1.6" Depth="107.6" />
-	<earhquake	name="2025.06.02 21:53:30"	lokasyon="DEMIRKANAT-KIGI (BINGOL)                          "	lat="39.2172"	lng="40.3135"	mag="1.7" Depth="18.3" />
 	<earhquake	name="2025.06.02 22:50:44"	lokasyon="CANAKCI-KIGI (BINGOL)                             "	lat="39.1567"	lng="40.3047"	mag="1.9" Depth="9.0" />
 	<earhquake	name="2025.06.02 22:58:42"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.3993"	lng="25.9352"	mag="2.3" Depth="9.1" />
 	<earhquake	name="2025.06.02 23:20:49"	lokasyon="TANISIK-(MALATYA)                                 "	lat="38.2770"	lng="38.5677"	mag="2.4" Depth="5.0" />
@@ -72,7 +66,9 @@
 	<earhquake	name="2025.06.03 17:10:36"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2458"	lng="40.2838"	mag="2.4" Depth="12.0" />
 	<earhquake	name="2025.06.03 17:28:11"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2200"	lng="40.2740"	mag="2.2" Depth="7.1" />
 	<earhquake	name="2025.06.03 17:36:51"	lokasyon="DEDEYOLU-SIVRICE (ELAZIG)                         "	lat="38.4648"	lng="39.1890"	mag="1.4" Depth="5.0" />
+	<earhquake	name="2025.06.03 18:15:36"	lokasyon="DOGANCI-MANYAS (BALIKESIR)                        "	lat="40.0610"	lng="27.8165"	mag="1.7" Depth="19.7" />
 	<earhquake	name="2025.06.03 18:47:21"	lokasyon="CAKMAK-GONEN (BALIKESIR)                          "	lat="40.0940"	lng="27.7415"	mag="2.6" Depth="13.2" />
 	<earhquake	name="2025.06.03 18:53:58"	lokasyon="EGE DENIZI                                        "	lat="35.7433"	lng="25.5745"	mag="2.4" Depth="12.6" />
 	<earhquake	name="2025.06.03 18:57:47"	lokasyon="MARMARA DENIZI                                    "	lat="40.8142"	lng="28.1178"	mag="2.9" Depth="8.9" />
+	<earhquake	name="2025.06.03 20:21:24"	lokasyon="DAGYOLU-PULUMUR (TUNCELI)                         "	lat="39.5192"	lng="39.9442"	mag="2.4" Depth="8.2" />
 </eqlist>
