@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.03 02:17:27"	lokasyon="BOZBURUN ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.6750"	lng="28.2398"	mag="5.7" Depth="76.0" />
-	<earhquake	name="2025.06.03 02:27:59"	lokasyon="BOZBURUN ACIKLARI-MUGLA (EGE DENIZI)              "	lat="36.6310"	lng="27.9702"	mag="2.3" Depth="81.0" />
-	<earhquake	name="2025.06.03 02:41:22"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9128"	lng="28.0010"	mag="1.4" Depth="15.3" />
-	<earhquake	name="2025.06.03 02:45:01"	lokasyon="BOZBURUN ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.5837"	lng="28.1857"	mag="2.0" Depth="68.3" />
-	<earhquake	name="2025.06.03 02:47:43"	lokasyon="KARACA-MARMARIS (MUGLA)                           "	lat="36.9283"	lng="28.1942"	mag="1.4" Depth="12.0" />
 	<earhquake	name="2025.06.03 03:01:06"	lokasyon="BAYIR-MARMARIS (MUGLA)                            "	lat="36.6957"	lng="28.1603"	mag="2.9" Depth="80.1" />
 	<earhquake	name="2025.06.03 03:06:58"	lokasyon="AKKAYA-(MUGLA)                                    "	lat="37.1642"	lng="28.3358"	mag="2.2" Depth="17.0" />
 	<earhquake	name="2025.06.03 03:20:15"	lokasyon="AKDENIZ                                           "	lat="36.1173"	lng="29.0485"	mag="2.1" Depth="6.3" />
@@ -77,4 +72,7 @@
 	<earhquake	name="2025.06.04 00:59:29"	lokasyon="MERTEKLI-(ERZINCAN)                               "	lat="39.6633"	lng="39.7185"	mag="1.5" Depth="8.6" />
 	<earhquake	name="2025.06.04 01:13:33"	lokasyon="OPANOZU-TAVSANLI (KUTAHYA)                        "	lat="39.4805"	lng="29.3285"	mag="1.4" Depth="13.3" />
 	<earhquake	name="2025.06.04 01:17:13"	lokasyon="KIRKBAS-YALVAC (ISPARTA)                          "	lat="38.3792"	lng="30.9965"	mag="1.1" Depth="4.5" />
+	<earhquake	name="2025.06.04 01:34:29"	lokasyon="CAMLARCA-KOZAN (ADANA)                            "	lat="37.6588"	lng="35.9645"	mag="1.9" Depth="3.6" />
+	<earhquake	name="2025.06.04 01:48:15"	lokasyon="MINNETLI-KOZAN (ADANA)                            "	lat="37.5972"	lng="35.9627"	mag="1.8" Depth="3.7" />
+	<earhquake	name="2025.06.04 01:57:35"	lokasyon="CULLUUSAGI-KOZAN (ADANA)                          "	lat="37.6770"	lng="35.8992"	mag="1.9" Depth="5.0" />
 </eqlist>
