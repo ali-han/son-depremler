@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.04 03:04:00"	lokasyon="CAMLARCA-KOZAN (ADANA)                            "	lat="37.6398"	lng="35.9660"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2025.06.04 03:04:33"	lokasyon="GOKCEPINAR-SERIK (ANTALYA)                        "	lat="37.0877"	lng="31.0452"	mag="1.8" Depth="73.4" />
-	<earhquake	name="2025.06.04 03:33:27"	lokasyon="ORMELI-PUTURGE (MALATYA)                          "	lat="38.2503"	lng="38.8603"	mag="0.8" Depth="17.5" />
-	<earhquake	name="2025.06.04 03:36:07"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2430"	lng="29.0158"	mag="1.5" Depth="5.3" />
-	<earhquake	name="2025.06.04 03:48:22"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2480"	lng="29.0257"	mag="1.6" Depth="5.3" />
-	<earhquake	name="2025.06.04 03:56:02"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6738"	lng="35.9907"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2025.06.04 04:04:03"	lokasyon="AGARTI-(VAN)                                      "	lat="38.7070"	lng="43.1755"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2025.06.04 04:06:11"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4213"	lng="28.9027"	mag="2.2" Depth="11.3" />
-	<earhquake	name="2025.06.04 04:21:00"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2088"	lng="29.0663"	mag="1.5" Depth="11.3" />
-	<earhquake	name="2025.06.04 04:45:19"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2280"	lng="29.0807"	mag="1.2" Depth="5.0" />
-	<earhquake	name="2025.06.04 05:06:03"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="37.9973"	lng="37.6028"	mag="2.6" Depth="5.0" />
-	<earhquake	name="2025.06.04 05:22:56"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="37.9793"	lng="37.5775"	mag="1.6" Depth="6.9" />
-	<earhquake	name="2025.06.04 05:40:22"	lokasyon="EGERLIDEREKOY-KIZILCAHAMAM (ANKARA)               "	lat="40.5493"	lng="32.7423"	mag="2.4" Depth="7.1" />
-	<earhquake	name="2025.06.04 05:40:47"	lokasyon="KUSDOGAN-YESILYURT (MALATYA)                      "	lat="38.3395"	lng="38.1433"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2025.06.04 05:49:45"	lokasyon="EGERLIDEREKOY-KIZILCAHAMAM (ANKARA)               "	lat="40.5673"	lng="32.7415"	mag="1.4" Depth="5.0" />
-	<earhquake	name="2025.06.04 06:44:38"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0653"	lng="37.6062"	mag="1.6" Depth="8.0" />
-	<earhquake	name="2025.06.04 06:46:35"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2387"	lng="40.3075"	mag="2.6" Depth="5.8" />
 	<earhquake	name="2025.06.04 07:04:30"	lokasyon="EGE DENIZI                                        "	lat="35.8340"	lng="25.5930"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2025.06.04 07:25:50"	lokasyon="BENTKOY-KALE (MALATYA)                            "	lat="38.3442"	lng="38.7118"	mag="1.6" Depth="16.3" />
 	<earhquake	name="2025.06.04 07:39:57"	lokasyon="HISARTEPE-(MALATYA)                               "	lat="38.3193"	lng="38.5763"	mag="1.6" Depth="24.2" />
@@ -67,4 +50,7 @@
 	<earhquake	name="2025.06.05 01:12:06"	lokasyon="OGLAKOREN-(HATAY)                                 "	lat="36.2920"	lng="36.1355"	mag="2.7" Depth="6.4" />
 	<earhquake	name="2025.06.05 01:14:10"	lokasyon="ORTAOREN-EKINOZU (KAHRAMANMARAS)                  "	lat="38.0898"	lng="37.1132"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2025.06.05 01:46:04"	lokasyon="OTMANLAR-KOYCEGIZ (MUGLA)                         "	lat="37.1198"	lng="28.8518"	mag="1.5" Depth="13.1" />
+	<earhquake	name="2025.06.05 02:37:59"	lokasyon="OVAKENT-(HATAY)                                   "	lat="36.3863"	lng="36.2452"	mag="1.1" Depth="9.8" />
+	<earhquake	name="2025.06.05 04:04:10"	lokasyon="AKDENIZ                                           "	lat="35.6805"	lng="30.8888"	mag="1.8" Depth="11.1" />
+	<earhquake	name="2025.06.05 04:09:25"	lokasyon="GELINPERTEK-YEDISU (BINGOL)                       "	lat="39.4165"	lng="40.3867"	mag="2.0" Depth="3.1" />
 </eqlist>
