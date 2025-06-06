@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.05 17:04:56"	lokasyon="EGE DENIZI                                        "	lat="36.6240"	lng="25.6567"	mag="2.2" Depth="7.9" />
-	<earhquake	name="2025.06.05 17:05:16"	lokasyon="MARMARA DENIZI                                    "	lat="40.7360"	lng="28.6242"	mag="1.7" Depth="18.0" />
-	<earhquake	name="2025.06.05 17:23:21"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.6283"	lng="25.2708"	mag="2.0" Depth="15.4" />
-	<earhquake	name="2025.06.05 17:37:04"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6167"	lng="36.0123"	mag="1.8" Depth="11.2" />
 	<earhquake	name="2025.06.05 18:11:26"	lokasyon="ILICAK-AKCADAG (MALATYA)                          "	lat="38.5015"	lng="38.0537"	mag="1.4" Depth="12.2" />
 	<earhquake	name="2025.06.05 18:32:28"	lokasyon="AKDENIZ                                           "	lat="36.1115"	lng="28.5275"	mag="2.0" Depth="28.5" />
 	<earhquake	name="2025.06.05 18:36:54"	lokasyon="CITAK-ALIAGA (IZMIR)                              "	lat="38.7605"	lng="27.0335"	mag="1.6" Depth="4.3" />
@@ -84,4 +80,6 @@
 	<earhquake	name="2025.06.06 16:00:41"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5583"	lng="37.9922"	mag="1.4" Depth="6.9" />
 	<earhquake	name="2025.06.06 16:02:24"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.7188"	lng="27.4102"	mag="1.3" Depth="10.4" />
 	<earhquake	name="2025.06.06 16:04:03"	lokasyon="ALINCIK-SIVRICE (ELAZIG)                          "	lat="38.4672"	lng="39.2222"	mag="2.6" Depth="1.5" />
+	<earhquake	name="2025.06.06 16:58:29"	lokasyon="YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)               "	lat="38.3615"	lng="37.5265"	mag="1.3" Depth="6.0" />
+	<earhquake	name="2025.06.06 17:16:01"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5615"	lng="37.9780"	mag="2.0" Depth="3.8" />
 </eqlist>
