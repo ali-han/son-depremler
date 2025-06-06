@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.05 09:00:20"	lokasyon="EGE DENIZI                                        "	lat="36.4385"	lng="28.0655"	mag="1.4" Depth="33.3" />
-	<earhquake	name="2025.06.05 09:00:53"	lokasyon="YUNANISTAN                                        "	lat="38.4438"	lng="23.6137"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2025.06.05 09:16:21"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.5522"	lng="23.1995"	mag="2.8" Depth="23.1" />
-	<earhquake	name="2025.06.05 09:49:51"	lokasyon="ZEYNELLI-YAYLADERE (BINGOL)                       "	lat="39.2248"	lng="40.2100"	mag="1.5" Depth="13.9" />
 	<earhquake	name="2025.06.05 10:04:03"	lokasyon="CATALKAYA-ALACA (CORUM)                           "	lat="40.0292"	lng="34.9880"	mag="1.6" Depth="14.1" />
 	<earhquake	name="2025.06.05 10:08:50"	lokasyon="KEMER-BIGA (CANAKKALE)                            "	lat="40.4115"	lng="26.9983"	mag="1.6" Depth="21.5" />
 	<earhquake	name="2025.06.05 10:09:32"	lokasyon="BURHANLI-CEYHAN (ADANA)                           "	lat="37.1482"	lng="36.0857"	mag="1.7" Depth="25.2" />
@@ -83,4 +79,6 @@
 	<earhquake	name="2025.06.06 06:12:27"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2312"	lng="38.5737"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.06.06 06:38:52"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2498"	lng="40.3178"	mag="1.4" Depth="25.8" />
 	<earhquake	name="2025.06.06 07:13:30"	lokasyon="SARKOY-BURHANIYE (BALIKESIR)                      "	lat="39.4665"	lng="26.9800"	mag="1.4" Depth="11.9" />
+	<earhquake	name="2025.06.06 08:38:04"	lokasyon="MARMARA DENIZI                                    "	lat="40.8393"	lng="28.2918"	mag="1.5" Depth="18.1" />
+	<earhquake	name="2025.06.06 09:21:20"	lokasyon="OSMANCIK-ANDIRIN (KAHRAMANMARAS)                  "	lat="37.7215"	lng="36.2500"	mag="1.4" Depth="5.4" />
 </eqlist>
