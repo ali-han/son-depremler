@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.06 16:00:41"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5583"	lng="37.9922"	mag="1.4" Depth="6.9" />
-	<earhquake	name="2025.06.06 16:02:24"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.7188"	lng="27.4102"	mag="1.3" Depth="10.4" />
-	<earhquake	name="2025.06.06 16:04:03"	lokasyon="ALINCIK-SIVRICE (ELAZIG)                          "	lat="38.4672"	lng="39.2222"	mag="2.6" Depth="1.5" />
-	<earhquake	name="2025.06.06 16:58:29"	lokasyon="YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)               "	lat="38.3615"	lng="37.5265"	mag="1.3" Depth="6.0" />
-	<earhquake	name="2025.06.06 16:58:56"	lokasyon="MARMARA DENIZI                                    "	lat="40.8560"	lng="28.0812"	mag="1.6" Depth="25.3" />
 	<earhquake	name="2025.06.06 17:16:01"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5615"	lng="37.9780"	mag="2.0" Depth="3.8" />
 	<earhquake	name="2025.06.06 17:33:36"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2505"	lng="28.9825"	mag="1.5" Depth="9.4" />
 	<earhquake	name="2025.06.06 17:38:03"	lokasyon="KORASI-TUZLUKCU (KONYA)                           "	lat="38.6153"	lng="31.6832"	mag="1.5" Depth="8.2" />
@@ -91,5 +86,9 @@
 	<earhquake	name="2025.06.07 14:14:18"	lokasyon="AKDENIZ                                           "	lat="36.4222"	lng="28.7537"	mag="3.2" Depth="6.5" />
 	<earhquake	name="2025.06.07 14:48:44"	lokasyon="AKDENIZ                                           "	lat="36.3887"	lng="28.7492"	mag="1.6" Depth="13.2" />
 	<earhquake	name="2025.06.07 14:50:06"	lokasyon="DARICILAR-DAZKIRI (AFYONKARAHISAR)                "	lat="37.8575"	lng="29.7210"	mag="1.2" Depth="2.7" />
+	<earhquake	name="2025.06.07 14:55:25"	lokasyon="SALKIMLI-KALE (MALATYA)                           "	lat="38.4037"	lng="38.7447"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.06.07 14:56:11"	lokasyon="MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI"	lat="40.8432"	lng="28.0012"	mag="1.7" Depth="16.7" />
+	<earhquake	name="2025.06.07 15:23:07"	lokasyon="SINNELI-KAS (ANTALYA)                             "	lat="36.3353"	lng="29.6422"	mag="1.5" Depth="49.3" />
+	<earhquake	name="2025.06.07 15:46:18"	lokasyon="YUNANISTAN                                        "	lat="40.3217"	lng="24.1425"	mag="5.4" Depth="12.2" />
+	<earhquake	name="2025.06.07 15:53:53"	lokasyon="YUNANISTAN                                        "	lat="40.3125"	lng="24.1388"	mag="3.9" Depth="11.4" />
 </eqlist>
