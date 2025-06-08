@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.07 16:11:18"	lokasyon="YUNANISTAN                                        "	lat="40.3563"	lng="24.1377"	mag="3.3" Depth="7.6" />
-	<earhquake	name="2025.06.07 16:23:14"	lokasyon="YUNANISTAN                                        "	lat="40.3162"	lng="24.1150"	mag="2.2" Depth="12.6" />
-	<earhquake	name="2025.06.07 16:25:15"	lokasyon="YUNANISTAN                                        "	lat="40.2362"	lng="24.1212"	mag="2.7" Depth="7.2" />
-	<earhquake	name="2025.06.07 16:33:26"	lokasyon="GOLCUK-ULA (MUGLA)                                "	lat="37.1285"	lng="28.5460"	mag="1.8" Depth="6.2" />
-	<earhquake	name="2025.06.07 16:40:35"	lokasyon="GENCALI-SENIRKENT (ISPARTA)                       "	lat="38.2370"	lng="30.7722"	mag="1.5" Depth="7.9" />
-	<earhquake	name="2025.06.07 16:54:25"	lokasyon="YUNANISTAN                                        "	lat="40.2982"	lng="24.0920"	mag="2.4" Depth="5.1" />
 	<earhquake	name="2025.06.07 17:01:43"	lokasyon="YUNANISTAN                                        "	lat="40.2993"	lng="24.1392"	mag="2.5" Depth="5.4" />
 	<earhquake	name="2025.06.07 17:04:18"	lokasyon="YUNANISTAN                                        "	lat="40.2340"	lng="24.1025"	mag="2.0" Depth="10.1" />
 	<earhquake	name="2025.06.07 17:07:07"	lokasyon="YUNANISTAN                                        "	lat="40.3093"	lng="24.1332"	mag="2.1" Depth="5.5" />
@@ -103,4 +97,8 @@
 	<earhquake	name="2025.06.08 14:28:41"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2023"	lng="29.0127"	mag="2.3" Depth="5.4" />
 	<earhquake	name="2025.06.08 14:32:33"	lokasyon="SENKOY-SIMAV (KUTAHYA)                            "	lat="39.1205"	lng="29.1310"	mag="0.9" Depth="5.0" />
 	<earhquake	name="2025.06.08 15:23:49"	lokasyon="MARMARA DENIZI                                    "	lat="40.8295"	lng="28.4158"	mag="1.9" Depth="13.6" />
+	<earhquake	name="2025.06.08 15:28:31"	lokasyon="MARMARA DENIZI                                    "	lat="40.8115"	lng="28.1222"	mag="1.9" Depth="7.8" />
+	<earhquake	name="2025.06.08 15:43:23"	lokasyon="YUNANISTAN                                        "	lat="40.3342"	lng="24.1090"	mag="2.0" Depth="7.0" />
+	<earhquake	name="2025.06.08 16:03:46"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.1962"	lng="31.7700"	mag="2.0" Depth="5.0" />
+	<earhquake	name="2025.06.08 16:06:53"	lokasyon="SOGUT-SIMAV (KUTAHYA)                             "	lat="39.1677"	lng="29.0953"	mag="1.7" Depth="10.4" />
 </eqlist>
