@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.07 19:07:36"	lokasyon="YAZIKOY-AFSIN (KAHRAMANMARAS)                     "	lat="38.1560"	lng="36.7303"	mag="1.8" Depth="1.9" />
-	<earhquake	name="2025.06.07 19:09:28"	lokasyon="EGE DENIZI                                        "	lat="36.5020"	lng="26.7167"	mag="4.2" Depth="120.3" />
-	<earhquake	name="2025.06.07 19:24:01"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2273"	lng="29.0177"	mag="2.1" Depth="7.4" />
-	<earhquake	name="2025.06.07 19:37:06"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2258"	lng="29.0240"	mag="2.1" Depth="5.4" />
-	<earhquake	name="2025.06.07 19:42:25"	lokasyon="MEVLUTLU-TUZLUKCU (KONYA)                         "	lat="38.6202"	lng="31.5902"	mag="1.2" Depth="11.2" />
 	<earhquake	name="2025.06.07 20:14:37"	lokasyon="YUNANISTAN                                        "	lat="40.3445"	lng="24.1757"	mag="3.0" Depth="6.4" />
 	<earhquake	name="2025.06.07 20:24:35"	lokasyon="TAHTALI-YAZIHAN (MALATYA)                         "	lat="38.6235"	lng="37.9587"	mag="1.5" Depth="4.6" />
 	<earhquake	name="2025.06.07 20:37:03"	lokasyon="TAHTALI-CUMRA (KONYA)                             "	lat="37.3073"	lng="32.4248"	mag="1.7" Depth="8.1" />
@@ -106,4 +101,5 @@
 	<earhquake	name="2025.06.08 18:22:12"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2328"	lng="29.0267"	mag="2.3" Depth="5.4" />
 	<earhquake	name="2025.06.08 18:29:35"	lokasyon="YUNANISTAN                                        "	lat="40.2792"	lng="24.1557"	mag="2.0" Depth="13.2" />
 	<earhquake	name="2025.06.08 18:32:05"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2023"	lng="29.0527"	mag="2.1" Depth="12.3" />
+	<earhquake	name="2025.06.08 19:08:34"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1980"	lng="40.2682"	mag="2.0" Depth="11.6" />
 </eqlist>
