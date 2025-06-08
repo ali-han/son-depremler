@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.07 08:02:14"	lokasyon="TURKIYE-IRAN SINIR BOLGESI                        "	lat="38.5428"	lng="44.7818"	mag="2.9" Depth="5.0" />
-	<earhquake	name="2025.06.07 08:25:27"	lokasyon="YUNANISTAN                                        "	lat="40.2240"	lng="24.0367"	mag="2.2" Depth="6.0" />
-	<earhquake	name="2025.06.07 08:45:46"	lokasyon="OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.4538"	lng="28.9483"	mag="1.8" Depth="8.4" />
-	<earhquake	name="2025.06.07 08:46:08"	lokasyon="OZCANLI-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.0853"	lng="37.3037"	mag="1.4" Depth="5.0" />
-	<earhquake	name="2025.06.07 08:54:39"	lokasyon="KULEONU-(ISPARTA)                                 "	lat="37.8503"	lng="30.6530"	mag="1.8" Depth="6.8" />
-	<earhquake	name="2025.06.07 08:55:02"	lokasyon="MARMARA DENIZI                                    "	lat="40.8435"	lng="28.4180"	mag="1.7" Depth="19.1" />
-	<earhquake	name="2025.06.07 08:55:56"	lokasyon="NALINLAR-ORHANELI (BURSA)                         "	lat="40.0312"	lng="28.8877"	mag="1.4" Depth="8.0" />
 	<earhquake	name="2025.06.07 09:01:41"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2485"	lng="29.0078"	mag="1.0" Depth="10.1" />
 	<earhquake	name="2025.06.07 09:08:33"	lokasyon="KANLIKAVAK-GOKSUN (KAHRAMANMARAS)                 "	lat="38.1180"	lng="36.5940"	mag="1.4" Depth="5.4" />
 	<earhquake	name="2025.06.07 09:28:09"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2565"	lng="38.1153"	mag="1.5" Depth="9.3" />
@@ -93,4 +86,5 @@
 	<earhquake	name="2025.06.08 06:51:34"	lokasyon="SARITAS-BASKIL (ELAZIG)                           "	lat="38.4263"	lng="38.9408"	mag="2.0" Depth="16.2" />
 	<earhquake	name="2025.06.08 07:20:42"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1717"	lng="37.8028"	mag="1.6" Depth="8.0" />
 	<earhquake	name="2025.06.08 07:36:42"	lokasyon="YUNANISTAN                                        "	lat="40.3147"	lng="24.1273"	mag="2.1" Depth="6.8" />
+	<earhquake	name="2025.06.08 08:27:53"	lokasyon="COMLEKCI-BIGA (CANAKKALE)                         "	lat="40.2302"	lng="27.0162"	mag="1.4" Depth="12.2" />
 </eqlist>
