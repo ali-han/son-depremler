@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.07 14:01:06"	lokasyon="EGE DENIZI                                        "	lat="36.5952"	lng="26.8222"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2025.06.07 14:14:18"	lokasyon="AKDENIZ                                           "	lat="36.4222"	lng="28.7537"	mag="3.2" Depth="6.5" />
-	<earhquake	name="2025.06.07 14:48:44"	lokasyon="AKDENIZ                                           "	lat="36.3887"	lng="28.7492"	mag="1.6" Depth="13.2" />
-	<earhquake	name="2025.06.07 14:50:06"	lokasyon="DARICILAR-DAZKIRI (AFYONKARAHISAR)                "	lat="37.8575"	lng="29.7210"	mag="1.2" Depth="2.7" />
-	<earhquake	name="2025.06.07 14:55:25"	lokasyon="SALKIMLI-KALE (MALATYA)                           "	lat="38.4037"	lng="38.7447"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.06.07 14:56:11"	lokasyon="MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI"	lat="40.8432"	lng="28.0012"	mag="1.7" Depth="16.7" />
 	<earhquake	name="2025.06.07 15:23:07"	lokasyon="SINNELI-KAS (ANTALYA)                             "	lat="36.3353"	lng="29.6422"	mag="1.5" Depth="49.3" />
 	<earhquake	name="2025.06.07 15:46:18"	lokasyon="YUNANISTAN                                        "	lat="40.3217"	lng="24.1425"	mag="5.4" Depth="12.2" />
 	<earhquake	name="2025.06.07 15:53:53"	lokasyon="YUNANISTAN                                        "	lat="40.3125"	lng="24.1388"	mag="3.9" Depth="11.4" />
@@ -90,6 +84,7 @@
 	<earhquake	name="2025.06.08 11:30:58"	lokasyon="AKDENIZ                                           "	lat="36.0042"	lng="28.1598"	mag="1.7" Depth="7.9" />
 	<earhquake	name="2025.06.08 11:35:17"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2352"	lng="29.0108"	mag="1.5" Depth="5.3" />
 	<earhquake	name="2025.06.08 11:41:40"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8472"	lng="28.2662"	mag="1.6" Depth="17.0" />
+	<earhquake	name="2025.06.08 11:45:21"	lokasyon="YUNANISTAN                                        "	lat="40.3033"	lng="24.0962"	mag="1.6" Depth="4.5" />
 	<earhquake	name="2025.06.08 11:56:30"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2468"	lng="37.7563"	mag="1.3" Depth="7.8" />
 	<earhquake	name="2025.06.08 12:02:09"	lokasyon="KARACAAGAC-MILAS (MUGLA)                          "	lat="37.1715"	lng="27.9200"	mag="1.8" Depth="16.9" />
 	<earhquake	name="2025.06.08 12:07:21"	lokasyon="SEKKOY-MILAS (MUGLA)                              "	lat="37.1275"	lng="27.9038"	mag="1.6" Depth="12.5" />
