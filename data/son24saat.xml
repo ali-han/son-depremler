@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.08 21:29:13"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1875"	lng="29.0670"	mag="1.6" Depth="11.9" />
-	<earhquake	name="2025.06.08 21:29:41"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6675"	lng="35.9860"	mag="1.5" Depth="5.3" />
-	<earhquake	name="2025.06.08 21:59:00"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6503"	lng="35.9307"	mag="3.3" Depth="5.0" />
 	<earhquake	name="2025.06.08 22:05:20"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2060"	lng="29.0580"	mag="1.8" Depth="11.3" />
 	<earhquake	name="2025.06.08 22:18:21"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2187"	lng="29.0292"	mag="1.7" Depth="5.1" />
 	<earhquake	name="2025.06.08 22:23:41"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2253"	lng="28.9785"	mag="1.4" Depth="11.7" />
@@ -102,4 +99,7 @@
 	<earhquake	name="2025.06.09 19:40:27"	lokasyon="TURGUT-ULA (MUGLA)                                "	lat="37.1500"	lng="28.6848"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.06.09 20:14:28"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1747"	lng="29.0710"	mag="1.7" Depth="11.5" />
 	<earhquake	name="2025.06.09 20:25:33"	lokasyon="KARADUT-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0832"	lng="36.9737"	mag="1.5" Depth="19.4" />
+	<earhquake	name="2025.06.09 20:47:08"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2365"	lng="29.0005"	mag="2.5" Depth="5.3" />
+	<earhquake	name="2025.06.09 20:53:26"	lokasyon="HAMAMLI-ERDEK (BALIKESIR)                         "	lat="40.3972"	lng="27.8890"	mag="3.6" Depth="11.2" />
+	<earhquake	name="2025.06.09 20:54:43"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2020"	lng="29.0552"	mag="2.1" Depth="9.5" />
 </eqlist>
