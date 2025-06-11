@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.10 15:03:25"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8405"	lng="28.7532"	mag="2.1" Depth="10.4" />
-	<earhquake	name="2025.06.10 15:33:09"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="36.1725"	lng="28.1030"	mag="2.2" Depth="6.2" />
-	<earhquake	name="2025.06.10 15:39:45"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6540"	lng="35.9562"	mag="2.3" Depth="13.5" />
-	<earhquake	name="2025.06.10 15:56:19"	lokasyon="MAHYALAR-KOZAN (ADANA)                            "	lat="37.6777"	lng="35.9142"	mag="2.5" Depth="6.8" />
 	<earhquake	name="2025.06.10 16:48:12"	lokasyon="AHLATLICESME-SIMAV (KUTAHYA)                      "	lat="39.1472"	lng="29.0497"	mag="1.9" Depth="14.5" />
 	<earhquake	name="2025.06.10 17:46:55"	lokasyon="AHLATLICESME-SIMAV (KUTAHYA)                      "	lat="39.1497"	lng="29.0560"	mag="1.9" Depth="14.9" />
 	<earhquake	name="2025.06.10 17:55:34"	lokasyon="KARGIN-BIGADIC (BALIKESIR)                        "	lat="39.3818"	lng="28.2110"	mag="2.0" Depth="14.3" />
@@ -70,4 +66,6 @@
 	<earhquake	name="2025.06.11 13:43:35"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.6512"	lng="25.6935"	mag="2.0" Depth="21.3" />
 	<earhquake	name="2025.06.11 14:31:33"	lokasyon="KERTMEKARACAOREN-ULAS (SIVAS)                     "	lat="39.4412"	lng="37.3055"	mag="1.9" Depth="6.8" />
 	<earhquake	name="2025.06.11 14:46:43"	lokasyon="ORENLICE-ULAS (SIVAS)                             "	lat="39.4355"	lng="37.2818"	mag="2.3" Depth="1.8" />
+	<earhquake	name="2025.06.11 14:49:37"	lokasyon="ORENLICE-ULAS (SIVAS)                             "	lat="39.4357"	lng="37.2843"	mag="2.1" Depth="9.9" />
+	<earhquake	name="2025.06.11 15:07:41"	lokasyon="ASAGIULUPINAR-DARENDE (MALATYA)                   "	lat="38.4212"	lng="37.6123"	mag="1.2" Depth="3.3" />
 </eqlist>
