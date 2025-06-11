@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.11 00:05:44"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2287"	lng="29.0332"	mag="1.8" Depth="2.2" />
-	<earhquake	name="2025.06.11 00:08:52"	lokasyon="BAYIRDUZU-HAZRO (DIYARBAKIR)                      "	lat="38.1843"	lng="40.8345"	mag="2.3" Depth="1.2" />
-	<earhquake	name="2025.06.11 00:21:55"	lokasyon="KUSBURNU-(BINGOL)                                 "	lat="38.8933"	lng="40.8203"	mag="1.8" Depth="15.3" />
-	<earhquake	name="2025.06.11 00:23:49"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2348"	lng="29.0007"	mag="2.6" Depth="4.9" />
-	<earhquake	name="2025.06.11 00:37:27"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.3902"	lng="37.5042"	mag="1.4" Depth="13.1" />
-	<earhquake	name="2025.06.11 00:37:38"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2453"	lng="28.9828"	mag="1.6" Depth="11.6" />
 	<earhquake	name="2025.06.11 01:04:25"	lokasyon="KUYUCAK-(MUGLA)                                   "	lat="37.0915"	lng="28.3082"	mag="1.3" Depth="5.2" />
 	<earhquake	name="2025.06.11 01:06:14"	lokasyon="KIZILAGAC-ULA (MUGLA)                             "	lat="37.0812"	lng="28.3617"	mag="1.2" Depth="3.7" />
 	<earhquake	name="2025.06.11 01:10:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2368"	lng="29.0117"	mag="2.8" Depth="5.3" />
@@ -77,5 +71,8 @@
 	<earhquake	name="2025.06.11 21:46:57"	lokasyon="KAYABASI-(AMASYA)                                 "	lat="40.5698"	lng="35.7738"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.06.11 21:57:33"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1520"	lng="29.1350"	mag="1.6" Depth="17.6" />
 	<earhquake	name="2025.06.11 22:28:39"	lokasyon="AKDENIZ                                           "	lat="36.0878"	lng="28.5755"	mag="1.7" Depth="10.5" />
+	<earhquake	name="2025.06.11 23:04:08"	lokasyon="DELIALIUSAGI-YAHYALI (KAYSERI)                    "	lat="37.9748"	lng="35.6033"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2025.06.11 23:05:36"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2165"	lng="29.0333"	mag="1.7" Depth="11.9" />
+	<earhquake	name="2025.06.11 23:17:19"	lokasyon="ASAGIGUNEY-BEYPAZARI (ANKARA)                     "	lat="40.3192"	lng="31.7672"	mag="1.8" Depth="4.3" />
+	<earhquake	name="2025.06.11 23:17:57"	lokasyon="ZAFER-BUCA (IZMIR)                                "	lat="38.3478"	lng="27.1980"	mag="1.1" Depth="7.7" />
 </eqlist>
