@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.11 10:21:32"	lokasyon="EGE DENIZI                                        "	lat="36.7445"	lng="25.6535"	mag="1.7" Depth="4.6" />
-	<earhquake	name="2025.06.11 10:22:47"	lokasyon="ESKIKARAHISAR-ULAS (SIVAS)                        "	lat="39.4237"	lng="37.2538"	mag="3.3" Depth="5.0" />
 	<earhquake	name="2025.06.11 11:22:22"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2250"	lng="29.0147"	mag="2.1" Depth="4.8" />
 	<earhquake	name="2025.06.11 11:26:14"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2147"	lng="29.0020"	mag="1.9" Depth="5.3" />
 	<earhquake	name="2025.06.11 11:28:32"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0032"	lng="37.6152"	mag="1.7" Depth="3.1" />
@@ -86,4 +84,7 @@
 	<earhquake	name="2025.06.12 08:57:24"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0828"	lng="33.2645"	mag="1.3" Depth="5.1" />
 	<earhquake	name="2025.06.12 09:24:52"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2493"	lng="28.9842"	mag="1.7" Depth="6.9" />
 	<earhquake	name="2025.06.12 09:38:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2393"	lng="29.0062"	mag="1.4" Depth="9.8" />
+	<earhquake	name="2025.06.12 09:44:46"	lokasyon="YUNANISTAN                                        "	lat="40.3378"	lng="24.1328"	mag="3.0" Depth="12.7" />
+	<earhquake	name="2025.06.12 09:47:23"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2317"	lng="28.9858"	mag="2.2" Depth="4.8" />
+	<earhquake	name="2025.06.12 09:53:25"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2317"	lng="29.0238"	mag="2.1" Depth="5.4" />
 </eqlist>
