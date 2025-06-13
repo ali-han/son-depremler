@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.12 13:01:52"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.2585"	lng="33.5667"	mag="1.5" Depth="0.0" />
-	<earhquake	name="2025.06.12 13:04:46"	lokasyon="TUNCBILEK-TAVSANLI (KUTAHYA)                      "	lat="39.6333"	lng="29.5110"	mag="1.6" Depth="0.0" />
-	<earhquake	name="2025.06.12 13:27:59"	lokasyon="NASLAR-YIGILCA (DUZCE)                            "	lat="40.9755"	lng="31.4180"	mag="1.6" Depth="5.1" />
 	<earhquake	name="2025.06.12 14:00:26"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2275"	lng="29.0055"	mag="2.2" Depth="5.7" />
 	<earhquake	name="2025.06.12 14:04:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2407"	lng="29.0037"	mag="1.8" Depth="7.5" />
 	<earhquake	name="2025.06.12 14:06:50"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2347"	lng="29.0148"	mag="1.7" Depth="5.4" />
@@ -79,4 +76,6 @@
 	<earhquake	name="2025.06.13 11:52:32"	lokasyon="KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               "	lat="37.8367"	lng="36.3492"	mag="2.1" Depth="5.3" />
 	<earhquake	name="2025.06.13 11:58:59"	lokasyon="CAMLARCA-KOZAN (ADANA)                            "	lat="37.6523"	lng="35.9675"	mag="3.0" Depth="3.3" />
 	<earhquake	name="2025.06.13 12:16:07"	lokasyon="BUKRECIK-SINDIRGI (BALIKESIR)                     "	lat="39.2672"	lng="27.9383"	mag="2.3" Depth="17.7" />
+	<earhquake	name="2025.06.13 12:53:28"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6387"	lng="35.9865"	mag="2.6" Depth="4.2" />
+	<earhquake	name="2025.06.13 13:25:01"	lokasyon="KARAHAMZALI-KOZAN (ADANA)                         "	lat="37.5803"	lng="35.9633"	mag="1.9" Depth="8.9" />
 </eqlist>
