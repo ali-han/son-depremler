@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.13 15:21:18"	lokasyon="TURGUT-ULA (MUGLA)                                "	lat="37.1527"	lng="28.6472"	mag="1.9" Depth="9.0" />
-	<earhquake	name="2025.06.13 15:27:19"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.8358"	lng="26.6200"	mag="1.7" Depth="23.4" />
-	<earhquake	name="2025.06.13 15:29:36"	lokasyon="YAGMURLAR-SIMAV (KUTAHYA)                         "	lat="39.0665"	lng="29.1493"	mag="1.6" Depth="27.5" />
-	<earhquake	name="2025.06.13 15:46:27"	lokasyon="ISKENDERUN KORFEZI (AKDENIZ)                      "	lat="36.3438"	lng="35.7727"	mag="1.7" Depth="8.3" />
-	<earhquake	name="2025.06.13 15:50:16"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2345"	lng="29.0130"	mag="2.6" Depth="1.9" />
 	<earhquake	name="2025.06.13 16:20:49"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.2152"	lng="40.2848"	mag="3.6" Depth="1.0" />
 	<earhquake	name="2025.06.13 16:52:19"	lokasyon="AKDENIZ                                           "	lat="35.3850"	lng="35.5438"	mag="3.2" Depth="11.4" />
 	<earhquake	name="2025.06.13 17:32:32"	lokasyon="KARAKOCALI-ALANYA (ANTALYA)                       "	lat="36.5273"	lng="32.0798"	mag="1.9" Depth="8.0" />
@@ -60,6 +55,9 @@
 	<earhquake	name="2025.06.14 12:25:16"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2592"	lng="28.9988"	mag="1.7" Depth="12.3" />
 	<earhquake	name="2025.06.14 12:27:34"	lokasyon="YAYLACIK-SAHINBEY (GAZIANTEP)                     "	lat="37.0582"	lng="37.1567"	mag="2.1" Depth="11.0" />
 	<earhquake	name="2025.06.14 12:35:00"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2350"	lng="29.0483"	mag="1.7" Depth="6.4" />
+	<earhquake	name="2025.06.14 12:50:02"	lokasyon="KOZAGAC-BEYPAZARI (ANKARA)                        "	lat="40.2107"	lng="31.7777"	mag="1.8" Depth="2.5" />
 	<earhquake	name="2025.06.14 12:50:56"	lokasyon="SARIDERE-(USAK)                                   "	lat="38.7723"	lng="29.3050"	mag="1.0" Depth="16.6" />
 	<earhquake	name="2025.06.14 13:37:19"	lokasyon="TASLICAY-KARLIOVA (BINGOL)                        "	lat="39.3175"	lng="40.9010"	mag="1.5" Depth="5.0" />
+	<earhquake	name="2025.06.14 14:36:43"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="37.9965"	lng="37.5300"	mag="1.8" Depth="10.4" />
+	<earhquake	name="2025.06.14 15:15:32"	lokasyon="PAYAMBURNU-GOKSUN (KAHRAMANMARAS)                 "	lat="37.8512"	lng="36.2947"	mag="2.3" Depth="6.6" />
 </eqlist>
