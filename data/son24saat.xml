@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.13 23:27:23"	lokasyon="CEVAPLI-BERGAMA (IZMIR)                           "	lat="39.0100"	lng="27.1672"	mag="1.9" Depth="8.5" />
-	<earhquake	name="2025.06.13 23:48:39"	lokasyon="BOGAZICI-FETHIYE (MUGLA)                          "	lat="36.4405"	lng="29.1697"	mag="2.0" Depth="9.7" />
 	<earhquake	name="2025.06.14 01:50:37"	lokasyon="SAGLIK-TORBALI (IZMIR)                            "	lat="38.1247"	lng="27.4045"	mag="1.8" Depth="4.8" />
 	<earhquake	name="2025.06.14 02:00:35"	lokasyon="HASBAGLAR-ADAKLI (BINGOL)                         "	lat="39.1745"	lng="40.3708"	mag="1.9" Depth="17.9" />
 	<earhquake	name="2025.06.14 02:11:36"	lokasyon="KUPCIKTI-GONEN (BALIKESIR)                        "	lat="40.0953"	lng="27.8013"	mag="1.5" Depth="14.4" />
@@ -60,4 +58,6 @@
 	<earhquake	name="2025.06.14 20:24:40"	lokasyon="TASLICA-MARMARIS (MUGLA)                          "	lat="36.6233"	lng="28.0760"	mag="2.8" Depth="79.9" />
 	<earhquake	name="2025.06.14 21:12:09"	lokasyon="EGE DENIZI                                        "	lat="36.6613"	lng="25.7125"	mag="2.1" Depth="13.6" />
 	<earhquake	name="2025.06.14 22:27:03"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6737"	lng="35.9663"	mag="2.3" Depth="1.9" />
+	<earhquake	name="2025.06.14 23:04:47"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9752"	lng="26.3210"	mag="2.2" Depth="25.2" />
+	<earhquake	name="2025.06.14 23:27:42"	lokasyon="DUDEN-ELMALI (ANTALYA)                            "	lat="36.6905"	lng="29.9102"	mag="2.5" Depth="5.1" />
 </eqlist>
