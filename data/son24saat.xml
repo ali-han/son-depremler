@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.13 21:09:01"	lokasyon="KARSIYAKA-PUTURGE (MALATYA)                       "	lat="38.2757"	lng="38.7777"	mag="2.2" Depth="5.0" />
-	<earhquake	name="2025.06.13 21:10:00"	lokasyon="EGE DENIZI                                        "	lat="39.3653"	lng="25.6992"	mag="2.2" Depth="8.4" />
-	<earhquake	name="2025.06.13 21:33:11"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2400"	lng="28.9992"	mag="1.8" Depth="10.1" />
-	<earhquake	name="2025.06.13 21:45:12"	lokasyon="KEMER-BIGA (CANAKKALE)                            "	lat="40.4180"	lng="27.0308"	mag="1.8" Depth="17.1" />
-	<earhquake	name="2025.06.13 21:49:36"	lokasyon="KEMER-BIGA (CANAKKALE)                            "	lat="40.4535"	lng="27.0325"	mag="1.5" Depth="15.0" />
 	<earhquake	name="2025.06.13 22:19:28"	lokasyon="EGE DENIZI                                        "	lat="39.3745"	lng="25.6992"	mag="2.0" Depth="7.4" />
 	<earhquake	name="2025.06.13 22:53:48"	lokasyon="ULUKOY-(MALATYA)                                  "	lat="38.1562"	lng="38.5410"	mag="2.6" Depth="3.7" />
 	<earhquake	name="2025.06.13 23:27:23"	lokasyon="CEVAPLI-BERGAMA (IZMIR)                           "	lat="39.0100"	lng="27.1672"	mag="1.9" Depth="8.5" />
@@ -60,6 +55,7 @@
 	<earhquake	name="2025.06.14 18:07:35"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6450"	lng="35.9587"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.06.14 18:39:16"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6490"	lng="35.9930"	mag="3.4" Depth="5.0" />
 	<earhquake	name="2025.06.14 18:49:48"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6313"	lng="35.9827"	mag="2.6" Depth="3.5" />
+	<earhquake	name="2025.06.14 18:58:54"	lokasyon="CAMLARCA-KOZAN (ADANA)                            "	lat="37.6362"	lng="35.9668"	mag="1.7" Depth="15.6" />
 	<earhquake	name="2025.06.14 19:01:28"	lokasyon="HACIYERI-YIGILCA (DUZCE)                          "	lat="40.9182"	lng="31.4678"	mag="2.4" Depth="6.1" />
 	<earhquake	name="2025.06.14 19:21:42"	lokasyon="GAFARLI-SUMBAS (OSMANIYE)                         "	lat="37.5375"	lng="35.9980"	mag="1.7" Depth="12.9" />
 	<earhquake	name="2025.06.14 20:24:40"	lokasyon="TASLICA-MARMARIS (MUGLA)                          "	lat="36.6233"	lng="28.0760"	mag="2.8" Depth="79.9" />
