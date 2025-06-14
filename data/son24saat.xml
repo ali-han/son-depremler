@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.13 19:12:11"	lokasyon="KAPISUYU-SAMANDAG (HATAY)                         "	lat="36.1497"	lng="35.8410"	mag="1.9" Depth="18.9" />
-	<earhquake	name="2025.06.13 19:38:03"	lokasyon="SAPHANE (KUTAHYA)                                 "	lat="39.0527"	lng="29.2222"	mag="1.4" Depth="11.2" />
 	<earhquake	name="2025.06.13 20:20:10"	lokasyon="SAKIZ ADASI (EGE DENIZI)                          "	lat="38.2202"	lng="25.8263"	mag="2.0" Depth="12.0" />
 	<earhquake	name="2025.06.13 20:21:45"	lokasyon="KOCAISKAN-KIRKAGAC (MANISA)                       "	lat="39.3542"	lng="27.9030"	mag="2.2" Depth="12.5" />
 	<earhquake	name="2025.06.13 20:45:37"	lokasyon="EGE DENIZI                                        "	lat="39.3650"	lng="25.6848"	mag="2.8" Depth="5.9" />
@@ -64,4 +62,5 @@
 	<earhquake	name="2025.06.14 17:30:09"	lokasyon="ARPACIK-FETHIYE (MUGLA)                           "	lat="36.8057"	lng="29.1523"	mag="2.5" Depth="4.6" />
 	<earhquake	name="2025.06.14 18:07:35"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6450"	lng="35.9587"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.06.14 18:39:16"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6490"	lng="35.9930"	mag="3.4" Depth="5.0" />
+	<earhquake	name="2025.06.14 18:49:48"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6313"	lng="35.9827"	mag="2.6" Depth="3.5" />
 </eqlist>
