@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.14 18:07:35"	lokasyon="CURUKLU-KOZAN (ADANA)                             "	lat="37.6450"	lng="35.9587"	mag="2.2" Depth="5.0" />
-	<earhquake	name="2025.06.14 18:39:16"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6490"	lng="35.9930"	mag="3.4" Depth="5.0" />
-	<earhquake	name="2025.06.14 18:49:48"	lokasyon="BOZTAHTA-KOZAN (ADANA)                            "	lat="37.6313"	lng="35.9827"	mag="2.6" Depth="3.5" />
-	<earhquake	name="2025.06.14 18:58:54"	lokasyon="CAMLARCA-KOZAN (ADANA)                            "	lat="37.6362"	lng="35.9668"	mag="1.7" Depth="15.6" />
 	<earhquake	name="2025.06.14 19:01:28"	lokasyon="HACIYERI-YIGILCA (DUZCE)                          "	lat="40.9182"	lng="31.4678"	mag="2.4" Depth="6.1" />
 	<earhquake	name="2025.06.14 19:21:42"	lokasyon="GAFARLI-SUMBAS (OSMANIYE)                         "	lat="37.5375"	lng="35.9980"	mag="1.7" Depth="12.9" />
 	<earhquake	name="2025.06.14 20:24:40"	lokasyon="TASLICA-MARMARIS (MUGLA)                          "	lat="36.6233"	lng="28.0760"	mag="2.8" Depth="79.9" />
@@ -66,4 +62,5 @@
 	<earhquake	name="2025.06.15 16:02:52"	lokasyon="YUKARIULUPINAR-DARENDE (MALATYA)                  "	lat="38.4007"	lng="37.5325"	mag="1.7" Depth="5.8" />
 	<earhquake	name="2025.06.15 16:27:10"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5623"	lng="37.9885"	mag="1.9" Depth="5.4" />
 	<earhquake	name="2025.06.15 17:40:58"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2307"	lng="28.9942"	mag="2.1" Depth="10.4" />
+	<earhquake	name="2025.06.15 18:04:57"	lokasyon="KAYIRLAR-BIGADIC (BALIKESIR)                      "	lat="39.4760"	lng="28.2557"	mag="1.6" Depth="17.1" />
 </eqlist>
