@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.14 21:12:09"	lokasyon="EGE DENIZI                                        "	lat="36.6613"	lng="25.7125"	mag="2.1" Depth="13.6" />
 	<earhquake	name="2025.06.14 22:27:03"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6737"	lng="35.9663"	mag="2.3" Depth="1.9" />
 	<earhquake	name="2025.06.14 23:04:47"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9752"	lng="26.3210"	mag="2.2" Depth="25.2" />
 	<earhquake	name="2025.06.14 23:27:42"	lokasyon="DUDEN-ELMALI (ANTALYA)                            "	lat="36.6905"	lng="29.9102"	mag="2.5" Depth="5.1" />
@@ -68,4 +67,6 @@
 	<earhquake	name="2025.06.15 19:38:35"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2527"	lng="28.9427"	mag="2.0" Depth="9.3" />
 	<earhquake	name="2025.06.15 20:05:43"	lokasyon="YEROLUK-(BALIKESIR)                               "	lat="39.9192"	lng="27.8880"	mag="2.1" Depth="14.3" />
 	<earhquake	name="2025.06.15 20:32:42"	lokasyon="CUKURCAK-SULTANDAGI (AFYONKARAHISAR)              "	lat="38.7828"	lng="31.3965"	mag="1.9" Depth="5.4" />
+	<earhquake	name="2025.06.15 20:50:00"	lokasyon="BELLITAS-HINIS (ERZURUM)                          "	lat="39.3048"	lng="41.8463"	mag="2.2" Depth="9.3" />
+	<earhquake	name="2025.06.15 20:58:09"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1953"	lng="40.2730"	mag="2.2" Depth="8.3" />
 </eqlist>
