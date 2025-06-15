@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.14 23:04:47"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9752"	lng="26.3210"	mag="2.2" Depth="25.2" />
-	<earhquake	name="2025.06.14 23:27:42"	lokasyon="DUDEN-ELMALI (ANTALYA)                            "	lat="36.6905"	lng="29.9102"	mag="2.5" Depth="5.1" />
 	<earhquake	name="2025.06.15 00:03:18"	lokasyon="UCOCAK-ARICAK (ELAZIG)                            "	lat="38.4740"	lng="40.2655"	mag="4.0" Depth="5.0" />
 	<earhquake	name="2025.06.15 01:58:34"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2478"	lng="28.9717"	mag="1.9" Depth="3.8" />
 	<earhquake	name="2025.06.15 02:03:34"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2383"	lng="40.3147"	mag="1.9" Depth="9.4" />
@@ -72,4 +70,6 @@
 	<earhquake	name="2025.06.15 21:37:51"	lokasyon="EGE DENIZI                                        "	lat="35.8095"	lng="27.1382"	mag="3.0" Depth="8.3" />
 	<earhquake	name="2025.06.15 22:30:07"	lokasyon="DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               "	lat="38.2228"	lng="37.3715"	mag="2.3" Depth="5.3" />
 	<earhquake	name="2025.06.15 22:47:44"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.8823"	lng="36.4967"	mag="2.1" Depth="2.8" />
+	<earhquake	name="2025.06.15 23:31:12"	lokasyon="DARIPINAR-KALE (MALATYA)                          "	lat="38.3882"	lng="38.7102"	mag="1.9" Depth="5.2" />
+	<earhquake	name="2025.06.15 23:35:52"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2438"	lng="29.0002"	mag="1.7" Depth="10.8" />
 </eqlist>
