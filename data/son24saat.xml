@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.15 19:08:14"	lokasyon="EGE DENIZI                                        "	lat="35.8040"	lng="25.5467"	mag="2.3" Depth="18.1" />
-	<earhquake	name="2025.06.15 19:18:30"	lokasyon="YUNANISTAN                                        "	lat="40.3488"	lng="24.1385"	mag="2.0" Depth="6.5" />
-	<earhquake	name="2025.06.15 19:38:35"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2527"	lng="28.9427"	mag="2.0" Depth="9.3" />
-	<earhquake	name="2025.06.15 20:05:43"	lokasyon="YEROLUK-(BALIKESIR)                               "	lat="39.9192"	lng="27.8880"	mag="2.1" Depth="14.3" />
-	<earhquake	name="2025.06.15 20:32:42"	lokasyon="CUKURCAK-SULTANDAGI (AFYONKARAHISAR)              "	lat="38.7828"	lng="31.3965"	mag="1.9" Depth="5.4" />
-	<earhquake	name="2025.06.15 20:50:00"	lokasyon="BELLITAS-HINIS (ERZURUM)                          "	lat="39.3048"	lng="41.8463"	mag="2.2" Depth="9.3" />
-	<earhquake	name="2025.06.15 20:58:09"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1953"	lng="40.2730"	mag="2.2" Depth="8.3" />
-	<earhquake	name="2025.06.15 21:20:02"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.2740"	lng="30.6933"	mag="1.8" Depth="26.4" />
-	<earhquake	name="2025.06.15 21:37:51"	lokasyon="EGE DENIZI                                        "	lat="35.8095"	lng="27.1382"	mag="3.0" Depth="8.3" />
 	<earhquake	name="2025.06.15 22:30:07"	lokasyon="DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               "	lat="38.2228"	lng="37.3715"	mag="2.3" Depth="5.3" />
 	<earhquake	name="2025.06.15 22:47:44"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.8823"	lng="36.4967"	mag="2.1" Depth="2.8" />
 	<earhquake	name="2025.06.15 23:31:12"	lokasyon="DARIPINAR-KALE (MALATYA)                          "	lat="38.3882"	lng="38.7102"	mag="1.9" Depth="5.2" />
@@ -59,4 +50,5 @@
 	<earhquake	name="2025.06.16 17:51:06"	lokasyon="YUNANISTAN                                        "	lat="40.2202"	lng="24.0713"	mag="2.3" Depth="5.7" />
 	<earhquake	name="2025.06.16 18:25:15"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1170"	lng="38.4587"	mag="1.8" Depth="8.3" />
 	<earhquake	name="2025.06.16 18:51:24"	lokasyon="TOKAT-HISARCIK (KUTAHYA)                          "	lat="39.1688"	lng="29.1087"	mag="1.4" Depth="15.3" />
+	<earhquake	name="2025.06.16 20:57:25"	lokasyon="YUNANISTAN                                        "	lat="39.7840"	lng="23.3933"	mag="4.3" Depth="17.3" />
 </eqlist>
