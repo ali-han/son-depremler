@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.16 11:01:47"	lokasyon="EGE DENIZI                                        "	lat="36.6220"	lng="25.4258"	mag="1.6" Depth="13.2" />
-	<earhquake	name="2025.06.16 11:21:04"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2312"	lng="28.9572"	mag="2.3" Depth="3.9" />
-	<earhquake	name="2025.06.16 11:22:14"	lokasyon="EGE DENIZI                                        "	lat="36.7012"	lng="25.6622"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2025.06.16 11:26:54"	lokasyon="EGE DENIZI                                        "	lat="36.6133"	lng="25.5620"	mag="2.0" Depth="5.0" />
-	<earhquake	name="2025.06.16 11:45:36"	lokasyon="KARAKOY-NALLIHAN (ANKARA)                         "	lat="40.2140"	lng="31.6340"	mag="2.1" Depth="1.8" />
-	<earhquake	name="2025.06.16 11:58:10"	lokasyon="EGE DENIZI                                        REVIZE01   (2025.06.16 11:58:10)"	lat="36.6215"	lng="25.5840"	mag="1.9" Depth="3.4" />
 	<earhquake	name="2025.06.16 12:05:34"	lokasyon="BOGAZ-KARACABEY (BURSA)                           REVIZE01   (2025.06.16 12:05:34)"	lat="40.3525"	lng="28.4207"	mag="1.5" Depth="12.8" />
 	<earhquake	name="2025.06.16 12:37:04"	lokasyon="EGE DENIZI                                        "	lat="36.7307"	lng="25.7432"	mag="2.8" Depth="10.8" />
 	<earhquake	name="2025.06.16 12:43:15"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9982"	lng="27.1140"	mag="1.6" Depth="5.3" />
@@ -59,4 +53,6 @@
 	<earhquake	name="2025.06.17 09:43:20"	lokasyon="GEDELEK-ORHANGAZI (BURSA)                         "	lat="40.4347"	lng="29.2612"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.06.17 10:06:54"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2433"	lng="28.9842"	mag="1.7" Depth="8.2" />
 	<earhquake	name="2025.06.17 10:50:02"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1303"	lng="38.4948"	mag="2.1" Depth="19.4" />
+	<earhquake	name="2025.06.17 11:10:32"	lokasyon="EGE DENIZI                                        "	lat="36.8332"	lng="26.2300"	mag="2.7" Depth="8.3" />
+	<earhquake	name="2025.06.17 11:17:36"	lokasyon="CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             "	lat="37.3115"	lng="37.0257"	mag="2.2" Depth="5.4" />
 </eqlist>
