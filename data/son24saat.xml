@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.16 12:05:34"	lokasyon="BOGAZ-KARACABEY (BURSA)                           REVIZE01   (2025.06.16 12:05:34)"	lat="40.3525"	lng="28.4207"	mag="1.5" Depth="12.8" />
-	<earhquake	name="2025.06.16 12:37:04"	lokasyon="EGE DENIZI                                        "	lat="36.7307"	lng="25.7432"	mag="2.8" Depth="10.8" />
-	<earhquake	name="2025.06.16 12:43:15"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9982"	lng="27.1140"	mag="1.6" Depth="5.3" />
 	<earhquake	name="2025.06.16 13:00:43"	lokasyon="KUCUKBOSTANCI-(BALIKESIR)                         "	lat="39.5860"	lng="27.9433"	mag="1.1" Depth="27.5" />
 	<earhquake	name="2025.06.16 13:32:15"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2198"	lng="29.0438"	mag="2.0" Depth="11.0" />
 	<earhquake	name="2025.06.16 13:46:44"	lokasyon="EGE DENIZI                                        "	lat="36.4032"	lng="25.4828"	mag="1.7" Depth="4.6" />
@@ -56,4 +53,6 @@
 	<earhquake	name="2025.06.17 11:10:32"	lokasyon="EGE DENIZI                                        "	lat="36.8332"	lng="26.2300"	mag="2.7" Depth="8.3" />
 	<earhquake	name="2025.06.17 11:17:36"	lokasyon="CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             "	lat="37.3115"	lng="37.0257"	mag="2.2" Depth="5.4" />
 	<earhquake	name="2025.06.17 11:42:33"	lokasyon="YELKAYA-GENC (BINGOL)                             "	lat="38.5625"	lng="40.4147"	mag="2.6" Depth="12.1" />
+	<earhquake	name="2025.06.17 12:04:05"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9358"	lng="26.6605"	mag="2.1" Depth="9.4" />
+	<earhquake	name="2025.06.17 12:16:10"	lokasyon="KUMKUYU-ERDEMLI (MERSIN)                          "	lat="36.5063"	lng="34.1893"	mag="1.6" Depth="0.0" />
 </eqlist>
