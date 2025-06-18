@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.17 21:00:10"	lokasyon="EGE DENIZI                                        "	lat="38.2958"	lng="25.3662"	mag="2.8" Depth="7.0" />
-	<earhquake	name="2025.06.17 21:04:02"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8133"	lng="28.1678"	mag="2.3" Depth="9.3" />
-	<earhquake	name="2025.06.17 21:54:41"	lokasyon="YUNANISTAN                                        "	lat="40.2883"	lng="24.0767"	mag="2.7" Depth="16.0" />
 	<earhquake	name="2025.06.17 22:17:25"	lokasyon="TASBASI-DALAMAN (MUGLA)                           "	lat="36.8867"	lng="29.0047"	mag="2.6" Depth="4.9" />
 	<earhquake	name="2025.06.17 22:28:24"	lokasyon="YUNANISTAN                                        "	lat="40.2220"	lng="24.0467"	mag="1.9" Depth="5.5" />
 	<earhquake	name="2025.06.17 23:42:48"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2312"	lng="28.9842"	mag="1.4" Depth="11.2" />
@@ -78,4 +75,5 @@
 	<earhquake	name="2025.06.18 18:22:31"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4052"	lng="28.8918"	mag="2.2" Depth="8.8" />
 	<earhquake	name="2025.06.18 19:37:18"	lokasyon="YUNANISTAN                                        "	lat="40.2638"	lng="24.1363"	mag="2.2" Depth="3.7" />
 	<earhquake	name="2025.06.18 20:08:15"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1213"	lng="38.3465"	mag="2.1" Depth="1.7" />
+	<earhquake	name="2025.06.18 20:44:21"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0247"	lng="37.5715"	mag="1.6" Depth="6.4" />
 </eqlist>
