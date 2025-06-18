@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.17 05:20:00"	lokasyon="ELMABAGI-ODEMIS (IZMIR)                           "	lat="38.3602"	lng="28.0417"	mag="0.9" Depth="5.3" />
-	<earhquake	name="2025.06.17 05:30:20"	lokasyon="SOGUT-SIMAV (KUTAHYA)                             "	lat="39.1288"	lng="29.0888"	mag="0.8" Depth="16.5" />
-	<earhquake	name="2025.06.17 06:28:36"	lokasyon="KARGABUKU-AFSIN (KAHRAMANMARAS)                   "	lat="38.1267"	lng="36.8285"	mag="2.2" Depth="2.8" />
 	<earhquake	name="2025.06.17 07:42:14"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1420"	lng="38.4737"	mag="2.2" Depth="4.8" />
 	<earhquake	name="2025.06.17 07:51:18"	lokasyon="EGE DENIZI                                        "	lat="36.7408"	lng="25.7108"	mag="2.6" Depth="5.4" />
 	<earhquake	name="2025.06.17 08:06:37"	lokasyon="TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.6092"	lng="26.0530"	mag="2.1" Depth="8.8" />
@@ -72,4 +69,9 @@
 	<earhquake	name="2025.06.18 04:09:08"	lokasyon="YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)               "	lat="38.3430"	lng="37.5598"	mag="1.2" Depth="10.0" />
 	<earhquake	name="2025.06.18 04:09:44"	lokasyon="KARAMANLAR-(BOLU)                                 "	lat="40.8093"	lng="31.8328"	mag="1.5" Depth="5.2" />
 	<earhquake	name="2025.06.18 04:21:07"	lokasyon="ODUNPAZARI (ESKISEHIR)                            "	lat="39.7343"	lng="30.5292"	mag="1.5" Depth="9.2" />
+	<earhquake	name="2025.06.18 04:46:21"	lokasyon="YUNANISTAN                                        "	lat="40.2380"	lng="24.0938"	mag="1.4" Depth="9.2" />
+	<earhquake	name="2025.06.18 04:55:38"	lokasyon="YUNANISTAN                                        "	lat="40.2327"	lng="24.0793"	mag="1.5" Depth="9.8" />
+	<earhquake	name="2025.06.18 05:28:57"	lokasyon="HALILBEYLI-SAIMBEYLI (ADANA)                      "	lat="37.7480"	lng="36.1908"	mag="1.4" Depth="10.0" />
+	<earhquake	name="2025.06.18 05:37:49"	lokasyon="EGE DENIZI                                        "	lat="36.6742"	lng="25.8118"	mag="2.9" Depth="14.7" />
+	<earhquake	name="2025.06.18 06:01:20"	lokasyon="IBECIK-GOLHISAR (BURDUR)                          "	lat="36.9737"	lng="29.4058"	mag="1.1" Depth="5.0" />
 </eqlist>
