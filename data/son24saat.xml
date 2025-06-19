@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.18 20:08:15"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1213"	lng="38.3465"	mag="2.1" Depth="1.7" />
-	<earhquake	name="2025.06.18 20:18:33"	lokasyon="AKYURT-TIRE (IZMIR)                               "	lat="38.0235"	lng="27.5945"	mag="1.2" Depth="7.7" />
-	<earhquake	name="2025.06.18 20:21:54"	lokasyon="CUKUROREN-(BOLU)                                  "	lat="40.8655"	lng="31.5995"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2025.06.18 20:44:21"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0247"	lng="37.5715"	mag="1.6" Depth="6.4" />
 	<earhquake	name="2025.06.18 21:32:04"	lokasyon="BOLUCEK-DOGUBAYAZIT (AGRI)                        "	lat="39.3105"	lng="44.3203"	mag="2.5" Depth="12.8" />
 	<earhquake	name="2025.06.18 22:19:54"	lokasyon="YUKARIULUPINAR-DARENDE (MALATYA)                  "	lat="38.3798"	lng="37.5672"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2025.06.18 23:09:34"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2355"	lng="29.0053"	mag="2.8" Depth="5.4" />
@@ -69,4 +65,5 @@
 	<earhquake	name="2025.06.19 18:37:15"	lokasyon="EGE DENIZI                                        "	lat="36.1375"	lng="27.6013"	mag="3.5" Depth="5.0" />
 	<earhquake	name="2025.06.19 19:23:48"	lokasyon="EGE DENIZI                                        "	lat="40.1563"	lng="24.5952"	mag="3.3" Depth="16.0" />
 	<earhquake	name="2025.06.19 19:36:58"	lokasyon="TURKIYE-SURIYE SINIR BOLGESI                      "	lat="35.8182"	lng="36.1142"	mag="2.7" Depth="14.8" />
+	<earhquake	name="2025.06.19 20:24:18"	lokasyon="EGE DENIZI                                        "	lat="36.1505"	lng="27.6382"	mag="2.7" Depth="5.0" />
 </eqlist>
