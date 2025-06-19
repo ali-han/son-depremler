@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.18 15:04:00"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2185"	lng="29.0235"	mag="1.8" Depth="10.3" />
-	<earhquake	name="2025.06.18 15:10:40"	lokasyon="YUNANISTAN                                        "	lat="40.3180"	lng="24.1283"	mag="1.7" Depth="16.3" />
-	<earhquake	name="2025.06.18 15:18:27"	lokasyon="KUCUKGECIT-ASKALE (ERZURUM)                       "	lat="39.9197"	lng="40.7657"	mag="2.0" Depth="9.4" />
-	<earhquake	name="2025.06.18 15:22:16"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2352"	lng="29.0317"	mag="3.8" Depth="5.0" />
-	<earhquake	name="2025.06.18 15:54:30"	lokasyon="KARAAGIL-HISARCIK (KUTAHYA)                       "	lat="39.2100"	lng="29.0742"	mag="1.6" Depth="10.7" />
-	<earhquake	name="2025.06.18 15:55:17"	lokasyon="KARAAGIL-HISARCIK (KUTAHYA)                       "	lat="39.2110"	lng="29.0665"	mag="1.6" Depth="4.8" />
 	<earhquake	name="2025.06.18 16:28:14"	lokasyon="POLAT-DOGANSEHIR (MALATYA)                        "	lat="38.1527"	lng="37.8905"	mag="2.7" Depth="7.5" />
 	<earhquake	name="2025.06.18 16:34:17"	lokasyon="MUGLA                                             "	lat="37.2263"	lng="28.3292"	mag="1.4" Depth="11.6" />
 	<earhquake	name="2025.06.18 16:36:56"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2150"	lng="29.0462"	mag="1.6" Depth="7.8" />
@@ -77,4 +71,6 @@
 	<earhquake	name="2025.06.19 14:23:06"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2462"	lng="29.0010"	mag="2.1" Depth="6.5" />
 	<earhquake	name="2025.06.19 14:24:01"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2372"	lng="29.0107"	mag="1.9" Depth="8.7" />
 	<earhquake	name="2025.06.19 14:25:57"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2458"	lng="29.0103"	mag="1.6" Depth="10.7" />
+	<earhquake	name="2025.06.19 15:04:52"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     "	lat="38.5142"	lng="37.9928"	mag="2.2" Depth="2.4" />
+	<earhquake	name="2025.06.19 15:18:38"	lokasyon="YUVA-GURUN (SIVAS)                                "	lat="38.8178"	lng="37.3622"	mag="1.9" Depth="9.6" />
 </eqlist>
