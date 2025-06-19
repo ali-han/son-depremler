@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.18 09:06:18"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2687"	lng="28.9603"	mag="2.7" Depth="5.0" />
-	<earhquake	name="2025.06.18 09:16:22"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2240"	lng="29.0177"	mag="2.0" Depth="5.0" />
-	<earhquake	name="2025.06.18 09:20:45"	lokasyon="KABAAGAC-SARAYKOY (DENIZLI)                       "	lat="37.9327"	lng="28.7772"	mag="2.1" Depth="10.1" />
 	<earhquake	name="2025.06.18 10:17:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2305"	lng="29.0130"	mag="2.0" Depth="23.1" />
 	<earhquake	name="2025.06.18 10:25:54"	lokasyon="KIZILDERE-BUHARKENT (AYDIN)                       "	lat="37.9540"	lng="28.7932"	mag="1.7" Depth="5.1" />
 	<earhquake	name="2025.06.18 11:49:20"	lokasyon="EGE DENIZI                                        "	lat="36.6170"	lng="25.3577"	mag="1.5" Depth="7.1" />
@@ -76,4 +73,5 @@
 	<earhquake	name="2025.06.19 07:32:06"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2098"	lng="29.0285"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.06.19 07:51:06"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8445"	lng="28.2567"	mag="2.1" Depth="10.9" />
 	<earhquake	name="2025.06.19 08:38:46"	lokasyon="SURIYE                                            "	lat="34.9823"	lng="36.7470"	mag="2.8" Depth="11.8" />
+	<earhquake	name="2025.06.19 08:52:27"	lokasyon="EGE DENIZI                                        "	lat="38.8008"	lng="26.6315"	mag="2.5" Depth="11.7" />
 </eqlist>
