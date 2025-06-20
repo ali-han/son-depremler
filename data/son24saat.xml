@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.19 22:16:34"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5637"	lng="38.0055"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2025.06.19 22:29:29"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.5587"	lng="23.8120"	mag="3.3" Depth="70.4" />
-	<earhquake	name="2025.06.19 22:51:16"	lokasyon="SAMANDAG (HATAY)                                  "	lat="36.0408"	lng="35.8860"	mag="3.8" Depth="6.0" />
-	<earhquake	name="2025.06.19 22:56:10"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6143"	lng="36.0900"	mag="1.9" Depth="6.2" />
 	<earhquake	name="2025.06.19 23:12:12"	lokasyon="SAVCILI-BUHARKENT (AYDIN)                         "	lat="37.9525"	lng="28.7617"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.06.19 23:27:23"	lokasyon="BAYRAMDERE-KARACABEY (BURSA)                      "	lat="40.3932"	lng="28.4220"	mag="1.9" Depth="7.7" />
 	<earhquake	name="2025.06.19 23:54:05"	lokasyon="TOPRAKTEPE-DOGANSEHIR (MALATYA)                   "	lat="38.1005"	lng="37.8652"	mag="2.5" Depth="7.7" />
@@ -56,5 +52,6 @@
 	<earhquake	name="2025.06.20 18:02:41"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.1963"	lng="37.8302"	mag="1.8" Depth="9.3" />
 	<earhquake	name="2025.06.20 18:09:44"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2098"	lng="29.0075"	mag="2.2" Depth="4.4" />
 	<earhquake	name="2025.06.20 18:13:58"	lokasyon="GUZYURDU-AKCADAG (MALATYA)                        "	lat="38.3835"	lng="38.0075"	mag="1.8" Depth="11.6" />
+	<earhquake	name="2025.06.20 18:51:10"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1830"	lng="31.7035"	mag="2.4" Depth="5.5" />
 	<earhquake	name="2025.06.20 19:18:55"	lokasyon="EGE DENIZI                                        "	lat="36.6850"	lng="25.7502"	mag="4.8" Depth="13.3" />
 </eqlist>
