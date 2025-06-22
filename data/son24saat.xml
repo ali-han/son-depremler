@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.21 19:12:30"	lokasyon="GULUMUSAGI (MALATYA)                              "	lat="38.2263"	lng="38.4882"	mag="1.9" Depth="7.1" />
-	<earhquake	name="2025.06.21 19:49:30"	lokasyon="BAGRIACIK-OZALP (VAN)                             "	lat="38.5420"	lng="43.9392"	mag="2.5" Depth="7.8" />
-	<earhquake	name="2025.06.21 19:50:00"	lokasyon="ARDICLI-PULUMUR (TUNCELI)                         "	lat="39.5195"	lng="39.8353"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2025.06.21 19:54:32"	lokasyon="ALTINKAYA-TERCAN (ERZINCAN)                       "	lat="39.8890"	lng="40.2298"	mag="2.8" Depth="3.7" />
 	<earhquake	name="2025.06.21 21:03:10"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1507"	lng="38.4727"	mag="1.4" Depth="8.7" />
 	<earhquake	name="2025.06.21 22:10:02"	lokasyon="DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS)         "	lat="37.4600"	lng="37.1620"	mag="2.1" Depth="8.1" />
 	<earhquake	name="2025.06.21 22:30:48"	lokasyon="ATADAMI-DIYADIN (AGRI)                            "	lat="39.2977"	lng="43.7225"	mag="2.1" Depth="12.7" />
@@ -61,6 +57,9 @@
 	<earhquake	name="2025.06.22 15:31:44"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.7362"	lng="23.2810"	mag="3.1" Depth="7.1" />
 	<earhquake	name="2025.06.22 15:43:50"	lokasyon="EGE DENIZI                                        "	lat="37.8297"	lng="26.7893"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2025.06.22 16:02:43"	lokasyon="SARIOT-DOMANIC (KUTAHYA)                          "	lat="39.8030"	lng="29.4125"	mag="2.5" Depth="7.8" />
-	<earhquake	name="2025.06.22 17:52:00"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2333"	lng="28.9873"	mag="2.4" Depth="9.5" />
+	<earhquake	name="2025.06.22 17:52:00"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2452"	lng="28.9842"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.06.22 17:52:39"	lokasyon="SENKOY-SIMAV (KUTAHYA)                            "	lat="39.0958"	lng="29.1107"	mag="1.6" Depth="18.5" />
+	<earhquake	name="2025.06.22 18:23:24"	lokasyon="BADEMLI-DIKILI (IZMIR)                            "	lat="39.0115"	lng="26.8023"	mag="1.8" Depth="13.5" />
+	<earhquake	name="2025.06.22 19:10:19"	lokasyon="HARMANDALI-AKHISAR (MANISA)                       "	lat="38.8527"	lng="27.9098"	mag="2.3" Depth="6.3" />
+	<earhquake	name="2025.06.22 19:18:30"	lokasyon="SEHITLER-AKHISAR (MANISA)                         "	lat="38.9135"	lng="27.9240"	mag="2.0" Depth="8.1" />
 </eqlist>
