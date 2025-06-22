@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.22 02:00:22"	lokasyon="AKDENIZ                                           "	lat="35.6457"	lng="31.3503"	mag="3.9" Depth="7.6" />
-	<earhquake	name="2025.06.22 02:27:54"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1207"	lng="29.1728"	mag="1.2" Depth="10.9" />
-	<earhquake	name="2025.06.22 02:32:36"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2317"	lng="29.0195"	mag="1.8" Depth="5.8" />
-	<earhquake	name="2025.06.22 02:45:17"	lokasyon="KESMEBURUN-YUMURTALIK (ADANA)                     "	lat="36.8147"	lng="35.4455"	mag="2.0" Depth="7.8" />
-	<earhquake	name="2025.06.22 02:45:58"	lokasyon="KARAPINAR-AKCADAG (MALATYA)                       "	lat="38.2752"	lng="38.0412"	mag="1.4" Depth="7.5" />
 	<earhquake	name="2025.06.22 04:18:40"	lokasyon="ESKIHAMAL-GURUN (SIVAS)                           "	lat="38.8682"	lng="37.5038"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.06.22 05:01:28"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2812"	lng="37.7767"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.06.22 05:25:12"	lokasyon="MARMARA DENIZI                                    "	lat="40.8608"	lng="28.4145"	mag="1.7" Depth="18.0" />
@@ -75,4 +70,7 @@
 	<earhquake	name="2025.06.23 00:58:39"	lokasyon="YENIKOY-DARENDE (MALATYA)                         "	lat="38.4963"	lng="37.3333"	mag="1.4" Depth="4.5" />
 	<earhquake	name="2025.06.23 01:05:23"	lokasyon="AKDENIZ                                           "	lat="35.5958"	lng="31.4203"	mag="2.5" Depth="9.2" />
 	<earhquake	name="2025.06.23 01:12:56"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="37.0013"	lng="28.1597"	mag="1.7" Depth="4.7" />
+	<earhquake	name="2025.06.23 02:22:06"	lokasyon="KANLIKAVAK-GOKSUN (KAHRAMANMARAS)                 "	lat="38.1080"	lng="36.5992"	mag="1.1" Depth="13.6" />
+	<earhquake	name="2025.06.23 02:29:23"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1355"	lng="38.3677"	mag="1.5" Depth="7.6" />
+	<earhquake	name="2025.06.23 02:38:22"	lokasyon="A. DAMLAPINAR-SELIM (KARS)                        "	lat="40.3248"	lng="42.7960"	mag="3.8" Depth="5.0" />
 </eqlist>
