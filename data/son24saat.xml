@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.21 17:04:28"	lokasyon="AYDINCIK ACIKLARI-MERSIN (AKDENIZ)                "	lat="36.0672"	lng="33.5507"	mag="1.7" Depth="4.6" />
-	<earhquake	name="2025.06.21 17:06:28"	lokasyon="BOGAZKOY-BUCAK (BURDUR)                           "	lat="37.2617"	lng="30.5378"	mag="1.7" Depth="29.9" />
-	<earhquake	name="2025.06.21 17:10:20"	lokasyon="ORTAOREN-EKINOZU (KAHRAMANMARAS)                  "	lat="38.0927"	lng="37.1247"	mag="1.7" Depth="5.7" />
-	<earhquake	name="2025.06.21 17:35:24"	lokasyon="DARIYERI-DALAMAN (MUGLA)                          "	lat="36.8297"	lng="29.1010"	mag="1.8" Depth="0.0" />
-	<earhquake	name="2025.06.21 17:43:11"	lokasyon="KOKE-GELENDOST (ISPARTA)                          "	lat="38.2080"	lng="30.9570"	mag="1.9" Depth="12.8" />
-	<earhquake	name="2025.06.21 18:13:15"	lokasyon="GECITLI-SINCIK (ADIYAMAN)                         "	lat="38.1070"	lng="38.5002"	mag="1.6" Depth="8.4" />
-	<earhquake	name="2025.06.21 18:30:38"	lokasyon="EGE DENIZI                                        "	lat="36.6312"	lng="25.7998"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.06.21 19:12:30"	lokasyon="GULUMUSAGI (MALATYA)                              "	lat="38.2263"	lng="38.4882"	mag="1.9" Depth="7.1" />
 	<earhquake	name="2025.06.21 19:49:30"	lokasyon="BAGRIACIK-OZALP (VAN)                             "	lat="38.5420"	lng="43.9392"	mag="2.5" Depth="7.8" />
 	<earhquake	name="2025.06.21 19:50:00"	lokasyon="ARDICLI-PULUMUR (TUNCELI)                         "	lat="39.5195"	lng="39.8353"	mag="1.9" Depth="5.0" />
@@ -68,4 +61,5 @@
 	<earhquake	name="2025.06.22 15:31:44"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.7362"	lng="23.2810"	mag="3.1" Depth="7.1" />
 	<earhquake	name="2025.06.22 15:43:50"	lokasyon="EGE DENIZI                                        "	lat="37.8297"	lng="26.7893"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2025.06.22 16:02:43"	lokasyon="SARIOT-DOMANIC (KUTAHYA)                          "	lat="39.8030"	lng="29.4125"	mag="2.5" Depth="7.8" />
+	<earhquake	name="2025.06.22 17:52:00"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2292"	lng="28.9852"	mag="2.5" Depth="4.7" />
 </eqlist>
