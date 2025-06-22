@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.22 01:09:03"	lokasyon="KAVAKTEPE (ELAZIG)                                "	lat="38.5235"	lng="39.2093"	mag="1.2" Depth="7.6" />
-	<earhquake	name="2025.06.22 01:40:57"	lokasyon="IHLARA-GUZELYURT (AKSARAY)                        "	lat="38.2262"	lng="34.3040"	mag="1.8" Depth="4.2" />
-	<earhquake	name="2025.06.22 01:50:36"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2410"	lng="29.0105"	mag="3.3" Depth="5.4" />
 	<earhquake	name="2025.06.22 02:00:22"	lokasyon="AKDENIZ                                           "	lat="35.6457"	lng="31.3503"	mag="3.9" Depth="7.6" />
 	<earhquake	name="2025.06.22 02:27:54"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1207"	lng="29.1728"	mag="1.2" Depth="10.9" />
 	<earhquake	name="2025.06.22 02:32:36"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2317"	lng="29.0195"	mag="1.8" Depth="5.8" />
@@ -74,4 +71,6 @@
 	<earhquake	name="2025.06.23 00:19:51"	lokasyon="YAVUHASAN-KADISEHRI (YOZGAT)                      "	lat="40.0698"	lng="35.7303"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.06.23 00:30:01"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1428"	lng="38.4692"	mag="1.8" Depth="8.5" />
 	<earhquake	name="2025.06.23 00:34:30"	lokasyon="SOGUT-SIMAV (KUTAHYA)                             "	lat="39.1338"	lng="29.0842"	mag="1.5" Depth="17.4" />
+	<earhquake	name="2025.06.23 00:47:28"	lokasyon="YAKUPLU-ILIC (ERZINCAN)                           "	lat="39.3985"	lng="38.6142"	mag="1.9" Depth="5.5" />
+	<earhquake	name="2025.06.23 00:58:39"	lokasyon="YENIKOY-DARENDE (MALATYA)                         "	lat="38.4963"	lng="37.3333"	mag="1.4" Depth="4.5" />
 </eqlist>
