@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.21 11:18:45"	lokasyon="DURU-LICE (DIYARBAKIR)                            "	lat="38.4548"	lng="40.4990"	mag="2.2" Depth="5.5" />
-	<earhquake	name="2025.06.21 11:26:49"	lokasyon="EGE DENIZI                                        "	lat="35.8180"	lng="25.6840"	mag="2.3" Depth="8.2" />
-	<earhquake	name="2025.06.21 11:55:02"	lokasyon="HARMANPINAR-CICEKDAGI (KIRSEHIR)                  "	lat="39.5952"	lng="34.3657"	mag="1.4" Depth="27.6" />
 	<earhquake	name="2025.06.21 12:48:45"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5268"	lng="28.1258"	mag="1.8" Depth="10.8" />
 	<earhquake	name="2025.06.21 12:52:29"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8778"	lng="26.8548"	mag="1.6" Depth="7.0" />
 	<earhquake	name="2025.06.21 12:59:38"	lokasyon="KIGI (BINGOL)                                     "	lat="39.3392"	lng="40.3535"	mag="2.6" Depth="5.0" />
@@ -48,6 +45,9 @@
 	<earhquake	name="2025.06.22 09:30:06"	lokasyon="KAVAKLI-GENC (BINGOL)                             "	lat="38.6378"	lng="40.3557"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.06.22 09:35:12"	lokasyon="ALAZI-(HATAY)                                     "	lat="36.2998"	lng="36.1943"	mag="1.5" Depth="2.3" />
 	<earhquake	name="2025.06.22 09:39:41"	lokasyon="EGE DENIZI                                        "	lat="36.1040"	lng="27.6378"	mag="2.3" Depth="9.6" />
-	<earhquake	name="2025.06.22 09:50:38"	lokasyon="EGE DENIZI                                        "	lat="36.1533"	lng="27.6077"	mag="2.4" Depth="5.4" />
+	<earhquake	name="2025.06.22 09:50:38"	lokasyon="EGE DENIZI                                        "	lat="36.1540"	lng="27.6063"	mag="2.4" Depth="5.4" />
 	<earhquake	name="2025.06.22 10:07:15"	lokasyon="EGE DENIZI                                        "	lat="36.6690"	lng="25.6870"	mag="2.8" Depth="6.4" />
+	<earhquake	name="2025.06.22 10:47:45"	lokasyon="ULUKOY-(MALATYA)                                  "	lat="38.1573"	lng="38.5720"	mag="1.7" Depth="10.4" />
+	<earhquake	name="2025.06.22 10:51:00"	lokasyon="GAZIKOY-DARENDE (MALATYA)                         "	lat="38.4650"	lng="37.3315"	mag="2.0" Depth="5.4" />
+	<earhquake	name="2025.06.22 10:53:05"	lokasyon="DILEKLI-YUKSEKOVA (HAKKARI)                       "	lat="37.3210"	lng="43.9127"	mag="2.6" Depth="5.0" />
 </eqlist>
