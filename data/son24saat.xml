@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.21 07:01:17"	lokasyon="TEPEBASI-DICLE (DIYARBAKIR)                       "	lat="38.3037"	lng="40.1727"	mag="1.8" Depth="14.4" />
-	<earhquake	name="2025.06.21 07:40:33"	lokasyon="KADIRUSAGI-YESILYURT (MALATYA)                    "	lat="38.2293"	lng="38.2552"	mag="1.6" Depth="28.5" />
-	<earhquake	name="2025.06.21 07:55:06"	lokasyon="AKYARLAR-BODRUM (MUGLA)                           "	lat="36.9572"	lng="27.3195"	mag="3.5" Depth="14.1" />
 	<earhquake	name="2025.06.21 08:25:10"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8818"	lng="28.2457"	mag="1.9" Depth="26.0" />
 	<earhquake	name="2025.06.21 08:36:13"	lokasyon="YUNANISTAN                                        "	lat="40.2137"	lng="24.1015"	mag="1.9" Depth="5.4" />
 	<earhquake	name="2025.06.21 09:19:14"	lokasyon="ORMEKUYU-SANDIKLI (AFYONKARAHISAR)                "	lat="38.3098"	lng="30.3052"	mag="1.3" Depth="8.0" />
@@ -49,4 +46,9 @@
 	<earhquake	name="2025.06.22 02:45:58"	lokasyon="KARAPINAR-AKCADAG (MALATYA)                       "	lat="38.2752"	lng="38.0412"	mag="1.4" Depth="7.5" />
 	<earhquake	name="2025.06.22 04:18:40"	lokasyon="ESKIHAMAL-GURUN (SIVAS)                           "	lat="38.8682"	lng="37.5038"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.06.22 05:01:28"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2812"	lng="37.7767"	mag="2.3" Depth="5.0" />
+	<earhquake	name="2025.06.22 05:25:12"	lokasyon="MARMARA DENIZI                                    "	lat="40.8608"	lng="28.4145"	mag="1.7" Depth="18.0" />
+	<earhquake	name="2025.06.22 05:46:34"	lokasyon="DEDECINAR-KIRIKHAN (HATAY)                        "	lat="36.6375"	lng="36.4165"	mag="1.5" Depth="8.0" />
+	<earhquake	name="2025.06.22 06:05:38"	lokasyon="TETEMECELE-(BOLU)                                 "	lat="40.8413"	lng="31.7367"	mag="1.4" Depth="2.5" />
+	<earhquake	name="2025.06.22 06:06:50"	lokasyon="IBECIK-(AMASYA)                                   "	lat="40.5075"	lng="36.0160"	mag="1.7" Depth="13.0" />
+	<earhquake	name="2025.06.22 06:07:32"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8165"	lng="27.0377"	mag="1.9" Depth="7.4" />
 </eqlist>
