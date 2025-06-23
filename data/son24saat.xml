@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.22 17:52:00"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2452"	lng="28.9842"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2025.06.22 17:52:39"	lokasyon="SENKOY-SIMAV (KUTAHYA)                            "	lat="39.0958"	lng="29.1107"	mag="1.6" Depth="18.5" />
 	<earhquake	name="2025.06.22 18:23:24"	lokasyon="BADEMLI-DIKILI (IZMIR)                            "	lat="39.0115"	lng="26.8023"	mag="1.8" Depth="13.5" />
 	<earhquake	name="2025.06.22 18:34:53"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9325"	lng="27.5517"	mag="1.8" Depth="10.5" />
 	<earhquake	name="2025.06.22 19:10:19"	lokasyon="HARMANDALI-AKHISAR (MANISA)                       "	lat="38.8527"	lng="27.9098"	mag="2.3" Depth="6.3" />
@@ -52,4 +50,8 @@
 	<earhquake	name="2025.06.23 15:35:23"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.1025"	lng="27.7142"	mag="1.9" Depth="17.1" />
 	<earhquake	name="2025.06.23 15:37:43"	lokasyon="AKDENIZ                                           REVIZE01   (2025.06.23 15:37:42)"	lat="34.7070"	lng="34.1843"	mag="4.2" Depth="7.6" />
 	<earhquake	name="2025.06.23 16:14:43"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2433"	lng="28.9830"	mag="1.9" Depth="5.4" />
+	<earhquake	name="2025.06.23 17:17:49"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2342"	lng="28.9780"	mag="2.5" Depth="7.7" />
+	<earhquake	name="2025.06.23 17:18:42"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1900"	lng="29.0355"	mag="1.6" Depth="11.9" />
+	<earhquake	name="2025.06.23 17:19:19"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1775"	lng="29.0605"	mag="1.5" Depth="14.1" />
+	<earhquake	name="2025.06.23 17:20:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2485"	lng="29.0052"	mag="1.8" Depth="10.9" />
 </eqlist>
