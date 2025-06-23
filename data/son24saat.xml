@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.22 14:24:47"	lokasyon="GURLEYIK-HONAZ (DENIZLI)                          "	lat="37.8595"	lng="29.2785"	mag="1.5" Depth="13.8" />
-	<earhquake	name="2025.06.22 14:28:19"	lokasyon="YUREKKAYA-SIVRICE (ELAZIG)                        "	lat="38.3657"	lng="38.9623"	mag="1.7" Depth="7.1" />
-	<earhquake	name="2025.06.22 14:56:42"	lokasyon="KOPRUDERE-KOVANCILAR (ELAZIG)                     "	lat="38.7478"	lng="39.9448"	mag="1.7" Depth="22.3" />
-	<earhquake	name="2025.06.22 15:05:32"	lokasyon="YOGUNPELIT-YIGILCA (DUZCE)                        "	lat="40.9415"	lng="31.6438"	mag="2.7" Depth="5.4" />
-	<earhquake	name="2025.06.22 15:17:02"	lokasyon="SANDALCIK-ACIPAYAM (DENIZLI)                      "	lat="37.0987"	lng="29.0212"	mag="1.3" Depth="5.3" />
-	<earhquake	name="2025.06.22 15:28:06"	lokasyon="ARICILAR-(BINGOL)                                 "	lat="39.0517"	lng="40.3002"	mag="1.6" Depth="21.9" />
-	<earhquake	name="2025.06.22 15:31:44"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.7362"	lng="23.2810"	mag="3.1" Depth="7.1" />
-	<earhquake	name="2025.06.22 15:43:50"	lokasyon="EGE DENIZI                                        "	lat="37.8297"	lng="26.7893"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2025.06.22 16:02:43"	lokasyon="SARIOT-DOMANIC (KUTAHYA)                          "	lat="39.8030"	lng="29.4125"	mag="2.5" Depth="7.8" />
 	<earhquake	name="2025.06.22 17:52:00"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2452"	lng="28.9842"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.06.22 17:52:39"	lokasyon="SENKOY-SIMAV (KUTAHYA)                            "	lat="39.0958"	lng="29.1107"	mag="1.6" Depth="18.5" />
@@ -56,4 +48,5 @@
 	<earhquake	name="2025.06.23 12:01:38"	lokasyon="KAYALAR-GEVAS (VAN)                               "	lat="38.2418"	lng="43.0023"	mag="1.9" Depth="5.6" />
 	<earhquake	name="2025.06.23 12:24:19"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="37.4042"	lng="26.9277"	mag="1.8" Depth="13.6" />
 	<earhquake	name="2025.06.23 13:06:51"	lokasyon="CAMKOY-BIGADIC (BALIKESIR)                        "	lat="39.4723"	lng="28.1970"	mag="2.2" Depth="8.3" />
+	<earhquake	name="2025.06.23 14:56:21"	lokasyon="SUMAKLI-ANDIRIN (KAHRAMANMARAS)                   "	lat="37.4028"	lng="36.4820"	mag="2.5" Depth="3.1" />
 </eqlist>
