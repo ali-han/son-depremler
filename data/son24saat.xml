@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.24 02:05:31"	lokasyon="SARIKAYA-CEKEREK (YOZGAT)                         "	lat="39.9917"	lng="35.5378"	mag="1.9" Depth="7.2" />
-	<earhquake	name="2025.06.24 02:48:48"	lokasyon="YUNANISTAN                                        "	lat="40.2883"	lng="24.1343"	mag="1.8" Depth="10.6" />
 	<earhquake	name="2025.06.24 03:40:43"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1885"	lng="40.2913"	mag="2.3" Depth="10.7" />
 	<earhquake	name="2025.06.24 03:50:45"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1992"	lng="29.0362"	mag="1.9" Depth="9.0" />
 	<earhquake	name="2025.06.24 03:53:26"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2390"	lng="29.0008"	mag="2.9" Depth="5.4" />
@@ -74,4 +72,7 @@
 	<earhquake	name="2025.06.25 00:37:29"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1865"	lng="40.2622"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.06.25 01:10:58"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8760"	lng="26.9578"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.06.25 01:28:24"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2220"	lng="40.2750"	mag="2.1" Depth="7.9" />
+	<earhquake	name="2025.06.25 01:48:22"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2038"	lng="29.0382"	mag="1.4" Depth="14.0" />
+	<earhquake	name="2025.06.25 01:53:50"	lokasyon="KARACAM-KOYCEGIZ (MUGLA)                          "	lat="36.9825"	lng="28.9912"	mag="1.4" Depth="11.5" />
+	<earhquake	name="2025.06.25 02:24:45"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1813"	lng="40.2663"	mag="2.2" Depth="7.1" />
 </eqlist>
