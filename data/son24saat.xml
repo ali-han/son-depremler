@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.23 14:56:21"	lokasyon="SUMAKLI-ANDIRIN (KAHRAMANMARAS)                   "	lat="37.4028"	lng="36.4820"	mag="2.5" Depth="3.1" />
 	<earhquake	name="2025.06.23 15:15:16"	lokasyon="KAHYALI-CEKEREK (YOZGAT)                          "	lat="40.0007"	lng="35.5265"	mag="3.1" Depth="5.0" />
 	<earhquake	name="2025.06.23 15:35:23"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.1025"	lng="27.7142"	mag="1.9" Depth="17.1" />
 	<earhquake	name="2025.06.23 15:37:43"	lokasyon="AKDENIZ                                           REVIZE01   (2025.06.23 15:37:42)"	lat="34.7070"	lng="34.1843"	mag="4.2" Depth="7.6" />
@@ -68,4 +67,6 @@
 	<earhquake	name="2025.06.24 12:57:40"	lokasyon="AYAS-ERDEMLI (MERSIN)                             "	lat="36.4878"	lng="34.1480"	mag="1.1" Depth="0.0" />
 	<earhquake	name="2025.06.24 13:06:59"	lokasyon="ALAHANLI-(OSMANIYE)                               "	lat="37.0790"	lng="36.1983"	mag="1.7" Depth="10.3" />
 	<earhquake	name="2025.06.24 13:27:58"	lokasyon="AKDENIZ                                           "	lat="36.3385"	lng="28.7107"	mag="2.6" Depth="17.0" />
+	<earhquake	name="2025.06.24 14:10:18"	lokasyon="BUYUKECELI-GULNAR (MERSIN)                        "	lat="36.1712"	lng="33.5517"	mag="1.2" Depth="0.0" />
+	<earhquake	name="2025.06.24 14:25:00"	lokasyon="SOGUT-SIMAV (KUTAHYA)                             "	lat="39.1427"	lng="29.1232"	mag="1.6" Depth="19.8" />
 </eqlist>
