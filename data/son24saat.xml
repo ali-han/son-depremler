@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.23 17:17:49"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2342"	lng="28.9780"	mag="2.5" Depth="7.7" />
-	<earhquake	name="2025.06.23 17:18:42"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1900"	lng="29.0355"	mag="1.6" Depth="11.9" />
-	<earhquake	name="2025.06.23 17:19:19"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1775"	lng="29.0605"	mag="1.5" Depth="14.1" />
-	<earhquake	name="2025.06.23 17:20:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2485"	lng="29.0052"	mag="1.8" Depth="10.9" />
-	<earhquake	name="2025.06.23 17:21:38"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2132"	lng="29.0472"	mag="2.0" Depth="11.1" />
-	<earhquake	name="2025.06.23 17:39:42"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1795"	lng="29.0210"	mag="1.4" Depth="9.8" />
 	<earhquake	name="2025.06.23 18:22:36"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4915"	lng="28.1198"	mag="1.9" Depth="4.2" />
 	<earhquake	name="2025.06.23 18:49:26"	lokasyon="MARMARA DENIZI                                    "	lat="40.8248"	lng="28.7728"	mag="2.3" Depth="5.1" />
 	<earhquake	name="2025.06.23 18:58:16"	lokasyon="EGE DENIZI                                        "	lat="36.5573"	lng="25.6318"	mag="2.8" Depth="12.7" />
@@ -72,4 +66,6 @@
 	<earhquake	name="2025.06.24 15:21:14"	lokasyon="ESKIKARAHISAR-ULAS (SIVAS)                        "	lat="39.4145"	lng="37.2400"	mag="2.6" Depth="5.9" />
 	<earhquake	name="2025.06.24 16:12:12"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2222"	lng="38.5777"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.06.24 16:37:31"	lokasyon="TASOLUK-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9698"	lng="36.4237"	mag="1.8" Depth="24.9" />
+	<earhquake	name="2025.06.24 16:50:47"	lokasyon="MARMARA DENIZI                                    "	lat="40.8368"	lng="28.3997"	mag="2.4" Depth="12.7" />
+	<earhquake	name="2025.06.24 17:24:31"	lokasyon="YURTYENICE-KALECIK (ANKARA)                       "	lat="40.3092"	lng="33.4422"	mag="2.5" Depth="2.5" />
 </eqlist>
