@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.24 16:12:12"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2222"	lng="38.5777"	mag="2.8" Depth="5.0" />
-	<earhquake	name="2025.06.24 16:37:31"	lokasyon="TASOLUK-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9698"	lng="36.4237"	mag="1.8" Depth="24.9" />
-	<earhquake	name="2025.06.24 16:50:47"	lokasyon="MARMARA DENIZI                                    "	lat="40.8368"	lng="28.3997"	mag="2.4" Depth="12.7" />
 	<earhquake	name="2025.06.24 17:24:31"	lokasyon="YURTYENICE-KALECIK (ANKARA)                       "	lat="40.3092"	lng="33.4422"	mag="2.5" Depth="2.5" />
 	<earhquake	name="2025.06.24 18:13:27"	lokasyon="KAYNAR-(KAHRAMANMARAS)                            "	lat="37.8135"	lng="36.5442"	mag="1.9" Depth="8.0" />
 	<earhquake	name="2025.06.24 18:22:49"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2082"	lng="38.5885"	mag="2.7" Depth="4.5" />
@@ -53,4 +50,7 @@
 	<earhquake	name="2025.06.25 13:31:47"	lokasyon="AKTAS-BUYUKORHAN (BURSA)                          REVIZE01   (2025.06.25 13:31:47)"	lat="39.8033"	lng="28.8175"	mag="2.8" Depth="6.8" />
 	<earhquake	name="2025.06.25 15:13:39"	lokasyon="CIGIRLI-PUTURGE (MALATYA)                         REVIZE01   (2025.06.25 15:13:39)"	lat="38.3197"	lng="38.8775"	mag="1.7" Depth="7.2" />
 	<earhquake	name="2025.06.25 15:28:24"	lokasyon="KAYABAGLARI-SIVRICE (ELAZIG)                      "	lat="38.3732"	lng="38.8868"	mag="1.9" Depth="62.4" />
+	<earhquake	name="2025.06.25 15:34:02"	lokasyon="AKBAYIR-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.1848"	lng="37.3498"	mag="1.8" Depth="5.0" />
+	<earhquake	name="2025.06.25 16:31:24"	lokasyon="COBANDAGI-VARTO (MUS)                             "	lat="39.2463"	lng="41.4638"	mag="2.2" Depth="3.9" />
+	<earhquake	name="2025.06.25 16:36:53"	lokasyon="ORTAKOY-AKCADAG (MALATYA)                         "	lat="38.2807"	lng="37.8033"	mag="2.2" Depth="1.5" />
 </eqlist>
