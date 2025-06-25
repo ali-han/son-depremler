@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.25 01:10:58"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8760"	lng="26.9578"	mag="2.2" Depth="5.0" />
-	<earhquake	name="2025.06.25 01:28:24"	lokasyon="DALLICA-KIGI (BINGOL)                             "	lat="39.2220"	lng="40.2750"	mag="2.1" Depth="7.9" />
-	<earhquake	name="2025.06.25 01:48:22"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2038"	lng="29.0382"	mag="1.4" Depth="14.0" />
-	<earhquake	name="2025.06.25 01:53:50"	lokasyon="KARACAM-KOYCEGIZ (MUGLA)                          "	lat="36.9825"	lng="28.9912"	mag="1.4" Depth="11.5" />
 	<earhquake	name="2025.06.25 02:13:10"	lokasyon="KARAMAN-KOVANCILAR (ELAZIG)                       "	lat="38.7360"	lng="40.0382"	mag="1.7" Depth="4.5" />
 	<earhquake	name="2025.06.25 02:24:45"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1813"	lng="40.2663"	mag="2.2" Depth="7.1" />
 	<earhquake	name="2025.06.25 02:37:41"	lokasyon="KARAGOL-ULAS (SIVAS)                              "	lat="39.4748"	lng="37.3718"	mag="1.4" Depth="5.9" />
@@ -51,4 +47,5 @@
 	<earhquake	name="2025.06.25 23:25:30"	lokasyon="MARMARA DENIZI                                    "	lat="40.8370"	lng="28.4128"	mag="3.4" Depth="9.8" />
 	<earhquake	name="2025.06.25 23:30:00"	lokasyon="OLUKOZU-AKDAGMADENI (YOZGAT)                      "	lat="39.7022"	lng="35.7640"	mag="1.9" Depth="10.7" />
 	<earhquake	name="2025.06.25 23:40:51"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0682"	lng="37.5693"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2025.06.26 01:03:28"	lokasyon="MARMARA DENIZI                                    "	lat="40.8238"	lng="28.1627"	mag="1.8" Depth="13.3" />
 </eqlist>
