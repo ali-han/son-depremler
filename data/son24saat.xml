@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.24 22:17:16"	lokasyon="CICEKTEPE-KIGI (BINGOL)                           "	lat="39.2952"	lng="40.2942"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2025.06.24 22:44:51"	lokasyon="ARIKLIKAS-BAHCE (OSMANIYE)                        "	lat="37.1563"	lng="36.5027"	mag="1.5" Depth="15.2" />
 	<earhquake	name="2025.06.25 00:34:12"	lokasyon="OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.5012"	lng="28.8698"	mag="2.8" Depth="10.8" />
 	<earhquake	name="2025.06.25 00:37:29"	lokasyon="DARKOPRU-KIGI (BINGOL)                            "	lat="39.1865"	lng="40.2622"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.06.25 01:10:58"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8760"	lng="26.9578"	mag="2.2" Depth="5.0" />
@@ -35,6 +33,9 @@
 	<earhquake	name="2025.06.25 16:31:24"	lokasyon="COBANDAGI-VARTO (MUS)                             "	lat="39.2463"	lng="41.4638"	mag="2.2" Depth="3.9" />
 	<earhquake	name="2025.06.25 16:36:53"	lokasyon="ORTAKOY-AKCADAG (MALATYA)                         "	lat="38.2807"	lng="37.8033"	mag="2.2" Depth="1.5" />
 	<earhquake	name="2025.06.25 16:57:31"	lokasyon="UYANIK-KALE (MALATYA)                             "	lat="38.3325"	lng="38.8580"	mag="1.6" Depth="17.2" />
+	<earhquake	name="2025.06.25 18:04:04"	lokasyon="CITME-DIVRIGI (SIVAS)                             "	lat="39.5393"	lng="38.2195"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2025.06.25 18:12:16"	lokasyon="ARPASEKI-KINIK (IZMIR)                            "	lat="39.0803"	lng="27.5127"	mag="1.6" Depth="9.1" />
+	<earhquake	name="2025.06.25 19:11:33"	lokasyon="ALTINYAYLA (BURDUR)                               "	lat="36.9935"	lng="29.5597"	mag="1.7" Depth="4.5" />
 	<earhquake	name="2025.06.25 19:22:23"	lokasyon="GOKCELER-SIMAV (KUTAHYA)                          "	lat="39.0850"	lng="29.0395"	mag="1.6" Depth="3.7" />
 	<earhquake	name="2025.06.25 19:34:27"	lokasyon="GOLKOY-SIMAV (KUTAHYA)                            "	lat="39.1692"	lng="28.8765"	mag="1.4" Depth="9.2" />
 	<earhquake	name="2025.06.25 19:38:50"	lokasyon="SURIYE                                            "	lat="35.6690"	lng="35.9100"	mag="1.9" Depth="8.7" />
