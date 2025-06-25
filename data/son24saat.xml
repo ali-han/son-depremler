@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.24 14:10:18"	lokasyon="BUYUKECELI-GULNAR (MERSIN)                        "	lat="36.1712"	lng="33.5517"	mag="1.2" Depth="0.0" />
-	<earhquake	name="2025.06.24 14:25:00"	lokasyon="SOGUT-SIMAV (KUTAHYA)                             "	lat="39.1427"	lng="29.1232"	mag="1.6" Depth="19.8" />
-	<earhquake	name="2025.06.24 14:50:41"	lokasyon="YESILOVACIK-SILIFKE (MERSIN)                      "	lat="36.1637"	lng="33.7235"	mag="1.3" Depth="0.0" />
-	<earhquake	name="2025.06.24 15:07:48"	lokasyon="MARMARA DENIZI                                    "	lat="40.8075"	lng="28.7807"	mag="2.7" Depth="12.9" />
-	<earhquake	name="2025.06.24 15:16:25"	lokasyon="ALIBEYCAGILI-KIRIKHAN (HATAY)                     "	lat="36.6005"	lng="36.3340"	mag="2.2" Depth="8.3" />
-	<earhquake	name="2025.06.24 15:21:14"	lokasyon="ESKIKARAHISAR-ULAS (SIVAS)                        "	lat="39.4145"	lng="37.2400"	mag="2.6" Depth="5.9" />
 	<earhquake	name="2025.06.24 16:12:12"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2222"	lng="38.5777"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.06.24 16:37:31"	lokasyon="TASOLUK-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9698"	lng="36.4237"	mag="1.8" Depth="24.9" />
 	<earhquake	name="2025.06.24 16:50:47"	lokasyon="MARMARA DENIZI                                    "	lat="40.8368"	lng="28.3997"	mag="2.4" Depth="12.7" />
@@ -56,5 +50,6 @@
 	<earhquake	name="2025.06.25 12:02:52"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.2293"	lng="33.7917"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2025.06.25 12:12:30"	lokasyon="ADIL-SOMA (MANISA)                                "	lat="39.1017"	lng="27.6258"	mag="1.9" Depth="0.0" />
 	<earhquake	name="2025.06.25 13:12:48"	lokasyon="SELVI-BIGA (CANAKKALE)                            "	lat="40.2908"	lng="27.0662"	mag="1.7" Depth="23.3" />
-	<earhquake	name="2025.06.25 13:31:47"	lokasyon="AKTAS-BUYUKORHAN (BURSA)                          "	lat="39.8005"	lng="28.8228"	mag="2.9" Depth="5.9" />
+	<earhquake	name="2025.06.25 13:31:47"	lokasyon="AKTAS-BUYUKORHAN (BURSA)                          REVIZE01   (2025.06.25 13:31:47)"	lat="39.8033"	lng="28.8175"	mag="2.8" Depth="6.8" />
+	<earhquake	name="2025.06.25 15:13:39"	lokasyon="CIGIRLI-PUTURGE (MALATYA)                         REVIZE01   (2025.06.25 15:13:39)"	lat="38.3197"	lng="38.8775"	mag="1.7" Depth="7.2" />
 </eqlist>
