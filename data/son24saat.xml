@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.25 08:05:45"	lokasyon="AKDENIZ                                           "	lat="36.1267"	lng="28.8532"	mag="1.9" Depth="24.0" />
-	<earhquake	name="2025.06.25 08:41:22"	lokasyon="KERTMEKARACAOREN-ULAS (SIVAS)                     "	lat="39.4288"	lng="37.2978"	mag="1.8" Depth="14.9" />
-	<earhquake	name="2025.06.25 08:42:59"	lokasyon="KAYAPINAR-ULAS (SIVAS)                            "	lat="39.4418"	lng="37.1815"	mag="1.9" Depth="4.1" />
 	<earhquake	name="2025.06.25 09:24:51"	lokasyon="ESKIKARAHISAR-ULAS (SIVAS)                        "	lat="39.4222"	lng="37.2410"	mag="1.6" Depth="11.3" />
 	<earhquake	name="2025.06.25 09:53:54"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2423"	lng="29.0177"	mag="2.0" Depth="5.9" />
 	<earhquake	name="2025.06.25 09:58:59"	lokasyon="GULVEREN-SENKAYA (ERZURUM)                        "	lat="40.7343"	lng="42.3837"	mag="1.9" Depth="4.7" />
@@ -58,4 +55,5 @@
 	<earhquake	name="2025.06.26 05:40:08"	lokasyon="TAVAKLI-EZINE (CANAKKALE)                         "	lat="39.6618"	lng="26.1648"	mag="1.7" Depth="6.5" />
 	<earhquake	name="2025.06.26 05:41:11"	lokasyon="TAVAKLI-EZINE (CANAKKALE)                         "	lat="39.6763"	lng="26.1767"	mag="1.2" Depth="7.0" />
 	<earhquake	name="2025.06.26 06:37:31"	lokasyon="DEGIRMENSUYU-BULANIK (MUS)                        "	lat="39.1620"	lng="42.1215"	mag="1.4" Depth="18.4" />
+	<earhquake	name="2025.06.26 07:03:02"	lokasyon="KERTMEKARACAOREN-ULAS (SIVAS)                     "	lat="39.4130"	lng="37.2780"	mag="1.8" Depth="9.1" />
 </eqlist>
