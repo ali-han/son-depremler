@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.25 16:31:24"	lokasyon="COBANDAGI-VARTO (MUS)                             "	lat="39.2463"	lng="41.4638"	mag="2.2" Depth="3.9" />
-	<earhquake	name="2025.06.25 16:36:53"	lokasyon="ORTAKOY-AKCADAG (MALATYA)                         "	lat="38.2807"	lng="37.8033"	mag="2.2" Depth="1.5" />
-	<earhquake	name="2025.06.25 16:57:31"	lokasyon="UYANIK-KALE (MALATYA)                             "	lat="38.3325"	lng="38.8580"	mag="1.6" Depth="17.2" />
 	<earhquake	name="2025.06.25 18:04:04"	lokasyon="CITME-DIVRIGI (SIVAS)                             "	lat="39.5393"	lng="38.2195"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.06.25 18:12:16"	lokasyon="ARPASEKI-KINIK (IZMIR)                            "	lat="39.0803"	lng="27.5127"	mag="1.6" Depth="9.1" />
 	<earhquake	name="2025.06.25 19:11:33"	lokasyon="ALTINYAYLA (BURDUR)                               "	lat="36.9935"	lng="29.5597"	mag="1.7" Depth="4.5" />
@@ -59,5 +56,6 @@
 	<earhquake	name="2025.06.26 12:42:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2570"	lng="28.9743"	mag="1.9" Depth="7.6" />
 	<earhquake	name="2025.06.26 13:10:53"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8370"	lng="28.2683"	mag="2.2" Depth="22.7" />
 	<earhquake	name="2025.06.26 13:56:25"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2007"	lng="29.0698"	mag="1.5" Depth="14.8" />
+	<earhquake	name="2025.06.26 14:50:16"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2312"	lng="38.6193"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2025.06.26 15:15:37"	lokasyon="DORTYOL (HATAY)                                   "	lat="36.8553"	lng="36.2108"	mag="1.7" Depth="24.9" />
 </eqlist>
