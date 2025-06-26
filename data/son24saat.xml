@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.25 18:04:04"	lokasyon="CITME-DIVRIGI (SIVAS)                             "	lat="39.5393"	lng="38.2195"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2025.06.25 18:12:16"	lokasyon="ARPASEKI-KINIK (IZMIR)                            "	lat="39.0803"	lng="27.5127"	mag="1.6" Depth="9.1" />
 	<earhquake	name="2025.06.25 19:11:33"	lokasyon="ALTINYAYLA (BURDUR)                               "	lat="36.9935"	lng="29.5597"	mag="1.7" Depth="4.5" />
 	<earhquake	name="2025.06.25 19:22:23"	lokasyon="GOKCELER-SIMAV (KUTAHYA)                          "	lat="39.0850"	lng="29.0395"	mag="1.6" Depth="3.7" />
 	<earhquake	name="2025.06.25 19:34:27"	lokasyon="GOLKOY-SIMAV (KUTAHYA)                            "	lat="39.1692"	lng="28.8765"	mag="1.4" Depth="9.2" />
@@ -60,4 +58,5 @@
 	<earhquake	name="2025.06.26 15:15:37"	lokasyon="DORTYOL (HATAY)                                   "	lat="36.8553"	lng="36.2108"	mag="1.7" Depth="24.9" />
 	<earhquake	name="2025.06.26 16:34:07"	lokasyon="ORENLICE-ULAS (SIVAS)                             "	lat="39.4350"	lng="37.2762"	mag="4.0" Depth="7.4" />
 	<earhquake	name="2025.06.26 17:43:35"	lokasyon="KOMURKOY-GOKSUN (KAHRAMANMARAS)                   "	lat="38.1428"	lng="36.5893"	mag="1.8" Depth="18.9" />
+	<earhquake	name="2025.06.26 18:05:05"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="38.9942"	lng="26.5173"	mag="2.6" Depth="8.4" />
 </eqlist>
