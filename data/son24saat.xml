@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.26 20:36:20"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2435"	lng="28.9785"	mag="2.5" Depth="6.7" />
 	<earhquake	name="2025.06.26 21:44:47"	lokasyon="EGE DENIZI                                        "	lat="38.7220"	lng="26.4938"	mag="2.4" Depth="15.7" />
 	<earhquake	name="2025.06.26 21:59:35"	lokasyon="YAZGUNU-KIGI (BINGOL)                             "	lat="39.2700"	lng="40.2397"	mag="3.2" Depth="8.8" />
 	<earhquake	name="2025.06.26 23:04:38"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2207"	lng="29.0292"	mag="1.5" Depth="3.6" />
@@ -50,4 +49,8 @@
 	<earhquake	name="2025.06.27 18:05:00"	lokasyon="COMLEKCI-BIGADIC (BALIKESIR)                      "	lat="39.4813"	lng="28.0490"	mag="1.5" Depth="10.3" />
 	<earhquake	name="2025.06.27 18:06:02"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5092"	lng="28.1598"	mag="1.7" Depth="11.7" />
 	<earhquake	name="2025.06.27 18:42:00"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.5442"	lng="26.0255"	mag="2.4" Depth="12.6" />
+	<earhquake	name="2025.06.27 18:46:00"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2450"	lng="28.9940"	mag="1.9" Depth="12.9" />
+	<earhquake	name="2025.06.27 19:01:15"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.5357"	lng="26.0272"	mag="1.8" Depth="10.1" />
+	<earhquake	name="2025.06.27 19:31:53"	lokasyon="PASAKOY-ALANYA (ANTALYA)                          "	lat="36.6080"	lng="31.9633"	mag="1.6" Depth="2.1" />
+	<earhquake	name="2025.06.27 19:52:08"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.8162"	lng="27.3503"	mag="1.7" Depth="4.3" />
 </eqlist>
