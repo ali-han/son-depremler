@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.26 16:34:07"	lokasyon="ORENLICE-ULAS (SIVAS)                             "	lat="39.4350"	lng="37.2762"	mag="4.0" Depth="7.4" />
 	<earhquake	name="2025.06.26 17:43:35"	lokasyon="KOMURKOY-GOKSUN (KAHRAMANMARAS)                   "	lat="38.1428"	lng="36.5893"	mag="1.8" Depth="18.9" />
 	<earhquake	name="2025.06.26 18:05:05"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="38.9942"	lng="26.5173"	mag="2.6" Depth="8.4" />
 	<earhquake	name="2025.06.26 19:36:21"	lokasyon="YENIYAPAN-GOKSUN (KAHRAMANMARAS)                  "	lat="38.1400"	lng="36.6335"	mag="2.4" Depth="5.2" />
@@ -46,4 +45,6 @@
 	<earhquake	name="2025.06.27 15:17:52"	lokasyon="EGE DENIZI                                        "	lat="36.6945"	lng="25.6892"	mag="2.3" Depth="5.4" />
 	<earhquake	name="2025.06.27 15:18:18"	lokasyon="CAKIRTARLA-DIVRIGI (SIVAS)                        "	lat="39.5168"	lng="38.1903"	mag="2.6" Depth="9.0" />
 	<earhquake	name="2025.06.27 15:24:35"	lokasyon="ODUN ISKELE ACIKLARI-CANAKKALE (EGE DENIZI)       "	lat="39.7485"	lng="25.9938"	mag="2.4" Depth="10.2" />
+	<earhquake	name="2025.06.27 16:17:36"	lokasyon="BASAKSEHIR (ISTANBUL)                             "	lat="41.0923"	lng="28.7945"	mag="1.1" Depth="4.4" />
+	<earhquake	name="2025.06.27 16:27:39"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9280"	lng="27.6957"	mag="2.0" Depth="17.1" />
 </eqlist>
