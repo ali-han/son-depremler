@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.27 01:12:25"	lokasyon="YUNANISTAN                                        "	lat="40.1020"	lng="24.0792"	mag="2.1" Depth="21.4" />
-	<earhquake	name="2025.06.27 01:36:35"	lokasyon="GAZIKOY-DARENDE (MALATYA)                         "	lat="38.4517"	lng="37.4067"	mag="1.2" Depth="5.1" />
-	<earhquake	name="2025.06.27 01:50:01"	lokasyon="KEKLIKPINARI-AKCADAG (MALATYA)                    "	lat="38.5000"	lng="38.0245"	mag="1.6" Depth="11.4" />
 	<earhquake	name="2025.06.27 02:36:10"	lokasyon="GOLOVA-MENDERES (IZMIR)                           "	lat="37.9858"	lng="27.2107"	mag="1.5" Depth="5.4" />
 	<earhquake	name="2025.06.27 03:11:13"	lokasyon="GUNEYKOY-SIVRICE (ELAZIG)                         "	lat="38.5057"	lng="39.3152"	mag="1.5" Depth="4.1" />
 	<earhquake	name="2025.06.27 03:25:52"	lokasyon="GOLLUHUYUK-TURKOGLU (KAHRAMANMARAS)               "	lat="37.3832"	lng="36.9075"	mag="1.4" Depth="10.9" />
@@ -52,5 +49,6 @@
 	<earhquake	name="2025.06.27 23:01:54"	lokasyon="SIGIRLIHACI-CUBUK (ANKARA)                        "	lat="40.2050"	lng="32.9160"	mag="1.9" Depth="8.7" />
 	<earhquake	name="2025.06.27 23:26:18"	lokasyon="KUSLUCA-BEYSEHIR (KONYA)                          "	lat="37.7978"	lng="31.5050"	mag="1.7" Depth="9.8" />
 	<earhquake	name="2025.06.27 23:49:09"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.7903"	lng="31.5508"	mag="2.4" Depth="5.3" />
+	<earhquake	name="2025.06.28 00:20:15"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.6740"	lng="28.3723"	mag="1.7" Depth="49.2" />
 	<earhquake	name="2025.06.28 00:40:38"	lokasyon="ERMENISTAN                                        "	lat="40.8290"	lng="44.2145"	mag="2.9" Depth="5.0" />
 </eqlist>
