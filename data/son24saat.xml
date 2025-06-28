@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.27 05:22:45"	lokasyon="AGACOVEN-KIGI (BINGOL)                            "	lat="39.2955"	lng="40.2575"	mag="1.8" Depth="4.9" />
-	<earhquake	name="2025.06.27 05:24:49"	lokasyon="FETHIYE KORFEZI (AKDENIZ)                         "	lat="36.5612"	lng="28.8778"	mag="1.2" Depth="17.7" />
-	<earhquake	name="2025.06.27 05:47:42"	lokasyon="AKDAG-GELENDOST (ISPARTA)                         "	lat="38.1518"	lng="30.9095"	mag="1.8" Depth="8.2" />
 	<earhquake	name="2025.06.27 06:14:29"	lokasyon="YAZGUNU-KIGI (BINGOL)                             "	lat="39.2467"	lng="40.2583"	mag="1.8" Depth="5.1" />
 	<earhquake	name="2025.06.27 06:26:45"	lokasyon="EGE DENIZI                                        "	lat="36.2443"	lng="25.5827"	mag="2.6" Depth="10.5" />
 	<earhquake	name="2025.06.27 07:26:39"	lokasyon="MARMARA DENIZI                                    "	lat="40.8227"	lng="28.3207"	mag="2.1" Depth="10.9" />
@@ -43,8 +40,12 @@
 	<earhquake	name="2025.06.27 23:49:09"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.7903"	lng="31.5508"	mag="2.4" Depth="5.3" />
 	<earhquake	name="2025.06.28 00:20:15"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.6740"	lng="28.3723"	mag="1.7" Depth="49.2" />
 	<earhquake	name="2025.06.28 00:40:38"	lokasyon="ERMENISTAN                                        "	lat="40.8290"	lng="44.2145"	mag="2.9" Depth="5.0" />
+	<earhquake	name="2025.06.28 01:06:08"	lokasyon="ALIKOY-(ISPARTA)                                  "	lat="37.8363"	lng="30.6248"	mag="1.2" Depth="14.8" />
+	<earhquake	name="2025.06.28 01:17:33"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.0680"	lng="27.7320"	mag="0.9" Depth="11.0" />
 	<earhquake	name="2025.06.28 02:38:48"	lokasyon="YUNANISTAN                                        "	lat="40.2992"	lng="24.0767"	mag="2.0" Depth="9.1" />
 	<earhquake	name="2025.06.28 02:44:31"	lokasyon="AKARCA-ELBISTAN (KAHRAMANMARAS)                   "	lat="38.4730"	lng="37.2863"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2025.06.28 03:06:48"	lokasyon="ASAGITIRTAR-YALVAC (ISPARTA)                      "	lat="38.2028"	lng="30.9172"	mag="1.4" Depth="24.5" />
 	<earhquake	name="2025.06.28 03:07:15"	lokasyon="CAKALLI-BELEN (HATAY)                             "	lat="36.4730"	lng="36.2397"	mag="1.4" Depth="4.4" />
 	<earhquake	name="2025.06.28 04:07:32"	lokasyon="YUNANISTAN                                        "	lat="38.9107"	lng="23.3490"	mag="2.9" Depth="14.5" />
+	<earhquake	name="2025.06.28 04:50:24"	lokasyon="ILDIR-CESME (IZMIR)                               "	lat="38.3838"	lng="26.4527"	mag="1.1" Depth="11.2" />
 </eqlist>
