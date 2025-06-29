@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.28 22:16:29"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8818"	lng="25.8410"	mag="2.9" Depth="5.1" />
-	<earhquake	name="2025.06.28 22:27:48"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9972"	lng="27.1230"	mag="1.8" Depth="5.2" />
 	<earhquake	name="2025.06.29 00:14:22"	lokasyon="YAZISOGUT-(ISPARTA)                               "	lat="37.7982"	lng="30.5843"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.06.29 00:19:55"	lokasyon="GULPINAR-AYVACIK (CANAKKALE)                      "	lat="39.5437"	lng="26.0572"	mag="1.5" Depth="11.0" />
 	<earhquake	name="2025.06.29 01:20:53"	lokasyon="KARAGOL-ULAS (SIVAS)                              "	lat="39.4447"	lng="37.3572"	mag="1.6" Depth="5.6" />
@@ -46,4 +44,5 @@
 	<earhquake	name="2025.06.29 20:20:01"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8005"	lng="28.1642"	mag="2.5" Depth="6.7" />
 	<earhquake	name="2025.06.29 20:57:29"	lokasyon="KOZCESME-BIGA (CANAKKALE)                         "	lat="40.2343"	lng="27.0363"	mag="2.2" Depth="5.3" />
 	<earhquake	name="2025.06.29 21:19:09"	lokasyon="EGE DENIZI                                        "	lat="35.6658"	lng="26.3280"	mag="3.1" Depth="14.8" />
+	<earhquake	name="2025.06.29 22:12:10"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.2000"	lng="31.7623"	mag="2.3" Depth="5.4" />
 </eqlist>
