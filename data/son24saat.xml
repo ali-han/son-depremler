@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.28 18:09:55"	lokasyon="DOGANCAM-BIGADIC (BALIKESIR)                      "	lat="39.5265"	lng="28.2185"	mag="1.7" Depth="17.4" />
-	<earhquake	name="2025.06.28 18:10:59"	lokasyon="DEDEKASI-KEPSUT (BALIKESIR)                       "	lat="39.5817"	lng="28.1405"	mag="1.8" Depth="18.8" />
-	<earhquake	name="2025.06.28 18:12:40"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5262"	lng="28.1310"	mag="1.5" Depth="14.6" />
-	<earhquake	name="2025.06.28 18:14:55"	lokasyon="KUTLUGUN-BASKIL (ELAZIG)                          "	lat="38.4257"	lng="38.8788"	mag="2.9" Depth="5.0" />
-	<earhquake	name="2025.06.28 19:44:26"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2273"	lng="29.0430"	mag="2.0" Depth="12.8" />
-	<earhquake	name="2025.06.28 20:02:44"	lokasyon="KARADENIZ                                         "	lat="42.2873"	lng="36.3372"	mag="2.5" Depth="6.1" />
-	<earhquake	name="2025.06.28 20:08:05"	lokasyon="TOMBAK-GOKSUN (KAHRAMANMARAS)                     "	lat="38.1253"	lng="36.9378"	mag="1.4" Depth="14.2" />
-	<earhquake	name="2025.06.28 20:14:13"	lokasyon="AGCASAR-AFSIN (KAHRAMANMARAS)                     "	lat="38.1972"	lng="36.7482"	mag="1.4" Depth="7.6" />
 	<earhquake	name="2025.06.28 22:16:29"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8818"	lng="25.8410"	mag="2.9" Depth="5.1" />
 	<earhquake	name="2025.06.28 22:27:48"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9972"	lng="27.1230"	mag="1.8" Depth="5.2" />
 	<earhquake	name="2025.06.29 00:14:22"	lokasyon="YAZISOGUT-(ISPARTA)                               "	lat="37.7982"	lng="30.5843"	mag="1.9" Depth="5.0" />
@@ -49,4 +41,5 @@
 	<earhquake	name="2025.06.29 15:12:38"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2763"	lng="38.0988"	mag="1.5" Depth="29.7" />
 	<earhquake	name="2025.06.29 16:30:36"	lokasyon="OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.4268"	lng="28.9508"	mag="2.3" Depth="14.0" />
 	<earhquake	name="2025.06.29 17:17:51"	lokasyon="KABAAGAC-AFSIN (KAHRAMANMARAS)                    "	lat="38.1882"	lng="37.0142"	mag="1.6" Depth="15.7" />
+	<earhquake	name="2025.06.29 20:02:16"	lokasyon="SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                "	lat="38.0662"	lng="37.4817"	mag="1.8" Depth="6.9" />
 </eqlist>
