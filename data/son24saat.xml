@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.06.30 19:14:56"	lokasyon="GELISEN-SEMDINLI (HAKKARI)                        "	lat="37.0430"	lng="44.6995"	mag="4.4" Depth="5.0" />
-	<earhquake	name="2025.06.30 19:21:58"	lokasyon="MECITOZU (CORUM)                                  "	lat="40.5133"	lng="35.2865"	mag="2.1" Depth="7.6" />
-	<earhquake	name="2025.06.30 19:35:02"	lokasyon="KOKPINAR-TERCAN (ERZINCAN)                        "	lat="39.6568"	lng="40.5833"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2025.06.30 19:42:02"	lokasyon="COBANLAR-KIRKAGAC (MANISA)                        "	lat="39.2400"	lng="27.8700"	mag="1.4" Depth="12.8" />
 	<earhquake	name="2025.06.30 20:01:11"	lokasyon="EGE DENIZI                                        "	lat="35.7495"	lng="25.4450"	mag="2.7" Depth="9.7" />
 	<earhquake	name="2025.06.30 20:20:12"	lokasyon="AKTARLI-PUTURGE (MALATYA)                         "	lat="38.2690"	lng="38.8260"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.06.30 20:45:02"	lokasyon="EDREMIT KORFEZI (EGE DENIZI)                      "	lat="39.4285"	lng="26.3177"	mag="1.7" Depth="7.7" />
@@ -57,4 +53,5 @@
 	<earhquake	name="2025.07.01 17:13:52"	lokasyon="BURDUR                                            "	lat="37.7027"	lng="30.2743"	mag="1.7" Depth="20.0" />
 	<earhquake	name="2025.07.01 17:14:02"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4760"	lng="29.2035"	mag="1.7" Depth="8.6" />
 	<earhquake	name="2025.07.01 18:01:05"	lokasyon="SALMANLI-BIGADIC (BALIKESIR)                      "	lat="39.4472"	lng="28.1377"	mag="1.8" Depth="8.0" />
+	<earhquake	name="2025.07.01 19:32:02"	lokasyon="AKDENIZ                                           "	lat="36.0153"	lng="28.4710"	mag="2.7" Depth="44.7" />
 </eqlist>
