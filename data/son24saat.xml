@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.01 17:13:52"	lokasyon="BURDUR                                            "	lat="37.7027"	lng="30.2743"	mag="1.7" Depth="20.0" />
-	<earhquake	name="2025.07.01 17:14:02"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4760"	lng="29.2035"	mag="1.7" Depth="8.6" />
 	<earhquake	name="2025.07.01 18:01:05"	lokasyon="SALMANLI-BIGADIC (BALIKESIR)                      "	lat="39.4472"	lng="28.1377"	mag="1.8" Depth="8.0" />
 	<earhquake	name="2025.07.01 18:18:30"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.5005"	lng="28.1183"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.07.01 18:39:50"	lokasyon="CULLUUSAGI-KOZAN (ADANA)                          "	lat="37.6590"	lng="35.8637"	mag="1.8" Depth="11.9" />
@@ -61,4 +59,5 @@
 	<earhquake	name="2025.07.02 14:53:18"	lokasyon="EGE DENIZI                                        "	lat="36.3718"	lng="26.2995"	mag="2.2" Depth="8.9" />
 	<earhquake	name="2025.07.02 15:19:49"	lokasyon="KANDILKOY-EKINOZU (KAHRAMANMARAS)                 "	lat="38.0545"	lng="37.0717"	mag="2.3" Depth="1.9" />
 	<earhquake	name="2025.07.02 16:44:52"	lokasyon="EGE DENIZI                                        "	lat="36.5600"	lng="25.9092"	mag="2.4" Depth="16.6" />
+	<earhquake	name="2025.07.02 16:58:56"	lokasyon="TOPCU-KOPRUKOY (ERZURUM)                          "	lat="39.7735"	lng="41.9388"	mag="4.1" Depth="5.0" />
 </eqlist>
