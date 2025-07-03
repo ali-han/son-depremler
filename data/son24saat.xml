@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.02 21:23:05"	lokasyon="DEMIRCILIK-ULAS (SIVAS)                           "	lat="39.4505"	lng="37.1345"	mag="1.4" Depth="14.8" />
-	<earhquake	name="2025.07.02 21:47:52"	lokasyon="POLAT-GEDIZ (KUTAHYA)                             "	lat="39.0968"	lng="29.5147"	mag="1.7" Depth="12.6" />
-	<earhquake	name="2025.07.02 22:59:37"	lokasyon="UCAVLU-AKHISAR (MANISA)                           "	lat="39.0257"	lng="27.6822"	mag="1.7" Depth="5.8" />
 	<earhquake	name="2025.07.02 23:15:25"	lokasyon="GULDEDE-GURUN (SIVAS)                             "	lat="38.6418"	lng="36.9780"	mag="1.5" Depth="5.9" />
 	<earhquake	name="2025.07.02 23:34:01"	lokasyon="YENIKOY-DARENDE (MALATYA)                         "	lat="38.4715"	lng="37.3055"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2025.07.03 00:40:42"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.1105"	lng="27.7380"	mag="1.5" Depth="7.1" />
@@ -75,4 +72,5 @@
 	<earhquake	name="2025.07.03 19:13:00"	lokasyon="EGE DENIZI                                        "	lat="40.0673"	lng="24.5465"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.07.03 19:39:32"	lokasyon="YUNANISTAN                                        "	lat="40.3013"	lng="24.1597"	mag="1.7" Depth="6.3" />
 	<earhquake	name="2025.07.03 20:21:55"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4697"	lng="29.2143"	mag="1.8" Depth="10.2" />
+	<earhquake	name="2025.07.03 21:07:42"	lokasyon="SAVASTEPE (BALIKESIR)                             "	lat="39.3665"	lng="27.6503"	mag="1.5" Depth="4.1" />
 </eqlist>
