@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.03 13:04:46"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5082"	lng="28.1633"	mag="2.0" Depth="9.8" />
-	<earhquake	name="2025.07.03 13:22:51"	lokasyon="CERALAN-SAIMBEYLI (ADANA)                         "	lat="38.1088"	lng="36.0325"	mag="1.5" Depth="4.6" />
-	<earhquake	name="2025.07.03 13:41:24"	lokasyon="EGE DENIZI                                        "	lat="35.8853"	lng="27.6740"	mag="1.9" Depth="8.8" />
-	<earhquake	name="2025.07.03 13:42:23"	lokasyon="MARMARA DENIZI                                    "	lat="40.6440"	lng="27.5922"	mag="1.6" Depth="3.8" />
-	<earhquake	name="2025.07.03 13:46:21"	lokasyon="CAFERLI-KUSADASI (AYDIN)                          "	lat="37.7662"	lng="27.3287"	mag="1.6" Depth="1.0" />
 	<earhquake	name="2025.07.03 14:32:50"	lokasyon="YANISLI-GULNAR (MERSIN)                           "	lat="36.1662"	lng="33.5222"	mag="1.1" Depth="0.0" />
 	<earhquake	name="2025.07.03 14:48:55"	lokasyon="MARMARA DENIZI                                    "	lat="40.6443"	lng="27.5973"	mag="1.6" Depth="3.6" />
 	<earhquake	name="2025.07.03 14:57:27"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9518"	lng="26.0695"	mag="2.4" Depth="6.6" />
@@ -59,4 +54,5 @@
 	<earhquake	name="2025.07.04 09:25:34"	lokasyon="AKDENIZ                                           "	lat="35.6525"	lng="32.0477"	mag="2.1" Depth="15.5" />
 	<earhquake	name="2025.07.04 09:31:30"	lokasyon="DERINBOGAZ-AKCADAG (MALATYA)                      "	lat="38.5078"	lng="37.9310"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.07.04 10:02:10"	lokasyon="TATARLI-CEYHAN (ADANA)                            "	lat="37.1022"	lng="36.0532"	mag="2.2" Depth="9.1" />
+	<earhquake	name="2025.07.04 12:30:52"	lokasyon="KONURTAY-DOGANYOL (MALATYA)                       "	lat="38.2655"	lng="39.1488"	mag="3.3" Depth="7.2" />
 </eqlist>
