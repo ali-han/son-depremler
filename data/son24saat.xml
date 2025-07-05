@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.04 23:31:41"	lokasyon="ABDURRAHMANLAR-GERMENCIK (AYDIN)                  "	lat="37.9088"	lng="27.5443"	mag="1.7" Depth="5.2" />
-	<earhquake	name="2025.07.04 23:41:12"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.7937"	lng="27.3073"	mag="1.2" Depth="7.1" />
 	<earhquake	name="2025.07.05 00:04:24"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.5468"	lng="26.0242"	mag="2.2" Depth="6.7" />
 	<earhquake	name="2025.07.05 00:16:22"	lokasyon="KAS (ANTALYA)                                     "	lat="36.1640"	lng="29.5937"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2025.07.05 00:51:58"	lokasyon="MARMARA DENIZI                                    "	lat="40.7567"	lng="28.3578"	mag="1.5" Depth="5.0" />
@@ -60,4 +58,6 @@
 	<earhquake	name="2025.07.05 20:45:44"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.3530"	lng="26.9273"	mag="2.2" Depth="5.2" />
 	<earhquake	name="2025.07.05 21:17:59"	lokasyon="OLUDENIZ-FETHIYE (MUGLA)                          "	lat="36.5845"	lng="29.1790"	mag="1.5" Depth="20.4" />
 	<earhquake	name="2025.07.05 22:11:30"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8155"	lng="28.2732"	mag="2.0" Depth="8.3" />
+	<earhquake	name="2025.07.05 22:18:47"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4688"	lng="29.2010"	mag="1.4" Depth="8.4" />
+	<earhquake	name="2025.07.05 23:19:09"	lokasyon="EGE DENIZI                                        "	lat="36.6667"	lng="25.5795"	mag="2.2" Depth="18.7" />
 </eqlist>
