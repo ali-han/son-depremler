@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.06 00:07:13"	lokasyon="HARUNUSAGI-AKCADAG (MALATYA)                      "	lat="38.2943"	lng="37.6852"	mag="1.4" Depth="8.3" />
-	<earhquake	name="2025.07.06 00:58:07"	lokasyon="IKIZCE-YESILYURT (MALATYA)                        "	lat="38.3240"	lng="38.2015"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.07.06 01:39:19"	lokasyon="DIKKOY-GOLOVA (SIVAS)                             "	lat="40.0753"	lng="38.5792"	mag="1.9" Depth="7.5" />
 	<earhquake	name="2025.07.06 02:15:06"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.2043"	lng="31.7723"	mag="2.3" Depth="11.0" />
 	<earhquake	name="2025.07.06 02:35:44"	lokasyon="DEDEKOY-AKCADAG (MALATYA)                         "	lat="38.2157"	lng="38.0232"	mag="1.2" Depth="8.0" />
@@ -64,4 +62,5 @@
 	<earhquake	name="2025.07.06 22:01:45"	lokasyon="YAZGUNU-KIGI (BINGOL)                             "	lat="39.2532"	lng="40.2583"	mag="2.3" Depth="5.1" />
 	<earhquake	name="2025.07.06 22:45:34"	lokasyon="AKDENIZ                                           "	lat="36.4997"	lng="28.6128"	mag="1.6" Depth="27.4" />
 	<earhquake	name="2025.07.06 23:00:54"	lokasyon="YENIKOY-SAIMBEYLI (ADANA)                         "	lat="38.0375"	lng="36.1690"	mag="1.4" Depth="17.2" />
+	<earhquake	name="2025.07.07 00:03:35"	lokasyon="EGE DENIZI                                        "	lat="35.7793"	lng="25.5062"	mag="1.8" Depth="20.0" />
 </eqlist>
