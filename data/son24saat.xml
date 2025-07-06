@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.05 06:35:10"	lokasyon="MARMARA DENIZI                                    "	lat="40.8240"	lng="28.1298"	mag="2.3" Depth="13.8" />
-	<earhquake	name="2025.07.05 06:51:13"	lokasyon="CAYIRDERE-PINARHISAR (KIRKLARELI)                 "	lat="41.6730"	lng="27.5203"	mag="2.4" Depth="4.7" />
 	<earhquake	name="2025.07.05 08:12:20"	lokasyon="DEREKOY-SOMA (MANISA)                             "	lat="39.1040"	lng="27.5430"	mag="1.5" Depth="5.6" />
 	<earhquake	name="2025.07.05 08:23:31"	lokasyon="SURGU-DOGANSEHIR (MALATYA)                        "	lat="38.0003"	lng="37.9873"	mag="2.3" Depth="9.6" />
 	<earhquake	name="2025.07.05 08:26:11"	lokasyon="DEMIRKANAT-KIGI (BINGOL)                          "	lat="39.2153"	lng="40.3477"	mag="2.3" Depth="10.3" />
@@ -58,4 +56,5 @@
 	<earhquake	name="2025.07.06 04:06:23"	lokasyon="KANTARKAYA-KARLIOVA (BINGOL)                      "	lat="39.3648"	lng="41.0332"	mag="1.2" Depth="3.8" />
 	<earhquake	name="2025.07.06 04:22:04"	lokasyon="EGRIKAVAK-(AYDIN)                                 "	lat="37.9575"	lng="27.9993"	mag="2.0" Depth="6.0" />
 	<earhquake	name="2025.07.06 05:39:32"	lokasyon="DEGIRMENBOGAZI-MANYAS (BALIKESIR)                 "	lat="39.9857"	lng="27.8377"	mag="2.1" Depth="10.6" />
+	<earhquake	name="2025.07.06 07:11:02"	lokasyon="BOZARMUT-SOMA (MANISA)                            "	lat="39.3147"	lng="27.7612"	mag="2.5" Depth="7.7" />
 </eqlist>
