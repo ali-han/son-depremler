@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.07 02:10:46"	lokasyon="YAKASINEK-SULTANDAGI (AFYONKARAHISAR)             "	lat="38.5778"	lng="31.1768"	mag="1.2" Depth="9.5" />
-	<earhquake	name="2025.07.07 02:11:42"	lokasyon="KISAC-CERKES (CANKIRI)                            "	lat="40.7065"	lng="32.8122"	mag="1.7" Depth="6.0" />
-	<earhquake	name="2025.07.07 02:29:29"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.7620"	lng="24.9948"	mag="2.6" Depth="6.5" />
-	<earhquake	name="2025.07.07 02:38:16"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.1363"	lng="33.2403"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.07.07 03:02:38"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.4100"	lng="37.4052"	mag="1.1" Depth="5.0" />
 	<earhquake	name="2025.07.07 03:10:16"	lokasyon="EGE DENIZI                                        "	lat="36.6210"	lng="25.5797"	mag="1.6" Depth="8.0" />
 	<earhquake	name="2025.07.07 03:46:07"	lokasyon="CIHATLI-GEMLIK (BURSA)                            "	lat="40.4497"	lng="29.2023"	mag="1.0" Depth="8.0" />
@@ -82,4 +78,5 @@
 	<earhquake	name="2025.07.08 00:53:59"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0417"	lng="37.4700"	mag="1.4" Depth="12.1" />
 	<earhquake	name="2025.07.08 00:56:36"	lokasyon="CAKIRUZUM-GOLE (ARDAHAN)                          "	lat="40.8122"	lng="42.5275"	mag="1.7" Depth="5.7" />
 	<earhquake	name="2025.07.08 00:57:58"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9618"	lng="27.1168"	mag="1.5" Depth="4.4" />
+	<earhquake	name="2025.07.08 01:53:55"	lokasyon="MARMARA DENIZI                                    "	lat="40.8497"	lng="28.4000"	mag="1.8" Depth="5.0" />
 </eqlist>
