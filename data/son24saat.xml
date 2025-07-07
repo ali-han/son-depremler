@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.06 14:14:51"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2072"	lng="29.0273"	mag="1.9" Depth="6.4" />
-	<earhquake	name="2025.07.06 14:49:47"	lokasyon="BOZKOY-GERMENCIK (AYDIN)                          "	lat="37.9300"	lng="27.6378"	mag="1.7" Depth="10.0" />
 	<earhquake	name="2025.07.06 15:26:26"	lokasyon="CAMURLU-(MALATYA)                                 "	lat="38.2975"	lng="38.3897"	mag="1.7" Depth="22.0" />
 	<earhquake	name="2025.07.06 15:27:38"	lokasyon="HONAZ (DENIZLI)                                   "	lat="37.7415"	lng="29.2707"	mag="0.8" Depth="0.0" />
 	<earhquake	name="2025.07.06 15:34:55"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8063"	lng="28.2655"	mag="2.3" Depth="4.7" />
@@ -79,5 +77,8 @@
 	<earhquake	name="2025.07.07 12:12:48"	lokasyon="ICMELER-GOLYAKA (DUZCE)                           "	lat="40.7895"	lng="31.0425"	mag="2.1" Depth="6.6" />
 	<earhquake	name="2025.07.07 12:49:46"	lokasyon="EGNEZ-SOMA (MANISA)                               "	lat="39.0675"	lng="27.5615"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.07.07 13:04:43"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4128"	lng="26.0883"	mag="2.3" Depth="15.3" />
+	<earhquake	name="2025.07.07 13:21:18"	lokasyon="KURUCAOLUK-BURHANIYE (BALIKESIR)                  "	lat="39.4078"	lng="27.0802"	mag="1.3" Depth="12.2" />
+	<earhquake	name="2025.07.07 13:25:44"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.3965"	lng="26.0810"	mag="1.6" Depth="10.0" />
 	<earhquake	name="2025.07.07 13:38:13"	lokasyon="ESKIKARAHISAR-ULAS (SIVAS)                        "	lat="39.4230"	lng="37.2273"	mag="2.2" Depth="0.0" />
+	<earhquake	name="2025.07.07 13:54:26"	lokasyon="AKDENIZ                                           "	lat="36.3658"	lng="28.5653"	mag="2.0" Depth="18.0" />
 </eqlist>
