@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.06 12:36:41"	lokasyon="BARIS-NURHAK (KAHRAMANMARAS)                      "	lat="38.0162"	lng="37.3003"	mag="1.8" Depth="15.5" />
 	<earhquake	name="2025.07.06 13:09:16"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5205"	lng="28.1068"	mag="1.9" Depth="21.9" />
 	<earhquake	name="2025.07.06 13:38:38"	lokasyon="KEDEK-KEMAH (ERZINCAN)                            "	lat="39.8582"	lng="39.0198"	mag="1.7" Depth="9.6" />
 	<earhquake	name="2025.07.06 13:46:01"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.8118"	lng="31.4877"	mag="1.2" Depth="5.0" />
@@ -72,5 +71,7 @@
 	<earhquake	name="2025.07.07 09:57:00"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2448"	lng="37.8755"	mag="1.8" Depth="10.5" />
 	<earhquake	name="2025.07.07 10:15:05"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0283"	lng="37.6302"	mag="1.9" Depth="14.6" />
 	<earhquake	name="2025.07.07 10:16:46"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0215"	lng="37.6272"	mag="1.6" Depth="12.0" />
-	<earhquake	name="2025.07.07 10:17:20"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="38.0680"	lng="27.0610"	mag="2.3" Depth="15.8" />
+	<earhquake	name="2025.07.07 10:17:20"	lokasyon="CAMONU-MENDERES (IZMIR)                           REVIZE01   (2025.07.07 10:17:20)"	lat="38.1095"	lng="27.0990"	mag="2.2" Depth="8.0" />
+	<earhquake	name="2025.07.07 10:43:42"	lokasyon="DAVUTLAR-(MANISA)                                 "	lat="38.8080"	lng="27.3635"	mag="1.5" Depth="6.7" />
+	<earhquake	name="2025.07.07 11:07:24"	lokasyon="YAZIBASI-ARGUVAN (MALATYA)                        "	lat="38.7832"	lng="38.3768"	mag="1.5" Depth="5.0" />
 </eqlist>
