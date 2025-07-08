@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.07 09:20:36"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1608"	lng="28.4013"	mag="2.0" Depth="9.3" />
-	<earhquake	name="2025.07.07 09:20:39"	lokasyon="YUNANISTAN                                        "	lat="37.6545"	lng="19.7945"	mag="4.2" Depth="4.6" />
-	<earhquake	name="2025.07.07 09:34:28"	lokasyon="IRAK                                              "	lat="36.3915"	lng="43.5642"	mag="2.9" Depth="5.3" />
-	<earhquake	name="2025.07.07 09:53:03"	lokasyon="CELIKKOY-GOLBASI (ADIYAMAN)                       "	lat="37.7075"	lng="37.5842"	mag="2.1" Depth="6.5" />
-	<earhquake	name="2025.07.07 09:57:00"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2448"	lng="37.8755"	mag="1.8" Depth="10.5" />
-	<earhquake	name="2025.07.07 10:15:05"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0283"	lng="37.6302"	mag="1.9" Depth="14.6" />
-	<earhquake	name="2025.07.07 10:16:46"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0215"	lng="37.6272"	mag="1.6" Depth="12.0" />
-	<earhquake	name="2025.07.07 10:17:20"	lokasyon="CAMONU-MENDERES (IZMIR)                           REVIZE01   (2025.07.07 10:17:20)"	lat="38.1095"	lng="27.0990"	mag="2.2" Depth="8.0" />
-	<earhquake	name="2025.07.07 10:27:35"	lokasyon="CIKILGAN-KARAYAZI (ERZURUM)                       "	lat="39.6948"	lng="41.8567"	mag="2.1" Depth="9.6" />
-	<earhquake	name="2025.07.07 10:43:42"	lokasyon="DAVUTLAR-(MANISA)                                 "	lat="38.8080"	lng="27.3635"	mag="1.5" Depth="6.7" />
 	<earhquake	name="2025.07.07 11:07:24"	lokasyon="YAZIBASI-ARGUVAN (MALATYA)                        "	lat="38.7832"	lng="38.3768"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.07.07 11:22:19"	lokasyon="OLUKLU-YESILYURT (MALATYA)                        "	lat="38.1965"	lng="38.0983"	mag="1.3" Depth="9.6" />
 	<earhquake	name="2025.07.07 11:41:38"	lokasyon="YOGUNOLUK-MILAS (MUGLA)                           "	lat="37.1470"	lng="27.9493"	mag="1.6" Depth="0.0" />
@@ -93,4 +83,5 @@
 	<earhquake	name="2025.07.08 07:44:19"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.1002"	lng="38.3632"	mag="1.8" Depth="15.4" />
 	<earhquake	name="2025.07.08 08:21:50"	lokasyon="CEVREPINAR-(KAHRAMANMARAS)                        "	lat="37.8397"	lng="36.5932"	mag="1.8" Depth="23.6" />
 	<earhquake	name="2025.07.08 08:40:13"	lokasyon="BAYRAMLI-KEMALPASA (IZMIR)                        "	lat="38.3212"	lng="27.5165"	mag="1.7" Depth="6.0" />
+	<earhquake	name="2025.07.08 10:11:28"	lokasyon="KAGITHANE (ISTANBUL)                              "	lat="41.1272"	lng="28.9738"	mag="1.1" Depth="0.0" />
 </eqlist>
