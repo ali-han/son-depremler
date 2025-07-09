@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.08 11:38:18"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4087"	lng="26.0947"	mag="1.3" Depth="13.1" />
-	<earhquake	name="2025.07.08 11:47:31"	lokasyon="EGE DENIZI                                        "	lat="36.0698"	lng="27.0487"	mag="2.2" Depth="9.3" />
-	<earhquake	name="2025.07.08 11:50:09"	lokasyon="KARACAAGAC-MILAS (MUGLA)                          "	lat="37.1560"	lng="27.8887"	mag="1.4" Depth="0.0" />
-	<earhquake	name="2025.07.08 11:53:37"	lokasyon="BAYIRKOY-MILAS (MUGLA)                            "	lat="37.0985"	lng="27.9112"	mag="1.6" Depth="0.0" />
-	<earhquake	name="2025.07.08 11:59:42"	lokasyon="MECIDIYE-EZINE (CANAKKALE)                        "	lat="39.8347"	lng="26.2675"	mag="1.2" Depth="0.0" />
 	<earhquake	name="2025.07.08 12:10:05"	lokasyon="AYAS-ERDEMLI (MERSIN)                             "	lat="36.4792"	lng="34.1710"	mag="1.3" Depth="0.0" />
 	<earhquake	name="2025.07.08 12:53:31"	lokasyon="KAYAARASI-TAVSANLI (KUTAHYA)                      "	lat="39.6063"	lng="29.4087"	mag="1.1" Depth="0.0" />
 	<earhquake	name="2025.07.08 12:54:42"	lokasyon="TUNCBILEK-TAVSANLI (KUTAHYA)                      "	lat="39.6437"	lng="29.4663"	mag="1.2" Depth="0.0" />
@@ -46,4 +41,5 @@
 	<earhquake	name="2025.07.09 09:08:56"	lokasyon="ADIL-SOMA (MANISA)                                "	lat="39.0952"	lng="27.5858"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.07.09 09:27:35"	lokasyon="BOYALI-GORDES (MANISA)                            "	lat="38.8465"	lng="28.0890"	mag="1.9" Depth="3.2" />
 	<earhquake	name="2025.07.09 09:46:46"	lokasyon="CAMDERE-GOKSUN (KAHRAMANMARAS)                    "	lat="38.1137"	lng="36.5773"	mag="2.2" Depth="3.3" />
+	<earhquake	name="2025.07.09 11:15:19"	lokasyon="AKDENIZ                                           "	lat="35.3045"	lng="27.0760"	mag="2.9" Depth="2.2" />
 </eqlist>
