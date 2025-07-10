@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.09 13:14:16"	lokasyon="POYRACIK-KINIK (IZMIR)                            "	lat="39.1250"	lng="27.3690"	mag="1.3" Depth="5.0" />
 	<earhquake	name="2025.07.09 15:53:38"	lokasyon="PELITCIK-SAVASTEPE (BALIKESIR)                    REVIZE01   (2025.07.09 15:53:42)"	lat="39.4745"	lng="27.7340"	mag="2.0" Depth="11.8" />
 	<earhquake	name="2025.07.09 16:17:02"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2323"	lng="29.0250"	mag="2.0" Depth="15.5" />
 	<earhquake	name="2025.07.09 16:17:48"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1402"	lng="29.1445"	mag="1.7" Depth="13.0" />
@@ -64,4 +63,5 @@
 	<earhquake	name="2025.07.10 12:14:32"	lokasyon="EKINOZU (KAHRAMANMARAS)                           "	lat="38.0578"	lng="37.1938"	mag="2.3" Depth="9.3" />
 	<earhquake	name="2025.07.10 12:35:52"	lokasyon="KIBRIS-TUZLA                                      "	lat="35.2072"	lng="33.7375"	mag="1.3" Depth="0.0" />
 	<earhquake	name="2025.07.10 12:42:56"	lokasyon="AKDENIZ                                           "	lat="34.3142"	lng="32.8308"	mag="2.8" Depth="28.1" />
+	<earhquake	name="2025.07.10 12:56:35"	lokasyon="KAPUZBASI-YAHYALI (KAYSERI)                       "	lat="37.7627"	lng="35.3348"	mag="2.2" Depth="5.2" />
 </eqlist>
