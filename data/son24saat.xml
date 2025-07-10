@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.09 06:08:38"	lokasyon="SENYURT-ULAS (SIVAS)                              "	lat="39.4598"	lng="37.3272"	mag="1.3" Depth="16.5" />
-	<earhquake	name="2025.07.09 06:40:49"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.4248"	lng="25.9238"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2025.07.09 07:12:27"	lokasyon="GOLBAGI-CELIKHAN (ADIYAMAN)                       "	lat="38.0735"	lng="38.2350"	mag="1.6" Depth="5.2" />
 	<earhquake	name="2025.07.09 09:08:56"	lokasyon="ADIL-SOMA (MANISA)                                "	lat="39.0952"	lng="27.5858"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.07.09 09:27:35"	lokasyon="BOYALI-GORDES (MANISA)                            "	lat="38.8465"	lng="28.0890"	mag="1.9" Depth="3.2" />
@@ -54,4 +52,10 @@
 	<earhquake	name="2025.07.10 04:12:32"	lokasyon="AKCAKAYNAK-BULANIK (MUS)                          "	lat="39.1835"	lng="41.9930"	mag="1.4" Depth="12.5" />
 	<earhquake	name="2025.07.10 04:34:01"	lokasyon="SARICA-(AGRI)                                     "	lat="39.9605"	lng="42.8810"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2025.07.10 04:56:37"	lokasyon="GOKCAM-SUNGURLU (CORUM)                           "	lat="40.1478"	lng="34.5470"	mag="3.1" Depth="4.2" />
+	<earhquake	name="2025.07.10 05:16:39"	lokasyon="OZLU-ORTA (CANKIRI)                               "	lat="40.4965"	lng="33.0120"	mag="1.5" Depth="9.6" />
+	<earhquake	name="2025.07.10 05:21:42"	lokasyon="CIGLI-(KAHRAMANMARAS)                             "	lat="37.4743"	lng="37.0487"	mag="1.8" Depth="4.9" />
+	<earhquake	name="2025.07.10 05:48:02"	lokasyon="GUNEYKOY-SIVRICE (ELAZIG)                         "	lat="38.5118"	lng="39.3337"	mag="1.7" Depth="5.3" />
+	<earhquake	name="2025.07.10 05:51:37"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0683"	lng="37.6288"	mag="2.0" Depth="3.8" />
+	<earhquake	name="2025.07.10 06:15:11"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0678"	lng="37.5615"	mag="1.8" Depth="5.0" />
+	<earhquake	name="2025.07.10 06:23:43"	lokasyon="IRIAGAC-YAZIHAN (MALATYA)                         "	lat="38.5455"	lng="37.9845"	mag="2.6" Depth="5.0" />
 </eqlist>
