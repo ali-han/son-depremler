@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.09 21:11:05"	lokasyon="SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                "	lat="38.0773"	lng="37.5062"	mag="1.2" Depth="7.9" />
-	<earhquake	name="2025.07.09 21:22:26"	lokasyon="KALBURCU-KEPSUT (BALIKESIR)                       "	lat="39.5640"	lng="28.1413"	mag="1.4" Depth="16.4" />
-	<earhquake	name="2025.07.09 21:59:48"	lokasyon="CAMDERE-KOZAN (ADANA)                             "	lat="37.6322"	lng="35.8173"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.07.09 22:02:56"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2143"	lng="28.9707"	mag="2.3" Depth="6.0" />
 	<earhquake	name="2025.07.09 22:06:07"	lokasyon="DEDEYOLU-SIVRICE (ELAZIG)                         "	lat="38.4645"	lng="39.1747"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.07.09 22:13:58"	lokasyon="YAZGUNU-KIGI (BINGOL)                             "	lat="39.3052"	lng="40.2445"	mag="1.8" Depth="12.1" />
@@ -62,8 +59,12 @@
 	<earhquake	name="2025.07.10 16:04:49"	lokasyon="ARITOPRAK-PUTURGE (MALATYA)                       "	lat="38.1900"	lng="38.6678"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2025.07.10 16:13:37"	lokasyon="YESILOVA-(HATAY)                                  "	lat="36.2802"	lng="36.2653"	mag="1.5" Depth="8.6" />
 	<earhquake	name="2025.07.10 17:05:47"	lokasyon="OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.3733"	lng="28.9425"	mag="2.6" Depth="12.1" />
+	<earhquake	name="2025.07.10 17:29:10"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9570"	lng="25.9893"	mag="2.6" Depth="12.4" />
+	<earhquake	name="2025.07.10 17:31:58"	lokasyon="IGDE-ELBISTAN (KAHRAMANMARAS)                     "	lat="38.1753"	lng="37.1083"	mag="1.6" Depth="5.3" />
 	<earhquake	name="2025.07.10 18:19:01"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9658"	lng="25.9892"	mag="1.9" Depth="7.8" />
 	<earhquake	name="2025.07.10 18:33:05"	lokasyon="POLAT-DOGANSEHIR (MALATYA)                        "	lat="38.1695"	lng="37.8290"	mag="1.9" Depth="4.8" />
 	<earhquake	name="2025.07.10 20:12:16"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9883"	lng="25.9813"	mag="3.1" Depth="10.9" />
 	<earhquake	name="2025.07.10 20:12:48"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9840"	lng="25.9767"	mag="3.6" Depth="9.3" />
+	<earhquake	name="2025.07.10 21:01:19"	lokasyon="YAZGUNU-KIGI (BINGOL)                             "	lat="39.2840"	lng="40.2417"	mag="2.4" Depth="9.6" />
+	<earhquake	name="2025.07.10 21:28:40"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9820"	lng="25.9842"	mag="2.9" Depth="10.7" />
 </eqlist>
