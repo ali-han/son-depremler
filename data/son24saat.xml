@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.11 20:14:09"	lokasyon="GUCUKSU-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0902"	lng="36.6553"	mag="2.0" Depth="5.0" />
-	<earhquake	name="2025.07.11 20:36:25"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8443"	lng="28.2780"	mag="2.3" Depth="21.3" />
-	<earhquake	name="2025.07.11 20:51:11"	lokasyon="KURTULMUS-AKHISAR (MANISA)                        "	lat="39.1220"	lng="27.9673"	mag="1.4" Depth="11.5" />
 	<earhquake	name="2025.07.11 23:40:27"	lokasyon="BASMAKCI (AFYONKARAHISAR)                         "	lat="37.8842"	lng="29.9608"	mag="2.5" Depth="8.5" />
 	<earhquake	name="2025.07.12 00:44:48"	lokasyon="DILEKLI-YUKSEKOVA (HAKKARI)                       "	lat="37.3798"	lng="43.9847"	mag="2.0" Depth="5.6" />
 	<earhquake	name="2025.07.12 00:55:47"	lokasyon="KOZLUCA-AKCADAG (MALATYA)                         "	lat="38.3730"	lng="37.6427"	mag="0.9" Depth="23.2" />
@@ -52,5 +49,12 @@
 	<earhquake	name="2025.07.12 14:24:12"	lokasyon="YUNANISTAN                                        "	lat="40.2902"	lng="23.6000"	mag="2.8" Depth="7.4" />
 	<earhquake	name="2025.07.12 14:56:37"	lokasyon="YUNANISTAN                                        "	lat="40.3447"	lng="24.0977"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.07.12 17:12:32"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2453"	lng="29.0377"	mag="1.8" Depth="2.2" />
+	<earhquake	name="2025.07.12 17:53:44"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1547"	lng="29.1327"	mag="1.6" Depth="6.3" />
+	<earhquake	name="2025.07.12 18:07:36"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5113"	lng="28.1670"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2025.07.12 18:10:17"	lokasyon="ESENKENT-(ELAZIG)                                 "	lat="38.8143"	lng="39.0498"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2025.07.12 18:20:55"	lokasyon="KORUKKOY-(ELAZIG)                                 "	lat="38.7988"	lng="39.0308"	mag="2.1" Depth="4.7" />
+	<earhquake	name="2025.07.12 19:35:39"	lokasyon="IRAN                                              "	lat="39.1755"	lng="44.9740"	mag="2.6" Depth="5.0" />
+	<earhquake	name="2025.07.12 20:07:38"	lokasyon="HAMIDIYE-AKHISAR (MANISA)                         "	lat="38.9407"	lng="27.7477"	mag="1.2" Depth="28.5" />
+	<earhquake	name="2025.07.12 20:09:21"	lokasyon="BELKUYU-AKOREN (KONYA)                            "	lat="37.3353"	lng="32.4333"	mag="1.6" Depth="14.4" />
+	<earhquake	name="2025.07.12 20:24:23"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2377"	lng="29.0782"	mag="1.6" Depth="5.0" />
 </eqlist>
