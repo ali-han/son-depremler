@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.12 17:12:32"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2453"	lng="29.0377"	mag="1.8" Depth="2.2" />
-	<earhquake	name="2025.07.12 17:53:44"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1547"	lng="29.1327"	mag="1.6" Depth="6.3" />
 	<earhquake	name="2025.07.12 18:07:36"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5113"	lng="28.1670"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2025.07.12 18:10:17"	lokasyon="ESENKENT-(ELAZIG)                                 "	lat="38.8143"	lng="39.0498"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.07.12 18:20:55"	lokasyon="KORUKKOY-(ELAZIG)                                 "	lat="38.7988"	lng="39.0308"	mag="2.1" Depth="4.7" />
@@ -56,4 +54,5 @@
 	<earhquake	name="2025.07.13 15:36:14"	lokasyon="EGE DENIZI                                        "	lat="39.3160"	lng="25.4933"	mag="3.3" Depth="13.0" />
 	<earhquake	name="2025.07.13 15:37:04"	lokasyon="SOGUKPINAR-CAGLAYANCERIT (KAHRAMANMARAS)          "	lat="37.8035"	lng="37.2425"	mag="2.0" Depth="5.8" />
 	<earhquake	name="2025.07.13 16:35:46"	lokasyon="HARMANLI-ERDEK (BALIKESIR)                        "	lat="40.4263"	lng="27.5563"	mag="2.4" Depth="11.5" />
+	<earhquake	name="2025.07.13 17:49:11"	lokasyon="GUNDERE-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.2370"	lng="37.3760"	mag="1.8" Depth="17.8" />
 </eqlist>
