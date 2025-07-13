@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.12 13:00:20"	lokasyon="CAMKOY-BIGADIC (BALIKESIR)                        "	lat="39.4683"	lng="28.1682"	mag="2.1" Depth="11.3" />
-	<earhquake	name="2025.07.12 13:50:36"	lokasyon="TASKESEN-KEBAN (ELAZIG)                           "	lat="38.8113"	lng="38.8420"	mag="1.1" Depth="1.7" />
-	<earhquake	name="2025.07.12 14:24:12"	lokasyon="YUNANISTAN                                        "	lat="40.2902"	lng="23.6000"	mag="2.8" Depth="7.4" />
-	<earhquake	name="2025.07.12 14:56:37"	lokasyon="YUNANISTAN                                        "	lat="40.3447"	lng="24.0977"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.07.12 17:12:32"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2453"	lng="29.0377"	mag="1.8" Depth="2.2" />
 	<earhquake	name="2025.07.12 17:53:44"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1547"	lng="29.1327"	mag="1.6" Depth="6.3" />
 	<earhquake	name="2025.07.12 18:07:36"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5113"	lng="28.1670"	mag="1.4" Depth="5.3" />
@@ -51,4 +47,8 @@
 	<earhquake	name="2025.07.13 10:12:06"	lokasyon="BALLI-MUT (MERSIN)                                "	lat="36.8930"	lng="33.6030"	mag="2.0" Depth="12.2" />
 	<earhquake	name="2025.07.13 10:35:29"	lokasyon="ALTINYAYLA-ANDIRIN (KAHRAMANMARAS)                "	lat="37.7412"	lng="36.5140"	mag="1.9" Depth="9.1" />
 	<earhquake	name="2025.07.13 12:19:26"	lokasyon="ASAGI CAMLIKALE-HORASAN (ERZURUM)                 "	lat="40.2385"	lng="42.0303"	mag="3.4" Depth="5.0" />
+	<earhquake	name="2025.07.13 12:51:20"	lokasyon="EGE DENIZI                                        "	lat="36.5122"	lng="27.7142"	mag="2.2" Depth="2.8" />
+	<earhquake	name="2025.07.13 15:14:22"	lokasyon="ERDEK KORFEZI (MARMARA DENIZI)                    "	lat="40.4100"	lng="27.5402"	mag="1.9" Depth="13.8" />
+	<earhquake	name="2025.07.13 15:32:46"	lokasyon="ILYASLAR-KIRKAGAC (MANISA)                        "	lat="39.1008"	lng="27.7675"	mag="3.3" Depth="5.4" />
+	<earhquake	name="2025.07.13 15:36:14"	lokasyon="EGE DENIZI                                        "	lat="39.3160"	lng="25.4933"	mag="3.3" Depth="13.0" />
 </eqlist>
