@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.12 12:00:39"	lokasyon="SULUKARAAGAC-TEPEBASI (ESKISEHIR)                 "	lat="39.8812"	lng="30.4845"	mag="2.0" Depth="0.0" />
-	<earhquake	name="2025.07.12 12:01:24"	lokasyon="DOGANYURT-BEYPAZARI (ANKARA)                      "	lat="40.2485"	lng="31.8075"	mag="2.3" Depth="6.8" />
-	<earhquake	name="2025.07.12 12:44:12"	lokasyon="MOLLAIBRAHIM-HEKIMHAN (MALATYA)                   "	lat="38.7538"	lng="38.1223"	mag="1.4" Depth="5.4" />
 	<earhquake	name="2025.07.12 13:00:20"	lokasyon="CAMKOY-BIGADIC (BALIKESIR)                        "	lat="39.4683"	lng="28.1682"	mag="2.1" Depth="11.3" />
 	<earhquake	name="2025.07.12 13:50:36"	lokasyon="TASKESEN-KEBAN (ELAZIG)                           "	lat="38.8113"	lng="38.8420"	mag="1.1" Depth="1.7" />
 	<earhquake	name="2025.07.12 14:24:12"	lokasyon="YUNANISTAN                                        "	lat="40.2902"	lng="23.6000"	mag="2.8" Depth="7.4" />
@@ -53,4 +50,5 @@
 	<earhquake	name="2025.07.13 09:04:39"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.0650"	lng="27.7213"	mag="1.5" Depth="11.3" />
 	<earhquake	name="2025.07.13 10:12:06"	lokasyon="BALLI-MUT (MERSIN)                                "	lat="36.8930"	lng="33.6030"	mag="2.0" Depth="12.2" />
 	<earhquake	name="2025.07.13 10:35:29"	lokasyon="ALTINYAYLA-ANDIRIN (KAHRAMANMARAS)                "	lat="37.7412"	lng="36.5140"	mag="1.9" Depth="9.1" />
+	<earhquake	name="2025.07.13 12:19:26"	lokasyon="ASAGI CAMLIKALE-HORASAN (ERZURUM)                 "	lat="40.2385"	lng="42.0303"	mag="3.4" Depth="5.0" />
 </eqlist>
