@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.13 07:07:05"	lokasyon="KARAKURT-KIRKAGAC (MANISA)                        "	lat="39.1165"	lng="27.7635"	mag="1.9" Depth="7.6" />
-	<earhquake	name="2025.07.13 07:25:58"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.0985"	lng="27.7118"	mag="1.3" Depth="16.4" />
-	<earhquake	name="2025.07.13 07:39:23"	lokasyon="GUNALTI-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.2460"	lng="37.6155"	mag="1.2" Depth="25.8" />
-	<earhquake	name="2025.07.13 07:40:48"	lokasyon="EGE DENIZI                                        "	lat="35.9218"	lng="26.8448"	mag="2.5" Depth="6.7" />
-	<earhquake	name="2025.07.13 07:43:31"	lokasyon="EGE DENIZI                                        "	lat="40.2082"	lng="25.5702"	mag="3.2" Depth="8.5" />
 	<earhquake	name="2025.07.13 08:37:36"	lokasyon="TASCI-DEVELI (KAYSERI)                            "	lat="38.2378"	lng="35.7653"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.07.13 08:41:13"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.0705"	lng="27.7377"	mag="1.2" Depth="5.2" />
 	<earhquake	name="2025.07.13 09:04:39"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.0650"	lng="27.7213"	mag="1.5" Depth="11.3" />
@@ -55,4 +50,7 @@
 	<earhquake	name="2025.07.14 05:11:59"	lokasyon="GULOVA-KUMLU (HATAY)                              "	lat="36.3890"	lng="36.3005"	mag="1.4" Depth="6.3" />
 	<earhquake	name="2025.07.14 05:51:47"	lokasyon="TAHTALI-GONEN (BALIKESIR)                         "	lat="40.1542"	lng="27.4120"	mag="2.6" Depth="16.0" />
 	<earhquake	name="2025.07.14 05:55:50"	lokasyon="MUSAHOCA-KIRKAGAC (MANISA)                        "	lat="39.1457"	lng="27.7248"	mag="1.1" Depth="17.8" />
+	<earhquake	name="2025.07.14 06:30:16"	lokasyon="ALCI-ACIPAYAM (DENIZLI)                           "	lat="37.1395"	lng="29.2008"	mag="1.2" Depth="15.3" />
+	<earhquake	name="2025.07.14 06:51:20"	lokasyon="BOZGUNEY-TUFANBEYLI (ADANA)                       "	lat="38.2292"	lng="36.3615"	mag="2.3" Depth="5.6" />
+	<earhquake	name="2025.07.14 06:57:07"	lokasyon="YAVUZLAR-DARENDE (MALATYA)                        "	lat="38.4608"	lng="37.4717"	mag="1.4" Depth="4.5" />
 </eqlist>
