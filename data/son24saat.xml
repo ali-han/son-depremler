@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.14 15:11:56"	lokasyon="AKDENIZ                                           "	lat="35.9787"	lng="29.2627"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2025.07.14 15:49:55"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     "	lat="38.5153"	lng="38.0007"	mag="2.8" Depth="2.5" />
 	<earhquake	name="2025.07.14 16:22:39"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.9145"	lng="36.5250"	mag="1.7" Depth="5.2" />
 	<earhquake	name="2025.07.14 17:49:58"	lokasyon="LETAFET-ORHANELI (BURSA)                          "	lat="39.8768"	lng="28.7685"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2025.07.14 19:16:51"	lokasyon="YANTEPE-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0160"	lng="36.5585"	mag="1.6" Depth="11.6" />
@@ -48,4 +46,5 @@
 	<earhquake	name="2025.07.15 13:51:49"	lokasyon="EGE DENIZI                                        "	lat="35.8787"	lng="25.7268"	mag="2.2" Depth="19.0" />
 	<earhquake	name="2025.07.15 13:57:40"	lokasyon="YIGILCA (DUZCE)                                   "	lat="40.9637"	lng="31.4432"	mag="1.6" Depth="9.6" />
 	<earhquake	name="2025.07.15 14:05:42"	lokasyon="EGE DENIZI                                        "	lat="36.6612"	lng="25.9148"	mag="2.5" Depth="6.8" />
+	<earhquake	name="2025.07.15 14:21:07"	lokasyon="YAGCILAR-(AYDIN)                                  "	lat="37.7758"	lng="27.9653"	mag="1.3" Depth="1.3" />
 </eqlist>
