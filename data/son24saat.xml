@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.15 17:27:15"	lokasyon="YUMUKLAR-DEMIRCI (MANISA)                         "	lat="38.7867"	lng="28.5675"	mag="1.4" Depth="22.0" />
-	<earhquake	name="2025.07.15 17:36:18"	lokasyon="BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)               "	lat="37.5970"	lng="37.2748"	mag="1.7" Depth="8.1" />
-	<earhquake	name="2025.07.15 19:08:31"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.4588"	lng="26.8237"	mag="1.7" Depth="8.6" />
-	<earhquake	name="2025.07.15 19:23:24"	lokasyon="ULUTAS-PUTURGE (MALATYA)                          "	lat="38.0807"	lng="38.6677"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2025.07.15 19:40:11"	lokasyon="KUSADASI (AYDIN)                                  "	lat="37.8675"	lng="27.2732"	mag="1.6" Depth="14.0" />
-	<earhquake	name="2025.07.15 19:50:43"	lokasyon="EGE DENIZI                                        "	lat="36.6903"	lng="25.6080"	mag="2.1" Depth="5.9" />
 	<earhquake	name="2025.07.15 21:19:08"	lokasyon="MEYDAN-SAMANDAG (HATAY)                           "	lat="36.0077"	lng="35.8982"	mag="2.0" Depth="2.9" />
 	<earhquake	name="2025.07.15 21:47:30"	lokasyon="ALINCIK-SIVRICE (ELAZIG)                          "	lat="38.4473"	lng="39.2372"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.07.15 22:51:18"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0313"	lng="37.6733"	mag="2.0" Depth="6.7" />
@@ -38,4 +32,7 @@
 	<earhquake	name="2025.07.16 16:10:21"	lokasyon="EGE DENIZI                                        "	lat="37.8458"	lng="26.7253"	mag="1.9" Depth="5.4" />
 	<earhquake	name="2025.07.16 16:15:39"	lokasyon="EGE DENIZI                                        "	lat="36.6515"	lng="25.7867"	mag="1.9" Depth="4.4" />
 	<earhquake	name="2025.07.16 16:17:37"	lokasyon="EGE DENIZI                                        "	lat="36.6845"	lng="25.8277"	mag="2.0" Depth="7.4" />
+	<earhquake	name="2025.07.16 17:21:36"	lokasyon="CIVILI-ORHANELI (BURSA)                           "	lat="39.9223"	lng="28.8020"	mag="1.6" Depth="13.9" />
+	<earhquake	name="2025.07.16 17:54:34"	lokasyon="CORTUNLU-SIVRICE (ELAZIG)                         "	lat="38.4303"	lng="39.0353"	mag="1.7" Depth="18.4" />
+	<earhquake	name="2025.07.16 18:10:56"	lokasyon="GUVEMCETMI-BIGADIC (BALIKESIR)                    "	lat="39.5110"	lng="28.1005"	mag="1.6" Depth="11.8" />
 </eqlist>
