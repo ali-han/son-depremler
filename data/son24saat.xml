@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.15 12:31:26"	lokasyon="DENIS-SOMA (MANISA)                               "	lat="39.2190"	lng="27.7195"	mag="1.5" Depth="0.0" />
-	<earhquake	name="2025.07.15 12:45:40"	lokasyon="SURIYE                                            "	lat="36.5248"	lng="38.3700"	mag="2.0" Depth="9.2" />
-	<earhquake	name="2025.07.15 12:52:11"	lokasyon="UCGOZE-YESILYURT (MALATYA)                        "	lat="38.2225"	lng="38.3918"	mag="1.4" Depth="9.4" />
 	<earhquake	name="2025.07.15 13:49:47"	lokasyon="EGE DENIZI                                        "	lat="36.5990"	lng="25.6510"	mag="1.8" Depth="2.6" />
 	<earhquake	name="2025.07.15 13:51:49"	lokasyon="EGE DENIZI                                        "	lat="35.8787"	lng="25.7268"	mag="2.2" Depth="19.0" />
 	<earhquake	name="2025.07.15 13:57:40"	lokasyon="YIGILCA (DUZCE)                                   "	lat="40.9637"	lng="31.4432"	mag="1.6" Depth="9.6" />
@@ -32,4 +29,7 @@
 	<earhquake	name="2025.07.16 10:16:09"	lokasyon="DEREKOY-SOMA (MANISA)                             "	lat="39.1033"	lng="27.5678"	mag="2.0" Depth="7.2" />
 	<earhquake	name="2025.07.16 10:46:58"	lokasyon="CIVILI-ORHANELI (BURSA)                           "	lat="39.8965"	lng="28.7943"	mag="1.9" Depth="0.0" />
 	<earhquake	name="2025.07.16 11:11:59"	lokasyon="EGNEZ-SOMA (MANISA)                               "	lat="39.0788"	lng="27.5308"	mag="1.9" Depth="0.0" />
+	<earhquake	name="2025.07.16 12:13:11"	lokasyon="KARACAAGAC-MILAS (MUGLA)                          "	lat="37.1647"	lng="27.9330"	mag="1.2" Depth="0.0" />
+	<earhquake	name="2025.07.16 12:18:58"	lokasyon="SEKKOY-MILAS (MUGLA)                              "	lat="37.1205"	lng="27.9128"	mag="1.6" Depth="0.0" />
+	<earhquake	name="2025.07.16 12:20:04"	lokasyon="SEKKOY-MILAS (MUGLA)                              "	lat="37.1312"	lng="27.9330"	mag="1.4" Depth="0.0" />
 </eqlist>
