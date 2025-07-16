@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.15 14:05:42"	lokasyon="EGE DENIZI                                        "	lat="36.6612"	lng="25.9148"	mag="2.5" Depth="6.8" />
-	<earhquake	name="2025.07.15 14:21:07"	lokasyon="YAGCILAR-(AYDIN)                                  "	lat="37.7758"	lng="27.9653"	mag="1.3" Depth="1.3" />
 	<earhquake	name="2025.07.15 16:10:32"	lokasyon="EGE DENIZI                                        "	lat="36.5825"	lng="25.6913"	mag="2.1" Depth="16.0" />
 	<earhquake	name="2025.07.15 17:27:15"	lokasyon="YUMUKLAR-DEMIRCI (MANISA)                         "	lat="38.7867"	lng="28.5675"	mag="1.4" Depth="22.0" />
 	<earhquake	name="2025.07.15 17:36:18"	lokasyon="BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)               "	lat="37.5970"	lng="37.2748"	mag="1.7" Depth="8.1" />
@@ -33,4 +31,5 @@
 	<earhquake	name="2025.07.16 12:55:08"	lokasyon="SAHINKAYASI-(KAHRAMANMARAS)                       "	lat="37.8917"	lng="36.6998"	mag="2.0" Depth="9.4" />
 	<earhquake	name="2025.07.16 13:02:21"	lokasyon="CAMKOY-BIGADIC (BALIKESIR)                        "	lat="39.4722"	lng="28.1968"	mag="1.6" Depth="12.6" />
 	<earhquake	name="2025.07.16 13:42:05"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9663"	lng="25.9802"	mag="2.6" Depth="5.3" />
+	<earhquake	name="2025.07.16 14:07:21"	lokasyon="AKDENIZ                                           "	lat="36.5117"	lng="28.0415"	mag="1.8" Depth="56.0" />
 </eqlist>
