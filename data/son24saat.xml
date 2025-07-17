@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.16 16:05:25"	lokasyon="YUNANISTAN                                        "	lat="40.2733"	lng="24.1180"	mag="1.6" Depth="6.7" />
-	<earhquake	name="2025.07.16 16:10:21"	lokasyon="EGE DENIZI                                        "	lat="37.8458"	lng="26.7253"	mag="1.9" Depth="5.4" />
-	<earhquake	name="2025.07.16 16:15:39"	lokasyon="EGE DENIZI                                        "	lat="36.6515"	lng="25.7867"	mag="1.9" Depth="4.4" />
-	<earhquake	name="2025.07.16 16:17:37"	lokasyon="EGE DENIZI                                        "	lat="36.6845"	lng="25.8277"	mag="2.0" Depth="7.4" />
 	<earhquake	name="2025.07.16 17:21:36"	lokasyon="CIVILI-ORHANELI (BURSA)                           "	lat="39.9223"	lng="28.8020"	mag="1.6" Depth="13.9" />
 	<earhquake	name="2025.07.16 17:54:34"	lokasyon="CORTUNLU-SIVRICE (ELAZIG)                         "	lat="38.4303"	lng="39.0353"	mag="1.7" Depth="18.4" />
 	<earhquake	name="2025.07.16 18:10:56"	lokasyon="GUVEMCETMI-BIGADIC (BALIKESIR)                    "	lat="39.5110"	lng="28.1005"	mag="1.6" Depth="11.8" />
@@ -76,7 +72,11 @@
 	<earhquake	name="2025.07.17 12:37:23"	lokasyon="DARKALE-SOMA (MANISA)                             "	lat="39.1467"	lng="27.5783"	mag="1.8" Depth="0.0" />
 	<earhquake	name="2025.07.17 12:45:14"	lokasyon="MAHMUTOGLAN-CUBUK (ANKARA)                        "	lat="40.3747"	lng="33.0040"	mag="2.5" Depth="7.6" />
 	<earhquake	name="2025.07.17 12:59:06"	lokasyon="KADIKOY-BIGADIC (BALIKESIR)                       "	lat="39.4460"	lng="28.0757"	mag="1.8" Depth="0.0" />
+	<earhquake	name="2025.07.17 13:48:26"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.8740"	lng="27.5462"	mag="1.4" Depth="3.8" />
 	<earhquake	name="2025.07.17 14:05:30"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2783"	lng="28.9645"	mag="1.4" Depth="2.6" />
+	<earhquake	name="2025.07.17 14:32:29"	lokasyon="YUNANISTAN                                        "	lat="40.3877"	lng="24.0393"	mag="1.9" Depth="6.0" />
+	<earhquake	name="2025.07.17 14:34:16"	lokasyon="BULGARISTAN                                       "	lat="42.6845"	lng="24.1192"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2025.07.17 14:40:58"	lokasyon="HAMIDIYE-POZANTI (ADANA)                          "	lat="37.5428"	lng="35.0550"	mag="1.5" Depth="7.1" />
 	<earhquake	name="2025.07.17 14:56:30"	lokasyon="EGE DENIZI                                        "	lat="36.5880"	lng="25.6462"	mag="1.7" Depth="16.8" />
 	<earhquake	name="2025.07.17 14:58:22"	lokasyon="EGE DENIZI                                        "	lat="36.5490"	lng="25.7438"	mag="1.8" Depth="9.0" />
 	<earhquake	name="2025.07.17 15:04:31"	lokasyon="EGE DENIZI                                        "	lat="36.5707"	lng="25.6993"	mag="1.6" Depth="3.2" />
