@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.17 16:47:35"	lokasyon="SURIYE                                            "	lat="36.3213"	lng="40.3598"	mag="2.2" Depth="12.4" />
-	<earhquake	name="2025.07.17 17:57:03"	lokasyon="AKTARLI-PUTURGE (MALATYA)                         "	lat="38.2705"	lng="38.8375"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2025.07.17 17:58:59"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.9630"	lng="23.0185"	mag="2.4" Depth="9.2" />
 	<earhquake	name="2025.07.17 18:22:23"	lokasyon="ALIEFENDIOGLU-TARSUS (MERSIN)                     "	lat="36.8862"	lng="34.8792"	mag="2.2" Depth="35.0" />
 	<earhquake	name="2025.07.17 19:01:20"	lokasyon="EGE DENIZI                                        "	lat="39.1865"	lng="25.7758"	mag="2.4" Depth="9.9" />
 	<earhquake	name="2025.07.17 19:15:55"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4838"	lng="29.2177"	mag="1.8" Depth="9.0" />
@@ -75,4 +72,5 @@
 	<earhquake	name="2025.07.18 14:49:05"	lokasyon="MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI"	lat="40.8225"	lng="27.9777"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.07.18 14:51:50"	lokasyon="ESENKOY-CINARCIK (YALOVA)                         "	lat="40.5762"	lng="28.9143"	mag="1.2" Depth="6.9" />
 	<earhquake	name="2025.07.18 15:28:27"	lokasyon="YAZIKOY-AFSIN (KAHRAMANMARAS)                     "	lat="38.1818"	lng="36.7397"	mag="2.5" Depth="5.0" />
+	<earhquake	name="2025.07.18 17:08:27"	lokasyon="MARMARIS (MUGLA)                                  "	lat="36.8460"	lng="28.2733"	mag="1.2" Depth="5.0" />
 </eqlist>
