@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.17 15:04:31"	lokasyon="EGE DENIZI                                        "	lat="36.5707"	lng="25.6993"	mag="1.6" Depth="3.2" />
 	<earhquake	name="2025.07.17 16:47:35"	lokasyon="SURIYE                                            "	lat="36.3213"	lng="40.3598"	mag="2.2" Depth="12.4" />
 	<earhquake	name="2025.07.17 17:57:03"	lokasyon="AKTARLI-PUTURGE (MALATYA)                         "	lat="38.2705"	lng="38.8375"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.07.17 17:58:59"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.9630"	lng="23.0185"	mag="2.4" Depth="9.2" />
@@ -69,5 +68,11 @@
 	<earhquake	name="2025.07.18 13:16:33"	lokasyon="EMIRLER-BIGADIC (BALIKESIR)                       "	lat="39.4568"	lng="28.2183"	mag="1.6" Depth="3.9" />
 	<earhquake	name="2025.07.18 13:19:27"	lokasyon="SOGUKPINAR-CAGLAYANCERIT (KAHRAMANMARAS)          "	lat="37.8350"	lng="37.2220"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2025.07.18 13:20:25"	lokasyon="SARIKOY-GONEN (BALIKESIR)                         "	lat="40.2210"	lng="27.6118"	mag="1.1" Depth="9.9" />
+	<earhquake	name="2025.07.18 13:23:01"	lokasyon="EGE DENIZI                                        "	lat="36.6870"	lng="25.8215"	mag="2.4" Depth="2.2" />
 	<earhquake	name="2025.07.18 14:11:27"	lokasyon="YANIKKAVAL-SENKAYA (ERZURUM)                      "	lat="40.7102"	lng="42.3078"	mag="2.1" Depth="2.7" />
+	<earhquake	name="2025.07.18 14:38:36"	lokasyon="ESENKOY-CINARCIK (YALOVA)                         "	lat="40.5675"	lng="28.9382"	mag="1.6" Depth="5.4" />
+	<earhquake	name="2025.07.18 14:41:33"	lokasyon="ESENKOY-CINARCIK (YALOVA)                         "	lat="40.5935"	lng="28.9007"	mag="1.1" Depth="7.4" />
+	<earhquake	name="2025.07.18 14:49:05"	lokasyon="MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI"	lat="40.8225"	lng="27.9777"	mag="1.8" Depth="5.0" />
+	<earhquake	name="2025.07.18 14:51:50"	lokasyon="ESENKOY-CINARCIK (YALOVA)                         "	lat="40.5762"	lng="28.9143"	mag="1.2" Depth="6.9" />
+	<earhquake	name="2025.07.18 15:28:27"	lokasyon="YAZIKOY-AFSIN (KAHRAMANMARAS)                     "	lat="38.1818"	lng="36.7397"	mag="2.5" Depth="5.0" />
 </eqlist>
