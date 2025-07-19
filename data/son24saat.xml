@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.18 06:49:32"	lokasyon="TOPBOGAZI-KIRIKHAN (HATAY)                        "	lat="36.4175"	lng="36.3183"	mag="2.3" Depth="10.6" />
-	<earhquake	name="2025.07.18 06:52:03"	lokasyon="BALPINAR-(BINGOL)                                 "	lat="38.8068"	lng="40.3752"	mag="1.7" Depth="15.4" />
 	<earhquake	name="2025.07.18 07:04:04"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9137"	lng="27.7848"	mag="2.4" Depth="5.6" />
 	<earhquake	name="2025.07.18 07:04:15"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2803"	lng="28.9608"	mag="1.4" Depth="4.8" />
 	<earhquake	name="2025.07.18 07:49:30"	lokasyon="KARSIYAKA-PUTURGE (MALATYA)                       "	lat="38.2842"	lng="38.8098"	mag="2.2" Depth="5.3" />
@@ -67,4 +65,5 @@
 	<earhquake	name="2025.07.19 03:59:39"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.5352"	lng="26.7597"	mag="1.9" Depth="5.4" />
 	<earhquake	name="2025.07.19 04:41:44"	lokasyon="KUCUKYENICE-IVRINDI (BALIKESIR)                   "	lat="39.5198"	lng="27.5322"	mag="2.1" Depth="2.7" />
 	<earhquake	name="2025.07.19 04:51:41"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2450"	lng="28.9943"	mag="1.0" Depth="11.8" />
+	<earhquake	name="2025.07.19 05:47:35"	lokasyon="EGE DENIZI                                        "	lat="36.6590"	lng="25.5940"	mag="1.6" Depth="7.6" />
 </eqlist>
