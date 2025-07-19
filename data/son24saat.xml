@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.18 17:08:27"	lokasyon="MARMARIS (MUGLA)                                  "	lat="36.8460"	lng="28.2733"	mag="1.2" Depth="5.0" />
-	<earhquake	name="2025.07.18 17:44:21"	lokasyon="KIRIKLAR-BUCA (IZMIR)                             "	lat="38.3462"	lng="27.3008"	mag="1.6" Depth="11.3" />
-	<earhquake	name="2025.07.18 17:52:06"	lokasyon="BOZLAR-ESME (USAK)                                "	lat="38.5165"	lng="28.9828"	mag="1.4" Depth="9.2" />
 	<earhquake	name="2025.07.18 19:01:54"	lokasyon="YUNANISTAN                                        "	lat="40.5287"	lng="23.5218"	mag="1.4" Depth="21.0" />
 	<earhquake	name="2025.07.18 19:55:44"	lokasyon="KARABUCAK-KOZAN (ADANA)                           "	lat="37.6150"	lng="35.8462"	mag="3.1" Depth="5.0" />
 	<earhquake	name="2025.07.18 20:16:33"	lokasyon="EGE DENIZI                                        "	lat="36.4145"	lng="25.5157"	mag="1.8" Depth="4.8" />
@@ -56,4 +53,5 @@
 	<earhquake	name="2025.07.19 13:07:47"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.4875"	lng="28.1627"	mag="1.9" Depth="16.9" />
 	<earhquake	name="2025.07.19 13:10:25"	lokasyon="INCIRLI-NURDAGI (GAZIANTEP)                       "	lat="37.2452"	lng="36.9915"	mag="1.7" Depth="22.6" />
 	<earhquake	name="2025.07.19 13:50:57"	lokasyon="ULUPINAR-YAHYALI (KAYSERI)                        "	lat="37.8368"	lng="35.3523"	mag="2.0" Depth="3.3" />
+	<earhquake	name="2025.07.19 18:40:05"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2522"	lng="28.9508"	mag="2.9" Depth="3.8" />
 </eqlist>
