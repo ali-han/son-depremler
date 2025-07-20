@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.19 13:07:47"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.4875"	lng="28.1627"	mag="1.9" Depth="16.9" />
-	<earhquake	name="2025.07.19 13:10:25"	lokasyon="INCIRLI-NURDAGI (GAZIANTEP)                       "	lat="37.2452"	lng="36.9915"	mag="1.7" Depth="22.6" />
-	<earhquake	name="2025.07.19 13:50:57"	lokasyon="ULUPINAR-YAHYALI (KAYSERI)                        "	lat="37.8368"	lng="35.3523"	mag="2.0" Depth="3.3" />
 	<earhquake	name="2025.07.19 18:40:05"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2522"	lng="28.9508"	mag="2.9" Depth="3.8" />
 	<earhquake	name="2025.07.19 20:26:26"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2310"	lng="28.9845"	mag="1.9" Depth="4.4" />
 	<earhquake	name="2025.07.19 20:49:50"	lokasyon="KARABURUN (IZMIR)                                 "	lat="38.6348"	lng="26.4930"	mag="2.3" Depth="12.3" />
@@ -28,4 +25,5 @@
 	<earhquake	name="2025.07.20 10:13:55"	lokasyon="GUNEY-SIMAV (KUTAHYA)                             "	lat="39.1777"	lng="28.9122"	mag="1.3" Depth="17.6" />
 	<earhquake	name="2025.07.20 10:49:45"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2040"	lng="28.1915"	mag="1.7" Depth="10.0" />
 	<earhquake	name="2025.07.20 11:47:55"	lokasyon="KARAKOY-NALLIHAN (ANKARA)                         "	lat="40.1927"	lng="31.6762"	mag="2.3" Depth="21.1" />
+	<earhquake	name="2025.07.20 12:12:15"	lokasyon="ELIKESIK-ALANYA (ANTALYA)                         "	lat="36.5902"	lng="31.9400"	mag="1.7" Depth="3.1" />
 </eqlist>
