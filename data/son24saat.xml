@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.21 14:40:00"	lokasyon="SIGIRLIHACI-CUBUK (ANKARA)                        "	lat="40.1675"	lng="32.9588"	mag="1.7" Depth="0.0" />
 	<earhquake	name="2025.07.21 15:50:49"	lokasyon="KATRANCILAR-ESME (USAK)                           "	lat="38.4958"	lng="29.1518"	mag="1.2" Depth="15.5" />
 	<earhquake	name="2025.07.21 16:35:58"	lokasyon="OMERFAKI-EMET (KUTAHYA)                           "	lat="39.2817"	lng="29.4153"	mag="1.7" Depth="11.6" />
 	<earhquake	name="2025.07.21 17:07:19"	lokasyon="KEKLIKPINARI-AKCADAG (MALATYA)                    "	lat="38.4853"	lng="37.9947"	mag="1.8" Depth="7.0" />
@@ -46,4 +45,5 @@
 	<earhquake	name="2025.07.22 12:04:13"	lokasyon="EGE DENIZI                                        "	lat="39.3700"	lng="25.6623"	mag="1.6" Depth="9.9" />
 	<earhquake	name="2025.07.22 12:16:29"	lokasyon="YESILYAYLA-SIMAV (KUTAHYA)                        "	lat="39.1180"	lng="29.1875"	mag="0.8" Depth="10.0" />
 	<earhquake	name="2025.07.22 12:21:10"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2368"	lng="28.9910"	mag="1.4" Depth="12.3" />
+	<earhquake	name="2025.07.22 12:54:13"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4675"	lng="28.1168"	mag="1.7" Depth="21.4" />
 </eqlist>
