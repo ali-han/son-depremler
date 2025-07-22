@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.21 10:08:13"	lokasyon="CUKURKOY-HANI (DIYARBAKIR)                        "	lat="38.4787"	lng="40.3087"	mag="1.9" Depth="11.3" />
-	<earhquake	name="2025.07.21 10:40:37"	lokasyon="HANYERI-TUFANBEYLI (ADANA)                        "	lat="38.2325"	lng="36.0153"	mag="1.8" Depth="24.2" />
 	<earhquake	name="2025.07.21 11:33:25"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.4115"	lng="37.4400"	mag="2.1" Depth="7.8" />
 	<earhquake	name="2025.07.21 11:38:04"	lokasyon="DUZAGAC-KOZAN (ADANA)                             "	lat="37.5898"	lng="35.8082"	mag="1.4" Depth="1.5" />
 	<earhquake	name="2025.07.21 11:48:36"	lokasyon="KARACAAGAC-MILAS (MUGLA)                          "	lat="37.1437"	lng="27.9005"	mag="1.7" Depth="0.0" />
@@ -48,4 +46,5 @@
 	<earhquake	name="2025.07.22 07:54:59"	lokasyon="EGE DENIZI                                        "	lat="36.4375"	lng="25.4290"	mag="1.6" Depth="4.4" />
 	<earhquake	name="2025.07.22 08:13:34"	lokasyon="KOS ADASI (EGE DENIZI)                            "	lat="36.8340"	lng="27.2892"	mag="2.9" Depth="12.2" />
 	<earhquake	name="2025.07.22 08:58:48"	lokasyon="EGE DENIZI                                        "	lat="36.6625"	lng="25.6057"	mag="2.6" Depth="9.7" />
+	<earhquake	name="2025.07.22 09:51:51"	lokasyon="EGNEZ-SOMA (MANISA)                               "	lat="39.0782"	lng="27.5652"	mag="2.1" Depth="0.0" />
 </eqlist>
