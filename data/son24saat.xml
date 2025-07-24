@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.23 05:06:43"	lokasyon="KARACULHA-FETHIYE (MUGLA)                         "	lat="36.6522"	lng="29.2050"	mag="2.1" Depth="38.6" />
-	<earhquake	name="2025.07.23 05:15:50"	lokasyon="DOGAN-(MUGLA)                                     "	lat="37.1353"	lng="28.3312"	mag="0.9" Depth="15.5" />
-	<earhquake	name="2025.07.23 05:27:34"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4857"	lng="29.1643"	mag="1.2" Depth="11.4" />
-	<earhquake	name="2025.07.23 05:27:47"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.6430"	lng="23.2435"	mag="2.8" Depth="5.5" />
-	<earhquake	name="2025.07.23 05:41:19"	lokasyon="KARGI-FETHIYE (MUGLA)                             "	lat="36.7303"	lng="29.0878"	mag="2.1" Depth="24.1" />
-	<earhquake	name="2025.07.23 05:45:08"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.6317"	lng="23.2630"	mag="2.5" Depth="5.9" />
-	<earhquake	name="2025.07.23 06:23:07"	lokasyon="AVCILARSUYU-ARSUZ (HATAY)                         "	lat="36.3425"	lng="35.9225"	mag="2.2" Depth="6.9" />
 	<earhquake	name="2025.07.23 07:08:26"	lokasyon="EGE DENIZI                                        "	lat="38.2768"	lng="25.3887"	mag="2.3" Depth="7.9" />
 	<earhquake	name="2025.07.23 08:04:44"	lokasyon="EGE DENIZI                                        "	lat="36.0368"	lng="27.1660"	mag="2.7" Depth="16.4" />
 	<earhquake	name="2025.07.23 08:25:49"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.1002"	lng="27.7440"	mag="1.9" Depth="3.1" />
@@ -50,4 +43,7 @@
 	<earhquake	name="2025.07.24 02:46:24"	lokasyon="KARAOMER-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0970"	lng="36.6665"	mag="2.7" Depth="5.0" />
 	<earhquake	name="2025.07.24 02:48:34"	lokasyon="KAMISCIK-GOKSUN (KAHRAMANMARAS)                   "	lat="38.1277"	lng="36.8422"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2025.07.24 04:01:17"	lokasyon="CIFTLIK-FETHIYE (MUGLA)                           "	lat="36.6720"	lng="29.1103"	mag="2.4" Depth="14.7" />
+	<earhquake	name="2025.07.24 05:58:17"	lokasyon="CAMLI-MARMARIS (MUGLA)                            "	lat="36.9385"	lng="28.2715"	mag="2.0" Depth="13.1" />
+	<earhquake	name="2025.07.24 06:01:39"	lokasyon="AKDENIZ                                           "	lat="36.5632"	lng="28.5987"	mag="1.7" Depth="56.9" />
+	<earhquake	name="2025.07.24 06:07:25"	lokasyon="SURIYE                                            "	lat="34.2585"	lng="37.5142"	mag="3.6" Depth="5.0" />
 </eqlist>
