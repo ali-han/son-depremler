@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.23 07:08:26"	lokasyon="EGE DENIZI                                        "	lat="38.2768"	lng="25.3887"	mag="2.3" Depth="7.9" />
-	<earhquake	name="2025.07.23 08:04:44"	lokasyon="EGE DENIZI                                        "	lat="36.0368"	lng="27.1660"	mag="2.7" Depth="16.4" />
-	<earhquake	name="2025.07.23 08:25:49"	lokasyon="BAKIR-KIRKAGAC (MANISA)                           "	lat="39.1002"	lng="27.7440"	mag="1.9" Depth="3.1" />
-	<earhquake	name="2025.07.23 09:05:08"	lokasyon="MENEMEN (IZMIR)                                   "	lat="38.6053"	lng="27.0877"	mag="1.8" Depth="17.2" />
-	<earhquake	name="2025.07.23 09:09:42"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0087"	lng="25.5977"	mag="3.0" Depth="2.1" />
 	<earhquake	name="2025.07.23 10:36:16"	lokasyon="DAGONU-(VAN)                                      "	lat="38.7572"	lng="43.2677"	mag="1.9" Depth="18.5" />
 	<earhquake	name="2025.07.23 11:40:05"	lokasyon="BAGDAMLARI-MILAS (MUGLA)                          "	lat="37.1333"	lng="27.8797"	mag="1.7" Depth="0.0" />
 	<earhquake	name="2025.07.23 11:49:22"	lokasyon="BULDUKPINAR-TEPEBASI (ESKISEHIR)                  REVIZE01   (2025.07.23 11:49:22)"	lat="39.9165"	lng="30.4345"	mag="1.8" Depth="0.0" />
@@ -47,4 +42,5 @@
 	<earhquake	name="2025.07.24 06:01:39"	lokasyon="AKDENIZ                                           "	lat="36.5632"	lng="28.5987"	mag="1.7" Depth="56.9" />
 	<earhquake	name="2025.07.24 06:07:25"	lokasyon="SURIYE                                            "	lat="34.2585"	lng="37.5142"	mag="3.6" Depth="5.0" />
 	<earhquake	name="2025.07.24 06:40:05"	lokasyon="IKIZCE-YESILYURT (MALATYA)                        "	lat="38.2863"	lng="38.2215"	mag="3.7" Depth="5.0" />
+	<earhquake	name="2025.07.24 09:15:47"	lokasyon="EGNEZ-SOMA (MANISA)                               "	lat="39.0808"	lng="27.5513"	mag="1.9" Depth="0.0" />
 </eqlist>
