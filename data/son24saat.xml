@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.24 23:42:11"	lokasyon="KARACAM-CUBUK (ANKARA)                            "	lat="40.4333"	lng="32.9048"	mag="1.7" Depth="5.4" />
-	<earhquake	name="2025.07.24 23:54:48"	lokasyon="EGE DENIZI                                        "	lat="36.6972"	lng="25.6922"	mag="2.6" Depth="7.0" />
-	<earhquake	name="2025.07.24 23:59:54"	lokasyon="DUDAS-BEYPAZARI (ANKARA)                          "	lat="40.2633"	lng="31.6888"	mag="1.8" Depth="13.5" />
-	<earhquake	name="2025.07.25 00:14:37"	lokasyon="EGE DENIZI                                        "	lat="36.7543"	lng="25.6290"	mag="2.0" Depth="7.8" />
-	<earhquake	name="2025.07.25 00:25:47"	lokasyon="ORDEKLI-SARIZ (KAYSERI)                           "	lat="38.3163"	lng="36.5738"	mag="1.3" Depth="8.2" />
-	<earhquake	name="2025.07.25 00:35:50"	lokasyon="EGE DENIZI                                        "	lat="40.1987"	lng="25.4942"	mag="2.9" Depth="10.0" />
-	<earhquake	name="2025.07.25 00:47:05"	lokasyon="UCKUYU-SULTANDAGI (AFYONKARAHISAR)                "	lat="38.6225"	lng="31.4158"	mag="2.0" Depth="11.4" />
 	<earhquake	name="2025.07.25 02:11:51"	lokasyon="EGE DENIZI                                        "	lat="40.1928"	lng="25.4758"	mag="2.7" Depth="11.7" />
 	<earhquake	name="2025.07.25 02:43:27"	lokasyon="KARACANLIK-REYHANLI (HATAY)                       "	lat="36.3400"	lng="36.3920"	mag="1.8" Depth="5.8" />
 	<earhquake	name="2025.07.25 03:28:45"	lokasyon="ARMUTALAN-ELBISTAN (KAHRAMANMARAS)                "	lat="38.1230"	lng="37.7108"	mag="1.4" Depth="12.6" />
@@ -51,4 +44,5 @@
 	<earhquake	name="2025.07.25 21:04:22"	lokasyon="YESILOVA-ULA (MUGLA)                              "	lat="37.0607"	lng="28.4263"	mag="1.4" Depth="4.9" />
 	<earhquake	name="2025.07.25 21:19:05"	lokasyon="TASOLUK-KIRIKHAN (HATAY)                          "	lat="36.6322"	lng="36.3927"	mag="1.9" Depth="4.1" />
 	<earhquake	name="2025.07.25 21:35:03"	lokasyon="CICEKLI-ULA (MUGLA)                               "	lat="37.0968"	lng="28.4658"	mag="1.6" Depth="10.4" />
+	<earhquake	name="2025.07.26 00:29:42"	lokasyon="YESILYURT-KEMALPASA (IZMIR)                       "	lat="38.4440"	lng="27.6632"	mag="1.4" Depth="18.6" />
 </eqlist>
