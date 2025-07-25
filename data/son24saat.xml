@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.24 15:10:01"	lokasyon="TETEMECELE-(BOLU)                                 "	lat="40.8385"	lng="31.7333"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.07.24 16:01:46"	lokasyon="VAYVAYLI-YUREGIR (ADANA)                          "	lat="36.9447"	lng="35.6012"	mag="1.6" Depth="8.9" />
 	<earhquake	name="2025.07.24 18:06:42"	lokasyon="ERICEK-DURSUNBEY (BALIKESIR)                      "	lat="39.6777"	lng="28.4370"	mag="2.0" Depth="5.2" />
 	<earhquake	name="2025.07.24 18:16:20"	lokasyon="KIRKGECIT-PINARBASI (KAYSERI)                     "	lat="38.6613"	lng="36.5800"	mag="1.8" Depth="14.4" />
@@ -28,6 +27,7 @@
 	<earhquake	name="2025.07.25 08:26:37"	lokasyon="KIRLANGIC-YESILYURT (MALATYA)                     "	lat="38.2393"	lng="38.0710"	mag="1.9" Depth="0.0" />
 	<earhquake	name="2025.07.25 08:43:39"	lokasyon="KARAKUYU-MENDERES (IZMIR)                         "	lat="38.1113"	lng="27.2108"	mag="1.4" Depth="5.2" />
 	<earhquake	name="2025.07.25 09:18:59"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2285"	lng="29.0385"	mag="1.6" Depth="8.5" />
+	<earhquake	name="2025.07.25 09:25:34"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.1137"	lng="33.2940"	mag="1.7" Depth="4.9" />
 	<earhquake	name="2025.07.25 09:35:12"	lokasyon="EGERLIBASKOY-KIZILCAHAMAM (ANKARA)                "	lat="40.5780"	lng="32.8190"	mag="2.7" Depth="3.5" />
 	<earhquake	name="2025.07.25 09:43:43"	lokasyon="GURPINAR ACIKLARI-ISTANBUL (MARMARA DENIZI)       "	lat="40.8888"	lng="28.4722"	mag="1.9" Depth="22.5" />
 	<earhquake	name="2025.07.25 09:47:06"	lokasyon="GOZSUZLU-(AFYONKARAHISAR)                         "	lat="38.6567"	lng="30.8548"	mag="2.9" Depth="5.3" />
@@ -41,4 +41,6 @@
 	<earhquake	name="2025.07.25 12:56:28"	lokasyon="BAGDAMLARI-MILAS (MUGLA)                          "	lat="37.1410"	lng="27.8960"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2025.07.25 12:59:31"	lokasyon="KARACAAGAC-MILAS (MUGLA)                          "	lat="37.1613"	lng="27.8823"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.07.25 13:10:35"	lokasyon="SEKKOY-MILAS (MUGLA)                              "	lat="37.1295"	lng="27.9093"	mag="1.4" Depth="0.0" />
+	<earhquake	name="2025.07.25 14:41:24"	lokasyon="ORMANICI-PUTURGE (MALATYA)                        "	lat="38.2500"	lng="38.7928"	mag="2.0" Depth="4.2" />
+	<earhquake	name="2025.07.25 14:52:22"	lokasyon="KOS ADASI (EGE DENIZI)                            "	lat="36.9002"	lng="27.2708"	mag="1.9" Depth="8.9" />
 </eqlist>
