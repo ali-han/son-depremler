@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.24 12:01:38"	lokasyon="KARATEKE-TIRE (IZMIR)                             "	lat="38.1415"	lng="27.7092"	mag="1.9" Depth="5.1" />
-	<earhquake	name="2025.07.24 12:05:46"	lokasyon="ATAKOY-MENDERES (IZMIR)                           "	lat="38.0670"	lng="27.1357"	mag="3.3" Depth="5.7" />
-	<earhquake	name="2025.07.24 12:11:59"	lokasyon="GUZGULU-YEDISU (BINGOL)                           "	lat="39.3850"	lng="40.4743"	mag="2.0" Depth="4.9" />
-	<earhquake	name="2025.07.24 12:18:12"	lokasyon="HUYUKLU-AFSIN (KAHRAMANMARAS)                     "	lat="38.2033"	lng="36.9033"	mag="1.7" Depth="15.7" />
-	<earhquake	name="2025.07.24 12:20:14"	lokasyon="KIBRIS-KILICASLAN                                 "	lat="35.2537"	lng="33.1277"	mag="1.4" Depth="0.0" />
-	<earhquake	name="2025.07.24 12:28:19"	lokasyon="CANDIR-SELCUKLU (KONYA)                           "	lat="38.1233"	lng="32.6052"	mag="1.2" Depth="0.0" />
-	<earhquake	name="2025.07.24 12:34:49"	lokasyon="SOGUTLU-PAZARCIK (KAHRAMANMARAS)                  "	lat="37.5153"	lng="37.2112"	mag="1.8" Depth="5.6" />
 	<earhquake	name="2025.07.24 13:24:12"	lokasyon="DEGIRMENKOY-GEDIZ (KUTAHYA)                       "	lat="39.1385"	lng="29.3552"	mag="1.6" Depth="14.7" />
 	<earhquake	name="2025.07.24 13:42:47"	lokasyon="SEYHLER-HISARCIK (KUTAHYA)                        "	lat="39.1853"	lng="29.3745"	mag="1.6" Depth="14.5" />
 	<earhquake	name="2025.07.24 15:10:01"	lokasyon="TETEMECELE-(BOLU)                                 "	lat="40.8385"	lng="31.7333"	mag="1.8" Depth="5.0" />
@@ -45,4 +38,5 @@
 	<earhquake	name="2025.07.25 10:36:04"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       REVIZE01   (2025.07.25 10:36:04)"	lat="38.1288"	lng="38.4338"	mag="2.0" Depth="3.0" />
 	<earhquake	name="2025.07.25 11:17:26"	lokasyon="BELEK ACIKLARI-ANTALYA (AKDENIZ)                  "	lat="36.7397"	lng="31.1525"	mag="2.4" Depth="15.7" />
 	<earhquake	name="2025.07.25 11:28:42"	lokasyon="KABAKTEPE-EKINOZU (KAHRAMANMARAS)                 "	lat="38.0385"	lng="37.0220"	mag="2.6" Depth="5.0" />
+	<earhquake	name="2025.07.25 12:28:56"	lokasyon="AVCILAR-(KAHRAMANMARAS)                           "	lat="37.8393"	lng="36.7775"	mag="1.7" Depth="12.9" />
 </eqlist>
