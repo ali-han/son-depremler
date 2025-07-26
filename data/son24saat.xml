@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.25 18:31:58"	lokasyon="MARMARA DENIZI                                    "	lat="40.8238"	lng="28.1602"	mag="1.6" Depth="13.5" />
-	<earhquake	name="2025.07.25 18:48:03"	lokasyon="ULA (MUGLA)                                       "	lat="37.0860"	lng="28.3990"	mag="1.4" Depth="15.0" />
-	<earhquake	name="2025.07.25 18:54:07"	lokasyon="ULA (MUGLA)                                       "	lat="37.0938"	lng="28.4138"	mag="2.6" Depth="6.9" />
-	<earhquake	name="2025.07.25 19:00:11"	lokasyon="ULA (MUGLA)                                       "	lat="37.1030"	lng="28.4320"	mag="3.2" Depth="6.6" />
-	<earhquake	name="2025.07.25 19:01:38"	lokasyon="ULA (MUGLA)                                       "	lat="37.1242"	lng="28.4108"	mag="3.4" Depth="10.1" />
-	<earhquake	name="2025.07.25 19:13:33"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.1192"	lng="33.2770"	mag="1.6" Depth="5.3" />
-	<earhquake	name="2025.07.25 19:14:23"	lokasyon="ELMALI-ULA (MUGLA)                                "	lat="37.0793"	lng="28.4637"	mag="1.6" Depth="10.9" />
-	<earhquake	name="2025.07.25 19:16:53"	lokasyon="ULA (MUGLA)                                       "	lat="37.0907"	lng="28.4452"	mag="2.1" Depth="7.5" />
 	<earhquake	name="2025.07.25 20:25:19"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.4378"	lng="25.2038"	mag="2.4" Depth="14.1" />
 	<earhquake	name="2025.07.25 20:55:12"	lokasyon="ORMANOZU-(AMASYA)                                 "	lat="40.7832"	lng="35.8558"	mag="2.6" Depth="7.4" />
 	<earhquake	name="2025.07.25 21:04:22"	lokasyon="YESILOVA-ULA (MUGLA)                              "	lat="37.0607"	lng="28.4263"	mag="1.4" Depth="4.9" />
@@ -36,4 +28,5 @@
 	<earhquake	name="2025.07.26 15:41:10"	lokasyon="KARAKURT-KIRKAGAC (MANISA)                        "	lat="39.1237"	lng="27.7777"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.07.26 16:25:50"	lokasyon="GECITLI-SINCIK (ADIYAMAN)                         "	lat="38.1345"	lng="38.5502"	mag="2.0" Depth="6.4" />
 	<earhquake	name="2025.07.26 16:50:52"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9772"	lng="26.3765"	mag="3.6" Depth="29.8" />
+	<earhquake	name="2025.07.26 19:15:30"	lokasyon="ATLIDERE-FETHIYE (MUGLA)                          "	lat="36.7027"	lng="29.3787"	mag="3.3" Depth="9.1" />
 </eqlist>
