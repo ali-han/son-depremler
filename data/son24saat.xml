@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.26 23:00:47"	lokasyon="BAYIRKOY-FETHIYE (MUGLA)                          "	lat="36.7390"	lng="29.4378"	mag="2.0" Depth="9.6" />
-	<earhquake	name="2025.07.26 23:42:24"	lokasyon="BAYIRKOY-FETHIYE (MUGLA)                          "	lat="36.7558"	lng="29.5007"	mag="1.5" Depth="20.2" />
-	<earhquake	name="2025.07.26 23:48:50"	lokasyon="EKINOZU (KAHRAMANMARAS)                           "	lat="38.0492"	lng="37.2065"	mag="1.9" Depth="6.4" />
 	<earhquake	name="2025.07.27 00:31:15"	lokasyon="ULA (MUGLA)                                       "	lat="37.0898"	lng="28.4228"	mag="2.6" Depth="15.5" />
 	<earhquake	name="2025.07.27 01:03:08"	lokasyon="AKPINAR-EKINOZU (KAHRAMANMARAS)                   "	lat="38.0920"	lng="37.2020"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2025.07.27 01:06:53"	lokasyon="BASOREN-(KUTAHYA)                                 "	lat="39.5502"	lng="30.3003"	mag="1.6" Depth="8.8" />
@@ -58,4 +55,6 @@
 	<earhquake	name="2025.07.27 20:45:46"	lokasyon="AKDENIZ                                           "	lat="35.7807"	lng="30.3937"	mag="2.3" Depth="4.5" />
 	<earhquake	name="2025.07.27 21:12:28"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2380"	lng="28.9755"	mag="2.6" Depth="5.3" />
 	<earhquake	name="2025.07.27 21:50:07"	lokasyon="AKDENIZ                                           "	lat="36.0947"	lng="34.6402"	mag="2.2" Depth="9.0" />
+	<earhquake	name="2025.07.27 22:50:48"	lokasyon="AKDENIZ                                           "	lat="35.6727"	lng="28.4443"	mag="2.2" Depth="10.0" />
+	<earhquake	name="2025.07.27 23:01:54"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1973"	lng="31.7205"	mag="2.4" Depth="5.0" />
 </eqlist>
