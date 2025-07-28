@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.27 20:05:00"	lokasyon="GUNDUZBEY-YESILYURT (MALATYA)                     "	lat="38.2993"	lng="38.2892"	mag="1.6" Depth="8.3" />
-	<earhquake	name="2025.07.27 20:17:27"	lokasyon="YUVA-GURUN (SIVAS)                                "	lat="38.8022"	lng="37.4345"	mag="1.7" Depth="8.7" />
-	<earhquake	name="2025.07.27 20:45:46"	lokasyon="AKDENIZ                                           "	lat="35.7807"	lng="30.3937"	mag="2.3" Depth="4.5" />
 	<earhquake	name="2025.07.27 21:12:28"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2380"	lng="28.9755"	mag="2.6" Depth="5.3" />
 	<earhquake	name="2025.07.27 21:50:07"	lokasyon="AKDENIZ                                           "	lat="36.0947"	lng="34.6402"	mag="2.2" Depth="9.0" />
 	<earhquake	name="2025.07.27 22:50:48"	lokasyon="AKDENIZ                                           "	lat="35.6727"	lng="28.4443"	mag="2.2" Depth="10.0" />
@@ -67,5 +64,8 @@
 	<earhquake	name="2025.07.28 14:25:53"	lokasyon="CAKRAZSEYHLER-AMASRA (BARTIN)                     "	lat="41.8212"	lng="32.4592"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2025.07.28 14:51:10"	lokasyon="EGE DENIZI                                        "	lat="36.6762"	lng="25.4850"	mag="1.6" Depth="17.5" />
 	<earhquake	name="2025.07.28 16:31:24"	lokasyon="OTMANLAR-KOYCEGIZ (MUGLA)                         REVIZE01   (2025.07.28 16:31:24)"	lat="37.1013"	lng="28.8390"	mag="1.8" Depth="5.4" />
+	<earhquake	name="2025.07.28 17:49:43"	lokasyon="ALACAAT-MUSTAFAKEMALPASA (BURSA)                  "	lat="39.8247"	lng="28.6750"	mag="1.4" Depth="5.2" />
+	<earhquake	name="2025.07.28 18:31:01"	lokasyon="KUZKOY-IMRANLI (SIVAS)                            "	lat="39.8348"	lng="38.3535"	mag="2.3" Depth="6.8" />
+	<earhquake	name="2025.07.28 19:02:19"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2398"	lng="38.1287"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2025.07.28 19:29:45"	lokasyon="DURASILLI-(MANISA)                                "	lat="38.8188"	lng="27.1438"	mag="1.8" Depth="10.2" />
 </eqlist>
