@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.27 21:12:28"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2380"	lng="28.9755"	mag="2.6" Depth="5.3" />
-	<earhquake	name="2025.07.27 21:50:07"	lokasyon="AKDENIZ                                           "	lat="36.0947"	lng="34.6402"	mag="2.2" Depth="9.0" />
 	<earhquake	name="2025.07.27 22:50:48"	lokasyon="AKDENIZ                                           "	lat="35.6727"	lng="28.4443"	mag="2.2" Depth="10.0" />
 	<earhquake	name="2025.07.27 23:01:54"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1973"	lng="31.7205"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2025.07.27 23:03:52"	lokasyon="EGE DENIZI                                        "	lat="38.7247"	lng="26.4905"	mag="2.2" Depth="2.2" />
@@ -69,4 +67,6 @@
 	<earhquake	name="2025.07.28 19:02:19"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2398"	lng="38.1287"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2025.07.28 19:29:45"	lokasyon="DURASILLI-(MANISA)                                "	lat="38.8188"	lng="27.1438"	mag="1.8" Depth="10.2" />
 	<earhquake	name="2025.07.28 20:14:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2350"	lng="29.0187"	mag="2.4" Depth="7.1" />
+	<earhquake	name="2025.07.28 20:30:02"	lokasyon="EGE DENIZI                                        "	lat="36.7038"	lng="24.7433"	mag="2.4" Depth="18.6" />
+	<earhquake	name="2025.07.28 21:07:23"	lokasyon="ORDEKKOY-AFSIN (KAHRAMANMARAS)                    "	lat="38.1782"	lng="36.8717"	mag="1.7" Depth="5.2" />
 </eqlist>
