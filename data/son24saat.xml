@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.27 08:34:31"	lokasyon="EGE DENIZI                                        "	lat="36.6502"	lng="25.7358"	mag="3.3" Depth="13.0" />
-	<earhquake	name="2025.07.27 08:43:55"	lokasyon="EGE DENIZI                                        "	lat="36.6765"	lng="25.7068"	mag="3.3" Depth="9.7" />
-	<earhquake	name="2025.07.27 08:44:51"	lokasyon="EGE DENIZI                                        "	lat="36.5375"	lng="25.7597"	mag="2.8" Depth="6.3" />
-	<earhquake	name="2025.07.27 08:50:51"	lokasyon="EGE DENIZI                                        "	lat="36.6313"	lng="25.7350"	mag="2.7" Depth="6.8" />
 	<earhquake	name="2025.07.27 09:00:22"	lokasyon="UCGOZE-YESILYURT (MALATYA)                        "	lat="38.2090"	lng="38.4202"	mag="1.5" Depth="28.0" />
 	<earhquake	name="2025.07.27 09:39:54"	lokasyon="EGE DENIZI                                        "	lat="36.1783"	lng="27.4813"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2025.07.27 10:08:50"	lokasyon="ARICILAR-ULA (MUGLA)                              "	lat="37.0967"	lng="28.5950"	mag="1.8" Depth="4.9" />
@@ -72,4 +68,5 @@
 	<earhquake	name="2025.07.28 05:40:25"	lokasyon="SELIMIYE-MARMARIS (MUGLA)                         "	lat="36.7250"	lng="28.0568"	mag="1.8" Depth="61.9" />
 	<earhquake	name="2025.07.28 06:11:12"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1247"	lng="28.1965"	mag="2.2" Depth="12.0" />
 	<earhquake	name="2025.07.28 07:29:36"	lokasyon="BOZGEDIK-CELIKHAN (ADIYAMAN)                      "	lat="38.0843"	lng="38.3085"	mag="2.1" Depth="1.4" />
+	<earhquake	name="2025.07.28 08:34:24"	lokasyon="CINARKOY-DURSUNBEY (BALIKESIR)                    "	lat="39.5908"	lng="28.7888"	mag="1.4" Depth="6.7" />
 </eqlist>
