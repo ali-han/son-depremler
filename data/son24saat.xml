@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.28 08:34:24"	lokasyon="CINARKOY-DURSUNBEY (BALIKESIR)                    "	lat="39.5908"	lng="28.7888"	mag="1.4" Depth="6.7" />
-	<earhquake	name="2025.07.28 08:45:08"	lokasyon="HASANOVA-KARLIOVA (BINGOL)                        "	lat="39.1583"	lng="41.0022"	mag="1.5" Depth="20.2" />
-	<earhquake	name="2025.07.28 08:55:06"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="36.1852"	lng="27.7228"	mag="3.0" Depth="7.1" />
 	<earhquake	name="2025.07.28 09:07:03"	lokasyon="EGE DENIZI                                        "	lat="36.9283"	lng="26.6177"	mag="1.9" Depth="17.0" />
 	<earhquake	name="2025.07.28 09:32:56"	lokasyon="YUNANISTAN                                        "	lat="40.4012"	lng="24.0130"	mag="1.5" Depth="5.2" />
 	<earhquake	name="2025.07.28 10:07:33"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6202"	lng="36.0935"	mag="2.0" Depth="5.4" />
@@ -72,4 +69,6 @@
 	<earhquake	name="2025.07.29 06:58:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2573"	lng="28.9687"	mag="2.6" Depth="7.3" />
 	<earhquake	name="2025.07.29 07:31:41"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2578"	lng="28.9537"	mag="2.1" Depth="7.5" />
 	<earhquake	name="2025.07.29 07:35:20"	lokasyon="AGCASAR-NURHAK (KAHRAMANMARAS)                    "	lat="38.0845"	lng="37.3843"	mag="1.0" Depth="21.6" />
+	<earhquake	name="2025.07.29 07:58:45"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2433"	lng="28.9745"	mag="1.5" Depth="9.9" />
+	<earhquake	name="2025.07.29 08:05:54"	lokasyon="BASKONAK-SIMAV (KUTAHYA)                          "	lat="39.0850"	lng="29.2025"	mag="1.4" Depth="8.2" />
 </eqlist>
