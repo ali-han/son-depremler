@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.29 18:15:53"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5155"	lng="28.1268"	mag="1.5" Depth="22.2" />
-	<earhquake	name="2025.07.29 18:17:49"	lokasyon="CAMKOY-BIGADIC (BALIKESIR)                        "	lat="39.4680"	lng="28.1653"	mag="1.5" Depth="15.0" />
-	<earhquake	name="2025.07.29 18:24:15"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2457"	lng="28.9892"	mag="2.5" Depth="6.8" />
-	<earhquake	name="2025.07.29 18:28:12"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9738"	lng="27.7303"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2025.07.29 19:39:02"	lokasyon="YUNANISTAN                                        "	lat="40.2997"	lng="24.1367"	mag="2.4" Depth="7.0" />
 	<earhquake	name="2025.07.29 19:47:48"	lokasyon="EGE DENIZI                                        "	lat="35.9713"	lng="26.1202"	mag="1.9" Depth="8.0" />
 	<earhquake	name="2025.07.29 19:58:40"	lokasyon="NADIRKOY-AFSIN (KAHRAMANMARAS)                    "	lat="38.1580"	lng="36.9360"	mag="2.6" Depth="5.0" />
@@ -43,4 +39,5 @@
 	<earhquake	name="2025.07.30 15:31:39"	lokasyon="KARACAHISAR-BOZKIR (KONYA)                        "	lat="37.0555"	lng="32.0687"	mag="1.7" Depth="18.7" />
 	<earhquake	name="2025.07.30 15:55:02"	lokasyon="ZAFER-BUCA (IZMIR)                                "	lat="38.3385"	lng="27.2297"	mag="1.7" Depth="8.1" />
 	<earhquake	name="2025.07.30 16:46:00"	lokasyon="YUNANISTAN                                        "	lat="40.2798"	lng="24.1368"	mag="3.2" Depth="11.8" />
+	<earhquake	name="2025.07.30 18:11:43"	lokasyon="CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             "	lat="37.3077"	lng="37.0287"	mag="2.5" Depth="4.9" />
 </eqlist>
