@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.29 09:04:43"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2602"	lng="28.9428"	mag="2.4" Depth="6.3" />
-	<earhquake	name="2025.07.29 09:49:56"	lokasyon="ALPUDERE-SULUSARAY (TOKAT)                        "	lat="40.0672"	lng="36.0852"	mag="2.2" Depth="6.2" />
 	<earhquake	name="2025.07.29 10:03:36"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2578"	lng="28.9602"	mag="1.9" Depth="11.9" />
 	<earhquake	name="2025.07.29 10:04:58"	lokasyon="EGNEZ-SOMA (MANISA)                               "	lat="39.0563"	lng="27.5250"	mag="1.9" Depth="0.0" />
 	<earhquake	name="2025.07.29 10:48:56"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2457"	lng="28.9582"	mag="1.5" Depth="11.0" />
@@ -49,4 +47,5 @@
 	<earhquake	name="2025.07.30 07:11:41"	lokasyon="KALE (MALATYA)                                    "	lat="38.3998"	lng="38.7740"	mag="1.6" Depth="19.6" />
 	<earhquake	name="2025.07.30 07:30:20"	lokasyon="GUNEYPINAR-ILGIN (KONYA)                          "	lat="38.1088"	lng="32.1098"	mag="2.3" Depth="2.6" />
 	<earhquake	name="2025.07.30 07:57:09"	lokasyon="INKOY-GEVAS (VAN)                                 "	lat="38.4755"	lng="42.9147"	mag="1.6" Depth="14.8" />
+	<earhquake	name="2025.07.30 09:11:43"	lokasyon="ADIL-SOMA (MANISA)                                "	lat="39.1147"	lng="27.5903"	mag="1.6" Depth="0.0" />
 </eqlist>
