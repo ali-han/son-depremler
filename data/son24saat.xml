@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.30 07:11:41"	lokasyon="KALE (MALATYA)                                    "	lat="38.3998"	lng="38.7740"	mag="1.6" Depth="19.6" />
-	<earhquake	name="2025.07.30 07:30:20"	lokasyon="GUNEYPINAR-ILGIN (KONYA)                          "	lat="38.1088"	lng="32.1098"	mag="2.3" Depth="2.6" />
-	<earhquake	name="2025.07.30 07:57:09"	lokasyon="INKOY-GEVAS (VAN)                                 "	lat="38.4755"	lng="42.9147"	mag="1.6" Depth="14.8" />
 	<earhquake	name="2025.07.30 09:11:43"	lokasyon="ADIL-SOMA (MANISA)                                "	lat="39.1147"	lng="27.5903"	mag="1.6" Depth="0.0" />
 	<earhquake	name="2025.07.30 10:49:14"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.3988"	lng="26.1232"	mag="1.9" Depth="8.0" />
 	<earhquake	name="2025.07.30 12:28:54"	lokasyon="GOZENE-YESILYURT (MALATYA)                        "	lat="38.2070"	lng="38.0390"	mag="1.4" Depth="5.2" />
@@ -36,4 +33,11 @@
 	<earhquake	name="2025.07.31 03:11:45"	lokasyon="NURDAGI (GAZIANTEP)                               "	lat="37.1890"	lng="36.7653"	mag="1.7" Depth="8.6" />
 	<earhquake	name="2025.07.31 03:19:28"	lokasyon="KOSEPINARI-KADIRLI (OSMANIYE)                     "	lat="37.6388"	lng="36.1573"	mag="1.9" Depth="5.5" />
 	<earhquake	name="2025.07.31 03:38:34"	lokasyon="ORGULU-PALU (ELAZIG)                              "	lat="38.7203"	lng="40.0445"	mag="1.6" Depth="12.8" />
+	<earhquake	name="2025.07.31 03:47:13"	lokasyon="SADIKLI-YAZIHAN (MALATYA)                         "	lat="38.5440"	lng="37.9288"	mag="1.1" Depth="5.4" />
+	<earhquake	name="2025.07.31 03:54:36"	lokasyon="EGE DENIZI                                        "	lat="36.0627"	lng="27.1137"	mag="2.1" Depth="7.0" />
+	<earhquake	name="2025.07.31 04:43:42"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6648"	lng="36.1347"	mag="2.4" Depth="2.1" />
+	<earhquake	name="2025.07.31 05:00:06"	lokasyon="HAVAOGLU-SELENDI (MANISA)                         "	lat="38.8588"	lng="28.7720"	mag="1.2" Depth="11.0" />
+	<earhquake	name="2025.07.31 05:09:46"	lokasyon="PASAKOY-AYVACIK (CANAKKALE)                       "	lat="39.5230"	lng="26.3055"	mag="1.6" Depth="5.2" />
+	<earhquake	name="2025.07.31 06:20:31"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2492"	lng="28.9897"	mag="1.5" Depth="11.7" />
+	<earhquake	name="2025.07.31 06:33:21"	lokasyon="ABIDE ACIKLARI-CANAKKALE (EGE DENIZI)             "	lat="40.0475"	lng="26.0950"	mag="1.8" Depth="2.1" />
 </eqlist>
