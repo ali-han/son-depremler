@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.30 20:02:21"	lokasyon="DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               "	lat="38.2460"	lng="37.3185"	mag="1.9" Depth="2.0" />
-	<earhquake	name="2025.07.30 20:04:27"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1503"	lng="28.2587"	mag="1.6" Depth="15.7" />
-	<earhquake	name="2025.07.30 20:15:15"	lokasyon="CAGLAYAN-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0325"	lng="36.4512"	mag="1.7" Depth="15.6" />
 	<earhquake	name="2025.07.30 21:10:52"	lokasyon="AKCAOVA-(MUGLA)                                   "	lat="37.2158"	lng="28.2812"	mag="1.9" Depth="2.2" />
 	<earhquake	name="2025.07.30 21:20:31"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1417"	lng="28.2178"	mag="3.0" Depth="5.5" />
 	<earhquake	name="2025.07.30 21:58:33"	lokasyon="OSMANGAZI (BURSA)                                 "	lat="40.2102"	lng="29.0350"	mag="2.3" Depth="7.2" />
@@ -41,6 +38,7 @@
 	<earhquake	name="2025.07.31 13:30:21"	lokasyon="TEKELER-ILGIN (KONYA)                             "	lat="38.4517"	lng="31.9063"	mag="1.3" Depth="2.4" />
 	<earhquake	name="2025.07.31 13:36:40"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8207"	lng="28.2827"	mag="3.7" Depth="11.7" />
 	<earhquake	name="2025.07.31 13:51:56"	lokasyon="BAGOZU-BEYPAZARI (ANKARA)                         REVIZE01   (2025.07.31 13:51:56)"	lat="40.1845"	lng="31.8208"	mag="2.2" Depth="5.8" />
+	<earhquake	name="2025.07.31 16:28:57"	lokasyon="IRAN                                              "	lat="38.5197"	lng="45.2823"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2025.07.31 16:40:32"	lokasyon="SURIYE                                            "	lat="36.4613"	lng="38.4983"	mag="2.2" Depth="9.4" />
 	<earhquake	name="2025.07.31 16:50:49"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2687"	lng="27.0252"	mag="2.6" Depth="24.2" />
 	<earhquake	name="2025.07.31 18:32:02"	lokasyon="KADIKOY-BIGADIC (BALIKESIR)                       "	lat="39.4635"	lng="28.1133"	mag="1.8" Depth="5.0" />
