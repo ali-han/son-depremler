@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.31 12:44:47"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9287"	lng="27.3407"	mag="2.2" Depth="7.9" />
-	<earhquake	name="2025.07.31 13:00:26"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2122"	lng="29.0375"	mag="1.5" Depth="1.8" />
-	<earhquake	name="2025.07.31 13:21:00"	lokasyon="KARACAOREN-(MUGLA)                                "	lat="37.1988"	lng="28.7608"	mag="1.3" Depth="11.9" />
-	<earhquake	name="2025.07.31 13:30:21"	lokasyon="TEKELER-ILGIN (KONYA)                             "	lat="38.4517"	lng="31.9063"	mag="1.3" Depth="2.4" />
-	<earhquake	name="2025.07.31 13:36:40"	lokasyon="SILIVRI ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8207"	lng="28.2827"	mag="3.7" Depth="11.7" />
-	<earhquake	name="2025.07.31 13:51:56"	lokasyon="BAGOZU-BEYPAZARI (ANKARA)                         REVIZE01   (2025.07.31 13:51:56)"	lat="40.1845"	lng="31.8208"	mag="2.2" Depth="5.8" />
 	<earhquake	name="2025.07.31 16:28:57"	lokasyon="IRAN                                              "	lat="38.5197"	lng="45.2823"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2025.07.31 16:40:32"	lokasyon="SURIYE                                            "	lat="36.4613"	lng="38.4983"	mag="2.2" Depth="9.4" />
 	<earhquake	name="2025.07.31 16:50:49"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2687"	lng="27.0252"	mag="2.6" Depth="24.2" />
@@ -66,4 +60,5 @@
 	<earhquake	name="2025.08.01 10:57:58"	lokasyon="KELER-MENDERES (IZMIR)                            "	lat="38.1057"	lng="27.0508"	mag="1.5" Depth="10.0" />
 	<earhquake	name="2025.08.01 11:04:16"	lokasyon="CUBUKCU-SAMANDAG (HATAY)                          "	lat="36.2003"	lng="36.0375"	mag="1.8" Depth="20.4" />
 	<earhquake	name="2025.08.01 11:13:03"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2512"	lng="38.0975"	mag="2.1" Depth="13.6" />
+	<earhquake	name="2025.08.01 12:56:10"	lokasyon="BAGCAGIZ-MUT (MERSIN)                             "	lat="36.6975"	lng="33.5515"	mag="3.1" Depth="14.9" />
 </eqlist>
