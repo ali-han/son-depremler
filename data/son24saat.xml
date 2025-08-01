@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.31 20:06:36"	lokasyon="ILIC (ERZINCAN)                                   "	lat="39.4500"	lng="38.5817"	mag="1.7" Depth="19.2" />
-	<earhquake	name="2025.07.31 20:32:21"	lokasyon="ARNAVUTKOY (ISTANBUL)                             "	lat="41.1955"	lng="28.7020"	mag="1.3" Depth="16.2" />
 	<earhquake	name="2025.07.31 21:29:46"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4218"	lng="37.5412"	mag="1.9" Depth="4.5" />
 	<earhquake	name="2025.07.31 22:13:45"	lokasyon="AKCALI-TURKOGLU (KAHRAMANMARAS)                   "	lat="37.3080"	lng="36.8155"	mag="1.3" Depth="10.3" />
 	<earhquake	name="2025.07.31 23:35:58"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.0845"	lng="30.6037"	mag="1.4" Depth="7.3" />
@@ -64,4 +62,7 @@
 	<earhquake	name="2025.08.01 18:36:04"	lokasyon="YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)        "	lat="40.7565"	lng="27.5215"	mag="2.2" Depth="15.0" />
 	<earhquake	name="2025.08.01 18:49:05"	lokasyon="CERLER-KAS (ANTALYA)                              "	lat="36.2742"	lng="29.7917"	mag="1.7" Depth="24.5" />
 	<earhquake	name="2025.08.01 18:59:36"	lokasyon="KIRLANGIC-YESILYURT (MALATYA)                     "	lat="38.2465"	lng="38.0777"	mag="2.0" Depth="10.0" />
+	<earhquake	name="2025.08.01 20:24:25"	lokasyon="COKEKYAZI-HIZAN (BITLIS)                          "	lat="38.2798"	lng="42.3793"	mag="2.4" Depth="2.0" />
+	<earhquake	name="2025.08.01 20:34:36"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6825"	lng="36.1185"	mag="2.3" Depth="4.5" />
+	<earhquake	name="2025.08.01 20:40:07"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4118"	lng="37.4692"	mag="1.7" Depth="1.5" />
 </eqlist>
