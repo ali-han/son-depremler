@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.31 23:35:58"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.0845"	lng="30.6037"	mag="1.4" Depth="7.3" />
-	<earhquake	name="2025.08.01 00:38:13"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1008"	lng="37.0312"	mag="1.3" Depth="5.4" />
-	<earhquake	name="2025.08.01 00:43:04"	lokasyon="EGE DENIZI                                        "	lat="36.1335"	lng="25.2745"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2025.08.01 01:16:01"	lokasyon="BOLUKELMA-PALU (ELAZIG)                           "	lat="38.8160"	lng="40.2448"	mag="1.9" Depth="10.8" />
 	<earhquake	name="2025.08.01 01:27:06"	lokasyon="BAGISLAR-(BOLU)                                   "	lat="40.8788"	lng="31.7480"	mag="1.2" Depth="5.1" />
 	<earhquake	name="2025.08.01 01:31:00"	lokasyon="KARAKOY-YESILOVA (BURDUR)                         "	lat="37.4598"	lng="29.5475"	mag="1.3" Depth="9.2" />
@@ -72,4 +69,5 @@
 	<earhquake	name="2025.08.01 22:07:26"	lokasyon="ERMENISTAN                                        "	lat="41.0725"	lng="43.8530"	mag="2.3" Depth="5.3" />
 	<earhquake	name="2025.08.01 22:24:31"	lokasyon="KARACAOREN-(BURDUR)                               "	lat="37.5297"	lng="30.2273"	mag="2.0" Depth="4.7" />
 	<earhquake	name="2025.08.01 22:28:32"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2417"	lng="38.1887"	mag="1.4" Depth="4.8" />
+	<earhquake	name="2025.08.02 00:29:49"	lokasyon="YILANLI-KOPRUKOY (ERZURUM)                        "	lat="39.8185"	lng="41.7365"	mag="2.0" Depth="4.3" />
 </eqlist>
