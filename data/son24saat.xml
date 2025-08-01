@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.31 22:13:45"	lokasyon="AKCALI-TURKOGLU (KAHRAMANMARAS)                   "	lat="37.3080"	lng="36.8155"	mag="1.3" Depth="10.3" />
 	<earhquake	name="2025.07.31 23:35:58"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.0845"	lng="30.6037"	mag="1.4" Depth="7.3" />
 	<earhquake	name="2025.08.01 00:38:13"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1008"	lng="37.0312"	mag="1.3" Depth="5.4" />
 	<earhquake	name="2025.08.01 00:43:04"	lokasyon="EGE DENIZI                                        "	lat="36.1335"	lng="25.2745"	mag="2.1" Depth="5.4" />
@@ -67,4 +66,7 @@
 	<earhquake	name="2025.08.01 21:12:26"	lokasyon="BEYOGLU-TURKOGLU (KAHRAMANMARAS)                  "	lat="37.2855"	lng="36.7843"	mag="2.0" Depth="5.4" />
 	<earhquake	name="2025.08.01 21:21:00"	lokasyon="AKDENIZ                                           "	lat="36.1178"	lng="31.3462"	mag="2.8" Depth="19.0" />
 	<earhquake	name="2025.08.01 21:42:59"	lokasyon="EGE DENIZI                                        "	lat="38.8107"	lng="26.0950"	mag="2.3" Depth="5.3" />
+	<earhquake	name="2025.08.01 21:53:47"	lokasyon="HACIBAYRAM-TERCAN (ERZINCAN)                      "	lat="39.8198"	lng="40.4955"	mag="1.7" Depth="15.7" />
+	<earhquake	name="2025.08.01 22:01:59"	lokasyon="EVRI-PAZARCIK (KAHRAMANMARAS)                     "	lat="37.2387"	lng="37.0510"	mag="1.4" Depth="9.0" />
+	<earhquake	name="2025.08.01 22:03:54"	lokasyon="HACIBAYRAM-TERCAN (ERZINCAN)                      "	lat="39.8198"	lng="40.4708"	mag="1.5" Depth="17.0" />
 </eqlist>
