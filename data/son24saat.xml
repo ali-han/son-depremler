@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.07.31 08:40:58"	lokasyon="SEKERKOY-SEREFLIKOCHISAR (ANKARA)                 "	lat="39.1175"	lng="33.1852"	mag="1.8" Depth="25.1" />
-	<earhquake	name="2025.07.31 08:59:31"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0323"	lng="25.6357"	mag="3.8" Depth="6.1" />
 	<earhquake	name="2025.07.31 09:07:32"	lokasyon="EGE DENIZI                                        "	lat="39.8582"	lng="25.6315"	mag="1.7" Depth="11.2" />
 	<earhquake	name="2025.07.31 09:43:11"	lokasyon="BALCILAR-KOYCEGIZ (MUGLA)                         "	lat="37.0752"	lng="28.5823"	mag="1.7" Depth="12.7" />
 	<earhquake	name="2025.07.31 09:52:38"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1498"	lng="28.1903"	mag="3.1" Depth="15.0" />
@@ -67,4 +65,5 @@
 	<earhquake	name="2025.08.01 07:29:17"	lokasyon="KAPIKAYA-SIMAV (KUTAHYA)                          "	lat="39.1213"	lng="29.0465"	mag="1.1" Depth="15.6" />
 	<earhquake	name="2025.08.01 07:33:05"	lokasyon="KOZLU-(BOLU)                                      "	lat="40.8345"	lng="31.5948"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.08.01 07:42:02"	lokasyon="ARPASEKI-KINIK (IZMIR)                            "	lat="39.0808"	lng="27.4757"	mag="1.6" Depth="4.8" />
+	<earhquake	name="2025.08.01 08:03:48"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2337"	lng="28.9865"	mag="2.2" Depth="11.3" />
 </eqlist>
