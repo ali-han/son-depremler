@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.01 02:08:42"	lokasyon="CIGDEMLI-CAMELI (DENIZLI)                         "	lat="37.1498"	lng="29.4483"	mag="1.3" Depth="22.5" />
-	<earhquake	name="2025.08.01 02:17:39"	lokasyon="ARAS-HORASAN (ERZURUM)                            "	lat="39.9878"	lng="42.2788"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.08.01 03:07:28"	lokasyon="TEKEVLER-MADEN (ELAZIG)                           "	lat="38.5033"	lng="39.6072"	mag="1.2" Depth="8.9" />
 	<earhquake	name="2025.08.01 03:10:07"	lokasyon="GAZIEMIR (IZMIR)                                  "	lat="38.3273"	lng="27.1518"	mag="1.8" Depth="7.4" />
 	<earhquake	name="2025.08.01 03:11:26"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2225"	lng="29.0065"	mag="1.6" Depth="13.8" />
@@ -69,4 +67,6 @@
 	<earhquake	name="2025.08.02 01:13:47"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1992"	lng="29.0472"	mag="1.4" Depth="16.4" />
 	<earhquake	name="2025.08.02 01:21:20"	lokasyon="PUSATLAR-CAVDARHISAR (KUTAHYA)                    "	lat="39.1817"	lng="29.4347"	mag="2.0" Depth="6.3" />
 	<earhquake	name="2025.08.02 01:33:49"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1175"	lng="29.1602"	mag="1.2" Depth="10.2" />
+	<earhquake	name="2025.08.02 02:07:21"	lokasyon="YENICIFTLIK-TIRE (IZMIR)                          "	lat="38.1187"	lng="27.4575"	mag="1.8" Depth="6.2" />
+	<earhquake	name="2025.08.02 02:12:51"	lokasyon="ILICAKINIK-(BOLU)                                 "	lat="40.6982"	lng="31.6230"	mag="1.5" Depth="13.5" />
 </eqlist>
