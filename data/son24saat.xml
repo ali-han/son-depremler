@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.01 01:16:01"	lokasyon="BOLUKELMA-PALU (ELAZIG)                           "	lat="38.8160"	lng="40.2448"	mag="1.9" Depth="10.8" />
-	<earhquake	name="2025.08.01 01:27:06"	lokasyon="BAGISLAR-(BOLU)                                   "	lat="40.8788"	lng="31.7480"	mag="1.2" Depth="5.1" />
-	<earhquake	name="2025.08.01 01:31:00"	lokasyon="KARAKOY-YESILOVA (BURDUR)                         "	lat="37.4598"	lng="29.5475"	mag="1.3" Depth="9.2" />
-	<earhquake	name="2025.08.01 01:37:14"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9738"	lng="26.0033"	mag="3.8" Depth="5.6" />
-	<earhquake	name="2025.08.01 01:59:19"	lokasyon="ERDEMLI-KALE (MALATYA)                            "	lat="38.3458"	lng="38.7023"	mag="1.0" Depth="9.1" />
 	<earhquake	name="2025.08.01 02:08:42"	lokasyon="CIGDEMLI-CAMELI (DENIZLI)                         "	lat="37.1498"	lng="29.4483"	mag="1.3" Depth="22.5" />
 	<earhquake	name="2025.08.01 02:17:39"	lokasyon="ARAS-HORASAN (ERZURUM)                            "	lat="39.9878"	lng="42.2788"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.08.01 03:07:28"	lokasyon="TEKEVLER-MADEN (ELAZIG)                           "	lat="38.5033"	lng="39.6072"	mag="1.2" Depth="8.9" />
@@ -71,4 +66,7 @@
 	<earhquake	name="2025.08.01 22:28:32"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2417"	lng="38.1887"	mag="1.4" Depth="4.8" />
 	<earhquake	name="2025.08.02 00:29:49"	lokasyon="YILANLI-KOPRUKOY (ERZURUM)                        "	lat="39.8185"	lng="41.7365"	mag="2.0" Depth="4.3" />
 	<earhquake	name="2025.08.02 00:45:45"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1617"	lng="37.7418"	mag="1.7" Depth="6.9" />
+	<earhquake	name="2025.08.02 01:13:47"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1992"	lng="29.0472"	mag="1.4" Depth="16.4" />
+	<earhquake	name="2025.08.02 01:21:20"	lokasyon="PUSATLAR-CAVDARHISAR (KUTAHYA)                    "	lat="39.1817"	lng="29.4347"	mag="2.0" Depth="6.3" />
+	<earhquake	name="2025.08.02 01:33:49"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1175"	lng="29.1602"	mag="1.2" Depth="10.2" />
 </eqlist>
