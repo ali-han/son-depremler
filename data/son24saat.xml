@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.02 06:09:47"	lokasyon="YOLUSTU (ELAZIG)                                  "	lat="38.6277"	lng="39.7098"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.08.02 06:46:42"	lokasyon="ARICILAR-ULA (MUGLA)                              "	lat="37.0922"	lng="28.5950"	mag="2.0" Depth="9.8" />
-	<earhquake	name="2025.08.02 07:04:56"	lokasyon="SENYURT-ULAS (SIVAS)                              "	lat="39.4620"	lng="37.3275"	mag="2.0" Depth="7.0" />
 	<earhquake	name="2025.08.02 08:01:04"	lokasyon="YENIYAPAN-GOKSUN (KAHRAMANMARAS)                  "	lat="38.1432"	lng="36.6605"	mag="2.4" Depth="5.4" />
 	<earhquake	name="2025.08.02 08:02:49"	lokasyon="ARMUTLU-PAZARCIK (KAHRAMANMARAS)                  "	lat="37.5077"	lng="37.2273"	mag="1.8" Depth="10.1" />
 	<earhquake	name="2025.08.02 08:32:15"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2710"	lng="38.1580"	mag="2.0" Depth="5.5" />
@@ -45,4 +42,11 @@
 	<earhquake	name="2025.08.03 04:44:27"	lokasyon="DEREKOY-KARAMANLI (BURDUR)                        "	lat="37.4343"	lng="29.7562"	mag="2.4" Depth="7.4" />
 	<earhquake	name="2025.08.03 04:53:21"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6270"	lng="35.3402"	mag="1.6" Depth="4.8" />
 	<earhquake	name="2025.08.03 05:01:35"	lokasyon="YUNANISTAN                                        "	lat="38.4843"	lng="23.9280"	mag="3.3" Depth="7.0" />
+	<earhquake	name="2025.08.03 06:37:09"	lokasyon="PEKMEZCI-AKHISAR (MANISA)                         "	lat="38.9965"	lng="28.0372"	mag="3.5" Depth="11.8" />
+	<earhquake	name="2025.08.03 06:39:03"	lokasyon="PEKMEZCI-AKHISAR (MANISA)                         "	lat="38.9953"	lng="28.0450"	mag="2.1" Depth="9.0" />
+	<earhquake	name="2025.08.03 06:48:51"	lokasyon="PEKMEZCI-AKHISAR (MANISA)                         "	lat="39.0050"	lng="28.0320"	mag="3.5" Depth="7.3" />
+	<earhquake	name="2025.08.03 06:50:28"	lokasyon="PEKMEZCI-AKHISAR (MANISA)                         "	lat="38.9972"	lng="28.0282"	mag="2.7" Depth="7.7" />
+	<earhquake	name="2025.08.03 06:54:13"	lokasyon="KOMURCU-AKHISAR (MANISA)                          "	lat="39.0173"	lng="28.0552"	mag="2.6" Depth="7.0" />
+	<earhquake	name="2025.08.03 06:55:00"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0887"	lng="28.4097"	mag="1.6" Depth="13.7" />
+	<earhquake	name="2025.08.03 07:12:12"	lokasyon="EGE DENIZI                                        "	lat="36.3990"	lng="26.3718"	mag="3.3" Depth="95.6" />
 </eqlist>
