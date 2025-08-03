@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.03 00:17:32"	lokasyon="UGURKOY-BORCKA (ARTVIN)                           "	lat="41.7548"	lng="42.0635"	mag="3.0" Depth="5.0" />
-	<earhquake	name="2025.08.03 00:37:28"	lokasyon="ASLANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.2080"	lng="28.3115"	mag="1.8" Depth="7.4" />
-	<earhquake	name="2025.08.03 00:48:13"	lokasyon="YESILOVA-GEDIZ (KUTAHYA)                          "	lat="39.1478"	lng="29.3925"	mag="1.4" Depth="9.6" />
 	<earhquake	name="2025.08.03 01:51:12"	lokasyon="ARIKONAK-SINCIK (ADIYAMAN)                        "	lat="38.1257"	lng="38.5777"	mag="1.4" Depth="3.3" />
 	<earhquake	name="2025.08.03 02:01:00"	lokasyon="EGE DENIZI                                        "	lat="36.6380"	lng="25.6828"	mag="4.1" Depth="7.8" />
 	<earhquake	name="2025.08.03 02:59:57"	lokasyon="ISIKLAR-BIGADIC (BALIKESIR)                       "	lat="39.4107"	lng="28.1445"	mag="2.1" Depth="6.0" />
@@ -43,6 +40,7 @@
 	<earhquake	name="2025.08.03 15:02:32"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.8398"	lng="26.7578"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.08.03 15:19:08"	lokasyon="YARPUZ-(OSMANIYE)                                 "	lat="37.0057"	lng="36.3765"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.08.03 17:07:59"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     "	lat="38.5153"	lng="37.9762"	mag="1.8" Depth="6.9" />
+	<earhquake	name="2025.08.03 17:08:05"	lokasyon="TATLICAK-DELICE (KIRIKKALE)                       "	lat="39.8187"	lng="34.0103"	mag="1.7" Depth="3.2" />
 	<earhquake	name="2025.08.03 18:55:06"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5167"	lng="28.1143"	mag="1.5" Depth="15.0" />
 	<earhquake	name="2025.08.03 18:55:46"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4780"	lng="28.0958"	mag="1.5" Depth="14.1" />
 	<earhquake	name="2025.08.03 19:32:37"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.0998"	lng="38.4595"	mag="1.6" Depth="5.2" />
@@ -53,4 +51,6 @@
 	<earhquake	name="2025.08.03 22:23:12"	lokasyon="BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)                 "	lat="37.0312"	lng="36.0763"	mag="3.0" Depth="5.0" />
 	<earhquake	name="2025.08.03 22:25:54"	lokasyon="LALEGOLU-TOPRAKKALE (OSMANIYE)                    "	lat="37.0268"	lng="36.0608"	mag="3.8" Depth="5.9" />
 	<earhquake	name="2025.08.03 22:28:01"	lokasyon="BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)                 "	lat="37.0037"	lng="36.0760"	mag="2.2" Depth="7.8" />
+	<earhquake	name="2025.08.03 22:53:03"	lokasyon="SERVI-GENC (BINGOL)                               "	lat="38.6033"	lng="40.3297"	mag="1.5" Depth="7.1" />
+	<earhquake	name="2025.08.03 23:53:52"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2842"	lng="37.7332"	mag="1.7" Depth="6.7" />
 </eqlist>
