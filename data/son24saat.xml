@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.03 19:32:37"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.0998"	lng="38.4595"	mag="1.6" Depth="5.2" />
 	<earhquake	name="2025.08.03 21:15:47"	lokasyon="HAMIDIYE-CEYHAN (ADANA)                           "	lat="37.0037"	lng="36.0005"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.08.03 21:30:06"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2227"	lng="28.9465"	mag="1.6" Depth="11.0" />
 	<earhquake	name="2025.08.03 22:13:27"	lokasyon="BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)                 "	lat="36.9962"	lng="36.0957"	mag="1.6" Depth="11.3" />
@@ -48,5 +47,7 @@
 	<earhquake	name="2025.08.04 17:11:28"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2240"	lng="28.9898"	mag="1.9" Depth="10.3" />
 	<earhquake	name="2025.08.04 17:15:18"	lokasyon="CAMLI-MARMARIS (MUGLA)                            "	lat="36.9640"	lng="28.2732"	mag="2.0" Depth="12.7" />
 	<earhquake	name="2025.08.04 17:59:30"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="36.0843"	lng="28.0918"	mag="2.5" Depth="6.4" />
+	<earhquake	name="2025.08.04 18:12:24"	lokasyon="YENIKOY-BIGADIC (BALIKESIR)                       "	lat="39.5133"	lng="28.1405"	mag="1.4" Depth="15.0" />
+	<earhquake	name="2025.08.04 18:17:39"	lokasyon="CAMLI-MARMARIS (MUGLA)                            "	lat="36.9733"	lng="28.2868"	mag="1.7" Depth="15.1" />
 	<earhquake	name="2025.08.04 18:32:48"	lokasyon="YATAKLI-TAVSANLI (KUTAHYA)                        "	lat="39.5290"	lng="29.1340"	mag="3.3" Depth="7.1" />
 </eqlist>
