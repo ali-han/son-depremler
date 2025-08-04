@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.03 03:27:06"	lokasyon="ARIKONAK-SINCIK (ADIYAMAN)                        "	lat="38.1412"	lng="38.5745"	mag="1.4" Depth="8.9" />
-	<earhquake	name="2025.08.03 03:53:56"	lokasyon="EDREMIT KORFEZI (EGE DENIZI)                      "	lat="39.4558"	lng="26.2992"	mag="3.1" Depth="6.1" />
-	<earhquake	name="2025.08.03 03:59:24"	lokasyon="KARAGOZ-(MALATYA)                                 "	lat="38.3058"	lng="38.3173"	mag="2.1" Depth="6.5" />
-	<earhquake	name="2025.08.03 04:13:52"	lokasyon="ORTAKARABAG-BOLVADIN (AFYONKARAHISAR)             "	lat="38.6767"	lng="31.2015"	mag="1.0" Depth="5.2" />
-	<earhquake	name="2025.08.03 04:44:27"	lokasyon="DEREKOY-KARAMANLI (BURDUR)                        "	lat="37.4343"	lng="29.7562"	mag="2.4" Depth="7.4" />
-	<earhquake	name="2025.08.03 04:53:21"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6270"	lng="35.3402"	mag="1.6" Depth="4.8" />
-	<earhquake	name="2025.08.03 05:01:35"	lokasyon="YUNANISTAN                                        "	lat="38.4843"	lng="23.9280"	mag="3.3" Depth="7.0" />
 	<earhquake	name="2025.08.03 06:31:51"	lokasyon="SUSUZLAR-DIVRIGI (SIVAS)                          "	lat="39.5483"	lng="37.8623"	mag="2.3" Depth="1.8" />
 	<earhquake	name="2025.08.03 06:37:09"	lokasyon="PEKMEZCI-AKHISAR (MANISA)                         "	lat="38.9965"	lng="28.0372"	mag="3.5" Depth="11.8" />
 	<earhquake	name="2025.08.03 06:39:03"	lokasyon="PEKMEZCI-AKHISAR (MANISA)                         "	lat="38.9953"	lng="28.0450"	mag="2.1" Depth="9.0" />
@@ -55,4 +48,10 @@
 	<earhquake	name="2025.08.04 01:53:58"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9493"	lng="27.1417"	mag="1.7" Depth="2.0" />
 	<earhquake	name="2025.08.04 01:54:53"	lokasyon="BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)                 "	lat="37.0313"	lng="36.0943"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2025.08.04 01:58:45"	lokasyon="BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)                 "	lat="37.0040"	lng="36.0892"	mag="2.7" Depth="7.1" />
+	<earhquake	name="2025.08.04 03:30:06"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6623"	lng="36.1477"	mag="2.0" Depth="5.5" />
+	<earhquake	name="2025.08.04 03:33:24"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6572"	lng="36.1428"	mag="2.4" Depth="5.8" />
+	<earhquake	name="2025.08.04 03:56:59"	lokasyon="KARSIYAKA-ERDEK (BALIKESIR)                       "	lat="40.4435"	lng="27.9827"	mag="1.5" Depth="9.5" />
+	<earhquake	name="2025.08.04 04:02:04"	lokasyon="CALTI-CARDAK (DENIZLI)                            "	lat="37.7292"	lng="29.7283"	mag="1.8" Depth="8.8" />
+	<earhquake	name="2025.08.04 04:07:20"	lokasyon="BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)                 "	lat="37.0085"	lng="36.0877"	mag="2.1" Depth="7.5" />
+	<earhquake	name="2025.08.04 04:52:26"	lokasyon="GOCEK-AKHISAR (MANISA)                            "	lat="38.9522"	lng="28.0490"	mag="1.2" Depth="11.2" />
 </eqlist>
