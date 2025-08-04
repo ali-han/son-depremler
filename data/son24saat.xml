@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.03 13:10:33"	lokasyon="EGE DENIZI                                        "	lat="39.0642"	lng="25.7962"	mag="2.3" Depth="7.6" />
-	<earhquake	name="2025.08.03 13:11:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2502"	lng="28.9685"	mag="1.9" Depth="11.3" />
-	<earhquake	name="2025.08.03 13:41:58"	lokasyon="MASUKLU-(HATAY)                                   "	lat="36.2197"	lng="36.2042"	mag="2.2" Depth="8.5" />
-	<earhquake	name="2025.08.03 13:43:07"	lokasyon="ALTINTAS-MUDANYA (BURSA)                          "	lat="40.3658"	lng="28.9940"	mag="2.8" Depth="8.1" />
 	<earhquake	name="2025.08.03 15:02:32"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.8398"	lng="26.7578"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2025.08.03 15:19:08"	lokasyon="YARPUZ-(OSMANIYE)                                 "	lat="37.0057"	lng="36.3765"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.08.03 17:07:59"	lokasyon="KADIIBRAHIM-AKCADAG (MALATYA)                     "	lat="38.5153"	lng="37.9762"	mag="1.8" Depth="6.9" />
@@ -48,5 +44,6 @@
 	<earhquake	name="2025.08.04 11:00:56"	lokasyon="YALIKOY-BULANCAK (GIRESUN)                        "	lat="40.9328"	lng="38.3137"	mag="2.6" Depth="12.6" />
 	<earhquake	name="2025.08.04 11:11:39"	lokasyon="BODRUM (MUGLA)                                    "	lat="36.9937"	lng="27.4622"	mag="1.4" Depth="24.8" />
 	<earhquake	name="2025.08.04 11:53:52"	lokasyon="DUZAGAC-KOZAN (ADANA)                             "	lat="37.5980"	lng="35.8363"	mag="1.8" Depth="6.8" />
+	<earhquake	name="2025.08.04 12:28:29"	lokasyon="YESILOVACIK-SILIFKE (MERSIN)                      "	lat="36.1408"	lng="33.6963"	mag="1.3" Depth="0.0" />
 	<earhquake	name="2025.08.04 12:50:16"	lokasyon="CAMDERE-KOZAN (ADANA)                             "	lat="37.6423"	lng="35.7962"	mag="2.0" Depth="5.0" />
 </eqlist>
