@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.06 14:24:33"	lokasyon="CETIBELI-MARMARIS (MUGLA)                         "	lat="36.9387"	lng="28.3705"	mag="2.0" Depth="16.1" />
-	<earhquake	name="2025.08.06 14:27:06"	lokasyon="CAMLI-MARMARIS (MUGLA)                            "	lat="36.9613"	lng="28.2963"	mag="2.0" Depth="10.3" />
-	<earhquake	name="2025.08.06 14:27:37"	lokasyon="CAMLI-MARMARIS (MUGLA)                            "	lat="36.9610"	lng="28.2632"	mag="2.2" Depth="13.8" />
-	<earhquake	name="2025.08.06 15:36:42"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0208"	lng="25.9577"	mag="2.1" Depth="2.8" />
-	<earhquake	name="2025.08.06 15:42:57"	lokasyon="YARIMCA-DARENDE (MALATYA)                         "	lat="38.4763"	lng="37.3618"	mag="2.2" Depth="5.5" />
-	<earhquake	name="2025.08.06 16:15:51"	lokasyon="ANAMUR ACIKLARI-MERSIN (AKDENIZ)                  "	lat="36.0048"	lng="32.4995"	mag="3.0" Depth="17.4" />
-	<earhquake	name="2025.08.06 16:40:59"	lokasyon="ZORLAR-FETHIYE (MUGLA)                            "	lat="36.6425"	lng="29.3135"	mag="2.4" Depth="2.8" />
-	<earhquake	name="2025.08.06 16:43:23"	lokasyon="KARATAS-SARAYKOY (DENIZLI)                        "	lat="37.9572"	lng="28.8737"	mag="1.7" Depth="5.3" />
 	<earhquake	name="2025.08.06 17:33:14"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.6298"	lng="24.6363"	mag="3.0" Depth="5.0" />
 	<earhquake	name="2025.08.06 17:40:52"	lokasyon="SALDA-YESILOVA (BURDUR)                           "	lat="37.5557"	lng="29.6697"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.08.06 18:03:58"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2600"	lng="28.9690"	mag="2.1" Depth="5.3" />
@@ -49,4 +41,6 @@
 	<earhquake	name="2025.08.07 11:43:22"	lokasyon="DEVEKAYASI-TAVSANLI (KUTAHYA)                     "	lat="39.5658"	lng="29.5977"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.08.07 12:13:50"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4315"	lng="37.4893"	mag="2.2" Depth="4.1" />
 	<earhquake	name="2025.08.07 13:06:44"	lokasyon="UZUNCAM-EMET (KUTAHYA)                            "	lat="39.2955"	lng="29.3482"	mag="1.7" Depth="0.0" />
+	<earhquake	name="2025.08.07 16:21:07"	lokasyon="BADEMLI-AKSEKI (ANTALYA)                          "	lat="37.3260"	lng="31.6875"	mag="1.7" Depth="7.5" />
+	<earhquake	name="2025.08.07 16:40:51"	lokasyon="YOLKURU-DOGANSEHIR (MALATYA)                      "	lat="38.1417"	lng="37.8700"	mag="2.1" Depth="16.3" />
 </eqlist>
