@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.08 02:43:04"	lokasyon="COKAK-ANDIRIN (KAHRAMANMARAS)                     "	lat="37.7210"	lng="36.3312"	mag="1.5" Depth="6.8" />
-	<earhquake	name="2025.08.08 02:48:46"	lokasyon="KARTAL-(KAHRAMANMARAS)                            "	lat="37.4998"	lng="37.1025"	mag="1.9" Depth="5.9" />
 	<earhquake	name="2025.08.08 03:21:31"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2348"	lng="28.0720"	mag="3.9" Depth="8.0" />
 	<earhquake	name="2025.08.08 03:50:06"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2283"	lng="28.0520"	mag="1.8" Depth="3.5" />
 	<earhquake	name="2025.08.08 04:07:17"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2558"	lng="28.1217"	mag="1.4" Depth="4.3" />
@@ -42,4 +40,6 @@
 	<earhquake	name="2025.08.09 00:15:48"	lokasyon="MARMARA DENIZI                                    "	lat="40.8335"	lng="28.1667"	mag="3.3" Depth="10.6" />
 	<earhquake	name="2025.08.09 00:35:18"	lokasyon="DUZAGAC-KOZAN (ADANA)                             "	lat="37.5825"	lng="35.8450"	mag="1.5" Depth="6.4" />
 	<earhquake	name="2025.08.09 00:50:49"	lokasyon="AKBAYIR-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.1833"	lng="37.3522"	mag="1.1" Depth="15.0" />
+	<earhquake	name="2025.08.09 01:04:37"	lokasyon="EGE DENIZI                                        "	lat="35.7400"	lng="25.5223"	mag="2.2" Depth="8.4" />
+	<earhquake	name="2025.08.09 01:46:37"	lokasyon="EGE DENIZI                                        "	lat="36.6667"	lng="25.6593"	mag="2.7" Depth="9.6" />
 </eqlist>
