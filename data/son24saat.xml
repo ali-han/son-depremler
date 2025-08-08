@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.07 20:17:09"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2382"	lng="29.0367"	mag="1.3" Depth="5.1" />
-	<earhquake	name="2025.08.07 20:32:33"	lokasyon="YESILOVA-GOLBASI (ADIYAMAN)                       "	lat="37.7357"	lng="37.4998"	mag="1.6" Depth="7.5" />
-	<earhquake	name="2025.08.07 20:57:43"	lokasyon="FINDIKKOY-DOGANSEHIR (MALATYA)                    "	lat="38.1188"	lng="37.7775"	mag="1.8" Depth="8.6" />
 	<earhquake	name="2025.08.07 21:33:51"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1995"	lng="28.9973"	mag="1.5" Depth="16.1" />
 	<earhquake	name="2025.08.08 01:07:54"	lokasyon="ARITOPRAK-PUTURGE (MALATYA)                       "	lat="38.1727"	lng="38.6510"	mag="2.0" Depth="4.9" />
 	<earhquake	name="2025.08.08 01:22:54"	lokasyon="INAYET-INEGOL (BURSA)                             "	lat="39.9893"	lng="29.3907"	mag="1.8" Depth="14.1" />
@@ -36,4 +33,5 @@
 	<earhquake	name="2025.08.08 14:57:10"	lokasyon="AKDENIZ                                           REVIZE01   (2025.08.08 14:57:10)"	lat="36.5477"	lng="28.1003"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.08.08 15:36:49"	lokasyon="YATAGAN-MERAM (KONYA)                             "	lat="37.7962"	lng="32.0682"	mag="1.8" Depth="4.3" />
 	<earhquake	name="2025.08.08 18:58:40"	lokasyon="YUNANISTAN                                        "	lat="38.5200"	lng="23.8593"	mag="3.4" Depth="5.0" />
+	<earhquake	name="2025.08.08 19:53:36"	lokasyon="LALEGOLU-TOPRAKKALE (OSMANIYE)                    "	lat="37.0535"	lng="36.0578"	mag="1.9" Depth="5.4" />
 </eqlist>
