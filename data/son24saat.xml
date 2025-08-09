@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.08 21:26:38"	lokasyon="YAZIKOY-(BURDUR)                                  "	lat="37.6672"	lng="30.1242"	mag="2.3" Depth="7.4" />
-	<earhquake	name="2025.08.08 21:42:23"	lokasyon="UZUNYAZI-DOGUBAYAZIT (AGRI)                       "	lat="39.4878"	lng="44.3697"	mag="1.8" Depth="30.2" />
-	<earhquake	name="2025.08.08 21:43:12"	lokasyon="ASAGITIRTAR-YALVAC (ISPARTA)                      "	lat="38.2435"	lng="30.9232"	mag="1.5" Depth="6.7" />
-	<earhquake	name="2025.08.08 21:55:45"	lokasyon="EGE DENIZI                                        "	lat="40.1218"	lng="24.5718"	mag="2.8" Depth="16.8" />
 	<earhquake	name="2025.08.08 22:34:54"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2317"	lng="28.0833"	mag="1.1" Depth="5.3" />
 	<earhquake	name="2025.08.08 22:39:22"	lokasyon="ALTINTAS-CELIKHAN (ADIYAMAN)                      "	lat="38.1527"	lng="38.2610"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.08.08 22:47:59"	lokasyon="KARABUCAK-KOZAN (ADANA)                           "	lat="37.6095"	lng="35.8592"	mag="2.9" Depth="5.0" />
@@ -61,5 +57,9 @@
 	<earhquake	name="2025.08.09 19:24:39"	lokasyon="DUDAS-BEYPAZARI (ANKARA)                          "	lat="40.2908"	lng="31.7070"	mag="1.8" Depth="4.3" />
 	<earhquake	name="2025.08.09 19:26:05"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.6822"	lng="24.3808"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.08.09 19:32:07"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2160"	lng="28.0613"	mag="1.8" Depth="11.2" />
+	<earhquake	name="2025.08.09 20:00:38"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4658"	lng="29.2073"	mag="1.5" Depth="11.6" />
+	<earhquake	name="2025.08.09 20:01:12"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.3045"	lng="37.7515"	mag="1.6" Depth="10.2" />
 	<earhquake	name="2025.08.09 20:37:53"	lokasyon="EGE DENIZI                                        "	lat="39.8553"	lng="24.4753"	mag="2.2" Depth="11.4" />
+	<earhquake	name="2025.08.09 20:48:07"	lokasyon="DATCA ACIKLARI-MUGLA (EGE DENIZI)                 "	lat="36.2613"	lng="27.5217"	mag="1.7" Depth="5.0" />
+	<earhquake	name="2025.08.09 20:58:03"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2137"	lng="28.9582"	mag="1.5" Depth="10.8" />
 </eqlist>
