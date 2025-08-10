@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.09 10:12:22"	lokasyon="YENIKOY-DARENDE (MALATYA)                         REVIZE01   (2025.08.09 10:12:23)"	lat="38.4862"	lng="37.3168"	mag="2.4" Depth="7.5" />
-	<earhquake	name="2025.08.09 10:12:44"	lokasyon="YAVUZLAR-DARENDE (MALATYA)                        "	lat="38.4833"	lng="37.4370"	mag="2.4" Depth="6.5" />
-	<earhquake	name="2025.08.09 10:48:11"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1527"	lng="38.3830"	mag="1.5" Depth="28.6" />
-	<earhquake	name="2025.08.09 11:21:31"	lokasyon="GOLGEN-(SANLIURFA)                                "	lat="37.4587"	lng="38.9237"	mag="1.6" Depth="18.1" />
-	<earhquake	name="2025.08.09 11:31:33"	lokasyon="ORENCIK-EMET (KUTAHYA)                            "	lat="39.2980"	lng="29.5698"	mag="1.4" Depth="10.7" />
-	<earhquake	name="2025.08.09 11:42:08"	lokasyon="BAHATLAR-EMET (KUTAHYA)                           "	lat="39.3082"	lng="29.3288"	mag="1.7" Depth="16.1" />
 	<earhquake	name="2025.08.09 12:03:29"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2315"	lng="28.0823"	mag="3.8" Depth="11.0" />
 	<earhquake	name="2025.08.09 12:06:19"	lokasyon="KUCUKBURHANIYE-CEYHAN (ADANA)                     "	lat="37.0082"	lng="35.7483"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.08.09 12:17:26"	lokasyon="GOLPINAR-AKCADAG (MALATYA)                        "	lat="38.3190"	lng="38.0422"	mag="1.2" Depth="5.4" />
@@ -78,5 +72,9 @@
 	<earhquake	name="2025.08.10 07:13:01"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2240"	lng="28.0720"	mag="1.7" Depth="7.6" />
 	<earhquake	name="2025.08.10 08:17:03"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2275"	lng="28.0535"	mag="1.7" Depth="6.8" />
 	<earhquake	name="2025.08.10 08:21:58"	lokasyon="KOCAELI-IVRINDI (BALIKESIR)                       "	lat="39.6273"	lng="27.5023"	mag="2.3" Depth="6.5" />
+	<earhquake	name="2025.08.10 09:11:29"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2287"	lng="29.0265"	mag="1.2" Depth="12.7" />
+	<earhquake	name="2025.08.10 09:38:29"	lokasyon="KALE-ARSUZ (HATAY)                                "	lat="36.1715"	lng="35.7808"	mag="2.4" Depth="9.4" />
 	<earhquake	name="2025.08.10 09:50:53"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2240"	lng="28.0557"	mag="2.5" Depth="7.7" />
+	<earhquake	name="2025.08.10 10:06:30"	lokasyon="BALCILAR-KOYCEGIZ (MUGLA)                         "	lat="37.0675"	lng="28.5648"	mag="1.0" Depth="17.0" />
+	<earhquake	name="2025.08.10 10:51:38"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2292"	lng="28.0437"	mag="1.7" Depth="5.4" />
 </eqlist>
