@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.09 18:11:58"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4888"	lng="28.1365"	mag="1.6" Depth="9.9" />
-	<earhquake	name="2025.08.09 18:12:59"	lokasyon="BADEMLI-BIGADIC (BALIKESIR)                       "	lat="39.4080"	lng="28.0957"	mag="1.5" Depth="7.5" />
-	<earhquake	name="2025.08.09 18:36:26"	lokasyon="YAGCILAR-URLA (IZMIR)                             "	lat="38.2445"	lng="26.6975"	mag="2.0" Depth="14.5" />
-	<earhquake	name="2025.08.09 18:58:35"	lokasyon="KOCYATAGI-(ERZINCAN)                              "	lat="39.8992"	lng="39.1678"	mag="1.8" Depth="9.6" />
 	<earhquake	name="2025.08.09 19:24:39"	lokasyon="DUDAS-BEYPAZARI (ANKARA)                          "	lat="40.2908"	lng="31.7070"	mag="1.8" Depth="4.3" />
 	<earhquake	name="2025.08.09 19:26:05"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.6822"	lng="24.3808"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.08.09 19:32:07"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2160"	lng="28.0613"	mag="1.8" Depth="11.2" />
@@ -75,4 +71,6 @@
 	<earhquake	name="2025.08.10 16:44:22"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.0995"	lng="38.3680"	mag="2.0" Depth="10.0" />
 	<earhquake	name="2025.08.10 17:12:47"	lokasyon="KULU (KONYA)                                      "	lat="39.1005"	lng="33.0445"	mag="2.1" Depth="7.2" />
 	<earhquake	name="2025.08.10 17:19:07"	lokasyon="KARABEY-CAT (ERZURUM)                             "	lat="39.4192"	lng="40.6613"	mag="1.6" Depth="17.1" />
+	<earhquake	name="2025.08.10 17:35:45"	lokasyon="ILYASKOY-GOLOVA (SIVAS)                           "	lat="40.0462"	lng="38.5190"	mag="2.1" Depth="7.7" />
+	<earhquake	name="2025.08.10 17:43:23"	lokasyon="CUKUROZ-YATAGAN (MUGLA)                           "	lat="37.2277"	lng="28.1012"	mag="1.5" Depth="5.1" />
 </eqlist>
