@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.22 17:02:25"	lokasyon="PURSUNLER-SINDIRGI (BALIKESIR)                    "	lat="39.2320"	lng="28.1907"	mag="2.8" Depth="13.9" />
-	<earhquake	name="2025.08.22 17:27:02"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2503"	lng="28.0467"	mag="2.7" Depth="16.1" />
-	<earhquake	name="2025.08.22 17:32:45"	lokasyon="PURSUNLER-SINDIRGI (BALIKESIR)                    "	lat="39.2133"	lng="28.2015"	mag="1.8" Depth="11.4" />
-	<earhquake	name="2025.08.22 17:45:13"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1348"	lng="28.1683"	mag="2.7" Depth="11.9" />
-	<earhquake	name="2025.08.22 17:48:22"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.2027"	lng="28.1280"	mag="2.2" Depth="11.3" />
-	<earhquake	name="2025.08.22 17:56:38"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1503"	lng="28.1173"	mag="2.6" Depth="11.1" />
 	<earhquake	name="2025.08.22 18:04:48"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1993"	lng="28.2215"	mag="1.9" Depth="8.1" />
 	<earhquake	name="2025.08.22 18:05:34"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.1967"	lng="28.0400"	mag="2.6" Depth="16.6" />
 	<earhquake	name="2025.08.22 18:06:15"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1493"	lng="28.1415"	mag="2.5" Depth="12.5" />
@@ -212,4 +206,7 @@
 	<earhquake	name="2025.08.23 16:31:31"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2182"	lng="28.2220"	mag="1.7" Depth="8.8" />
 	<earhquake	name="2025.08.23 16:42:27"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1733"	lng="28.2093"	mag="3.0" Depth="5.3" />
 	<earhquake	name="2025.08.23 16:47:53"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1805"	lng="28.1038"	mag="2.1" Depth="5.1" />
+	<earhquake	name="2025.08.23 16:57:09"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1765"	lng="28.1967"	mag="2.6" Depth="9.7" />
+	<earhquake	name="2025.08.23 16:58:28"	lokasyon="DUTLUCA-GORDES (MANISA)                           "	lat="39.0635"	lng="28.2517"	mag="1.7" Depth="12.3" />
+	<earhquake	name="2025.08.23 16:58:43"	lokasyon="SAGRAKCI-AKHISAR (MANISA)                         "	lat="39.1120"	lng="28.1013"	mag="1.5" Depth="13.5" />
 </eqlist>
