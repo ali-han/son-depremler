@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.08.26 18:01:20"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1548"	lng="28.2080"	mag="1.5" Depth="10.8" />
-	<earhquake	name="2025.08.26 18:12:54"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2092"	lng="28.1907"	mag="2.0" Depth="8.3" />
-	<earhquake	name="2025.08.26 18:29:09"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2423"	lng="28.0682"	mag="2.5" Depth="7.6" />
-	<earhquake	name="2025.08.26 18:31:28"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.2023"	lng="28.1267"	mag="2.0" Depth="13.0" />
-	<earhquake	name="2025.08.26 18:59:09"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1662"	lng="28.1528"	mag="2.3" Depth="9.1" />
 	<earhquake	name="2025.08.26 19:08:53"	lokasyon="CAYGOREN-SINDIRGI (BALIKESIR)                     "	lat="39.2552"	lng="28.2073"	mag="1.6" Depth="4.0" />
 	<earhquake	name="2025.08.26 19:10:43"	lokasyon="KARAAGAC-SINDIRGI (BALIKESIR)                     "	lat="39.2695"	lng="28.1603"	mag="1.9" Depth="3.3" />
 	<earhquake	name="2025.08.26 19:31:05"	lokasyon="ESKIKARAHISAR-ULAS (SIVAS)                        "	lat="39.4195"	lng="37.2518"	mag="2.8" Depth="1.6" />
@@ -310,4 +305,7 @@
 	<earhquake	name="2025.08.27 17:05:51"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.2035"	lng="28.1297"	mag="1.7" Depth="11.5" />
 	<earhquake	name="2025.08.27 17:12:45"	lokasyon="HANPASA-AKHISAR (MANISA)                          "	lat="39.0443"	lng="28.1248"	mag="1.4" Depth="28.9" />
 	<earhquake	name="2025.08.27 17:33:33"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1827"	lng="28.2222"	mag="1.7" Depth="9.1" />
+	<earhquake	name="2025.08.27 17:51:01"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1655"	lng="28.1063"	mag="2.0" Depth="9.1" />
+	<earhquake	name="2025.08.27 17:57:58"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1833"	lng="28.1775"	mag="1.6" Depth="16.8" />
+	<earhquake	name="2025.08.27 18:18:29"	lokasyon="BOGAZCIK-KAS (ANTALYA)                            "	lat="36.2253"	lng="29.7565"	mag="1.6" Depth="6.2" />
 </eqlist>
