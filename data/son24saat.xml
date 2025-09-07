@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.06 09:14:40"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1587"	lng="28.1910"	mag="1.6" Depth="9.5" />
-	<earhquake	name="2025.09.06 09:18:22"	lokasyon="ACIELMA-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9752"	lng="36.4175"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2025.09.06 10:12:43"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1740"	lng="28.2695"	mag="2.2" Depth="11.0" />
 	<earhquake	name="2025.09.06 11:08:28"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2308"	lng="28.0427"	mag="2.0" Depth="6.7" />
 	<earhquake	name="2025.09.06 11:29:46"	lokasyon="DEDELER-GULNAR (MERSIN)                           "	lat="36.2673"	lng="33.6350"	mag="1.2" Depth="0.0" />
@@ -123,4 +121,7 @@
 	<earhquake	name="2025.09.07 07:51:16"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2277"	lng="38.6070"	mag="1.5" Depth="13.4" />
 	<earhquake	name="2025.09.07 08:06:57"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2078"	lng="28.1155"	mag="1.7" Depth="8.1" />
 	<earhquake	name="2025.09.07 08:32:51"	lokasyon="TOPRAKTEPE-DOGANSEHIR (MALATYA)                   "	lat="38.0987"	lng="37.8358"	mag="2.2" Depth="8.7" />
+	<earhquake	name="2025.09.07 08:44:55"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2478"	lng="28.1267"	mag="1.4" Depth="8.2" />
+	<earhquake	name="2025.09.07 08:47:07"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1685"	lng="28.1787"	mag="1.7" Depth="10.6" />
+	<earhquake	name="2025.09.07 08:58:57"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1395"	lng="28.2780"	mag="1.4" Depth="9.6" />
 </eqlist>
