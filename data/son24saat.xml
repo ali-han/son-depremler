@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.07 11:26:18"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1752"	lng="28.1937"	mag="2.0" Depth="14.2" />
-	<earhquake	name="2025.09.07 11:43:55"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1920"	lng="28.1595"	mag="1.2" Depth="9.3" />
-	<earhquake	name="2025.09.07 11:58:11"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2563"	lng="28.1723"	mag="1.6" Depth="3.8" />
 	<earhquake	name="2025.09.07 12:03:46"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1790"	lng="28.0508"	mag="1.4" Depth="11.0" />
 	<earhquake	name="2025.09.07 12:07:43"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2182"	lng="28.1582"	mag="1.3" Depth="9.9" />
 	<earhquake	name="2025.09.07 12:35:08"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     REVIZE01   (2025.09.07 12:35:08)"	lat="39.1913"	lng="28.1923"	mag="5.0" Depth="13.6" />
@@ -209,4 +206,9 @@
 	<earhquake	name="2025.09.08 10:15:47"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1437"	lng="28.2775"	mag="1.6" Depth="9.2" />
 	<earhquake	name="2025.09.08 10:28:06"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1765"	lng="28.1697"	mag="2.0" Depth="9.1" />
 	<earhquake	name="2025.09.08 10:32:49"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1508"	lng="28.2097"	mag="1.4" Depth="18.0" />
+	<earhquake	name="2025.09.08 10:47:22"	lokasyon="CUKURKOY-MILAS (MUGLA)                            "	lat="37.4835"	lng="27.7403"	mag="3.0" Depth="6.8" />
+	<earhquake	name="2025.09.08 10:56:20"	lokasyon="AKDENIZ                                           "	lat="36.0965"	lng="35.5963"	mag="1.8" Depth="12.4" />
+	<earhquake	name="2025.09.08 10:59:51"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2082"	lng="28.0915"	mag="2.3" Depth="7.6" />
+	<earhquake	name="2025.09.08 11:02:47"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1127"	lng="28.1385"	mag="1.4" Depth="15.4" />
+	<earhquake	name="2025.09.08 11:09:11"	lokasyon="CUKURKOY-MILAS (MUGLA)                            "	lat="37.4920"	lng="27.7270"	mag="2.1" Depth="24.6" />
 </eqlist>
