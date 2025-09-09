@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.08 11:02:47"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1127"	lng="28.1385"	mag="1.4" Depth="15.4" />
-	<earhquake	name="2025.09.08 11:09:11"	lokasyon="CUKURKOY-MILAS (MUGLA)                            "	lat="37.4920"	lng="27.7270"	mag="2.1" Depth="24.6" />
-	<earhquake	name="2025.09.08 11:15:49"	lokasyon="KARAAGAC-SINDIRGI (BALIKESIR)                     "	lat="39.2783"	lng="28.1418"	mag="2.3" Depth="5.5" />
-	<earhquake	name="2025.09.08 11:26:33"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1527"	lng="28.2425"	mag="1.7" Depth="15.7" />
-	<earhquake	name="2025.09.08 11:33:07"	lokasyon="DENIS-SOMA (MANISA)                               "	lat="39.2147"	lng="27.6973"	mag="2.0" Depth="0.0" />
-	<earhquake	name="2025.09.08 11:49:54"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2617"	lng="28.1425"	mag="1.9" Depth="7.7" />
 	<earhquake	name="2025.09.08 12:01:26"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1715"	lng="28.2127"	mag="2.1" Depth="11.1" />
 	<earhquake	name="2025.09.08 12:05:23"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        REVIZE01   (2025.09.08 12:05:23)"	lat="39.1513"	lng="28.1873"	mag="1.9" Depth="10.8" />
 	<earhquake	name="2025.09.08 12:08:12"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1393"	lng="28.2873"	mag="1.5" Depth="10.3" />
@@ -146,4 +140,6 @@
 	<earhquake	name="2025.09.09 10:17:04"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1682"	lng="28.1485"	mag="1.3" Depth="10.9" />
 	<earhquake	name="2025.09.09 10:20:18"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1653"	lng="28.1585"	mag="2.2" Depth="8.9" />
 	<earhquake	name="2025.09.09 10:21:40"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1788"	lng="28.1963"	mag="2.7" Depth="12.9" />
+	<earhquake	name="2025.09.09 10:23:21"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1525"	lng="28.2588"	mag="1.7" Depth="5.1" />
+	<earhquake	name="2025.09.09 10:23:50"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1573"	lng="28.1467"	mag="2.4" Depth="10.7" />
 </eqlist>
