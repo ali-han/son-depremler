@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.11 14:07:03"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2403"	lng="28.1227"	mag="1.5" Depth="8.8" />
-	<earhquake	name="2025.09.11 14:08:37"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2403"	lng="28.0813"	mag="1.4" Depth="14.1" />
-	<earhquake	name="2025.09.11 14:37:24"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1895"	lng="28.2202"	mag="1.9" Depth="12.3" />
-	<earhquake	name="2025.09.11 14:41:05"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1767"	lng="28.2062"	mag="1.5" Depth="13.6" />
-	<earhquake	name="2025.09.11 14:46:37"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2527"	lng="28.1167"	mag="1.3" Depth="5.1" />
 	<earhquake	name="2025.09.11 15:10:01"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2153"	lng="28.0458"	mag="1.6" Depth="12.5" />
 	<earhquake	name="2025.09.11 15:10:40"	lokasyon="EGE DENIZI                                        "	lat="38.3885"	lng="25.3350"	mag="2.2" Depth="7.5" />
 	<earhquake	name="2025.09.11 15:22:37"	lokasyon="GUMUSSU-DOGANYOL (MALATYA)                        "	lat="38.2767"	lng="39.0268"	mag="2.1" Depth="17.6" />
@@ -139,4 +134,7 @@
 	<earhquake	name="2025.09.12 13:28:02"	lokasyon="ORENCIK-PALU (ELAZIG)                             "	lat="38.6070"	lng="39.7738"	mag="2.4" Depth="4.4" />
 	<earhquake	name="2025.09.12 13:33:07"	lokasyon="HABIBLER-GERMENCIK (AYDIN)                        "	lat="37.9867"	lng="27.6168"	mag="1.4" Depth="3.6" />
 	<earhquake	name="2025.09.12 13:33:26"	lokasyon="MURATBAGI-KOVANCILAR (ELAZIG)                     "	lat="38.6293"	lng="39.7375"	mag="2.6" Depth="5.0" />
+	<earhquake	name="2025.09.12 13:56:23"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        REVIZE01   (2025.09.12 13:56:23)"	lat="39.1765"	lng="28.2177"	mag="1.9" Depth="8.4" />
+	<earhquake	name="2025.09.12 14:02:53"	lokasyon="CUKUROREN-GEDIZ (KUTAHYA)                         "	lat="39.0348"	lng="29.7220"	mag="1.3" Depth="5.4" />
+	<earhquake	name="2025.09.12 14:10:18"	lokasyon="KURUCAOVA-DOGANSEHIR (MALATYA)                    "	lat="37.9820"	lng="38.1363"	mag="2.3" Depth="8.0" />
 </eqlist>
