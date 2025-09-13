@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.12 11:00:58"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1650"	lng="28.1397"	mag="2.5" Depth="7.6" />
-	<earhquake	name="2025.09.12 11:07:05"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9133"	lng="27.2373"	mag="2.7" Depth="5.4" />
-	<earhquake	name="2025.09.12 11:14:55"	lokasyon="KAPLANCIK-TORBALI (IZMIR)                         "	lat="38.1840"	lng="27.3182"	mag="1.5" Depth="5.3" />
-	<earhquake	name="2025.09.12 11:19:59"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1978"	lng="28.2002"	mag="1.7" Depth="5.3" />
-	<earhquake	name="2025.09.12 11:34:42"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1398"	lng="28.1198"	mag="2.4" Depth="12.2" />
 	<earhquake	name="2025.09.12 12:16:25"	lokasyon="AKKOCALI-AKHISAR (MANISA)                         "	lat="39.1880"	lng="27.9807"	mag="1.3" Depth="13.9" />
 	<earhquake	name="2025.09.12 12:47:12"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1840"	lng="28.2362"	mag="1.7" Depth="12.5" />
 	<earhquake	name="2025.09.12 12:50:48"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1695"	lng="28.1665"	mag="1.3" Depth="5.3" />
@@ -134,4 +129,9 @@
 	<earhquake	name="2025.09.13 09:30:25"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2140"	lng="28.0803"	mag="2.5" Depth="8.0" />
 	<earhquake	name="2025.09.13 09:34:32"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1773"	lng="28.2423"	mag="1.8" Depth="11.2" />
 	<earhquake	name="2025.09.13 09:59:57"	lokasyon="TOPALLAR-SAIMBEYLI (ADANA)                        "	lat="37.8837"	lng="36.2328"	mag="3.3" Depth="9.7" />
+	<earhquake	name="2025.09.13 10:42:00"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1308"	lng="28.1852"	mag="1.2" Depth="20.6" />
+	<earhquake	name="2025.09.13 10:49:36"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2635"	lng="28.0673"	mag="1.5" Depth="13.8" />
+	<earhquake	name="2025.09.13 11:00:55"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1248"	lng="28.1332"	mag="1.8" Depth="14.6" />
+	<earhquake	name="2025.09.13 11:03:41"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1592"	lng="28.2002"	mag="1.5" Depth="17.8" />
+	<earhquake	name="2025.09.13 11:18:52"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2157"	lng="28.0722"	mag="2.7" Depth="9.8" />
 </eqlist>
