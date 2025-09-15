@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.14 13:16:58"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1467"	lng="28.1523"	mag="1.8" Depth="9.8" />
-	<earhquake	name="2025.09.14 13:18:53"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2685"	lng="28.1495"	mag="1.6" Depth="7.5" />
-	<earhquake	name="2025.09.14 13:19:13"	lokasyon="DEREBOYNU-SIVRICE (ELAZIG)                        "	lat="38.4487"	lng="39.1422"	mag="3.3" Depth="5.0" />
-	<earhquake	name="2025.09.14 13:20:44"	lokasyon="HALALCA-(BALIKESIR)                               "	lat="39.6185"	lng="27.9447"	mag="1.5" Depth="21.8" />
-	<earhquake	name="2025.09.14 13:59:22"	lokasyon="DAGDERE-AKHISAR (MANISA)                          "	lat="38.9997"	lng="28.1232"	mag="1.6" Depth="27.7" />
 	<earhquake	name="2025.09.14 14:03:44"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2413"	lng="29.0088"	mag="2.3" Depth="10.3" />
 	<earhquake	name="2025.09.14 14:25:09"	lokasyon="AKVIRANCARSAK-BALA (ANKARA)                       "	lat="39.2925"	lng="32.9375"	mag="3.2" Depth="5.0" />
 	<earhquake	name="2025.09.14 14:40:44"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1800"	lng="28.0978"	mag="1.5" Depth="19.6" />
@@ -128,4 +123,9 @@
 	<earhquake	name="2025.09.15 12:18:33"	lokasyon="EGE DENIZI                                        "	lat="38.7195"	lng="25.5812"	mag="2.3" Depth="2.4" />
 	<earhquake	name="2025.09.15 12:25:22"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1785"	lng="28.1230"	mag="1.4" Depth="12.0" />
 	<earhquake	name="2025.09.15 12:26:12"	lokasyon="INCECIK-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.3715"	lng="37.3667"	mag="1.7" Depth="12.7" />
+	<earhquake	name="2025.09.15 12:44:13"	lokasyon="KOCAKENT-MAZIDAGI (MARDIN)                        "	lat="37.5195"	lng="40.3518"	mag="1.5" Depth="5.0" />
+	<earhquake	name="2025.09.15 12:50:12"	lokasyon="YORGUC-TAVSANLI (KUTAHYA)                         "	lat="39.7200"	lng="29.4155"	mag="1.3" Depth="0.0" />
+	<earhquake	name="2025.09.15 12:51:06"	lokasyon="ELMAAGACI-TAVSANLI (KUTAHYA)                      "	lat="39.6860"	lng="29.3548"	mag="1.3" Depth="0.0" />
+	<earhquake	name="2025.09.15 12:53:07"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2612"	lng="28.0788"	mag="2.3" Depth="8.6" />
+	<earhquake	name="2025.09.15 13:15:58"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.2048"	lng="28.1285"	mag="1.3" Depth="10.4" />
 </eqlist>
