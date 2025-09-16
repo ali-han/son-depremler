@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.15 14:27:11"	lokasyon="BALCILAR-KOYCEGIZ (MUGLA)                         "	lat="37.0618"	lng="28.5777"	mag="2.5" Depth="9.1" />
 	<earhquake	name="2025.09.15 16:06:38"	lokasyon="KIZILELLER-IHSANGAZI (KASTAMONU)                  "	lat="41.0473"	lng="33.6273"	mag="2.8" Depth="10.3" />
 	<earhquake	name="2025.09.15 16:45:57"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1495"	lng="28.3658"	mag="1.6" Depth="12.6" />
 	<earhquake	name="2025.09.15 17:01:50"	lokasyon="KANDILLI-ASKALE (ERZURUM)                         "	lat="39.8900"	lng="40.8703"	mag="2.4" Depth="9.0" />
@@ -93,4 +92,9 @@
 	<earhquake	name="2025.09.16 12:39:01"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2250"	lng="28.1047"	mag="2.2" Depth="9.4" />
 	<earhquake	name="2025.09.16 13:12:24"	lokasyon="ISIKLI-SILIFKE (MERSIN)                           "	lat="36.2705"	lng="33.6958"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2025.09.16 13:19:17"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2168"	lng="28.1228"	mag="1.6" Depth="10.5" />
+	<earhquake	name="2025.09.16 15:04:19"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1750"	lng="28.1712"	mag="1.6" Depth="11.3" />
+	<earhquake	name="2025.09.16 15:09:09"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4330"	lng="28.8488"	mag="1.6" Depth="13.4" />
+	<earhquake	name="2025.09.16 15:10:32"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1543"	lng="28.2283"	mag="1.5" Depth="12.5" />
+	<earhquake	name="2025.09.16 15:15:33"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1457"	lng="28.0538"	mag="1.3" Depth="12.5" />
+	<earhquake	name="2025.09.16 15:22:49"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2457"	lng="28.0995"	mag="1.4" Depth="6.2" />
 </eqlist>
