@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.18 11:20:08"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8360"	lng="27.1285"	mag="2.3" Depth="5.9" />
-	<earhquake	name="2025.09.18 11:43:09"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2118"	lng="28.1327"	mag="1.4" Depth="10.8" />
 	<earhquake	name="2025.09.18 12:26:07"	lokasyon="EGE DENIZI                                        "	lat="38.7032"	lng="25.4437"	mag="2.7" Depth="4.8" />
 	<earhquake	name="2025.09.18 12:42:52"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1758"	lng="28.1613"	mag="1.6" Depth="9.7" />
 	<earhquake	name="2025.09.18 13:21:17"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1782"	lng="28.1507"	mag="1.6" Depth="9.0" />
@@ -93,4 +91,8 @@
 	<earhquake	name="2025.09.19 10:15:35"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1868"	lng="28.1967"	mag="2.1" Depth="12.4" />
 	<earhquake	name="2025.09.19 10:42:08"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1702"	lng="28.1370"	mag="2.7" Depth="13.1" />
 	<earhquake	name="2025.09.19 10:48:28"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1713"	lng="28.2830"	mag="1.7" Depth="8.5" />
+	<earhquake	name="2025.09.19 10:59:18"	lokasyon="YENIGUN-KADIRLI (OSMANIYE)                        "	lat="37.3980"	lng="36.1747"	mag="2.4" Depth="10.5" />
+	<earhquake	name="2025.09.19 11:16:08"	lokasyon="SURENDAL-CINAR (DIYARBAKIR)                       "	lat="37.5662"	lng="40.3333"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2025.09.19 11:18:32"	lokasyon="SARAYCIK-SUNGURLU (CORUM)                         "	lat="40.2550"	lng="34.5412"	mag="2.0" Depth="15.0" />
+	<earhquake	name="2025.09.19 11:20:03"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2402"	lng="28.0363"	mag="2.4" Depth="11.9" />
 </eqlist>
