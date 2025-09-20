@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.19 17:04:59"	lokasyon="SAGRAKCI-AKHISAR (MANISA)                         "	lat="39.1093"	lng="28.0407"	mag="1.4" Depth="10.5" />
-	<earhquake	name="2025.09.19 17:07:23"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1887"	lng="28.1440"	mag="1.6" Depth="15.7" />
-	<earhquake	name="2025.09.19 17:15:41"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1782"	lng="28.2855"	mag="1.6" Depth="15.1" />
-	<earhquake	name="2025.09.19 17:17:29"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1625"	lng="28.1702"	mag="1.6" Depth="12.7" />
-	<earhquake	name="2025.09.19 17:21:11"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2578"	lng="29.0048"	mag="1.6" Depth="9.9" />
-	<earhquake	name="2025.09.19 17:25:05"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2577"	lng="29.0007"	mag="2.8" Depth="10.2" />
-	<earhquake	name="2025.09.19 17:42:29"	lokasyon="GOLKOY-SIMAV (KUTAHYA)                            "	lat="39.1612"	lng="28.8930"	mag="1.5" Depth="6.8" />
-	<earhquake	name="2025.09.19 17:56:56"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1630"	lng="28.1415"	mag="2.1" Depth="5.2" />
 	<earhquake	name="2025.09.19 19:03:52"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.4487"	lng="30.8517"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.09.19 19:17:14"	lokasyon="BEKERECI-KADIRLI (OSMANIYE)                       "	lat="37.3495"	lng="36.2227"	mag="2.2" Depth="6.9" />
 	<earhquake	name="2025.09.19 19:31:41"	lokasyon="YUNANISTAN                                        "	lat="40.2805"	lng="24.1112"	mag="2.6" Depth="5.9" />
@@ -93,4 +85,5 @@
 	<earhquake	name="2025.09.20 14:21:49"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1327"	lng="28.2312"	mag="1.6" Depth="12.7" />
 	<earhquake	name="2025.09.20 15:41:01"	lokasyon="DOLMADEGIRMEN-AKHISAR (MANISA)                    "	lat="39.1288"	lng="27.9338"	mag="1.8" Depth="9.1" />
 	<earhquake	name="2025.09.20 16:37:40"	lokasyon="CUKURKAYA-DARENDE (MALATYA)                       "	lat="38.6058"	lng="37.5122"	mag="1.9" Depth="5.3" />
+	<earhquake	name="2025.09.20 17:17:58"	lokasyon="GOZLEKCILER-YAYLADAGI (HATAY)                     "	lat="35.9317"	lng="36.0088"	mag="2.8" Depth="11.9" />
 </eqlist>
