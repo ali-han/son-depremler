@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.19 09:03:51"	lokasyon="HALKAPINAR-(BALIKESIR)                            "	lat="39.8020"	lng="27.9158"	mag="1.2" Depth="6.8" />
-	<earhquake	name="2025.09.19 09:32:48"	lokasyon="KARAAGAC-SINDIRGI (BALIKESIR)                     "	lat="39.2773"	lng="28.1600"	mag="1.5" Depth="9.7" />
 	<earhquake	name="2025.09.19 10:15:35"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1868"	lng="28.1967"	mag="2.1" Depth="12.4" />
 	<earhquake	name="2025.09.19 10:42:08"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1702"	lng="28.1370"	mag="2.7" Depth="13.1" />
 	<earhquake	name="2025.09.19 10:48:28"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1713"	lng="28.2830"	mag="1.7" Depth="8.5" />
@@ -105,4 +103,6 @@
 	<earhquake	name="2025.09.20 07:20:15"	lokasyon="GULTEPE-KIRIKHAN (HATAY)                          "	lat="36.5625"	lng="36.4752"	mag="1.8" Depth="5.2" />
 	<earhquake	name="2025.09.20 07:27:30"	lokasyon="BASKARCI-(DENIZLI)                                "	lat="37.7475"	lng="29.0210"	mag="1.5" Depth="13.1" />
 	<earhquake	name="2025.09.20 08:01:21"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.7513"	lng="24.0932"	mag="4.1" Depth="25.9" />
+	<earhquake	name="2025.09.20 08:26:19"	lokasyon="KARABIYIK-HORASAN (ERZURUM)                       "	lat="40.1383"	lng="41.9358"	mag="2.9" Depth="5.0" />
+	<earhquake	name="2025.09.20 08:30:11"	lokasyon="EGE DENIZI                                        "	lat="38.2470"	lng="25.2480"	mag="3.3" Depth="19.0" />
 </eqlist>
