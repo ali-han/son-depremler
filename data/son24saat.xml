@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.24 06:18:02"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1780"	lng="28.1800"	mag="2.7" Depth="12.0" />
-	<earhquake	name="2025.09.24 06:25:21"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1722"	lng="28.2032"	mag="1.6" Depth="9.1" />
-	<earhquake	name="2025.09.24 06:36:37"	lokasyon="HASIRAGACI-KARATAS (ADANA)                        "	lat="36.7113"	lng="35.0710"	mag="1.8" Depth="26.2" />
-	<earhquake	name="2025.09.24 06:39:46"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2118"	lng="28.1558"	mag="1.8" Depth="9.8" />
-	<earhquake	name="2025.09.24 06:50:51"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1850"	lng="28.1788"	mag="1.6" Depth="14.0" />
 	<earhquake	name="2025.09.24 07:26:00"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1865"	lng="28.1902"	mag="2.2" Depth="3.8" />
 	<earhquake	name="2025.09.24 07:27:23"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2233"	lng="28.1777"	mag="1.6" Depth="9.3" />
 	<earhquake	name="2025.09.24 07:34:23"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1432"	lng="28.1738"	mag="2.3" Depth="9.2" />
@@ -170,4 +165,7 @@
 	<earhquake	name="2025.09.25 04:07:03"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1852"	lng="28.1862"	mag="2.9" Depth="11.2" />
 	<earhquake	name="2025.09.25 04:10:05"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1802"	lng="28.2005"	mag="1.5" Depth="9.5" />
 	<earhquake	name="2025.09.25 04:37:45"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1705"	lng="28.2068"	mag="1.7" Depth="10.0" />
+	<earhquake	name="2025.09.25 05:12:35"	lokasyon="SULTANGAZI (ISTANBUL)                             "	lat="41.1365"	lng="28.8888"	mag="2.4" Depth="9.7" />
+	<earhquake	name="2025.09.25 05:29:39"	lokasyon="GEDIKYOLU-(ELAZIG)                                "	lat="38.6198"	lng="39.6662"	mag="1.9" Depth="5.9" />
+	<earhquake	name="2025.09.25 05:49:55"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1153"	lng="38.4593"	mag="2.0" Depth="2.2" />
 </eqlist>
