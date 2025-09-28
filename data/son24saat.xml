@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.27 14:30:10"	lokasyon="AKCAY-TERME (SAMSUN)                              "	lat="41.2258"	lng="37.2147"	mag="2.8" Depth="7.1" />
-	<earhquake	name="2025.09.27 14:41:24"	lokasyon="CAPAKLI-SALIHLI (MANISA)                          "	lat="38.5847"	lng="28.2055"	mag="1.4" Depth="14.7" />
-	<earhquake	name="2025.09.27 14:42:09"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1652"	lng="28.1252"	mag="1.4" Depth="21.6" />
 	<earhquake	name="2025.09.27 16:12:04"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1493"	lng="28.1765"	mag="1.5" Depth="14.8" />
 	<earhquake	name="2025.09.27 16:26:27"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1572"	lng="28.1323"	mag="1.5" Depth="11.5" />
 	<earhquake	name="2025.09.27 17:02:43"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2295"	lng="28.1392"	mag="1.8" Depth="7.9" />
@@ -116,13 +113,21 @@
 	<earhquake	name="2025.09.28 11:40:40"	lokasyon="CICEKLI-GORDES (MANISA)                           "	lat="39.0897"	lng="28.2273"	mag="1.3" Depth="17.0" />
 	<earhquake	name="2025.09.28 11:57:39"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1822"	lng="28.1480"	mag="1.5" Depth="11.0" />
 	<earhquake	name="2025.09.28 12:26:09"	lokasyon="TOKATKIRI-BIGA (CANAKKALE)                        "	lat="40.3528"	lng="27.2572"	mag="2.3" Depth="8.0" />
+	<earhquake	name="2025.09.28 12:47:00"	lokasyon="DEDEYOLU-SIVRICE (ELAZIG)                         "	lat="38.4785"	lng="39.2075"	mag="1.3" Depth="22.1" />
+	<earhquake	name="2025.09.28 12:47:23"	lokasyon="KAVALLI-SIVRICE (ELAZIG)                          "	lat="38.4782"	lng="39.1750"	mag="1.6" Depth="12.8" />
 	<earhquake	name="2025.09.28 12:51:05"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1895"	lng="28.1175"	mag="1.5" Depth="4.9" />
 	<earhquake	name="2025.09.28 12:59:15"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2522"	lng="28.9822"	mag="5.5" Depth="6.1" />
 	<earhquake	name="2025.09.28 13:05:49"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2317"	lng="29.0223"	mag="3.7" Depth="1.5" />
 	<earhquake	name="2025.09.28 13:09:01"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2347"	lng="29.0233"	mag="3.5" Depth="8.4" />
 	<earhquake	name="2025.09.28 13:12:59"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2463"	lng="28.9970"	mag="3.9" Depth="5.9" />
+	<earhquake	name="2025.09.28 13:14:15"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.1982"	lng="28.9553"	mag="2.7" Depth="11.7" />
 	<earhquake	name="2025.09.28 13:19:34"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2520"	lng="28.9973"	mag="3.0" Depth="5.4" />
 	<earhquake	name="2025.09.28 13:20:21"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2388"	lng="28.9870"	mag="2.9" Depth="9.4" />
+	<earhquake	name="2025.09.28 13:22:22"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2185"	lng="29.0028"	mag="2.8" Depth="4.5" />
+	<earhquake	name="2025.09.28 13:28:52"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2442"	lng="28.9693"	mag="3.4" Depth="4.9" />
 	<earhquake	name="2025.09.28 13:34:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2400"	lng="29.0095"	mag="3.9" Depth="4.0" />
 	<earhquake	name="2025.09.28 13:38:12"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2432"	lng="29.0028"	mag="3.6" Depth="5.4" />
+	<earhquake	name="2025.09.28 13:53:35"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2503"	lng="28.9698"	mag="3.4" Depth="5.5" />
+	<earhquake	name="2025.09.28 13:56:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2465"	lng="29.0072"	mag="3.0" Depth="5.6" />
+	<earhquake	name="2025.09.28 14:00:53"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2272"	lng="29.0200"	mag="2.6" Depth="4.5" />
 </eqlist>
