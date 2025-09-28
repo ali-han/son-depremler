@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.09.27 08:12:47"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1742"	lng="28.1963"	mag="2.1" Depth="13.0" />
-	<earhquake	name="2025.09.27 08:32:39"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1980"	lng="28.1878"	mag="1.5" Depth="7.8" />
-	<earhquake	name="2025.09.27 08:46:58"	lokasyon="ELMALI-PINARBASI (KAYSERI)                        "	lat="38.5800"	lng="36.2738"	mag="1.5" Depth="5.3" />
 	<earhquake	name="2025.09.27 09:01:41"	lokasyon="HANPASA-AKHISAR (MANISA)                          "	lat="39.0937"	lng="28.1355"	mag="1.4" Depth="15.0" />
 	<earhquake	name="2025.09.27 09:22:26"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1450"	lng="28.1178"	mag="2.0" Depth="14.4" />
 	<earhquake	name="2025.09.27 09:43:20"	lokasyon="YENIKOY-DARENDE (MALATYA)                         "	lat="38.5108"	lng="37.3082"	mag="1.9" Depth="5.0" />
@@ -110,4 +107,5 @@
 	<earhquake	name="2025.09.28 07:14:47"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1943"	lng="28.1073"	mag="1.7" Depth="13.4" />
 	<earhquake	name="2025.09.28 07:27:20"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2158"	lng="28.1903"	mag="1.4" Depth="7.3" />
 	<earhquake	name="2025.09.28 07:46:54"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1573"	lng="28.1955"	mag="2.2" Depth="10.3" />
+	<earhquake	name="2025.09.28 08:04:56"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1612"	lng="28.1872"	mag="2.9" Depth="10.6" />
 </eqlist>
