@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.01 17:38:30"	lokasyon="GUNEY-SIMAV (KUTAHYA)                             "	lat="39.1750"	lng="28.9268"	mag="2.1" Depth="13.2" />
-	<earhquake	name="2025.10.01 17:53:07"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1682"	lng="28.1347"	mag="2.2" Depth="9.9" />
 	<earhquake	name="2025.10.01 18:07:07"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2203"	lng="29.0640"	mag="1.4" Depth="3.3" />
 	<earhquake	name="2025.10.01 18:10:58"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1427"	lng="28.0902"	mag="2.1" Depth="15.7" />
 	<earhquake	name="2025.10.01 18:15:00"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1948"	lng="29.0303"	mag="1.2" Depth="13.3" />
@@ -158,4 +156,6 @@
 	<earhquake	name="2025.10.02 16:17:30"	lokasyon="KAYALIDERE-SIMAV (KUTAHYA)                        "	lat="39.2620"	lng="28.9075"	mag="1.5" Depth="13.1" />
 	<earhquake	name="2025.10.02 16:26:28"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.1948"	lng="38.6032"	mag="3.2" Depth="2.6" />
 	<earhquake	name="2025.10.02 16:32:20"	lokasyon="MARMARA DENIZI                                    "	lat="40.7465"	lng="28.0265"	mag="2.0" Depth="5.0" />
+	<earhquake	name="2025.10.02 17:05:33"	lokasyon="MARMARA DENIZI                                    "	lat="40.7868"	lng="28.0210"	mag="3.1" Depth="15.5" />
+	<earhquake	name="2025.10.02 17:07:40"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2133"	lng="28.1632"	mag="1.9" Depth="7.9" />
 </eqlist>
