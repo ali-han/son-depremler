@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.02 18:59:12"	lokasyon="AYDOGDU-GOLOVA (SIVAS)                            "	lat="40.0658"	lng="38.7298"	mag="3.0" Depth="5.6" />
 	<earhquake	name="2025.10.02 19:33:37"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2568"	lng="29.0278"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2025.10.02 19:51:34"	lokasyon="MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI"	lat="40.8390"	lng="27.9445"	mag="2.0" Depth="10.2" />
 	<earhquake	name="2025.10.02 19:55:40"	lokasyon="MARMARA EREGLISI ACIKLARI-TEKIRDAG (MARMARA DENIZI"	lat="40.8235"	lng="27.9602"	mag="2.2" Depth="10.2" />
@@ -129,4 +128,7 @@
 	<earhquake	name="2025.10.03 17:33:33"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2357"	lng="29.0195"	mag="1.9" Depth="9.8" />
 	<earhquake	name="2025.10.03 17:37:14"	lokasyon="EGE DENIZI                                        "	lat="38.6893"	lng="25.4482"	mag="2.9" Depth="5.4" />
 	<earhquake	name="2025.10.03 17:38:45"	lokasyon="MARMARA DENIZI                                    "	lat="40.7867"	lng="27.9533"	mag="2.1" Depth="12.2" />
+	<earhquake	name="2025.10.03 17:46:15"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2420"	lng="29.0077"	mag="1.8" Depth="10.1" />
+	<earhquake	name="2025.10.03 17:49:47"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2805"	lng="28.9513"	mag="1.5" Depth="15.0" />
+	<earhquake	name="2025.10.03 17:57:55"	lokasyon="SULTANGAZI (ISTANBUL)                             "	lat="41.1062"	lng="28.8467"	mag="2.4" Depth="10.9" />
 </eqlist>
