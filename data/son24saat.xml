@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.04 01:02:32"	lokasyon="IPEKYOLU-HEKIMHAN (MALATYA)                       "	lat="38.7223"	lng="37.9825"	mag="1.0" Depth="12" />
-	<earhquake	name="2025.10.04 01:03:54"	lokasyon="INKAYA-SIMAV (KUTAHYA)                            "	lat="39.3682"	lng="28.9067"	mag="1.6" Depth="5.0" />
-	<earhquake	name="2025.10.04 01:18:17"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.2320"	lng="33.6047"	mag="1.8" Depth="19.2" />
-	<earhquake	name="2025.10.04 01:21:03"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2938"	lng="28.9715"	mag="1.2" Depth="19.5" />
-	<earhquake	name="2025.10.04 01:23:32"	lokasyon="MARMARA DENIZI                                    "	lat="40.7777"	lng="27.9680"	mag="3.3" Depth="11.0" />
-	<earhquake	name="2025.10.04 01:38:24"	lokasyon="HEKIMHAN (MALATYA)                                "	lat="38.8045"	lng="37.9468"	mag="1.4" Depth="1.3" />
-	<earhquake	name="2025.10.04 01:42:02"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2262"	lng="29.0083"	mag="1.1" Depth="10.7" />
-	<earhquake	name="2025.10.04 01:48:12"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1840"	lng="29.0092"	mag="1.4" Depth="10.4" />
 	<earhquake	name="2025.10.04 02:07:01"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2100"	lng="28.0812"	mag="1.7" Depth="8.2" />
 	<earhquake	name="2025.10.04 02:12:49"	lokasyon="CAMLIK-BODRUM (MUGLA)                             "	lat="37.0452"	lng="27.5590"	mag="1.6" Depth="14.8" />
 	<earhquake	name="2025.10.04 02:16:48"	lokasyon="AHLATLICESME-SIMAV (KUTAHYA)                      "	lat="39.1487"	lng="29.0327"	mag="1.2" Depth="12.5" />
@@ -175,4 +167,7 @@
 	<earhquake	name="2025.10.05 00:40:38"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2437"	lng="29.0062"	mag="1.2" Depth="13.1" />
 	<earhquake	name="2025.10.05 00:46:12"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2287"	lng="28.0233"	mag="1.4" Depth="7.0" />
 	<earhquake	name="2025.10.05 00:50:28"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2470"	lng="28.9812"	mag="0.9" Depth="11.2" />
+	<earhquake	name="2025.10.05 00:56:46"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2282"	lng="28.9960"	mag="1.6" Depth="5.6" />
+	<earhquake	name="2025.10.05 00:58:07"	lokasyon="KOYUNOBA-SIMAV (KUTAHYA)                          "	lat="39.2278"	lng="28.9205"	mag="1.5" Depth="11.5" />
+	<earhquake	name="2025.10.05 00:59:08"	lokasyon="PELITLI-(MALATYA)                                 "	lat="38.2713"	lng="38.6147"	mag="1.4" Depth="8.4" />
 </eqlist>
