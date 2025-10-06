@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.05 11:10:10"	lokasyon="YALINDAMLAR-(ELAZIG)                              "	lat="38.4723"	lng="38.9487"	mag="1.9" Depth="4.0" />
-	<earhquake	name="2025.10.05 11:42:06"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2917"	lng="29.0102"	mag="1.7" Depth="4.3" />
-	<earhquake	name="2025.10.05 11:49:03"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.9518"	lng="25.8258"	mag="2.9" Depth="5.0" />
-	<earhquake	name="2025.10.05 11:56:42"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9430"	lng="27.1712"	mag="2.1" Depth="5.6" />
 	<earhquake	name="2025.10.05 12:07:45"	lokasyon="CALTILI-SINDIRGI (BALIKESIR)                      "	lat="39.2283"	lng="28.2465"	mag="1.2" Depth="25.1" />
 	<earhquake	name="2025.10.05 12:18:27"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1605"	lng="28.1707"	mag="2.5" Depth="14.3" />
 	<earhquake	name="2025.10.05 12:19:21"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1602"	lng="28.1650"	mag="2.4" Depth="8.3" />
@@ -108,4 +104,6 @@
 	<earhquake	name="2025.10.06 10:28:16"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9778"	lng="27.1298"	mag="2.9" Depth="16.5" />
 	<earhquake	name="2025.10.06 10:32:05"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9810"	lng="27.1100"	mag="1.9" Depth="13.7" />
 	<earhquake	name="2025.10.06 10:38:39"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2310"	lng="28.1830"	mag="2.0" Depth="8.0" />
+	<earhquake	name="2025.10.06 11:32:23"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2023"	lng="29.0702"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2025.10.06 11:32:37"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1893"	lng="29.0648"	mag="1.8" Depth="4.8" />
 </eqlist>
