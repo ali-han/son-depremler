@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.06 06:13:28"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1818"	lng="28.1650"	mag="1.8" Depth="11.7" />
-	<earhquake	name="2025.10.06 06:24:00"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2707"	lng="28.9767"	mag="1.9" Depth="7.5" />
-	<earhquake	name="2025.10.06 06:29:52"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1978"	lng="28.1038"	mag="1.8" Depth="9.1" />
 	<earhquake	name="2025.10.06 07:18:53"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1707"	lng="28.1780"	mag="2.1" Depth="10.9" />
 	<earhquake	name="2025.10.06 07:45:15"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2120"	lng="29.0557"	mag="1.9" Depth="3.3" />
 	<earhquake	name="2025.10.06 07:56:52"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1780"	lng="28.1030"	mag="1.5" Depth="4.3" />
@@ -127,4 +124,7 @@
 	<earhquake	name="2025.10.07 05:09:26"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1960"	lng="28.1677"	mag="2.4" Depth="10.2" />
 	<earhquake	name="2025.10.07 05:20:43"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1888"	lng="28.9613"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2025.10.07 05:35:33"	lokasyon="DUMLU-HEKIMHAN (MALATYA)                          "	lat="38.8117"	lng="37.9858"	mag="1.2" Depth="4.2" />
+	<earhquake	name="2025.10.07 06:10:19"	lokasyon="ALPUDERE-SULUSARAY (TOKAT)                        "	lat="40.0447"	lng="36.0577"	mag="2.6" Depth="5.3" />
+	<earhquake	name="2025.10.07 06:13:46"	lokasyon="ALPUDERE-SULUSARAY (TOKAT)                        "	lat="40.0387"	lng="36.0775"	mag="2.6" Depth="7.9" />
+	<earhquake	name="2025.10.07 06:30:06"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1733"	lng="28.1747"	mag="2.0" Depth="9.6" />
 </eqlist>
