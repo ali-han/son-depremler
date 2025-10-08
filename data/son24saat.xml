@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.07 23:21:22"	lokasyon="DIKILI (IZMIR)                                    "	lat="39.0745"	lng="26.9183"	mag="1.9" Depth="5.4" />
-	<earhquake	name="2025.10.07 23:34:26"	lokasyon="KARGACAYIRI-ANDIRIN (KAHRAMANMARAS)               "	lat="37.6992"	lng="36.4815"	mag="2.7" Depth="1.4" />
 	<earhquake	name="2025.10.08 00:00:43"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2583"	lng="28.0112"	mag="1.2" Depth="8.1" />
 	<earhquake	name="2025.10.08 00:03:05"	lokasyon="CITGOL-SIMAV (KUTAHYA)                            "	lat="39.1275"	lng="28.9333"	mag="1.4" Depth="17.0" />
 	<earhquake	name="2025.10.08 00:04:46"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2440"	lng="28.1073"	mag="1.4" Depth="10.3" />
@@ -155,4 +153,8 @@
 	<earhquake	name="2025.10.08 22:20:19"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1397"	lng="28.0897"	mag="1.3" Depth="9.8" />
 	<earhquake	name="2025.10.08 22:31:17"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1683"	lng="28.2332"	mag="1.2" Depth="5.3" />
 	<earhquake	name="2025.10.08 22:32:08"	lokasyon="KALEMOGLU-GORDES (MANISA)                         "	lat="39.0285"	lng="28.2158"	mag="1.2" Depth="13.0" />
+	<earhquake	name="2025.10.08 22:37:20"	lokasyon="KALEMOGLU-GORDES (MANISA)                         "	lat="39.0375"	lng="28.1687"	mag="2.0" Depth="3.6" />
+	<earhquake	name="2025.10.08 22:55:17"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1558"	lng="28.2268"	mag="2.0" Depth="9.9" />
+	<earhquake	name="2025.10.08 22:59:56"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1545"	lng="28.3007"	mag="1.4" Depth="9.8" />
+	<earhquake	name="2025.10.08 23:07:53"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1828"	lng="28.1308"	mag="1.2" Depth="11.9" />
 </eqlist>
