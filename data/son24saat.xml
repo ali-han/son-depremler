@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.07 10:17:25"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1905"	lng="28.2138"	mag="2.9" Depth="12.8" />
-	<earhquake	name="2025.10.07 10:20:26"	lokasyon="OSMANLAR-SINDIRGI (BALIKESIR)                     "	lat="39.2382"	lng="28.3347"	mag="1.6" Depth="9.4" />
-	<earhquake	name="2025.10.07 10:21:02"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1687"	lng="28.1570"	mag="1.6" Depth="12.1" />
 	<earhquake	name="2025.10.07 11:13:49"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2325"	lng="28.9852"	mag="1.8" Depth="11.7" />
 	<earhquake	name="2025.10.07 11:48:45"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6087"	lng="35.3860"	mag="2.3" Depth="7.8" />
 	<earhquake	name="2025.10.07 12:09:39"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2835"	lng="29.0047"	mag="1.2" Depth="11.9" />
@@ -144,4 +141,5 @@
 	<earhquake	name="2025.10.08 09:31:32"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2662"	lng="28.9877"	mag="1.5" Depth="10.2" />
 	<earhquake	name="2025.10.08 09:34:45"	lokasyon="CAYGOREN-SINDIRGI (BALIKESIR)                     "	lat="39.2468"	lng="28.2098"	mag="1.1" Depth="8.3" />
 	<earhquake	name="2025.10.08 09:47:36"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.8727"	lng="26.2742"	mag="2.0" Depth="7.4" />
+	<earhquake	name="2025.10.08 10:08:13"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2135"	lng="28.0867"	mag="1.0" Depth="9.6" />
 </eqlist>
