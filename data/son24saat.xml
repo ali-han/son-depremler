@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.09 20:04:39"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2445"	lng="29.0418"	mag="2.0" Depth="6.2" />
-	<earhquake	name="2025.10.09 20:12:52"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1897"	lng="28.2242"	mag="1.8" Depth="10.1" />
-	<earhquake	name="2025.10.09 20:14:35"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2365"	lng="29.0328"	mag="1.4" Depth="11.8" />
-	<earhquake	name="2025.10.09 20:38:10"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2518"	lng="29.0228"	mag="2.5" Depth="5.4" />
-	<earhquake	name="2025.10.09 20:53:33"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1988"	lng="28.0765"	mag="2.0" Depth="10.8" />
 	<earhquake	name="2025.10.09 21:17:18"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2717"	lng="28.9582"	mag="3.5" Depth="5.4" />
 	<earhquake	name="2025.10.09 21:23:42"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2162"	lng="28.1032"	mag="1.4" Depth="9.9" />
 	<earhquake	name="2025.10.09 22:20:19"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1425"	lng="28.1723"	mag="1.5" Depth="5.2" />
@@ -165,4 +160,5 @@
 	<earhquake	name="2025.10.10 18:42:40"	lokasyon="ALPUDERE-SULUSARAY (TOKAT)                        "	lat="40.0640"	lng="36.1003"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.10.10 19:10:03"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1980"	lng="28.1352"	mag="2.7" Depth="14.4" />
 	<earhquake	name="2025.10.10 19:33:53"	lokasyon="YAVU-SIMAV (KUTAHYA)                              "	lat="39.2967"	lng="28.9680"	mag="1.6" Depth="11.8" />
+	<earhquake	name="2025.10.10 19:55:57"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2525"	lng="28.9260"	mag="1.7" Depth="9.7" />
 </eqlist>
