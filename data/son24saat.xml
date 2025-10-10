@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.09 21:17:18"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2717"	lng="28.9582"	mag="3.5" Depth="5.4" />
-	<earhquake	name="2025.10.09 21:23:42"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2162"	lng="28.1032"	mag="1.4" Depth="9.9" />
 	<earhquake	name="2025.10.09 22:20:19"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1425"	lng="28.1723"	mag="1.5" Depth="5.2" />
 	<earhquake	name="2025.10.09 22:25:26"	lokasyon="CEVIZDIBI-(HAKKARI)                               "	lat="37.5670"	lng="43.4600"	mag="3.3" Depth="5.0" />
 	<earhquake	name="2025.10.09 22:35:33"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2488"	lng="28.9238"	mag="2.1" Depth="7.5" />
@@ -163,4 +161,7 @@
 	<earhquake	name="2025.10.10 19:55:57"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2525"	lng="28.9260"	mag="1.7" Depth="9.7" />
 	<earhquake	name="2025.10.10 20:20:37"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.2282"	lng="38.6258"	mag="1.7" Depth="14.6" />
 	<earhquake	name="2025.10.10 20:47:45"	lokasyon="MAKSUTUSAGI-PAZARCIK (KAHRAMANMARAS)              "	lat="37.4022"	lng="37.0993"	mag="2.4" Depth="5.9" />
+	<earhquake	name="2025.10.10 21:15:21"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2493"	lng="38.4712"	mag="1.5" Depth="17.4" />
+	<earhquake	name="2025.10.10 21:29:17"	lokasyon="YESILKOY-SAMANDAG (HATAY)                         "	lat="36.1210"	lng="36.0182"	mag="1.8" Depth="11.3" />
+	<earhquake	name="2025.10.10 21:39:10"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2618"	lng="28.9775"	mag="1.9" Depth="11.7" />
 </eqlist>
