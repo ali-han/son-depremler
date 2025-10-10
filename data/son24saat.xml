@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.09 19:03:24"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1135"	lng="38.4328"	mag="2.2" Depth="2.1" />
-	<earhquake	name="2025.10.09 19:27:07"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2353"	lng="29.0408"	mag="2.0" Depth="11.1" />
-	<earhquake	name="2025.10.09 19:29:06"	lokasyon="CICEKLI-GORDES (MANISA)                           "	lat="39.0958"	lng="28.2513"	mag="1.2" Depth="8.4" />
-	<earhquake	name="2025.10.09 19:36:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2437"	lng="28.9960"	mag="2.0" Depth="5.6" />
 	<earhquake	name="2025.10.09 20:04:39"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2445"	lng="29.0418"	mag="2.0" Depth="6.2" />
 	<earhquake	name="2025.10.09 20:12:52"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1897"	lng="28.2242"	mag="1.8" Depth="10.1" />
 	<earhquake	name="2025.10.09 20:14:35"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2365"	lng="29.0328"	mag="1.4" Depth="11.8" />
@@ -167,4 +163,5 @@
 	<earhquake	name="2025.10.10 18:09:39"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2500"	lng="28.9807"	mag="1.4" Depth="9.8" />
 	<earhquake	name="2025.10.10 18:20:44"	lokasyon="BUYUKSALKIM-(SANLIURFA)                           "	lat="37.3762"	lng="38.9142"	mag="3.1" Depth="12.4" />
 	<earhquake	name="2025.10.10 18:42:40"	lokasyon="ALPUDERE-SULUSARAY (TOKAT)                        "	lat="40.0640"	lng="36.1003"	mag="2.0" Depth="5.0" />
+	<earhquake	name="2025.10.10 19:10:03"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1980"	lng="28.1352"	mag="2.7" Depth="14.4" />
 </eqlist>
