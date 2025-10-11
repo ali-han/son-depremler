@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.10 18:03:51"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2378"	lng="28.9393"	mag="1.6" Depth="12.7" />
-	<earhquake	name="2025.10.10 18:09:39"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2500"	lng="28.9807"	mag="1.4" Depth="9.8" />
-	<earhquake	name="2025.10.10 18:20:44"	lokasyon="BUYUKSALKIM-(SANLIURFA)                           "	lat="37.3762"	lng="38.9142"	mag="3.1" Depth="12.4" />
-	<earhquake	name="2025.10.10 18:42:40"	lokasyon="ALPUDERE-SULUSARAY (TOKAT)                        "	lat="40.0640"	lng="36.1003"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2025.10.10 19:10:03"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1980"	lng="28.1352"	mag="2.7" Depth="14.4" />
 	<earhquake	name="2025.10.10 19:33:53"	lokasyon="YAVU-SIMAV (KUTAHYA)                              "	lat="39.2967"	lng="28.9680"	mag="1.6" Depth="11.8" />
 	<earhquake	name="2025.10.10 19:55:57"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2525"	lng="28.9260"	mag="1.7" Depth="9.7" />
@@ -97,4 +93,8 @@
 	<earhquake	name="2025.10.11 16:50:48"	lokasyon="SOGUT-SIMAV (KUTAHYA)                             "	lat="39.1648"	lng="29.1037"	mag="1.2" Depth="9.1" />
 	<earhquake	name="2025.10.11 17:08:59"	lokasyon="EGE DENIZI                                        "	lat="39.4147"	lng="25.5978"	mag="2.0" Depth="5.1" />
 	<earhquake	name="2025.10.11 17:18:12"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.7793"	lng="23.2908"	mag="2.6" Depth="23.0" />
+	<earhquake	name="2025.10.11 17:40:23"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2100"	lng="29.0168"	mag="1.1" Depth="15.8" />
+	<earhquake	name="2025.10.11 17:44:49"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0223"	lng="23.7508"	mag="3.4" Depth="39.2" />
+	<earhquake	name="2025.10.11 17:48:26"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.6290"	lng="23.4020"	mag="2.9" Depth="19.8" />
+	<earhquake	name="2025.10.11 17:53:52"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2605"	lng="28.9377"	mag="1.8" Depth="9.3" />
 </eqlist>
