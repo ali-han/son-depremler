@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.11 11:00:31"	lokasyon="HARMANLI-ERDEK (BALIKESIR)                        "	lat="40.4815"	lng="27.5482"	mag="2.4" Depth="9.4" />
-	<earhquake	name="2025.10.11 11:53:14"	lokasyon="DANACAYIRI-SINDIRGI (BALIKESIR)                   "	lat="39.2402"	lng="28.2593"	mag="1.9" Depth="8.3" />
-	<earhquake	name="2025.10.11 11:56:11"	lokasyon="HACIAHMETOGLU-SIMAV (KUTAHYA)                     "	lat="39.1548"	lng="29.0047"	mag="1.0" Depth="16.2" />
 	<earhquake	name="2025.10.11 12:01:49"	lokasyon="KIZILCIK-SIMAV (KUTAHYA)                          "	lat="39.3023"	lng="28.7247"	mag="1.5" Depth="10.5" />
 	<earhquake	name="2025.10.11 12:21:22"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2070"	lng="28.1473"	mag="1.7" Depth="7.8" />
 	<earhquake	name="2025.10.11 12:23:39"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2377"	lng="29.0477"	mag="1.4" Depth="11.3" />
@@ -135,4 +132,7 @@
 	<earhquake	name="2025.10.12 10:02:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2160"	lng="28.9680"	mag="1.4" Depth="10.9" />
 	<earhquake	name="2025.10.12 10:05:25"	lokasyon="DAGBELI-DOSEMEALTI (ANTALYA)                      "	lat="37.1743"	lng="30.4933"	mag="2.6" Depth="6.7" />
 	<earhquake	name="2025.10.12 10:26:36"	lokasyon="CAMLI-MARMARIS (MUGLA)                            "	lat="36.9353"	lng="28.2772"	mag="2.5" Depth="45.7" />
+	<earhquake	name="2025.10.12 10:51:09"	lokasyon="BOGURTLEN-YAZIHAN (MALATYA)                       "	lat="38.5820"	lng="38.0373"	mag="1.8" Depth="20.6" />
+	<earhquake	name="2025.10.12 10:55:30"	lokasyon="BALCILAR-KOYCEGIZ (MUGLA)                         "	lat="37.0923"	lng="28.5882"	mag="2.2" Depth="15.3" />
+	<earhquake	name="2025.10.12 11:03:20"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2162"	lng="28.0938"	mag="2.1" Depth="11.8" />
 </eqlist>
