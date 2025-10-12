@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.12 02:03:59"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2315"	lng="28.1262"	mag="2.1" Depth="5.1" />
-	<earhquake	name="2025.10.12 02:12:04"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2312"	lng="29.0143"	mag="1.8" Depth="11.2" />
-	<earhquake	name="2025.10.12 02:13:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2237"	lng="28.9585"	mag="1.7" Depth="15.6" />
-	<earhquake	name="2025.10.12 02:24:03"	lokasyon="BALDIRAN-KIRIKHAN (HATAY)                         "	lat="36.4502"	lng="36.4130"	mag="3.0" Depth="10.6" />
-	<earhquake	name="2025.10.12 02:27:04"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2442"	lng="28.9787"	mag="1.6" Depth="13.1" />
-	<earhquake	name="2025.10.12 02:43:40"	lokasyon="CIVRIL-YAZIHAN (MALATYA)                          "	lat="38.5650"	lng="38.0230"	mag="1.9" Depth="9.3" />
 	<earhquake	name="2025.10.12 03:27:13"	lokasyon="AKKOCALI-AKHISAR (MANISA)                         "	lat="39.2000"	lng="27.9792"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2025.10.12 03:27:43"	lokasyon="KINIK-KIRKAGAC (MANISA)                           "	lat="39.1900"	lng="27.8943"	mag="1.9" Depth="12.6" />
 	<earhquake	name="2025.10.12 03:30:29"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1920"	lng="28.1453"	mag="1.5" Depth="13.6" />
@@ -155,4 +149,6 @@
 	<earhquake	name="2025.10.13 00:53:58"	lokasyon="BASLAMIS-AKHISAR (MANISA)                         "	lat="39.0787"	lng="27.9770"	mag="1.4" Depth="20.9" />
 	<earhquake	name="2025.10.13 01:16:30"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2635"	lng="28.9192"	mag="2.5" Depth="7.2" />
 	<earhquake	name="2025.10.13 01:18:01"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2632"	lng="28.9170"	mag="2.8" Depth="5.3" />
+	<earhquake	name="2025.10.13 01:55:29"	lokasyon="GUNEYKOY-SIVRICE (ELAZIG)                         "	lat="38.4828"	lng="39.3135"	mag="1.4" Depth="6.9" />
+	<earhquake	name="2025.10.13 02:13:02"	lokasyon="YUKARIKARACAM-SAVASTEPE (BALIKESIR)               "	lat="39.3720"	lng="27.7973"	mag="1.4" Depth="17.0" />
 </eqlist>
