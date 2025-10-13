@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.12 05:00:35"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.1857"	lng="28.9515"	mag="1.6" Depth="17.3" />
-	<earhquake	name="2025.10.12 05:01:55"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2232"	lng="29.0062"	mag="1.7" Depth="10.8" />
-	<earhquake	name="2025.10.12 05:14:21"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1742"	lng="28.1578"	mag="1.8" Depth="9.3" />
-	<earhquake	name="2025.10.12 05:17:34"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2168"	lng="28.9547"	mag="1.5" Depth="15.5" />
-	<earhquake	name="2025.10.12 05:18:48"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1795"	lng="28.1782"	mag="2.4" Depth="10.9" />
-	<earhquake	name="2025.10.12 05:29:56"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1503"	lng="28.2392"	mag="1.6" Depth="9.5" />
-	<earhquake	name="2025.10.12 05:47:42"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1403"	lng="28.0213"	mag="1.1" Depth="26.8" />
-	<earhquake	name="2025.10.12 05:55:18"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1918"	lng="28.1275"	mag="1.4" Depth="8.6" />
-	<earhquake	name="2025.10.12 06:08:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2490"	lng="28.9668"	mag="1.2" Depth="12.6" />
-	<earhquake	name="2025.10.12 06:09:06"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2007"	lng="29.0580"	mag="0.8" Depth="13.0" />
-	<earhquake	name="2025.10.12 06:10:50"	lokasyon="KOYUNOBA-SIMAV (KUTAHYA)                          "	lat="39.2348"	lng="28.9077"	mag="1.2" Depth="12.3" />
-	<earhquake	name="2025.10.12 06:25:28"	lokasyon="MARMARA DENIZI                                    "	lat="40.8037"	lng="27.9250"	mag="2.1" Depth="7.9" />
-	<earhquake	name="2025.10.12 06:40:58"	lokasyon="ARICILAR-ULA (MUGLA)                              "	lat="37.1043"	lng="28.6052"	mag="4.0" Depth="9.1" />
-	<earhquake	name="2025.10.12 06:48:04"	lokasyon="KAYALIDERE-SIMAV (KUTAHYA)                        "	lat="39.2618"	lng="28.8853"	mag="1.3" Depth="15.6" />
-	<earhquake	name="2025.10.12 06:52:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2480"	lng="29.0110"	mag="1.8" Depth="10.8" />
-	<earhquake	name="2025.10.12 06:59:14"	lokasyon="SURIYE                                            "	lat="35.8682"	lng="40.4008"	mag="3.8" Depth="22.4" />
 	<earhquake	name="2025.10.12 07:07:09"	lokasyon="ARICILAR-ULA (MUGLA)                              "	lat="37.0937"	lng="28.6080"	mag="2.3" Depth="12.8" />
 	<earhquake	name="2025.10.12 07:23:10"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1127"	lng="38.4790"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.10.12 07:23:55"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2238"	lng="29.0128"	mag="1.1" Depth="2.7" />
@@ -147,4 +131,8 @@
 	<earhquake	name="2025.10.13 03:53:37"	lokasyon="KIYRA-ULA (MUGLA)                                 "	lat="37.1097"	lng="28.5628"	mag="1.9" Depth="8.4" />
 	<earhquake	name="2025.10.13 04:13:51"	lokasyon="IKIZKUYU-NURDAGI (GAZIANTEP)                      "	lat="37.1570"	lng="36.9882"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2025.10.13 04:18:05"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2433"	lng="28.9393"	mag="1.6" Depth="11.4" />
+	<earhquake	name="2025.10.13 05:48:49"	lokasyon="FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)              "	lat="37.9457"	lng="36.4163"	mag="1.4" Depth="5.0" />
+	<earhquake	name="2025.10.13 05:54:32"	lokasyon="YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)        "	lat="40.8168"	lng="27.5813"	mag="2.2" Depth="15.5" />
+	<earhquake	name="2025.10.13 06:05:18"	lokasyon="MALAZ-GORDES (MANISA)                             "	lat="39.0340"	lng="28.3038"	mag="1.2" Depth="12.6" />
+	<earhquake	name="2025.10.13 06:15:48"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1925"	lng="28.1088"	mag="1.3" Depth="13.7" />
 </eqlist>
