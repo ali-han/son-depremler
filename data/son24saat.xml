@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.12 19:00:31"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2167"	lng="28.0792"	mag="1.6" Depth="15.4" />
-	<earhquake	name="2025.10.12 19:06:02"	lokasyon="ELMALI-GOKSUN (KAHRAMANMARAS)                     "	lat="37.9813"	lng="36.6567"	mag="1.6" Depth="13.3" />
-	<earhquake	name="2025.10.12 19:28:17"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1950"	lng="28.2595"	mag="1.3" Depth="13.4" />
-	<earhquake	name="2025.10.12 19:32:25"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1852"	lng="28.1287"	mag="1.4" Depth="11.6" />
-	<earhquake	name="2025.10.12 19:47:31"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.7857"	lng="23.9557"	mag="3.9" Depth="21.2" />
-	<earhquake	name="2025.10.12 19:57:39"	lokasyon="AKGUMUS-ANDIRIN (KAHRAMANMARAS)                   "	lat="37.7565"	lng="36.5737"	mag="1.7" Depth="8.6" />
-	<earhquake	name="2025.10.12 19:59:22"	lokasyon="KURUCAY-ILIC (ERZINCAN)                           "	lat="39.6440"	lng="38.4825"	mag="2.0" Depth="7.5" />
 	<earhquake	name="2025.10.12 20:14:56"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2270"	lng="29.0350"	mag="1.4" Depth="11.4" />
 	<earhquake	name="2025.10.12 20:21:20"	lokasyon="CICEKLI-ULA (MUGLA)                               "	lat="37.0953"	lng="28.4897"	mag="1.6" Depth="5.3" />
 	<earhquake	name="2025.10.12 20:24:11"	lokasyon="TOKAT-HISARCIK (KUTAHYA)                          "	lat="39.2090"	lng="29.0995"	mag="0.7" Depth="12.5" />
@@ -114,4 +107,5 @@
 	<earhquake	name="2025.10.13 17:45:36"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1717"	lng="28.1220"	mag="2.4" Depth="13.6" />
 	<earhquake	name="2025.10.13 18:17:05"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2185"	lng="28.2617"	mag="1.6" Depth="16.2" />
 	<earhquake	name="2025.10.13 18:30:04"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1652"	lng="28.1350"	mag="1.8" Depth="9.0" />
+	<earhquake	name="2025.10.13 18:57:44"	lokasyon="HISARKALE-DARENDE (MALATYA)                       "	lat="38.4712"	lng="37.7117"	mag="1.8" Depth="5.3" />
 </eqlist>
