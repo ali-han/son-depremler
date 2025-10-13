@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.13 01:16:30"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2635"	lng="28.9192"	mag="2.5" Depth="7.2" />
-	<earhquake	name="2025.10.13 01:18:01"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2632"	lng="28.9170"	mag="2.8" Depth="5.3" />
-	<earhquake	name="2025.10.13 01:55:29"	lokasyon="GUNEYKOY-SIVRICE (ELAZIG)                         "	lat="38.4828"	lng="39.3135"	mag="1.4" Depth="6.9" />
 	<earhquake	name="2025.10.13 02:13:02"	lokasyon="YUKARIKARACAM-SAVASTEPE (BALIKESIR)               "	lat="39.3720"	lng="27.7973"	mag="1.4" Depth="17.0" />
 	<earhquake	name="2025.10.13 02:33:51"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2412"	lng="29.0232"	mag="1.5" Depth="10.5" />
 	<earhquake	name="2025.10.13 02:40:08"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2095"	lng="28.9288"	mag="1.2" Depth="16.0" />
@@ -90,4 +87,5 @@
 	<earhquake	name="2025.10.14 00:35:40"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1697"	lng="28.1890"	mag="1.7" Depth="11.6" />
 	<earhquake	name="2025.10.14 00:42:00"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1983"	lng="28.2595"	mag="1.5" Depth="6.9" />
 	<earhquake	name="2025.10.14 00:44:49"	lokasyon="DEMIRLI-BUCAK (BURDUR)                            "	lat="37.3138"	lng="30.6590"	mag="2.0" Depth="10.9" />
+	<earhquake	name="2025.10.14 01:13:15"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2525"	lng="28.9505"	mag="0.8" Depth="9.5" />
 </eqlist>
