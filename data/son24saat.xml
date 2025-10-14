@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.13 18:17:05"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2185"	lng="28.2617"	mag="1.6" Depth="16.2" />
-	<earhquake	name="2025.10.13 18:30:04"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1652"	lng="28.1350"	mag="1.8" Depth="9.0" />
-	<earhquake	name="2025.10.13 18:57:44"	lokasyon="HISARKALE-DARENDE (MALATYA)                       "	lat="38.4712"	lng="37.7117"	mag="1.8" Depth="5.3" />
 	<earhquake	name="2025.10.13 19:13:21"	lokasyon="BAZLAMA-KARAKOCAN (ELAZIG)                        "	lat="39.0917"	lng="40.1938"	mag="1.8" Depth="16.3" />
 	<earhquake	name="2025.10.13 19:17:46"	lokasyon="MARMARA DENIZI                                    "	lat="40.7888"	lng="27.8642"	mag="1.6" Depth="16.9" />
 	<earhquake	name="2025.10.13 20:09:50"	lokasyon="MARMARA DENIZI                                    "	lat="40.7650"	lng="27.9527"	mag="1.8" Depth="2.8" />
@@ -81,4 +78,5 @@
 	<earhquake	name="2025.10.14 15:58:46"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           REVIZE01   (2025.10.14 15:58:46)"	lat="39.1972"	lng="29.0182"	mag="1.7" Depth="11.0" />
 	<earhquake	name="2025.10.14 17:29:30"	lokasyon="KARAKAYALI-CEYHAN (ADANA)                         "	lat="37.1188"	lng="35.9003"	mag="2.0" Depth="6.4" />
 	<earhquake	name="2025.10.14 17:32:15"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3455"	lng="26.0917"	mag="2.7" Depth="7.2" />
+	<earhquake	name="2025.10.14 18:06:55"	lokasyon="HACIHUSEYINLER-BASKIL (ELAZIG)                    "	lat="38.4095"	lng="38.8808"	mag="2.2" Depth="3.4" />
 </eqlist>
