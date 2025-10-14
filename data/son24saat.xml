@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.13 17:21:03"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1475"	lng="28.0983"	mag="1.3" Depth="17.6" />
-	<earhquake	name="2025.10.13 17:27:08"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2620"	lng="28.1047"	mag="1.6" Depth="22.1" />
-	<earhquake	name="2025.10.13 17:29:53"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1702"	lng="28.1695"	mag="1.4" Depth="14.5" />
-	<earhquake	name="2025.10.13 17:45:36"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1717"	lng="28.1220"	mag="2.4" Depth="13.6" />
 	<earhquake	name="2025.10.13 18:17:05"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2185"	lng="28.2617"	mag="1.6" Depth="16.2" />
 	<earhquake	name="2025.10.13 18:30:04"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1652"	lng="28.1350"	mag="1.8" Depth="9.0" />
 	<earhquake	name="2025.10.13 18:57:44"	lokasyon="HISARKALE-DARENDE (MALATYA)                       "	lat="38.4712"	lng="37.7117"	mag="1.8" Depth="5.3" />
@@ -83,4 +79,6 @@
 	<earhquake	name="2025.10.14 15:33:50"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2002"	lng="28.9902"	mag="1.6" Depth="10.2" />
 	<earhquake	name="2025.10.14 15:39:26"	lokasyon="KOZLUK-KALE (MALATYA)                             "	lat="38.3883"	lng="38.8073"	mag="2.0" Depth="4.0" />
 	<earhquake	name="2025.10.14 15:58:46"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           REVIZE01   (2025.10.14 15:58:46)"	lat="39.1972"	lng="29.0182"	mag="1.7" Depth="11.0" />
+	<earhquake	name="2025.10.14 17:29:30"	lokasyon="KARAKAYALI-CEYHAN (ADANA)                         "	lat="37.1188"	lng="35.9003"	mag="2.0" Depth="6.4" />
+	<earhquake	name="2025.10.14 17:32:15"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3455"	lng="26.0917"	mag="2.7" Depth="7.2" />
 </eqlist>
