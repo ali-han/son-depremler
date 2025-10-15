@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.14 14:11:02"	lokasyon="AKCAOREN-AHLAT (BITLIS)                           "	lat="38.9220"	lng="42.4675"	mag="3.2" Depth="5.0" />
-	<earhquake	name="2025.10.14 14:29:25"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2628"	lng="28.9790"	mag="1.4" Depth="12.4" />
-	<earhquake	name="2025.10.14 14:58:06"	lokasyon="DALAMAN ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.6280"	lng="28.6905"	mag="1.8" Depth="9.3" />
 	<earhquake	name="2025.10.14 15:33:50"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2002"	lng="28.9902"	mag="1.6" Depth="10.2" />
 	<earhquake	name="2025.10.14 15:39:26"	lokasyon="KOZLUK-KALE (MALATYA)                             "	lat="38.3883"	lng="38.8073"	mag="2.0" Depth="4.0" />
 	<earhquake	name="2025.10.14 15:58:46"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           REVIZE01   (2025.10.14 15:58:46)"	lat="39.1972"	lng="29.0182"	mag="1.7" Depth="11.0" />
@@ -102,4 +99,8 @@
 	<earhquake	name="2025.10.15 12:39:19"	lokasyon="BOZANONU-(ISPARTA)                                "	lat="37.8695"	lng="30.5675"	mag="1.2" Depth="5.3" />
 	<earhquake	name="2025.10.15 13:31:08"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2317"	lng="29.0580"	mag="1.8" Depth="2.3" />
 	<earhquake	name="2025.10.15 13:37:24"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2447"	lng="28.0680"	mag="1.6" Depth="6.1" />
+	<earhquake	name="2025.10.15 13:42:26"	lokasyon="GECITLI-SINCIK (ADIYAMAN)                         "	lat="38.1302"	lng="38.5127"	mag="2.0" Depth="5.0" />
+	<earhquake	name="2025.10.15 13:51:14"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2180"	lng="28.0612"	mag="3.3" Depth="6.0" />
+	<earhquake	name="2025.10.15 14:02:10"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1828"	lng="28.0735"	mag="2.5" Depth="8.3" />
+	<earhquake	name="2025.10.15 14:08:04"	lokasyon="GOLKOY-SIMAV (KUTAHYA)                            "	lat="39.1582"	lng="28.8760"	mag="1.7" Depth="6.3" />
 </eqlist>
