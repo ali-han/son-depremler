@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.14 11:11:17"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2532"	lng="28.0557"	mag="1.2" Depth="5.8" />
-	<earhquake	name="2025.10.14 11:20:21"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1742"	lng="28.2232"	mag="1.8" Depth="8.9" />
-	<earhquake	name="2025.10.14 11:30:21"	lokasyon="YAGCILAR-(BALIKESIR)                              "	lat="39.8797"	lng="27.9007"	mag="1.7" Depth="2.3" />
-	<earhquake	name="2025.10.14 11:41:41"	lokasyon="MUSAHOCA-KIRKAGAC (MANISA)                        "	lat="39.1458"	lng="27.7273"	mag="1.4" Depth="2.4" />
-	<earhquake	name="2025.10.14 11:43:47"	lokasyon="KAVAKCALI-ULA (MUGLA)                             "	lat="37.1238"	lng="28.6457"	mag="1.8" Depth="10.6" />
-	<earhquake	name="2025.10.14 11:52:53"	lokasyon="BAGLICA-(ADIYAMAN)                                "	lat="37.9500"	lng="38.2463"	mag="1.4" Depth="3.0" />
 	<earhquake	name="2025.10.14 12:06:58"	lokasyon="HALKAPINAR-(BALIKESIR)                            REVIZE01   (2025.10.14 12:06:58)"	lat="39.8077"	lng="27.9107"	mag="0.8" Depth="7.7" />
 	<earhquake	name="2025.10.14 12:35:37"	lokasyon="HACIIBRAHIMLER-AKHISAR (MANISA)                   "	lat="38.9825"	lng="28.0538"	mag="1.9" Depth="6.7" />
 	<earhquake	name="2025.10.14 12:38:37"	lokasyon="KUCUKGUNEY-SOMA (MANISA)                          "	lat="39.2507"	lng="27.6518"	mag="1.4" Depth="0.0" />
@@ -101,4 +95,6 @@
 	<earhquake	name="2025.10.15 08:33:19"	lokasyon="HIDIRBALI-SAVASTEPE (BALIKESIR)                   "	lat="39.3562"	lng="27.7988"	mag="1.2" Depth="3.8" />
 	<earhquake	name="2025.10.15 09:10:24"	lokasyon="HACIAHMETOGLU-SIMAV (KUTAHYA)                     "	lat="39.1182"	lng="29.0128"	mag="1.3" Depth="11.0" />
 	<earhquake	name="2025.10.15 09:21:47"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     REVIZE01   (2025.10.15 09:21:47)"	lat="39.2497"	lng="28.0460"	mag="1.2" Depth="27.0" />
+	<earhquake	name="2025.10.15 10:12:50"	lokasyon="BESEVLER-SERDIVAN (SAKARYA)                       "	lat="40.8462"	lng="30.2453"	mag="1.4" Depth="5.0" />
+	<earhquake	name="2025.10.15 10:45:24"	lokasyon="SAKARLI-KIRKAGAC (MANISA)                         "	lat="39.2715"	lng="27.8283"	mag="1.5" Depth="0.0" />
 </eqlist>
