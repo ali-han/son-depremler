@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.16 02:12:22"	lokasyon="TEMURAGA-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0513"	lng="36.5577"	mag="1.2" Depth="6.2" />
-	<earhquake	name="2025.10.16 02:22:34"	lokasyon="ASLANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.2180"	lng="28.2860"	mag="1.1" Depth="5.4" />
-	<earhquake	name="2025.10.16 02:44:19"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2452"	lng="29.0033"	mag="1.7" Depth="4.2" />
-	<earhquake	name="2025.10.16 02:45:38"	lokasyon="KUCUKLU-DOGANSEHIR (MALATYA)                      "	lat="38.0192"	lng="37.6652"	mag="2.9" Depth="1.6" />
-	<earhquake	name="2025.10.16 02:51:27"	lokasyon="EVCILER-SOMA (MANISA)                             "	lat="39.2147"	lng="27.6685"	mag="2.1" Depth="5.7" />
 	<earhquake	name="2025.10.16 03:54:27"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1343"	lng="28.2583"	mag="1.1" Depth="12.3" />
 	<earhquake	name="2025.10.16 04:00:46"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1545"	lng="28.1785"	mag="1.4" Depth="10.0" />
 	<earhquake	name="2025.10.16 04:11:11"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1705"	lng="28.1787"	mag="1.7" Depth="10.1" />
@@ -123,4 +118,8 @@
 	<earhquake	name="2025.10.17 00:54:28"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1885"	lng="29.0467"	mag="1.0" Depth="15.3" />
 	<earhquake	name="2025.10.17 01:08:19"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1662"	lng="28.1190"	mag="1.3" Depth="11.2" />
 	<earhquake	name="2025.10.17 01:30:05"	lokasyon="KOCAOZU-HEKIMHAN (MALATYA)                        "	lat="38.7677"	lng="37.9480"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2025.10.17 01:31:34"	lokasyon="DENIZKOY-DIKILI (IZMIR)                           "	lat="38.9198"	lng="26.7217"	mag="1.5" Depth="2.1" />
+	<earhquake	name="2025.10.17 01:35:34"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1718"	lng="28.1015"	mag="1.2" Depth="17.2" />
+	<earhquake	name="2025.10.17 01:46:50"	lokasyon="KARABURC-KIRAZ (IZMIR)                            "	lat="38.2247"	lng="28.2762"	mag="1.7" Depth="8.2" />
+	<earhquake	name="2025.10.17 01:54:21"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2023"	lng="29.0650"	mag="1.7" Depth="10.4" />
 </eqlist>
