@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.15 11:37:30"	lokasyon="SOMA (MANISA)                                     "	lat="39.2027"	lng="27.6065"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2025.10.15 12:00:21"	lokasyon="CAMLIBELEN-MILAS (MUGLA)                          "	lat="37.2432"	lng="27.9132"	mag="1.5" Depth="10.1" />
 	<earhquake	name="2025.10.15 12:02:01"	lokasyon="KALEMKOY-KINIK (IZMIR)                            "	lat="39.0675"	lng="27.5055"	mag="1.0" Depth="0.0" />
 	<earhquake	name="2025.10.15 12:07:24"	lokasyon="FURUNCU-(MALATYA)                                 "	lat="38.3163"	lng="38.4368"	mag="1.4" Depth="5.0" />
@@ -103,4 +102,5 @@
 	<earhquake	name="2025.10.16 10:11:47"	lokasyon="CAYGOREN-SINDIRGI (BALIKESIR)                     "	lat="39.2657"	lng="28.2087"	mag="2.0" Depth="9.0" />
 	<earhquake	name="2025.10.16 10:28:39"	lokasyon="ARICILAR-ULA (MUGLA)                              "	lat="37.1272"	lng="28.5905"	mag="2.3" Depth="10.0" />
 	<earhquake	name="2025.10.16 10:36:30"	lokasyon="YAYLASOGUT-ULA (MUGLA)                            "	lat="37.1485"	lng="28.5967"	mag="2.5" Depth="8.8" />
+	<earhquake	name="2025.10.16 11:00:13"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2215"	lng="28.1063"	mag="1.4" Depth="7.7" />
 </eqlist>
