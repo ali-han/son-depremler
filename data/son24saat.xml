@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.15 03:10:23"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1377"	lng="28.1785"	mag="1.3" Depth="9.8" />
-	<earhquake	name="2025.10.15 03:12:13"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1935"	lng="28.1452"	mag="1.9" Depth="9.0" />
-	<earhquake	name="2025.10.15 03:24:01"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2520"	lng="29.0380"	mag="1.1" Depth="5.0" />
-	<earhquake	name="2025.10.15 03:43:35"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1677"	lng="28.0302"	mag="0.9" Depth="13.3" />
-	<earhquake	name="2025.10.15 03:44:43"	lokasyon="KUMKUYUCAK-SARUHANLI (MANISA)                     "	lat="38.7463"	lng="27.7972"	mag="0.7" Depth="19.5" />
-	<earhquake	name="2025.10.15 03:46:55"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1248"	lng="28.1602"	mag="1.4" Depth="14.4" />
 	<earhquake	name="2025.10.15 04:01:29"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1648"	lng="28.1870"	mag="1.3" Depth="13.2" />
 	<earhquake	name="2025.10.15 04:03:25"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1840"	lng="28.1887"	mag="2.7" Depth="12.5" />
 	<earhquake	name="2025.10.15 04:24:21"	lokasyon="HEKIMHAN (MALATYA)                                "	lat="38.7870"	lng="37.9547"	mag="1.2" Depth="5.0" />
@@ -101,4 +95,6 @@
 	<earhquake	name="2025.10.16 02:12:22"	lokasyon="TEMURAGA-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0513"	lng="36.5577"	mag="1.2" Depth="6.2" />
 	<earhquake	name="2025.10.16 02:22:34"	lokasyon="ASLANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.2180"	lng="28.2860"	mag="1.1" Depth="5.4" />
 	<earhquake	name="2025.10.16 02:44:19"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2452"	lng="29.0033"	mag="1.7" Depth="4.2" />
+	<earhquake	name="2025.10.16 02:45:38"	lokasyon="KUCUKLU-DOGANSEHIR (MALATYA)                      "	lat="38.0192"	lng="37.6652"	mag="2.9" Depth="1.6" />
+	<earhquake	name="2025.10.16 02:51:27"	lokasyon="EVCILER-SOMA (MANISA)                             "	lat="39.2147"	lng="27.6685"	mag="2.1" Depth="5.7" />
 </eqlist>
