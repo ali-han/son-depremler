@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.17 23:04:58"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1325"	lng="28.2703"	mag="1.4" Depth="9.3" />
-	<earhquake	name="2025.10.17 23:49:43"	lokasyon="OZCANLI-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.0830"	lng="37.3055"	mag="1.6" Depth="8.3" />
-	<earhquake	name="2025.10.17 23:57:14"	lokasyon="AKGUMUS-ANDIRIN (KAHRAMANMARAS)                   "	lat="37.7392"	lng="36.5373"	mag="1.6" Depth="8.0" />
 	<earhquake	name="2025.10.18 00:05:27"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2480"	lng="28.9730"	mag="1.5" Depth="10.8" />
 	<earhquake	name="2025.10.18 00:19:30"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2377"	lng="28.0662"	mag="1.6" Depth="8.1" />
 	<earhquake	name="2025.10.18 00:24:21"	lokasyon="CAPAKLI-SALIHLI (MANISA)                          "	lat="38.5545"	lng="28.1932"	mag="1.8" Depth="6.5" />
@@ -80,4 +77,6 @@
 	<earhquake	name="2025.10.18 22:07:43"	lokasyon="MARMARA DENIZI                                    "	lat="40.8125"	lng="27.9420"	mag="2.1" Depth="7.0" />
 	<earhquake	name="2025.10.18 22:29:04"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2005"	lng="28.1840"	mag="1.7" Depth="9.1" />
 	<earhquake	name="2025.10.18 22:54:35"	lokasyon="YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)        "	lat="40.7470"	lng="27.5163"	mag="1.2" Depth="12.0" />
+	<earhquake	name="2025.10.18 23:05:20"	lokasyon="AVSAR-MILAS (MUGLA)                               "	lat="37.2660"	lng="27.6632"	mag="1.6" Depth="5.9" />
+	<earhquake	name="2025.10.18 23:10:04"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1370"	lng="28.1442"	mag="1.2" Depth="16.2" />
 </eqlist>
