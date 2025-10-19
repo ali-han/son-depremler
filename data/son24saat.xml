@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.18 16:23:58"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1733"	lng="28.1907"	mag="1.5" Depth="12.0" />
-	<earhquake	name="2025.10.18 16:49:09"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2577"	lng="29.0015"	mag="2.0" Depth="5.4" />
 	<earhquake	name="2025.10.18 18:43:08"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9507"	lng="27.3327"	mag="2.7" Depth="5.8" />
 	<earhquake	name="2025.10.18 19:19:51"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2513"	lng="29.0273"	mag="1.8" Depth="5.6" />
 	<earhquake	name="2025.10.18 20:34:35"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1915"	lng="28.1502"	mag="2.6" Depth="13.1" />
@@ -96,4 +94,7 @@
 	<earhquake	name="2025.10.19 14:39:09"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7288"	lng="36.0968"	mag="4.0" Depth="5.0" />
 	<earhquake	name="2025.10.19 14:51:51"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2562"	lng="28.0817"	mag="1.8" Depth="12.9" />
 	<earhquake	name="2025.10.19 15:04:21"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1815"	lng="28.1405"	mag="2.5" Depth="9.4" />
+	<earhquake	name="2025.10.19 15:56:53"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1442"	lng="28.1023"	mag="1.8" Depth="13.0" />
+	<earhquake	name="2025.10.19 16:00:07"	lokasyon="KOVUKCINAR-FEKE (ADANA)                           "	lat="37.7977"	lng="36.0428"	mag="2.2" Depth="5.4" />
+	<earhquake	name="2025.10.19 16:01:27"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7643"	lng="36.0887"	mag="2.1" Depth="21.0" />
 </eqlist>
