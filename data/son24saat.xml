@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.19 08:01:44"	lokasyon="BALCILAR-KOYCEGIZ (MUGLA)                         "	lat="37.0730"	lng="28.6155"	mag="1.3" Depth="13.8" />
-	<earhquake	name="2025.10.19 08:11:54"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2307"	lng="29.0415"	mag="1.6" Depth="12.9" />
-	<earhquake	name="2025.10.19 08:49:41"	lokasyon="MARMARA DENIZI                                    "	lat="40.8540"	lng="27.8693"	mag="2.1" Depth="7.4" />
-	<earhquake	name="2025.10.19 08:53:48"	lokasyon="IKIZKOY-MILAS (MUGLA)                             "	lat="37.1867"	lng="27.8497"	mag="1.2" Depth="5.4" />
 	<earhquake	name="2025.10.19 09:11:39"	lokasyon="KOCAKAGAN-AKHISAR (MANISA)                        "	lat="39.0793"	lng="28.0827"	mag="1.3" Depth="8.8" />
 	<earhquake	name="2025.10.19 09:21:47"	lokasyon="GURCISTAN                                         "	lat="41.3362"	lng="43.9067"	mag="2.7" Depth="7.2" />
 	<earhquake	name="2025.10.19 09:27:58"	lokasyon="KIYRA-ULA (MUGLA)                                 "	lat="37.0983"	lng="28.5655"	mag="2.1" Depth="6.0" />
@@ -117,4 +113,5 @@
 	<earhquake	name="2025.10.20 07:32:00"	lokasyon="BUYUKBOLATLI-SUNGURLU (CORUM)                     "	lat="40.0270"	lng="34.2768"	mag="1.8" Depth="5.4" />
 	<earhquake	name="2025.10.20 07:32:36"	lokasyon="AYDOGAN-SUNGURLU (CORUM)                          "	lat="40.1622"	lng="34.2005"	mag="1.9" Depth="5.3" />
 	<earhquake	name="2025.10.20 07:37:32"	lokasyon="BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)               "	lat="37.6092"	lng="37.2663"	mag="2.2" Depth="8.6" />
+	<earhquake	name="2025.10.20 08:08:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="29.0115"	mag="1.8" Depth="11.3" />
 </eqlist>
