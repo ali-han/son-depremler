@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.19 09:11:39"	lokasyon="KOCAKAGAN-AKHISAR (MANISA)                        "	lat="39.0793"	lng="28.0827"	mag="1.3" Depth="8.8" />
-	<earhquake	name="2025.10.19 09:21:47"	lokasyon="GURCISTAN                                         "	lat="41.3362"	lng="43.9067"	mag="2.7" Depth="7.2" />
-	<earhquake	name="2025.10.19 09:27:58"	lokasyon="KIYRA-ULA (MUGLA)                                 "	lat="37.0983"	lng="28.5655"	mag="2.1" Depth="6.0" />
-	<earhquake	name="2025.10.19 09:45:39"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2385"	lng="29.0158"	mag="1.4" Depth="11.7" />
-	<earhquake	name="2025.10.19 09:54:32"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1943"	lng="28.2600"	mag="1.9" Depth="13.1" />
 	<earhquake	name="2025.10.19 10:25:26"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.0917"	lng="28.2282"	mag="1.3" Depth="15.1" />
 	<earhquake	name="2025.10.19 10:30:19"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2417"	lng="29.0337"	mag="1.5" Depth="12.5" />
 	<earhquake	name="2025.10.19 10:37:38"	lokasyon="KUZOLUK-NURDAGI (GAZIANTEP)                       "	lat="37.0850"	lng="36.9425"	mag="1.7" Depth="12.3" />
@@ -114,5 +109,8 @@
 	<earhquake	name="2025.10.20 07:32:36"	lokasyon="AYDOGAN-SUNGURLU (CORUM)                          "	lat="40.1622"	lng="34.2005"	mag="1.9" Depth="5.3" />
 	<earhquake	name="2025.10.20 07:37:32"	lokasyon="BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)               "	lat="37.6092"	lng="37.2663"	mag="2.2" Depth="8.6" />
 	<earhquake	name="2025.10.20 08:08:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="29.0115"	mag="1.8" Depth="11.3" />
+	<earhquake	name="2025.10.20 08:18:03"	lokasyon="YAYKIN-AKHISAR (MANISA)                           "	lat="39.1660"	lng="27.9360"	mag="1.2" Depth="16.1" />
 	<earhquake	name="2025.10.20 08:24:43"	lokasyon="EGE DENIZI                                        "	lat="36.6412"	lng="25.6872"	mag="1.9" Depth="9.4" />
+	<earhquake	name="2025.10.20 08:30:30"	lokasyon="EGE DENIZI                                        "	lat="36.4903"	lng="25.9783"	mag="1.7" Depth="8.3" />
+	<earhquake	name="2025.10.20 08:49:04"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2357"	lng="28.1423"	mag="1.4" Depth="16.3" />
 </eqlist>
