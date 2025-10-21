@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.20 07:29:47"	lokasyon="BUYUKBOLATLI-SUNGURLU (CORUM)                     "	lat="40.0415"	lng="34.2713"	mag="1.7" Depth="5.5" />
-	<earhquake	name="2025.10.20 07:32:00"	lokasyon="BUYUKBOLATLI-SUNGURLU (CORUM)                     "	lat="40.0270"	lng="34.2768"	mag="1.8" Depth="5.4" />
-	<earhquake	name="2025.10.20 07:32:36"	lokasyon="AYDOGAN-SUNGURLU (CORUM)                          "	lat="40.1622"	lng="34.2005"	mag="1.9" Depth="5.3" />
-	<earhquake	name="2025.10.20 07:37:32"	lokasyon="BUYUKNACAR-PAZARCIK (KAHRAMANMARAS)               "	lat="37.6092"	lng="37.2663"	mag="2.2" Depth="8.6" />
 	<earhquake	name="2025.10.20 08:08:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="29.0115"	mag="1.8" Depth="11.3" />
 	<earhquake	name="2025.10.20 08:18:03"	lokasyon="YAYKIN-AKHISAR (MANISA)                           "	lat="39.1660"	lng="27.9360"	mag="1.2" Depth="16.1" />
 	<earhquake	name="2025.10.20 08:24:43"	lokasyon="EGE DENIZI                                        "	lat="36.6412"	lng="25.6872"	mag="1.9" Depth="9.4" />
@@ -145,4 +141,6 @@
 	<earhquake	name="2025.10.21 06:12:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2323"	lng="29.0055"	mag="1.0" Depth="9.4" />
 	<earhquake	name="2025.10.21 06:17:47"	lokasyon="YARBASI-GOLBASI (ADIYAMAN)                        "	lat="37.7738"	lng="37.6737"	mag="1.2" Depth="14.1" />
 	<earhquake	name="2025.10.21 06:44:03"	lokasyon="SULUCA-TOSYA (KASTAMONU)                          "	lat="41.0213"	lng="33.9137"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2025.10.21 06:57:49"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2223"	lng="28.1522"	mag="1.4" Depth="9.2" />
+	<earhquake	name="2025.10.21 07:08:41"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2533"	lng="28.9465"	mag="2.6" Depth="4.9" />
 </eqlist>
