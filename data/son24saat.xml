@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.10.26 21:11:03"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2068"	lng="27.9592"	mag="2.3" Depth="9.2" />
-	<earhquake	name="2025.10.26 21:51:30"	lokasyon="PASALI-FEKE (ADANA)                               "	lat="37.7577"	lng="35.9978"	mag="1.1" Depth="12.7" />
 	<earhquake	name="2025.10.26 22:00:54"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2208"	lng="28.1523"	mag="2.3" Depth="8.6" />
 	<earhquake	name="2025.10.26 23:22:22"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2250"	lng="27.9588"	mag="1.5" Depth="5.4" />
 	<earhquake	name="2025.10.26 23:26:52"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3657"	lng="37.4013"	mag="1.3" Depth="15.8" />
@@ -89,4 +87,5 @@
 	<earhquake	name="2025.10.27 19:46:11"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.1937"	lng="38.4890"	mag="1.6" Depth="19.3" />
 	<earhquake	name="2025.10.27 19:54:13"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2073"	lng="28.2587"	mag="1.5" Depth="7.9" />
 	<earhquake	name="2025.10.27 20:16:31"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1978"	lng="28.1223"	mag="1.6" Depth="8.2" />
+	<earhquake	name="2025.10.27 21:10:22"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1608"	lng="28.2080"	mag="2.9" Depth="7.6" />
 </eqlist>
