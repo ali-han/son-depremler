@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.02 18:00:17"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1278"	lng="28.2235"	mag="1.8" Depth="11.7" />
-	<earhquake	name="2025.11.02 18:04:46"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1322"	lng="28.2190"	mag="1.7" Depth="9.1" />
-	<earhquake	name="2025.11.02 18:12:59"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1678"	lng="28.1732"	mag="2.4" Depth="8.9" />
-	<earhquake	name="2025.11.02 18:15:58"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1870"	lng="28.3290"	mag="1.5" Depth="9.8" />
-	<earhquake	name="2025.11.02 18:31:00"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1647"	lng="28.3518"	mag="1.5" Depth="12.7" />
-	<earhquake	name="2025.11.02 18:33:54"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2033"	lng="28.1987"	mag="2.9" Depth="11.1" />
-	<earhquake	name="2025.11.02 18:37:06"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1723"	lng="28.2797"	mag="1.5" Depth="10.8" />
-	<earhquake	name="2025.11.02 18:42:25"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1562"	lng="28.1490"	mag="1.7" Depth="9.0" />
-	<earhquake	name="2025.11.02 18:46:32"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1715"	lng="28.2265"	mag="1.5" Depth="11.5" />
-	<earhquake	name="2025.11.02 18:49:03"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1475"	lng="28.2798"	mag="3.2" Depth="15.4" />
-	<earhquake	name="2025.11.02 18:49:31"	lokasyon="ERMENISTAN                                        "	lat="41.0232"	lng="43.9373"	mag="4.3" Depth="5.0" />
-	<earhquake	name="2025.11.02 18:54:15"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1900"	lng="28.2855"	mag="3.4" Depth="14.2" />
 	<earhquake	name="2025.11.02 19:01:19"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1718"	lng="28.3188"	mag="3.2" Depth="5.3" />
 	<earhquake	name="2025.11.02 19:03:28"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.2048"	lng="28.1383"	mag="1.4" Depth="12.6" />
 	<earhquake	name="2025.11.02 19:07:23"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1907"	lng="28.1723"	mag="2.0" Depth="9.3" />
@@ -285,4 +273,12 @@
 	<earhquake	name="2025.11.03 17:42:00"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.0932"	lng="28.1520"	mag="1.7" Depth="14.4" />
 	<earhquake	name="2025.11.03 17:48:33"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1792"	lng="28.2247"	mag="1.6" Depth="10.9" />
 	<earhquake	name="2025.11.03 17:51:42"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1908"	lng="28.2983"	mag="1.6" Depth="7.5" />
+	<earhquake	name="2025.11.03 17:54:28"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1855"	lng="28.3397"	mag="2.5" Depth="10.0" />
+	<earhquake	name="2025.11.03 17:55:43"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1595"	lng="28.3320"	mag="1.3" Depth="12.0" />
+	<earhquake	name="2025.11.03 17:58:45"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1717"	lng="28.3272"	mag="2.5" Depth="12.7" />
+	<earhquake	name="2025.11.03 18:00:06"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1872"	lng="28.3022"	mag="2.6" Depth="10.3" />
+	<earhquake	name="2025.11.03 18:08:13"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4285"	lng="28.9405"	mag="1.8" Depth="7.7" />
+	<earhquake	name="2025.11.03 18:15:13"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2055"	lng="28.1445"	mag="2.0" Depth="9.6" />
+	<earhquake	name="2025.11.03 18:20:14"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1907"	lng="28.2368"	mag="1.6" Depth="7.5" />
+	<earhquake	name="2025.11.03 18:21:32"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1463"	lng="28.2835"	mag="1.6" Depth="9.5" />
 </eqlist>
