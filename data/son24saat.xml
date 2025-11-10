@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.09 11:11:16"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1607"	lng="28.2450"	mag="2.5" Depth="14.3" />
-	<earhquake	name="2025.11.09 11:17:29"	lokasyon="EGE DENIZI                                        "	lat="39.3622"	lng="25.6943"	mag="2.1" Depth="12.7" />
-	<earhquake	name="2025.11.09 11:19:06"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1650"	lng="28.2708"	mag="1.4" Depth="9.0" />
-	<earhquake	name="2025.11.09 11:20:45"	lokasyon="KORUBASI-AYVACIK (CANAKKALE)                      "	lat="39.5142"	lng="26.2662"	mag="2.4" Depth="10.9" />
-	<earhquake	name="2025.11.09 11:58:50"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2088"	lng="27.9848"	mag="4.3" Depth="10.0" />
 	<earhquake	name="2025.11.09 12:00:33"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3693"	lng="37.4375"	mag="1.8" Depth="5.9" />
 	<earhquake	name="2025.11.09 12:01:37"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2583"	lng="28.9968"	mag="2.0" Depth="17.2" />
 	<earhquake	name="2025.11.09 12:02:45"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2265"	lng="28.0092"	mag="1.6" Depth="9.5" />
@@ -259,4 +254,15 @@
 	<earhquake	name="2025.11.10 10:32:25"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2360"	lng="28.1485"	mag="1.8" Depth="6.8" />
 	<earhquake	name="2025.11.10 10:33:42"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1695"	lng="28.1827"	mag="1.3" Depth="15.3" />
 	<earhquake	name="2025.11.10 10:34:41"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2707"	lng="28.1267"	mag="1.7" Depth="15.2" />
+	<earhquake	name="2025.11.10 10:36:33"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1618"	lng="28.1318"	mag="1.8" Depth="11.4" />
+	<earhquake	name="2025.11.10 10:48:23"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1347"	lng="28.3058"	mag="2.3" Depth="14.6" />
+	<earhquake	name="2025.11.10 10:49:32"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2012"	lng="28.1025"	mag="2.1" Depth="29.0" />
+	<earhquake	name="2025.11.10 10:50:07"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1183"	lng="28.2632"	mag="3.2" Depth="13.1" />
+	<earhquake	name="2025.11.10 10:53:43"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2068"	lng="28.2025"	mag="1.2" Depth="7.0" />
+	<earhquake	name="2025.11.10 10:56:59"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1318"	lng="28.2683"	mag="3.5" Depth="16.9" />
+	<earhquake	name="2025.11.10 10:58:48"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1333"	lng="28.2517"	mag="1.6" Depth="17.4" />
+	<earhquake	name="2025.11.10 11:01:22"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1185"	lng="28.2473"	mag="1.9" Depth="15.4" />
+	<earhquake	name="2025.11.10 11:03:12"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2063"	lng="28.2543"	mag="1.3" Depth="12.1" />
+	<earhquake	name="2025.11.10 11:04:22"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2730"	lng="28.1233"	mag="1.4" Depth="5.4" />
+	<earhquake	name="2025.11.10 11:06:50"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2433"	lng="28.0778"	mag="1.7" Depth="10.7" />
 </eqlist>
