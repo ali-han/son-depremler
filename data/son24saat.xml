@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.11 23:03:17"	lokasyon="OGULVEREN-TERCAN (ERZINCAN)                       "	lat="39.6252"	lng="40.6455"	mag="2.0" Depth="8.6" />
-	<earhquake	name="2025.11.11 23:18:36"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1097"	lng="38.4307"	mag="1.9" Depth="9.4" />
-	<earhquake	name="2025.11.11 23:31:36"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2507"	lng="28.1082"	mag="3.0" Depth="15.9" />
-	<earhquake	name="2025.11.11 23:38:43"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2517"	lng="28.1003"	mag="1.7" Depth="10.8" />
-	<earhquake	name="2025.11.11 23:45:37"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2148"	lng="28.1075"	mag="2.4" Depth="22.2" />
-	<earhquake	name="2025.11.11 23:45:55"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2317"	lng="28.1015"	mag="2.2" Depth="17.2" />
 	<earhquake	name="2025.11.12 00:09:52"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2275"	lng="28.1495"	mag="2.1" Depth="17.4" />
 	<earhquake	name="2025.11.12 00:18:15"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2547"	lng="28.1418"	mag="3.1" Depth="12.3" />
 	<earhquake	name="2025.11.12 00:20:52"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2288"	lng="28.1278"	mag="3.0" Depth="16.0" />
@@ -291,4 +285,6 @@
 	<earhquake	name="2025.11.12 22:20:29"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2018"	lng="28.1683"	mag="2.4" Depth="10.7" />
 	<earhquake	name="2025.11.12 22:22:22"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2135"	lng="28.1333"	mag="1.8" Depth="7.8" />
 	<earhquake	name="2025.11.12 22:24:22"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1787"	lng="28.2913"	mag="1.2" Depth="10.9" />
+	<earhquake	name="2025.11.12 22:46:22"	lokasyon="YURUCEKLER-BIGADIC (BALIKESIR)                    "	lat="39.3487"	lng="28.0797"	mag="1.7" Depth="12.8" />
+	<earhquake	name="2025.11.12 23:05:01"	lokasyon="KIBRIS RUM KESIMI                                 "	lat="34.7017"	lng="32.6302"	mag="2.6" Depth="14.5" />
 </eqlist>
