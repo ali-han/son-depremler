@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.15 17:21:14"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2797"	lng="28.9533"	mag="1.1" Depth="8.0" />
-	<earhquake	name="2025.11.15 17:26:12"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2197"	lng="28.1112"	mag="2.0" Depth="12.5" />
-	<earhquake	name="2025.11.15 17:32:38"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2585"	lng="28.1040"	mag="3.3" Depth="13.0" />
-	<earhquake	name="2025.11.15 17:33:50"	lokasyon="EGE DENIZI                                        "	lat="35.7777"	lng="25.5397"	mag="2.5" Depth="9.1" />
-	<earhquake	name="2025.11.15 17:52:22"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1187"	lng="28.3048"	mag="2.0" Depth="13.6" />
 	<earhquake	name="2025.11.15 18:08:24"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2222"	lng="28.1388"	mag="1.9" Depth="10.7" />
 	<earhquake	name="2025.11.15 18:12:19"	lokasyon="ARSLANCA-GOLOVA (SIVAS)                           "	lat="40.0888"	lng="38.7167"	mag="1.5" Depth="8.1" />
 	<earhquake	name="2025.11.15 18:32:36"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1905"	lng="28.1663"	mag="1.5" Depth="16.0" />
@@ -206,4 +201,7 @@
 	<earhquake	name="2025.11.16 15:36:19"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1913"	lng="28.2418"	mag="1.8" Depth="10.3" />
 	<earhquake	name="2025.11.16 15:38:37"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1357"	lng="28.2892"	mag="1.7" Depth="11.9" />
 	<earhquake	name="2025.11.16 16:13:56"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1537"	lng="28.2087"	mag="2.0" Depth="19.6" />
+	<earhquake	name="2025.11.16 16:42:29"	lokasyon="YAGMURLU-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0780"	lng="36.5587"	mag="2.7" Depth="7.7" />
+	<earhquake	name="2025.11.16 16:45:33"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1810"	lng="28.1370"	mag="1.5" Depth="13.5" />
+	<earhquake	name="2025.11.16 16:57:52"	lokasyon="AKDENIZ                                           "	lat="36.4472"	lng="28.5868"	mag="2.1" Depth="5.0" />
 </eqlist>
