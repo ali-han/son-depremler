@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.19 01:08:47"	lokasyon="EGE DENIZI                                        "	lat="36.6252"	lng="25.6620"	mag="1.9" Depth="1.6" />
-	<earhquake	name="2025.11.19 01:10:02"	lokasyon="AKDENIZ                                           "	lat="35.0208"	lng="32.1217"	mag="2.6" Depth="5.0" />
-	<earhquake	name="2025.11.19 01:15:40"	lokasyon="KAPIDERE-DOGANSEHIR (MALATYA)                     "	lat="37.9502"	lng="37.6142"	mag="1.5" Depth="5.6" />
-	<earhquake	name="2025.11.19 01:23:33"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1510"	lng="28.3338"	mag="1.6" Depth="7.8" />
-	<earhquake	name="2025.11.19 01:26:17"	lokasyon="GUPLUCE-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.1228"	lng="37.1970"	mag="1.5" Depth="12.4" />
-	<earhquake	name="2025.11.19 01:46:13"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1793"	lng="28.1465"	mag="1.5" Depth="12.0" />
-	<earhquake	name="2025.11.19 01:57:21"	lokasyon="ULUKOY (MALATYA)                                  "	lat="38.1575"	lng="38.5707"	mag="2.0" Depth="7.4" />
 	<earhquake	name="2025.11.19 02:02:17"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3690"	lng="37.4448"	mag="1.7" Depth="5.3" />
 	<earhquake	name="2025.11.19 02:04:50"	lokasyon="DUTLUCA-GORDES (MANISA)                           "	lat="39.0577"	lng="28.2503"	mag="2.6" Depth="11.5" />
 	<earhquake	name="2025.11.19 02:07:36"	lokasyon="GUPLUCE-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.1142"	lng="37.1402"	mag="1.6" Depth="4.9" />
@@ -176,4 +169,6 @@
 	<earhquake	name="2025.11.20 00:17:45"	lokasyon="BEGEL-GORDES (MANISA)                             "	lat="39.0142"	lng="28.2455"	mag="1.4" Depth="2.1" />
 	<earhquake	name="2025.11.20 00:31:10"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2338"	lng="28.1408"	mag="2.6" Depth="7.9" />
 	<earhquake	name="2025.11.20 00:42:39"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1537"	lng="28.2528"	mag="2.0" Depth="17.4" />
+	<earhquake	name="2025.11.20 00:43:08"	lokasyon="AKARCA-ELBISTAN (KAHRAMANMARAS)                   "	lat="38.4580"	lng="37.3155"	mag="1.3" Depth="21.2" />
+	<earhquake	name="2025.11.20 00:57:48"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.2032"	lng="28.1287"	mag="1.2" Depth="9.6" />
 </eqlist>
