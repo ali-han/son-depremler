@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.18 18:24:32"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2238"	lng="28.1163"	mag="2.1" Depth="12.1" />
-	<earhquake	name="2025.11.18 18:25:05"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2287"	lng="28.0363"	mag="1.3" Depth="10.6" />
 	<earhquake	name="2025.11.18 19:07:53"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2053"	lng="28.1842"	mag="1.3" Depth="4.9" />
 	<earhquake	name="2025.11.18 19:10:59"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1870"	lng="28.1730"	mag="2.6" Depth="10.1" />
 	<earhquake	name="2025.11.18 19:17:38"	lokasyon="CEYHAN (ADANA)                                    "	lat="36.9925"	lng="35.8247"	mag="1.3" Depth="18.5" />
@@ -150,4 +148,5 @@
 	<earhquake	name="2025.11.19 16:36:29"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2295"	lng="28.1167"	mag="1.1" Depth="10.2" />
 	<earhquake	name="2025.11.19 16:39:02"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.1188"	lng="28.9503"	mag="1.5" Depth="9.2" />
 	<earhquake	name="2025.11.19 17:14:54"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1028"	lng="25.9237"	mag="3.9" Depth="5.0" />
+	<earhquake	name="2025.11.19 18:06:46"	lokasyon="CICEKTEPE-KIGI (BINGOL)                           "	lat="39.2987"	lng="40.2602"	mag="2.1" Depth="6.4" />
 </eqlist>
