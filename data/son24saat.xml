@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.20 18:02:03"	lokasyon="TURUNCLU-(HATAY)                                  "	lat="36.1863"	lng="36.1380"	mag="1.9" Depth="6.6" />
-	<earhquake	name="2025.11.20 18:11:43"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2257"	lng="28.1488"	mag="2.1" Depth="6.3" />
-	<earhquake	name="2025.11.20 18:57:46"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1877"	lng="28.1730"	mag="1.6" Depth="14.4" />
 	<earhquake	name="2025.11.20 19:16:42"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9380"	lng="26.0140"	mag="2.1" Depth="8.3" />
 	<earhquake	name="2025.11.20 19:18:32"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1822"	lng="28.3060"	mag="1.6" Depth="5.1" />
 	<earhquake	name="2025.11.20 19:22:36"	lokasyon="AYASTURKMENLI-SILIFKE (MERSIN)                    "	lat="36.8038"	lng="33.8430"	mag="1.9" Depth="19.8" />
@@ -134,4 +131,5 @@
 	<earhquake	name="2025.11.21 17:25:06"	lokasyon="KARABURCLU-NURDAGI (GAZIANTEP)                    "	lat="37.1458"	lng="36.7060"	mag="1.7" Depth="8.6" />
 	<earhquake	name="2025.11.21 17:29:09"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1295"	lng="28.2590"	mag="1.4" Depth="13.5" />
 	<earhquake	name="2025.11.21 17:44:19"	lokasyon="SOGUTLU-AYVACIK (CANAKKALE)                       "	lat="39.5752"	lng="26.4248"	mag="3.3" Depth="10.5" />
+	<earhquake	name="2025.11.21 17:55:13"	lokasyon="CIVILICAM-MUSTAFAKEMALPASA (BURSA)                "	lat="39.8980"	lng="28.6843"	mag="2.1" Depth="7.6" />
 </eqlist>
