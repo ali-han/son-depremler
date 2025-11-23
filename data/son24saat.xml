@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.22 09:03:14"	lokasyon="KARACAOREN-(MUGLA)                                "	lat="37.2058"	lng="28.7238"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2025.11.22 09:23:23"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2423"	lng="28.9747"	mag="1.6" Depth="10.3" />
-	<earhquake	name="2025.11.22 09:26:42"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2173"	lng="28.1610"	mag="3.0" Depth="14.9" />
-	<earhquake	name="2025.11.22 09:30:58"	lokasyon="ELMALI-GOKSUN (KAHRAMANMARAS)                     "	lat="38.0152"	lng="36.6440"	mag="2.0" Depth="7.1" />
-	<earhquake	name="2025.11.22 09:32:20"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2227"	lng="28.0905"	mag="2.3" Depth="7.1" />
 	<earhquake	name="2025.11.22 10:00:03"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1783"	lng="28.2552"	mag="2.4" Depth="14.8" />
 	<earhquake	name="2025.11.22 10:05:33"	lokasyon="AKDENIZ                                           "	lat="34.4893"	lng="32.3607"	mag="2.2" Depth="4.4" />
 	<earhquake	name="2025.11.22 10:08:10"	lokasyon="AKDENIZ                                           "	lat="34.5777"	lng="32.4057"	mag="2.6" Depth="8.5" />
@@ -119,4 +114,7 @@
 	<earhquake	name="2025.11.23 07:40:46"	lokasyon="EGE DENIZI                                        "	lat="35.6750"	lng="25.9207"	mag="2.1" Depth="23.8" />
 	<earhquake	name="2025.11.23 08:15:39"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2578"	lng="28.1097"	mag="2.2" Depth="7.7" />
 	<earhquake	name="2025.11.23 08:33:09"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2318"	lng="28.1055"	mag="1.7" Depth="8.1" />
+	<earhquake	name="2025.11.23 08:44:34"	lokasyon="YUKARIORUKCU-AKCADAG (MALATYA)                    "	lat="38.4510"	lng="38.0445"	mag="1.8" Depth="1.4" />
+	<earhquake	name="2025.11.23 09:02:51"	lokasyon="KAYNARPINAR-KARLIOVA (BINGOL)                     "	lat="39.3442"	lng="40.7868"	mag="2.8" Depth="5.0" />
+	<earhquake	name="2025.11.23 09:17:34"	lokasyon="KAYNARPINAR-KARLIOVA (BINGOL)                     "	lat="39.3153"	lng="40.7507"	mag="1.6" Depth="4.9" />
 </eqlist>
