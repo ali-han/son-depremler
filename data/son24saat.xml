@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.23 08:15:39"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2578"	lng="28.1097"	mag="2.2" Depth="7.7" />
-	<earhquake	name="2025.11.23 08:33:09"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2318"	lng="28.1055"	mag="1.7" Depth="8.1" />
-	<earhquake	name="2025.11.23 08:44:34"	lokasyon="YUKARIORUKCU-AKCADAG (MALATYA)                    "	lat="38.4510"	lng="38.0445"	mag="1.8" Depth="1.4" />
 	<earhquake	name="2025.11.23 09:02:51"	lokasyon="KAYNARPINAR-KARLIOVA (BINGOL)                     "	lat="39.3442"	lng="40.7868"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2025.11.23 09:17:34"	lokasyon="KAYNARPINAR-KARLIOVA (BINGOL)                     "	lat="39.3153"	lng="40.7507"	mag="1.6" Depth="4.9" />
 	<earhquake	name="2025.11.23 09:26:29"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1807"	lng="28.2223"	mag="2.2" Depth="9.2" />
@@ -144,4 +141,6 @@
 	<earhquake	name="2025.11.24 07:30:17"	lokasyon="ZINCIRLI-ISLAHIYE (GAZIANTEP)                     "	lat="37.1118"	lng="36.6867"	mag="1.5" Depth="5.2" />
 	<earhquake	name="2025.11.24 07:32:07"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2005"	lng="28.2322"	mag="2.3" Depth="9.1" />
 	<earhquake	name="2025.11.24 07:41:39"	lokasyon="SADIKLI-YAZIHAN (MALATYA)                         "	lat="38.5282"	lng="37.9720"	mag="1.6" Depth="7.7" />
+	<earhquake	name="2025.11.24 08:01:39"	lokasyon="ORTACA-SIMAV (KUTAHYA)                            "	lat="39.3118"	lng="28.8982"	mag="1.5" Depth="12.8" />
+	<earhquake	name="2025.11.24 08:05:09"	lokasyon="MALAZ-GORDES (MANISA)                             "	lat="39.0472"	lng="28.2788"	mag="1.6" Depth="4.9" />
 </eqlist>
