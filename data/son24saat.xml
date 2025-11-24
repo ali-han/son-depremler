@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.23 09:02:51"	lokasyon="KAYNARPINAR-KARLIOVA (BINGOL)                     "	lat="39.3442"	lng="40.7868"	mag="2.8" Depth="5.0" />
-	<earhquake	name="2025.11.23 09:17:34"	lokasyon="KAYNARPINAR-KARLIOVA (BINGOL)                     "	lat="39.3153"	lng="40.7507"	mag="1.6" Depth="4.9" />
-	<earhquake	name="2025.11.23 09:26:29"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1807"	lng="28.2223"	mag="2.2" Depth="9.2" />
-	<earhquake	name="2025.11.23 09:29:25"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2075"	lng="28.1128"	mag="1.6" Depth="10.2" />
-	<earhquake	name="2025.11.23 09:49:04"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2137"	lng="28.1337"	mag="2.0" Depth="9.6" />
-	<earhquake	name="2025.11.23 09:55:14"	lokasyon="HAMIDIYE-BIGADIC (BALIKESIR)                      "	lat="39.3780"	lng="28.0055"	mag="1.5" Depth="14.1" />
 	<earhquake	name="2025.11.23 10:19:07"	lokasyon="ULUKOY-(MALATYA)                                  "	lat="38.1740"	lng="38.5602"	mag="3.1" Depth="6.1" />
 	<earhquake	name="2025.11.23 10:21:10"	lokasyon="ULUKOY-(MALATYA)                                  "	lat="38.1760"	lng="38.5163"	mag="2.3" Depth="8.4" />
 	<earhquake	name="2025.11.23 10:44:43"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2353"	lng="28.1695"	mag="1.7" Depth="8.4" />
@@ -144,4 +138,6 @@
 	<earhquake	name="2025.11.24 08:01:39"	lokasyon="ORTACA-SIMAV (KUTAHYA)                            "	lat="39.3118"	lng="28.8982"	mag="1.5" Depth="12.8" />
 	<earhquake	name="2025.11.24 08:05:09"	lokasyon="MALAZ-GORDES (MANISA)                             "	lat="39.0472"	lng="28.2788"	mag="1.6" Depth="4.9" />
 	<earhquake	name="2025.11.24 08:30:00"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2063"	lng="28.9983"	mag="1.4" Depth="15.9" />
+	<earhquake	name="2025.11.24 08:33:29"	lokasyon="UZGORUR-BULANIK (MUS)                             "	lat="38.9390"	lng="42.0740"	mag="1.6" Depth="10.1" />
+	<earhquake	name="2025.11.24 08:53:50"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.8430"	lng="31.4738"	mag="1.5" Depth="21.7" />
 </eqlist>
