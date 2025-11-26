@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.25 13:03:13"	lokasyon="EMET (KUTAHYA)                                    "	lat="39.3602"	lng="29.2527"	mag="1.6" Depth="0.0" />
-	<earhquake	name="2025.11.25 13:05:21"	lokasyon="DURMUSSOFULAR-KADIRLI (OSMANIYE)                  "	lat="37.3820"	lng="36.2277"	mag="1.7" Depth="13.1" />
-	<earhquake	name="2025.11.25 13:59:34"	lokasyon="DOGANKAYA-ADAKLI (BINGOL)                         "	lat="39.1970"	lng="40.6140"	mag="2.1" Depth="9.0" />
 	<earhquake	name="2025.11.25 14:05:10"	lokasyon="YUNANISTAN                                        "	lat="38.2162"	lng="23.8058"	mag="2.5" Depth="6.8" />
 	<earhquake	name="2025.11.25 14:27:39"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1807"	lng="28.2533"	mag="1.5" Depth="12.6" />
 	<earhquake	name="2025.11.25 14:57:31"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2007"	lng="28.1490"	mag="3.1" Depth="9.4" />
@@ -94,4 +91,6 @@
 	<earhquake	name="2025.11.26 11:40:28"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2032"	lng="28.2352"	mag="1.8" Depth="12.8" />
 	<earhquake	name="2025.11.26 11:53:14"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3160"	lng="27.6743"	mag="1.8" Depth="5.4" />
 	<earhquake	name="2025.11.26 12:28:43"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.2993"	lng="27.6773"	mag="1.6" Depth="8.5" />
+	<earhquake	name="2025.11.26 12:50:46"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2097"	lng="28.1145"	mag="1.8" Depth="7.3" />
+	<earhquake	name="2025.11.26 12:52:15"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4213"	lng="37.5177"	mag="1.7" Depth="4.6" />
 </eqlist>
