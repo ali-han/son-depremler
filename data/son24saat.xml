@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.25 12:03:39"	lokasyon="AKDENIZ                                           "	lat="34.6910"	lng="32.4872"	mag="3.4" Depth="9.3" />
-	<earhquake	name="2025.11.25 12:44:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2368"	lng="28.9688"	mag="1.7" Depth="12.7" />
-	<earhquake	name="2025.11.25 12:47:25"	lokasyon="ARNAVUTKOY (ISTANBUL)                             "	lat="41.1890"	lng="28.7338"	mag="0.9" Depth="0.0" />
 	<earhquake	name="2025.11.25 13:03:13"	lokasyon="EMET (KUTAHYA)                                    "	lat="39.3602"	lng="29.2527"	mag="1.6" Depth="0.0" />
 	<earhquake	name="2025.11.25 13:05:21"	lokasyon="DURMUSSOFULAR-KADIRLI (OSMANIYE)                  "	lat="37.3820"	lng="36.2277"	mag="1.7" Depth="13.1" />
 	<earhquake	name="2025.11.25 13:59:34"	lokasyon="DOGANKAYA-ADAKLI (BINGOL)                         "	lat="39.1970"	lng="40.6140"	mag="2.1" Depth="9.0" />
@@ -93,5 +90,7 @@
 	<earhquake	name="2025.11.26 10:34:21"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4855"	lng="29.1832"	mag="1.6" Depth="8.7" />
 	<earhquake	name="2025.11.26 10:51:49"	lokasyon="KAS ACIKLARI-ANTALYA (AKDENIZ)                    "	lat="36.0347"	lng="29.8858"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2025.11.26 11:18:28"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1260"	lng="28.2987"	mag="1.8" Depth="14.9" />
+	<earhquake	name="2025.11.26 11:30:49"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="36.0825"	lng="28.0890"	mag="2.0" Depth="7.3" />
 	<earhquake	name="2025.11.26 11:40:28"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2032"	lng="28.2352"	mag="1.8" Depth="12.8" />
+	<earhquake	name="2025.11.26 11:53:14"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3160"	lng="27.6743"	mag="1.8" Depth="5.4" />
 </eqlist>
