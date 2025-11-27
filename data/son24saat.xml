@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.26 05:07:11"	lokasyon="TEKKEKOY-SARAYKOY (DENIZLI)                       "	lat="37.9185"	lng="28.7673"	mag="2.1" Depth="6.5" />
-	<earhquake	name="2025.11.26 05:08:26"	lokasyon="TEKKEKOY-SARAYKOY (DENIZLI)                       "	lat="37.9053"	lng="28.7948"	mag="2.2" Depth="16.3" />
-	<earhquake	name="2025.11.26 05:09:10"	lokasyon="KABAAGAC-SARAYKOY (DENIZLI)                       "	lat="37.9255"	lng="28.7593"	mag="2.7" Depth="4.2" />
-	<earhquake	name="2025.11.26 05:24:54"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2603"	lng="28.1172"	mag="1.7" Depth="8.8" />
-	<earhquake	name="2025.11.26 05:45:56"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0467"	lng="37.7120"	mag="2.7" Depth="6.1" />
 	<earhquake	name="2025.11.26 07:09:13"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2072"	lng="28.1617"	mag="3.1" Depth="10.8" />
 	<earhquake	name="2025.11.26 07:27:23"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2038"	lng="28.1555"	mag="2.6" Depth="11.8" />
 	<earhquake	name="2025.11.26 07:45:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2412"	lng="29.0013"	mag="1.5" Depth="14.2" />
@@ -121,5 +116,16 @@
 	<earhquake	name="2025.11.27 03:57:50"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2280"	lng="28.0827"	mag="1.3" Depth="4.5" />
 	<earhquake	name="2025.11.27 04:05:47"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1288"	lng="28.2937"	mag="1.3" Depth="16.7" />
 	<earhquake	name="2025.11.27 04:17:41"	lokasyon="DERE-(KARAMAN)                                    "	lat="37.1170"	lng="33.2505"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2025.11.27 04:33:53"	lokasyon="KARABURCLU-NURDAGI (GAZIANTEP)                    "	lat="37.1377"	lng="36.6875"	mag="1.1" Depth="5.0" />
 	<earhquake	name="2025.11.27 04:51:29"	lokasyon="SENKOY-SIMAV (KUTAHYA)                            "	lat="39.1228"	lng="29.1180"	mag="1.1" Depth="15.8" />
+	<earhquake	name="2025.11.27 05:10:24"	lokasyon="HANPASA-AKHISAR (MANISA)                          "	lat="39.0802"	lng="28.1268"	mag="1.2" Depth="14.2" />
+	<earhquake	name="2025.11.27 05:13:01"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2157"	lng="28.1055"	mag="1.2" Depth="8.9" />
+	<earhquake	name="2025.11.27 05:16:08"	lokasyon="HANPASA-AKHISAR (MANISA)                          "	lat="39.0923"	lng="28.1160"	mag="1.3" Depth="12.9" />
+	<earhquake	name="2025.11.27 05:23:37"	lokasyon="YAZLIK-GOLYAKA (DUZCE)                            "	lat="40.7990"	lng="30.9772"	mag="1.4" Depth="13.2" />
+	<earhquake	name="2025.11.27 05:28:56"	lokasyon="DUTLUCA-GORDES (MANISA)                           "	lat="39.0528"	lng="28.2422"	mag="1.7" Depth="9.2" />
+	<earhquake	name="2025.11.27 05:33:03"	lokasyon="ILICAK-AKCADAG (MALATYA)                          "	lat="38.5018"	lng="38.0495"	mag="1.4" Depth="8.0" />
+	<earhquake	name="2025.11.27 05:43:08"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3702"	lng="37.4848"	mag="1.3" Depth="10.3" />
+	<earhquake	name="2025.11.27 05:47:52"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1993"	lng="28.2118"	mag="2.1" Depth="12.1" />
+	<earhquake	name="2025.11.27 05:57:13"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2538"	lng="29.0157"	mag="1.4" Depth="7.4" />
+	<earhquake	name="2025.11.27 06:00:38"	lokasyon="GOLLUHUYUK-TURKOGLU (KAHRAMANMARAS)               "	lat="37.3865"	lng="36.9203"	mag="1.4" Depth="5.4" />
 </eqlist>
