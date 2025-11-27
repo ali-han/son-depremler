@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.26 22:06:03"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1187"	lng="28.3180"	mag="1.7" Depth="19.5" />
-	<earhquake	name="2025.11.26 22:24:20"	lokasyon="GAZELUSAGI-HASSA (HATAY)                          "	lat="36.8775"	lng="36.4753"	mag="1.5" Depth="9.8" />
-	<earhquake	name="2025.11.26 22:24:33"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1693"	lng="29.0608"	mag="1.3" Depth="12.1" />
-	<earhquake	name="2025.11.26 22:26:00"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3100"	lng="27.6627"	mag="1.8" Depth="3.2" />
-	<earhquake	name="2025.11.26 22:30:28"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2110"	lng="28.1443"	mag="2.1" Depth="7.6" />
 	<earhquake	name="2025.11.26 23:03:00"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1910"	lng="28.1287"	mag="1.8" Depth="7.9" />
 	<earhquake	name="2025.11.26 23:11:40"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1567"	lng="28.1408"	mag="2.0" Depth="10.2" />
 	<earhquake	name="2025.11.26 23:20:47"	lokasyon="AKPINAR-TUFANBEYLI (ADANA)                        "	lat="38.2077"	lng="36.1658"	mag="1.7" Depth="5.0" />
@@ -122,4 +117,5 @@
 	<earhquake	name="2025.11.27 20:54:43"	lokasyon="BADEMLI-EMIRDAG (AFYONKARAHISAR)                  "	lat="38.9397"	lng="31.3932"	mag="1.7" Depth="8.6" />
 	<earhquake	name="2025.11.27 21:19:11"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1498"	lng="28.2940"	mag="1.4" Depth="9.8" />
 	<earhquake	name="2025.11.27 21:38:24"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2003"	lng="28.1653"	mag="2.3" Depth="16.5" />
+	<earhquake	name="2025.11.27 21:47:34"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2190"	lng="28.1198"	mag="1.8" Depth="7.7" />
 </eqlist>
