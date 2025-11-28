@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.27 10:04:56"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2233"	lng="29.0468"	mag="1.6" Depth="5.3" />
-	<earhquake	name="2025.11.27 10:06:42"	lokasyon="ALACALAR-KIRKAGAC (MANISA)                        "	lat="39.2183"	lng="27.8362"	mag="2.1" Depth="5.7" />
 	<earhquake	name="2025.11.27 11:02:07"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2152"	lng="28.2585"	mag="1.8" Depth="6.6" />
 	<earhquake	name="2025.11.27 11:20:54"	lokasyon="KALEKOY-GOKCEADA (CANAKKALE)                      "	lat="40.3700"	lng="25.9003"	mag="1.9" Depth="15.5" />
 	<earhquake	name="2025.11.27 12:10:14"	lokasyon="BASLAMIS-AKHISAR (MANISA)                         "	lat="39.0812"	lng="27.9603"	mag="0.8" Depth="13.5" />
@@ -124,4 +122,7 @@
 	<earhquake	name="2025.11.28 09:14:25"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1173"	lng="28.3542"	mag="1.1" Depth="5.4" />
 	<earhquake	name="2025.11.28 09:20:09"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.5085"	lng="25.8283"	mag="2.0" Depth="13.6" />
 	<earhquake	name="2025.11.28 09:43:29"	lokasyon="CICEKLI-GORDES (MANISA)                           "	lat="39.0652"	lng="28.2140"	mag="1.4" Depth="22.3" />
+	<earhquake	name="2025.11.28 09:56:31"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.2977"	lng="27.6758"	mag="2.4" Depth="5.3" />
+	<earhquake	name="2025.11.28 09:57:28"	lokasyon="SULLER-SINDIRGI (BALIKESIR)                       "	lat="39.3203"	lng="28.1730"	mag="1.5" Depth="5.0" />
+	<earhquake	name="2025.11.28 10:00:23"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1580"	lng="28.1713"	mag="1.8" Depth="11.2" />
 </eqlist>
