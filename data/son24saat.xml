@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.27 11:02:07"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2152"	lng="28.2585"	mag="1.8" Depth="6.6" />
-	<earhquake	name="2025.11.27 11:20:54"	lokasyon="KALEKOY-GOKCEADA (CANAKKALE)                      "	lat="40.3700"	lng="25.9003"	mag="1.9" Depth="15.5" />
-	<earhquake	name="2025.11.27 12:10:14"	lokasyon="BASLAMIS-AKHISAR (MANISA)                         "	lat="39.0812"	lng="27.9603"	mag="0.8" Depth="13.5" />
-	<earhquake	name="2025.11.27 12:10:54"	lokasyon="TUZLA-AYVACIK (CANAKKALE)                         "	lat="39.5835"	lng="26.1007"	mag="1.7" Depth="23.1" />
-	<earhquake	name="2025.11.27 12:43:55"	lokasyon="ADIL-SOMA (MANISA)                                "	lat="39.1173"	lng="27.6190"	mag="1.5" Depth="0.0" />
-	<earhquake	name="2025.11.27 12:48:49"	lokasyon="DURULDU-(MALATYA)                                 "	lat="38.3230"	lng="38.1813"	mag="1.3" Depth="7.9" />
-	<earhquake	name="2025.11.27 12:56:31"	lokasyon="ISIKLAR-BIGADIC (BALIKESIR)                       "	lat="39.4220"	lng="28.1225"	mag="1.3" Depth="8.4" />
 	<earhquake	name="2025.11.27 13:02:36"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2150"	lng="28.0805"	mag="3.4" Depth="13.3" />
 	<earhquake	name="2025.11.27 13:09:54"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2088"	lng="28.0847"	mag="1.8" Depth="9.5" />
 	<earhquake	name="2025.11.27 13:11:58"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1810"	lng="28.3130"	mag="1.5" Depth="10.5" />
@@ -127,4 +120,6 @@
 	<earhquake	name="2025.11.28 10:00:20"	lokasyon="KOZLU-(BOLU)                                      REVIZE01   (2025.11.28 10:00:23)"	lat="40.8023"	lng="31.5868"	mag="2.3" Depth="6.7" />
 	<earhquake	name="2025.11.28 10:20:10"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2078"	lng="28.9855"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2025.11.28 10:38:19"	lokasyon="ILICAK-AKCADAG (MALATYA)                          "	lat="38.5103"	lng="38.0405"	mag="2.4" Depth="5.0" />
+	<earhquake	name="2025.11.28 12:00:55"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1740"	lng="28.1510"	mag="2.8" Depth="14.3" />
+	<earhquake	name="2025.11.28 12:12:46"	lokasyon="KARAOMERLER-SELCUKLU (KONYA)                      "	lat="38.1078"	lng="32.6633"	mag="1.3" Depth="0.0" />
 </eqlist>
