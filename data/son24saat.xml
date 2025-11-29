@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.28 12:00:55"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1740"	lng="28.1510"	mag="2.8" Depth="14.3" />
-	<earhquake	name="2025.11.28 12:12:46"	lokasyon="KARAOMERLER-SELCUKLU (KONYA)                      "	lat="38.1078"	lng="32.6633"	mag="1.3" Depth="0.0" />
-	<earhquake	name="2025.11.28 12:17:38"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1908"	lng="28.2765"	mag="1.9" Depth="5.3" />
-	<earhquake	name="2025.11.28 12:45:27"	lokasyon="CAVUSAGA-KOCASINAN (KAYSERI)                      "	lat="38.8480"	lng="35.6373"	mag="1.8" Depth="3.5" />
 	<earhquake	name="2025.11.28 13:03:28"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1855"	lng="28.3183"	mag="2.2" Depth="10.8" />
 	<earhquake	name="2025.11.28 13:05:14"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1865"	lng="28.3025"	mag="1.2" Depth="4.7" />
 	<earhquake	name="2025.11.28 13:23:43"	lokasyon="PINARCIK-AKHISAR (MANISA)                         "	lat="38.8645"	lng="27.8740"	mag="1.0" Depth="4.4" />
@@ -87,4 +83,9 @@
 	<earhquake	name="2025.11.29 11:30:30"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1352"	lng="28.2538"	mag="1.4" Depth="4.7" />
 	<earhquake	name="2025.11.29 11:35:42"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2213"	lng="28.9642"	mag="2.6" Depth="5.9" />
 	<earhquake	name="2025.11.29 11:47:35"	lokasyon="KISIK-MENDERES (IZMIR)                            "	lat="38.2743"	lng="27.2087"	mag="1.7" Depth="8.2" />
+	<earhquake	name="2025.11.29 11:52:54"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2555"	lng="28.0917"	mag="1.3" Depth="10.1" />
+	<earhquake	name="2025.11.29 11:55:21"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2682"	lng="29.0497"	mag="1.4" Depth="10.5" />
+	<earhquake	name="2025.11.29 11:55:40"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2263"	lng="29.0660"	mag="1.1" Depth="5.0" />
+	<earhquake	name="2025.11.29 12:09:41"	lokasyon="KIRTIL-SILIFKE (MERSIN)                           "	lat="36.2828"	lng="33.7013"	mag="0.8" Depth="0.0" />
+	<earhquake	name="2025.11.29 12:10:04"	lokasyon="ISIKLI-SILIFKE (MERSIN)                           "	lat="36.2805"	lng="33.6862"	mag="0.6" Depth="0.0" />
 </eqlist>
