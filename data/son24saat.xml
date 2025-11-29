@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.28 16:05:30"	lokasyon="PURSUNLER-SINDIRGI (BALIKESIR)                    "	lat="39.2398"	lng="28.2123"	mag="1.1" Depth="18.9" />
-	<earhquake	name="2025.11.28 16:23:20"	lokasyon="SIGIRLIHACI-CUBUK (ANKARA)                        "	lat="40.1503"	lng="32.9148"	mag="1.6" Depth="6.2" />
 	<earhquake	name="2025.11.28 17:20:50"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1878"	lng="28.2530"	mag="2.3" Depth="9.4" />
 	<earhquake	name="2025.11.28 17:25:30"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1838"	lng="28.1803"	mag="1.6" Depth="12.3" />
 	<earhquake	name="2025.11.28 17:54:57"	lokasyon="YENIKOY-KUSADASI (AYDIN)                          "	lat="37.8418"	lng="27.3293"	mag="2.0" Depth="5.6" />
@@ -90,4 +88,5 @@
 	<earhquake	name="2025.11.29 14:36:05"	lokasyon="MARMARA DENIZI                                    "	lat="40.7818"	lng="27.9740"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.11.29 14:52:15"	lokasyon="YOGUNOLUK-GOKSUN (KAHRAMANMARAS)                  "	lat="37.9433"	lng="36.3508"	mag="2.1" Depth="14.3" />
 	<earhquake	name="2025.11.29 15:08:57"	lokasyon="AKCAALAN-GEDIZ (KUTAHYA)                          "	lat="39.0730"	lng="29.3937"	mag="1.6" Depth="15.8" />
+	<earhquake	name="2025.11.29 16:12:43"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1890"	lng="28.1878"	mag="1.6" Depth="10.8" />
 </eqlist>
