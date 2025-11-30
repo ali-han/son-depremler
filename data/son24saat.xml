@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.29 15:08:57"	lokasyon="AKCAALAN-GEDIZ (KUTAHYA)                          "	lat="39.0730"	lng="29.3937"	mag="1.6" Depth="15.8" />
 	<earhquake	name="2025.11.29 16:12:43"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1890"	lng="28.1878"	mag="1.6" Depth="10.8" />
 	<earhquake	name="2025.11.29 16:43:23"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.5945"	lng="26.7690"	mag="2.5" Depth="11.3" />
 	<earhquake	name="2025.11.29 16:52:32"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2180"	lng="29.0095"	mag="1.5" Depth="4.0" />
@@ -119,4 +118,7 @@
 	<earhquake	name="2025.11.30 13:14:25"	lokasyon="CALTIOZU-FETHIYE (MUGLA)                          "	lat="36.5758"	lng="29.2848"	mag="1.9" Depth="3.4" />
 	<earhquake	name="2025.11.30 13:40:42"	lokasyon="OVACIK-KEMALPASA (IZMIR)                          "	lat="38.3663"	lng="27.6612"	mag="1.7" Depth="7.3" />
 	<earhquake	name="2025.11.30 14:14:58"	lokasyon="GOYNUK-GEDIZ (KUTAHYA)                            "	lat="39.0363"	lng="29.6347"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2025.11.30 14:48:43"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1320"	lng="28.2620"	mag="1.4" Depth="9.4" />
+	<earhquake	name="2025.11.30 15:00:20"	lokasyon="DANACAYIRI-SINDIRGI (BALIKESIR)                   "	lat="39.2430"	lng="28.2690"	mag="1.6" Depth="7.0" />
+	<earhquake	name="2025.11.30 15:06:19"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.8208"	lng="29.1145"	mag="1.1" Depth="11.3" />
 </eqlist>
