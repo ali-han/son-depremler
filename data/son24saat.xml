@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.11.30 12:06:00"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1585"	lng="28.1880"	mag="1.6" Depth="13.2" />
-	<earhquake	name="2025.11.30 12:13:26"	lokasyon="GOYNUK-GEDIZ (KUTAHYA)                            "	lat="39.0212"	lng="29.6132"	mag="1.6" Depth="17.2" />
-	<earhquake	name="2025.11.30 12:27:06"	lokasyon="KURUCAY-ZILE (TOKAT)                              "	lat="40.1095"	lng="36.0085"	mag="2.1" Depth="5.8" />
-	<earhquake	name="2025.11.30 12:40:21"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8142"	lng="27.1722"	mag="1.6" Depth="18.3" />
-	<earhquake	name="2025.11.30 12:49:20"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.8703"	lng="28.0338"	mag="1.6" Depth="22.8" />
 	<earhquake	name="2025.11.30 13:14:25"	lokasyon="CALTIOZU-FETHIYE (MUGLA)                          "	lat="36.5758"	lng="29.2848"	mag="1.9" Depth="3.4" />
 	<earhquake	name="2025.11.30 13:40:42"	lokasyon="OVACIK-KEMALPASA (IZMIR)                          "	lat="38.3663"	lng="27.6612"	mag="1.7" Depth="7.3" />
 	<earhquake	name="2025.11.30 14:14:58"	lokasyon="GOYNUK-GEDIZ (KUTAHYA)                            "	lat="39.0363"	lng="29.6347"	mag="1.9" Depth="5.0" />
@@ -130,4 +125,8 @@
 	<earhquake	name="2025.12.01 11:21:28"	lokasyon="DEDEPINARI-(ELAZIG)                               "	lat="38.4903"	lng="39.1713"	mag="1.7" Depth="2.2" />
 	<earhquake	name="2025.12.01 11:23:51"	lokasyon="YUNANISTAN                                        "	lat="41.2483"	lng="24.7068"	mag="2.6" Depth="4.4" />
 	<earhquake	name="2025.12.01 11:33:54"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4705"	lng="28.1157"	mag="1.6" Depth="4.9" />
+	<earhquake	name="2025.12.01 11:36:09"	lokasyon="KUCUKLU-KORKUTELI (ANTALYA)                       "	lat="36.9820"	lng="29.7745"	mag="2.9" Depth="5.0" />
+	<earhquake	name="2025.12.01 11:45:40"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1590"	lng="28.0552"	mag="2.1" Depth="9.9" />
+	<earhquake	name="2025.12.01 11:57:04"	lokasyon="KUM-SOMA (MANISA)                                 "	lat="39.2858"	lng="27.5948"	mag="1.5" Depth="9.2" />
+	<earhquake	name="2025.12.01 12:01:26"	lokasyon="KAZANDERE-GOKSUN (KAHRAMANMARAS)                  "	lat="38.0055"	lng="36.3133"	mag="1.9" Depth="5.0" />
 </eqlist>
