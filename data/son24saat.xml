@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.01 02:07:25"	lokasyon="KARACAOREN-(MUGLA)                                "	lat="37.1360"	lng="28.8368"	mag="1.4" Depth="2.8" />
-	<earhquake	name="2025.12.01 02:20:53"	lokasyon="SUDUGUNU-(BINGOL)                                 "	lat="39.0355"	lng="40.4213"	mag="1.4" Depth="12.2" />
-	<earhquake	name="2025.12.01 02:31:40"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1340"	lng="38.3743"	mag="1.0" Depth="16.5" />
-	<earhquake	name="2025.12.01 02:40:52"	lokasyon="KOCAKAGAN-AKHISAR (MANISA)                        "	lat="39.0702"	lng="28.0405"	mag="1.7" Depth="11.2" />
-	<earhquake	name="2025.12.01 02:44:26"	lokasyon="KULTAK-MILAS (MUGLA)                              "	lat="37.0203"	lng="28.0707"	mag="1.6" Depth="7.9" />
 	<earhquake	name="2025.12.01 03:11:29"	lokasyon="TULLUCE-NURDAGI (GAZIANTEP)                       "	lat="37.1487"	lng="36.8692"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.12.01 04:18:17"	lokasyon="EGE DENIZI                                        "	lat="38.7135"	lng="26.4748"	mag="2.4" Depth="12.7" />
 	<earhquake	name="2025.12.01 04:26:35"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2548"	lng="28.0518"	mag="1.2" Depth="10.7" />
@@ -138,4 +133,8 @@
 	<earhquake	name="2025.12.02 01:22:08"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1880"	lng="28.2197"	mag="1.1" Depth="8.6" />
 	<earhquake	name="2025.12.02 01:25:10"	lokasyon="ORTULUCE-BIGA (CANAKKALE)                         "	lat="40.3755"	lng="27.2460"	mag="0.9" Depth="5.2" />
 	<earhquake	name="2025.12.02 01:36:24"	lokasyon="TEKIR-(KAHRAMANMARAS)                             "	lat="37.9132"	lng="36.6472"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2025.12.02 01:59:09"	lokasyon="SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                "	lat="38.1247"	lng="37.4548"	mag="1.5" Depth="5.0" />
+	<earhquake	name="2025.12.02 02:01:36"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1535"	lng="28.2843"	mag="2.1" Depth="9.4" />
+	<earhquake	name="2025.12.02 02:14:19"	lokasyon="FIRDANLAR-KIRKAGAC (MANISA)                       "	lat="39.2978"	lng="27.8952"	mag="1.7" Depth="2.6" />
+	<earhquake	name="2025.12.02 02:16:58"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9513"	lng="26.0943"	mag="2.2" Depth="7.7" />
 </eqlist>
