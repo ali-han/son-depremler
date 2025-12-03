@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.03 00:10:27"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1683"	lng="28.2305"	mag="1.4" Depth="9.0" />
-	<earhquake	name="2025.12.03 00:12:37"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1942"	lng="28.1705"	mag="1.3" Depth="7.9" />
-	<earhquake	name="2025.12.03 00:14:33"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1258"	lng="28.2183"	mag="1.6" Depth="12.6" />
-	<earhquake	name="2025.12.03 00:35:06"	lokasyon="AKDENIZ                                           "	lat="36.0920"	lng="28.4182"	mag="2.4" Depth="29.0" />
-	<earhquake	name="2025.12.03 00:45:53"	lokasyon="YUNANISTAN                                        "	lat="40.2888"	lng="24.0948"	mag="2.2" Depth="6.6" />
 	<earhquake	name="2025.12.03 01:05:09"	lokasyon="EGE DENIZI                                        "	lat="36.6173"	lng="24.5708"	mag="3.7" Depth="43.1" />
 	<earhquake	name="2025.12.03 01:48:57"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2370"	lng="28.1017"	mag="1.3" Depth="9.6" />
 	<earhquake	name="2025.12.03 01:51:36"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1612"	lng="28.2257"	mag="1.4" Depth="13.1" />
@@ -97,4 +92,7 @@
 	<earhquake	name="2025.12.03 22:35:12"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2368"	lng="28.9395"	mag="1.6" Depth="13.3" />
 	<earhquake	name="2025.12.03 22:49:06"	lokasyon="DUTLUCA-GORDES (MANISA)                           "	lat="39.0438"	lng="28.2585"	mag="2.1" Depth="11.7" />
 	<earhquake	name="2025.12.03 22:55:21"	lokasyon="AKCAKERTIL-KEPSUT (BALIKESIR)                     "	lat="39.5542"	lng="28.2268"	mag="1.4" Depth="5.4" />
+	<earhquake	name="2025.12.03 23:35:21"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2423"	lng="28.9575"	mag="1.7" Depth="12.5" />
+	<earhquake	name="2025.12.03 23:36:46"	lokasyon="TUZLA (ISTANBUL)                                  "	lat="40.8583"	lng="29.3217"	mag="2.2" Depth="8.5" />
+	<earhquake	name="2025.12.03 23:45:26"	lokasyon="ASAGIORUKCU-AKCADAG (MALATYA)                     "	lat="38.4537"	lng="38.0863"	mag="1.8" Depth="3.7" />
 </eqlist>
