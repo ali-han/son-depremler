@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.02 16:04:20"	lokasyon="KERPICLIK-ODEMIS (IZMIR)                          "	lat="38.3135"	lng="27.8223"	mag="1.7" Depth="5.6" />
-	<earhquake	name="2025.12.02 16:13:29"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2250"	lng="28.1005"	mag="2.3" Depth="15.8" />
-	<earhquake	name="2025.12.02 16:36:36"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1988"	lng="28.1833"	mag="1.7" Depth="19.3" />
 	<earhquake	name="2025.12.02 17:06:13"	lokasyon="ALOREN-MECITOZU (CORUM)                           "	lat="40.5805"	lng="35.2168"	mag="2.1" Depth="9.5" />
 	<earhquake	name="2025.12.02 17:08:39"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1920"	lng="28.1388"	mag="1.5" Depth="8.5" />
 	<earhquake	name="2025.12.02 17:09:29"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1067"	lng="28.1913"	mag="1.4" Depth="18.4" />
@@ -111,4 +108,6 @@
 	<earhquake	name="2025.12.03 14:27:46"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.1255"	lng="25.9103"	mag="1.9" Depth="10.6" />
 	<earhquake	name="2025.12.03 14:29:02"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2332"	lng="28.1213"	mag="1.8" Depth="2.1" />
 	<earhquake	name="2025.12.03 15:05:55"	lokasyon="TURKIYE-IRAN SINIR BOLGESI                        "	lat="38.7730"	lng="44.8087"	mag="3.9" Depth="5.0" />
+	<earhquake	name="2025.12.03 15:44:25"	lokasyon="EGE DENIZI                                        "	lat="39.7277"	lng="25.5422"	mag="2.8" Depth="9.9" />
+	<earhquake	name="2025.12.03 16:10:19"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2132"	lng="28.1808"	mag="2.1" Depth="11.9" />
 </eqlist>
