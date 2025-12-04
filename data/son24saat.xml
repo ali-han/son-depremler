@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.03 18:01:01"	lokasyon="KOBASDERE-AKHISAR (MANISA)                        "	lat="39.1550"	lng="27.9892"	mag="1.4" Depth="14.6" />
-	<earhquake	name="2025.12.03 18:02:57"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2655"	lng="28.0293"	mag="1.6" Depth="6.2" />
-	<earhquake	name="2025.12.03 18:09:55"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1965"	lng="28.1677"	mag="1.2" Depth="7.9" />
-	<earhquake	name="2025.12.03 18:33:15"	lokasyon="EGRIDERE-SINDIRGI (BALIKESIR)                     "	lat="39.2642"	lng="27.9718"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.12.03 18:57:14"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.1963"	lng="28.0475"	mag="1.4" Depth="5.1" />
 	<earhquake	name="2025.12.03 19:19:40"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1533"	lng="28.0142"	mag="1.5" Depth="12.8" />
 	<earhquake	name="2025.12.03 19:38:12"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2177"	lng="28.0938"	mag="1.4" Depth="9.1" />
 	<earhquake	name="2025.12.03 19:45:07"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.1243"	lng="25.9010"	mag="2.4" Depth="7.3" />
@@ -122,4 +117,5 @@
 	<earhquake	name="2025.12.04 17:19:16"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.1588"	lng="25.9058"	mag="2.1" Depth="9.5" />
 	<earhquake	name="2025.12.04 17:38:18"	lokasyon="KIZILYAKA-ALTINYAYLA (BURDUR)                     "	lat="36.9887"	lng="29.5165"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2025.12.04 17:45:13"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2288"	lng="28.9392"	mag="1.8" Depth="9.4" />
+	<earhquake	name="2025.12.04 18:12:21"	lokasyon="SARIBIYIK-DOGUBAYAZIT (AGRI)                      "	lat="39.7550"	lng="43.6935"	mag="1.6" Depth="23.5" />
 </eqlist>
