@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.05 07:06:16"	lokasyon="KOCAKAGAN-AKHISAR (MANISA)                        "	lat="39.0955"	lng="28.1000"	mag="1.0" Depth="15.7" />
-	<earhquake	name="2025.12.05 07:14:19"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1935"	lng="28.2758"	mag="1.6" Depth="11.1" />
-	<earhquake	name="2025.12.05 07:15:10"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2230"	lng="28.1240"	mag="1.1" Depth="18.4" />
-	<earhquake	name="2025.12.05 07:25:32"	lokasyon="ILICAK-AKCADAG (MALATYA)                          "	lat="38.4910"	lng="38.0478"	mag="2.3" Depth="4.5" />
 	<earhquake	name="2025.12.05 08:06:33"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1328"	lng="38.4778"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2025.12.05 08:46:32"	lokasyon="MECIDIYE-EZINE (CANAKKALE)                        "	lat="39.8168"	lng="26.2508"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.12.05 08:50:52"	lokasyon="BABAKOY-BIGADIC (BALIKESIR)                       "	lat="39.3953"	lng="28.0160"	mag="1.5" Depth="6.3" />
@@ -118,4 +114,8 @@
 	<earhquake	name="2025.12.06 06:08:21"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2580"	lng="38.2032"	mag="0.8" Depth="16.8" />
 	<earhquake	name="2025.12.06 06:40:24"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1830"	lng="28.1878"	mag="1.4" Depth="9.0" />
 	<earhquake	name="2025.12.06 06:42:02"	lokasyon="KAYAPINAR-BALYA (BALIKESIR)                       "	lat="39.8375"	lng="27.5830"	mag="2.0" Depth="11.5" />
+	<earhquake	name="2025.12.06 06:50:40"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2698"	lng="28.1477"	mag="1.4" Depth="5.0" />
+	<earhquake	name="2025.12.06 06:51:52"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1677"	lng="28.1827"	mag="1.2" Depth="20.0" />
+	<earhquake	name="2025.12.06 06:56:00"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2347"	lng="28.9307"	mag="1.6" Depth="9.0" />
+	<earhquake	name="2025.12.06 07:06:51"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1755"	lng="28.1515"	mag="2.1" Depth="10.4" />
 </eqlist>
