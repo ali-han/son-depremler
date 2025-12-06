@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.06 00:19:23"	lokasyon="VAN GOLU                                          "	lat="38.9297"	lng="43.4350"	mag="2.1" Depth="13.7" />
-	<earhquake	name="2025.12.06 00:24:47"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0018"	lng="25.8890"	mag="2.2" Depth="10.7" />
-	<earhquake	name="2025.12.06 00:51:55"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2157"	lng="28.1123"	mag="1.4" Depth="14.4" />
-	<earhquake	name="2025.12.06 00:53:25"	lokasyon="EGE DENIZI                                        "	lat="36.6323"	lng="25.7532"	mag="2.1" Depth="9.3" />
 	<earhquake	name="2025.12.06 01:01:04"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2217"	lng="29.0350"	mag="1.0" Depth="14.0" />
 	<earhquake	name="2025.12.06 01:04:56"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2552"	lng="28.9670"	mag="1.2" Depth="8.1" />
 	<earhquake	name="2025.12.06 01:08:03"	lokasyon="SABANCILAR-AKHISAR (MANISA)                       "	lat="38.9340"	lng="27.5433"	mag="1.7" Depth="5.2" />
@@ -112,4 +108,6 @@
 	<earhquake	name="2025.12.06 23:03:32"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2250"	lng="28.1623"	mag="1.9" Depth="8.6" />
 	<earhquake	name="2025.12.06 23:08:13"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0260"	lng="25.9763"	mag="2.1" Depth="3.8" />
 	<earhquake	name="2025.12.06 23:14:29"	lokasyon="BOLVADIN (AFYONKARAHISAR)                         "	lat="38.7030"	lng="30.9880"	mag="1.3" Depth="12.1" />
+	<earhquake	name="2025.12.06 23:48:07"	lokasyon="YUNANISTAN                                        "	lat="38.0460"	lng="22.0957"	mag="4.7" Depth="5.0" />
+	<earhquake	name="2025.12.06 23:58:26"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2345"	lng="28.9782"	mag="1.7" Depth="12.7" />
 </eqlist>
