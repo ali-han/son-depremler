@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.07 17:37:52"	lokasyon="CAMLIK-SELCUK (IZMIR)                             "	lat="37.8707"	lng="27.3730"	mag="3.1" Depth="5.0" />
-	<earhquake	name="2025.12.07 17:40:32"	lokasyon="SULTANIYE-SELCUK (IZMIR)                          "	lat="37.8838"	lng="27.3068"	mag="1.6" Depth="4.0" />
-	<earhquake	name="2025.12.07 17:43:30"	lokasyon="TURGUT-ULA (MUGLA)                                "	lat="37.1837"	lng="28.7128"	mag="1.3" Depth="12.1" />
-	<earhquake	name="2025.12.07 17:54:44"	lokasyon="YENIKOY-KUSADASI (AYDIN)                          "	lat="37.8613"	lng="27.3373"	mag="3.7" Depth="4.9" />
-	<earhquake	name="2025.12.07 17:58:50"	lokasyon="OSMANLAR-SINDIRGI (BALIKESIR)                     "	lat="39.2468"	lng="28.3373"	mag="2.8" Depth="7.5" />
-	<earhquake	name="2025.12.07 18:01:52"	lokasyon="SULTANIYE-SELCUK (IZMIR)                          "	lat="37.8770"	lng="27.3227"	mag="2.2" Depth="4.1" />
-	<earhquake	name="2025.12.07 18:21:34"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1647"	lng="28.2575"	mag="1.3" Depth="18.1" />
-	<earhquake	name="2025.12.07 18:31:03"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1417"	lng="28.3670"	mag="1.1" Depth="9.6" />
-	<earhquake	name="2025.12.07 18:57:27"	lokasyon="PETEK-KAYAPINAR (DIYARBAKIR)                      "	lat="38.0610"	lng="40.0488"	mag="1.2" Depth="10.3" />
 	<earhquake	name="2025.12.07 19:00:52"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2008"	lng="28.1638"	mag="1.7" Depth="15.0" />
 	<earhquake	name="2025.12.07 19:08:37"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1075"	lng="28.3258"	mag="1.4" Depth="19.2" />
 	<earhquake	name="2025.12.07 19:18:50"	lokasyon="GULPINAR-AYVACIK (CANAKKALE)                      "	lat="39.5607"	lng="26.0787"	mag="1.6" Depth="14.2" />
@@ -131,4 +122,5 @@
 	<earhquake	name="2025.12.08 15:04:51"	lokasyon="CICEKLI-GORDES (MANISA)                           "	lat="39.0592"	lng="28.1945"	mag="1.6" Depth="10.0" />
 	<earhquake	name="2025.12.08 15:49:11"	lokasyon="SURIYE                                            "	lat="36.3722"	lng="36.8763"	mag="1.9" Depth="14.1" />
 	<earhquake	name="2025.12.08 15:54:16"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.1420"	lng="31.0337"	mag="2.1" Depth="13.2" />
+	<earhquake	name="2025.12.08 17:56:52"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1848"	lng="28.1588"	mag="2.1" Depth="12.7" />
 </eqlist>
