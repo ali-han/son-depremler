@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.08 22:27:19"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1592"	lng="28.2035"	mag="1.5" Depth="14.8" />
-	<earhquake	name="2025.12.08 22:34:15"	lokasyon="AGCASAR-NURHAK (KAHRAMANMARAS)                    "	lat="38.0852"	lng="37.3628"	mag="1.4" Depth="9.5" />
-	<earhquake	name="2025.12.08 22:41:08"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1527"	lng="28.2805"	mag="1.6" Depth="8.9" />
 	<earhquake	name="2025.12.08 23:21:08"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1560"	lng="28.1785"	mag="1.6" Depth="12.0" />
 	<earhquake	name="2025.12.08 23:52:27"	lokasyon="GUCUKSU-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0462"	lng="36.6592"	mag="1.4" Depth="9.2" />
 	<earhquake	name="2025.12.08 23:52:54"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2507"	lng="29.0823"	mag="1.6" Depth="7.5" />
@@ -99,4 +96,6 @@
 	<earhquake	name="2025.12.09 21:24:52"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1685"	lng="28.1475"	mag="1.3" Depth="8.7" />
 	<earhquake	name="2025.12.09 21:39:51"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1753"	lng="28.1783"	mag="2.3" Depth="10.1" />
 	<earhquake	name="2025.12.09 21:45:56"	lokasyon="KILICKAYA-CEYHAN (ADANA)                          "	lat="36.8602"	lng="35.6935"	mag="3.5" Depth="14.8" />
+	<earhquake	name="2025.12.09 22:19:24"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1535"	lng="28.2877"	mag="1.6" Depth="9.4" />
+	<earhquake	name="2025.12.09 22:22:02"	lokasyon="UYANIK-KALE (MALATYA)                             "	lat="38.3323"	lng="38.8493"	mag="2.2" Depth="5.0" />
 </eqlist>
