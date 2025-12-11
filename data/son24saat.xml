@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.10 08:19:21"	lokasyon="AKDENIZ                                           "	lat="35.7677"	lng="35.6873"	mag="2.2" Depth="5.0" />
-	<earhquake	name="2025.12.10 08:22:11"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2508"	lng="28.0633"	mag="1.2" Depth="11.6" />
-	<earhquake	name="2025.12.10 08:53:32"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1788"	lng="28.2290"	mag="1.5" Depth="12.0" />
-	<earhquake	name="2025.12.10 08:54:42"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1923"	lng="28.1390"	mag="1.5" Depth="14.4" />
 	<earhquake	name="2025.12.10 09:04:30"	lokasyon="CAYBUKU (MUGLA)                                   "	lat="37.2465"	lng="28.1650"	mag="1.0" Depth="17.9" />
 	<earhquake	name="2025.12.10 09:25:00"	lokasyon="CAKILLI-SINDIRGI (BALIKESIR)                      "	lat="39.3167"	lng="28.0690"	mag="1.6" Depth="6.1" />
 	<earhquake	name="2025.12.10 09:50:00"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1468"	lng="28.1708"	mag="1.5" Depth="13.1" />
@@ -130,4 +126,5 @@
 	<earhquake	name="2025.12.11 06:56:00"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1265"	lng="28.2922"	mag="1.1" Depth="11.7" />
 	<earhquake	name="2025.12.11 07:20:43"	lokasyon="KAVAKCALI-ULA (MUGLA)                             "	lat="37.1008"	lng="28.6205"	mag="1.8" Depth="9.8" />
 	<earhquake	name="2025.12.11 07:26:14"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1427"	lng="28.2453"	mag="2.2" Depth="9.2" />
+	<earhquake	name="2025.12.11 08:08:57"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1913"	lng="28.3120"	mag="2.6" Depth="9.2" />
 </eqlist>
