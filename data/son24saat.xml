@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.11 23:47:47"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1363"	lng="28.2860"	mag="1.5" Depth="21.5" />
 	<earhquake	name="2025.12.12 00:03:25"	lokasyon="AKDENIZ                                           "	lat="34.8152"	lng="33.7690"	mag="2.5" Depth="45.2" />
 	<earhquake	name="2025.12.12 00:05:25"	lokasyon="TASBURUN-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.1388"	lng="37.2218"	mag="2.4" Depth="6.7" />
 	<earhquake	name="2025.12.12 00:18:30"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3653"	lng="37.4277"	mag="1.4" Depth="12.6" />
@@ -163,4 +162,6 @@
 	<earhquake	name="2025.12.12 22:09:53"	lokasyon="KUMYAZI-MADEN (ELAZIG)                            "	lat="38.5733"	lng="39.6433"	mag="1.6" Depth="7.7" />
 	<earhquake	name="2025.12.12 22:29:11"	lokasyon="KARAPINAR-CAL (DENIZLI)                           "	lat="37.8942"	lng="29.3782"	mag="1.8" Depth="6.3" />
 	<earhquake	name="2025.12.12 22:31:24"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2405"	lng="38.1185"	mag="1.6" Depth="18.2" />
+	<earhquake	name="2025.12.12 23:37:25"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.1818"	lng="25.9630"	mag="3.3" Depth="11.7" />
+	<earhquake	name="2025.12.12 23:39:18"	lokasyon="DUMLU-HEKIMHAN (MALATYA)                          "	lat="38.7725"	lng="37.9650"	mag="1.9" Depth="7.7" />
 </eqlist>
