@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.12 09:24:07"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0873"	lng="28.3515"	mag="1.0" Depth="9.5" />
-	<earhquake	name="2025.12.12 09:31:41"	lokasyon="EYUPLU-SAIMBEYLI (ADANA)                          "	lat="37.9098"	lng="36.1688"	mag="1.9" Depth="4.7" />
-	<earhquake	name="2025.12.12 09:52:00"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1533"	lng="28.2518"	mag="2.1" Depth="11.8" />
-	<earhquake	name="2025.12.12 09:53:32"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1230"	lng="28.2607"	mag="0.7" Depth="5.4" />
 	<earhquake	name="2025.12.12 10:00:37"	lokasyon="GOKCEAHMET-AKHISAR (MANISA)                       "	lat="39.0113"	lng="27.8403"	mag="1.7" Depth="9.1" />
 	<earhquake	name="2025.12.12 10:06:29"	lokasyon="ASLANDEDE-SINDIRGI (BALIKESIR)                    REVIZE01   (2025.12.12 10:06:29)"	lat="39.2002"	lng="28.2832"	mag="1.3" Depth="8.1" />
 	<earhquake	name="2025.12.12 10:38:33"	lokasyon="IPEKYOLU-HEKIMHAN (MALATYA)                       "	lat="38.7373"	lng="37.9808"	mag="1.9" Depth="19.0" />
@@ -142,4 +138,9 @@
 	<earhquake	name="2025.12.13 07:51:34"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1935"	lng="28.3115"	mag="3.5" Depth="12.5" />
 	<earhquake	name="2025.12.13 08:36:58"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1827"	lng="28.2830"	mag="1.6" Depth="12.0" />
 	<earhquake	name="2025.12.13 08:42:45"	lokasyon="HOCABEYLI-ORTAKOY (AKSARAY)                       "	lat="38.7352"	lng="33.9987"	mag="1.4" Depth="9.1" />
+	<earhquake	name="2025.12.13 08:47:23"	lokasyon="AKDENIZ                                           "	lat="36.0162"	lng="28.1465"	mag="1.9" Depth="3.5" />
+	<earhquake	name="2025.12.13 08:51:35"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1872"	lng="28.1662"	mag="1.8" Depth="4.4" />
+	<earhquake	name="2025.12.13 09:08:35"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1817"	lng="28.2180"	mag="2.0" Depth="11.7" />
+	<earhquake	name="2025.12.13 09:15:29"	lokasyon="KOCAKAGAN-AKHISAR (MANISA)                        "	lat="39.0725"	lng="28.0873"	mag="1.2" Depth="18.2" />
+	<earhquake	name="2025.12.13 09:19:59"	lokasyon="CANDIR-SELCUKLU (KONYA)                           "	lat="38.1443"	lng="32.5867"	mag="1.4" Depth="17.6" />
 </eqlist>
