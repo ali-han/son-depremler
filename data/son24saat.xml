@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.13 07:40:27"	lokasyon="CAYGOREN-SINDIRGI (BALIKESIR)                     "	lat="39.2513"	lng="28.1887"	mag="1.4" Depth="15.2" />
-	<earhquake	name="2025.12.13 07:41:22"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2077"	lng="28.1667"	mag="1.6" Depth="5.3" />
-	<earhquake	name="2025.12.13 07:51:34"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1935"	lng="28.3115"	mag="3.5" Depth="12.5" />
 	<earhquake	name="2025.12.13 08:00:07"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1707"	lng="28.3673"	mag="1.2" Depth="7.2" />
 	<earhquake	name="2025.12.13 08:36:58"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1827"	lng="28.2830"	mag="1.6" Depth="12.0" />
 	<earhquake	name="2025.12.13 08:42:45"	lokasyon="HOCABEYLI-ORTAKOY (AKSARAY)                       "	lat="38.7352"	lng="33.9987"	mag="1.4" Depth="9.1" />
@@ -111,4 +108,10 @@
 	<earhquake	name="2025.12.14 05:29:47"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2862"	lng="27.0485"	mag="2.7" Depth="11.7" />
 	<earhquake	name="2025.12.14 05:48:32"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1838"	lng="28.1718"	mag="1.4" Depth="11.4" />
 	<earhquake	name="2025.12.14 05:49:21"	lokasyon="YUKARIORUKCU-AKCADAG (MALATYA)                    "	lat="38.4742"	lng="38.0275"	mag="2.2" Depth="4.0" />
+	<earhquake	name="2025.12.14 06:16:37"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2825"	lng="27.0518"	mag="1.6" Depth="13.9" />
+	<earhquake	name="2025.12.14 06:23:38"	lokasyon="SUDUGUNU-(BINGOL)                                 "	lat="39.0835"	lng="40.4503"	mag="1.6" Depth="5.1" />
+	<earhquake	name="2025.12.14 06:24:16"	lokasyon="SUDUGUNU-(BINGOL)                                 "	lat="39.0382"	lng="40.4355"	mag="1.4" Depth="5.1" />
+	<earhquake	name="2025.12.14 06:30:28"	lokasyon="YAYLAONU-EDREMIT (BALIKESIR)                      "	lat="39.6087"	lng="27.0773"	mag="1.4" Depth="19.0" />
+	<earhquake	name="2025.12.14 06:33:12"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.3045"	lng="27.0330"	mag="1.7" Depth="9.1" />
+	<earhquake	name="2025.12.14 06:35:38"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1840"	lng="28.2570"	mag="2.4" Depth="9.1" />
 </eqlist>
