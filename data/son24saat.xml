@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.13 13:07:42"	lokasyon="KADIKOY-BIGADIC (BALIKESIR)                       "	lat="39.4640"	lng="28.1107"	mag="1.9" Depth="12.8" />
-	<earhquake	name="2025.12.13 13:29:57"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1862"	lng="28.2023"	mag="1.5" Depth="11.7" />
-	<earhquake	name="2025.12.13 13:40:40"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1763"	lng="28.2460"	mag="1.6" Depth="8.1" />
-	<earhquake	name="2025.12.13 13:49:31"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2527"	lng="38.1362"	mag="1.7" Depth="16.6" />
 	<earhquake	name="2025.12.13 14:34:33"	lokasyon="ASAGIORUKCU-AKCADAG (MALATYA)                     "	lat="38.4472"	lng="38.0598"	mag="2.1" Depth="14.5" />
 	<earhquake	name="2025.12.13 14:39:46"	lokasyon="AKDENIZ                                           "	lat="35.7807"	lng="35.6720"	mag="2.9" Depth="16.1" />
 	<earhquake	name="2025.12.13 15:35:19"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4230"	lng="28.8520"	mag="2.4" Depth="9.7" />
@@ -110,4 +106,6 @@
 	<earhquake	name="2025.12.14 11:39:21"	lokasyon="HISARONU-MARMARIS (MUGLA)                         "	lat="36.8253"	lng="28.1157"	mag="2.6" Depth="70.5" />
 	<earhquake	name="2025.12.14 11:41:11"	lokasyon="AYDINCIK ACIKLARI-MERSIN (AKDENIZ)                "	lat="36.0203"	lng="33.5868"	mag="2.2" Depth="9.2" />
 	<earhquake	name="2025.12.14 12:16:57"	lokasyon="KUCUKYAYA-KIRKAGAC (MANISA)                       "	lat="39.1683"	lng="27.7395"	mag="2.0" Depth="0.0" />
+	<earhquake	name="2025.12.14 12:58:28"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1753"	lng="28.0260"	mag="1.9" Depth="9.2" />
+	<earhquake	name="2025.12.14 13:21:23"	lokasyon="GOZLER-(DENIZLI)                                  "	lat="38.1073"	lng="29.1110"	mag="2.3" Depth="7.6" />
 </eqlist>
