@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.14 10:33:12"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1667"	lng="28.2462"	mag="2.3" Depth="10.5" />
 	<earhquake	name="2025.12.14 11:06:11"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1278"	lng="38.4985"	mag="2.3" Depth="1.0" />
 	<earhquake	name="2025.12.14 11:21:51"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1882"	lng="28.3403"	mag="1.6" Depth="7.6" />
 	<earhquake	name="2025.12.14 11:39:21"	lokasyon="HISARONU-MARMARIS (MUGLA)                         "	lat="36.8253"	lng="28.1157"	mag="2.6" Depth="70.5" />
@@ -96,4 +95,7 @@
 	<earhquake	name="2025.12.15 08:43:37"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2253"	lng="28.0770"	mag="1.4" Depth="19.4" />
 	<earhquake	name="2025.12.15 08:48:16"	lokasyon="KARAMOLLAUSAGI-SEREFLIKOCHISAR (ANKARA)           "	lat="38.8253"	lng="33.5692"	mag="1.6" Depth="6.4" />
 	<earhquake	name="2025.12.15 09:08:01"	lokasyon="OGULDERE-(BINGOL)                                 "	lat="39.0475"	lng="40.5090"	mag="1.9" Depth="7.8" />
+	<earhquake	name="2025.12.15 09:43:57"	lokasyon="KUYUCAK-MECITOZU (CORUM)                          "	lat="40.4985"	lng="35.2528"	mag="2.1" Depth="6.8" />
+	<earhquake	name="2025.12.15 10:04:29"	lokasyon="CELEBI (KIRIKKALE)                                "	lat="39.4670"	lng="33.5408"	mag="1.1" Depth="15.2" />
+	<earhquake	name="2025.12.15 10:04:49"	lokasyon="ZAFER-BUCA (IZMIR)                                "	lat="38.3143"	lng="27.2118"	mag="2.0" Depth="15.4" />
 </eqlist>
