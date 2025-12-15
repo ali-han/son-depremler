@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.15 01:00:31"	lokasyon="YUNANISTAN                                        "	lat="40.0525"	lng="23.6490"	mag="2.6" Depth="14.6" />
-	<earhquake	name="2025.12.15 01:01:28"	lokasyon="BAGLICAY-GURUN (SIVAS)                            "	lat="38.8207"	lng="37.4612"	mag="1.5" Depth="8.9" />
-	<earhquake	name="2025.12.15 01:06:14"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1717"	lng="28.1062"	mag="1.4" Depth="8.8" />
-	<earhquake	name="2025.12.15 01:10:34"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1867"	lng="28.1702"	mag="1.1" Depth="7.9" />
-	<earhquake	name="2025.12.15 01:23:25"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1680"	lng="28.3030"	mag="1.2" Depth="9.1" />
-	<earhquake	name="2025.12.15 01:34:27"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0258"	lng="37.4688"	mag="1.7" Depth="6.1" />
-	<earhquake	name="2025.12.15 01:35:22"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1602"	lng="28.1852"	mag="1.3" Depth="9.8" />
-	<earhquake	name="2025.12.15 01:38:21"	lokasyon="AMBARCIK-YAZIHAN (MALATYA)                        "	lat="38.5922"	lng="38.2787"	mag="1.0" Depth="10.4" />
-	<earhquake	name="2025.12.15 01:41:41"	lokasyon="EVCILER-SOMA (MANISA)                             "	lat="39.2333"	lng="27.6898"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.12.15 01:50:42"	lokasyon="CETIBELI-MARMARIS (MUGLA)                         "	lat="37.0145"	lng="28.3147"	mag="1.6" Depth="5.0" />
-	<earhquake	name="2025.12.15 01:54:34"	lokasyon="CETIBELI-MARMARIS (MUGLA)                         "	lat="37.0135"	lng="28.2700"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2025.12.15 01:56:22"	lokasyon="YUNANISTAN                                        "	lat="39.9897"	lng="23.6407"	mag="1.2" Depth="12.5" />
-	<earhquake	name="2025.12.15 01:58:34"	lokasyon="ULUYAZI-HILVAN (SANLIURFA)                        "	lat="37.6390"	lng="38.8447"	mag="1.1" Depth="12.4" />
 	<earhquake	name="2025.12.15 02:00:55"	lokasyon="BOGAZOREN-CINAR (DIYARBAKIR)                      "	lat="37.8615"	lng="40.0843"	mag="1.3" Depth="5.0" />
 	<earhquake	name="2025.12.15 02:02:57"	lokasyon="CETIBELI-MARMARIS (MUGLA)                         "	lat="37.0083"	lng="28.2887"	mag="1.1" Depth="5.0" />
 	<earhquake	name="2025.12.15 02:15:46"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0223"	lng="25.9650"	mag="2.7" Depth="8.4" />
@@ -114,4 +101,6 @@
 	<earhquake	name="2025.12.15 23:24:09"	lokasyon="GURGENDERE-BIGA (CANAKKALE)                       "	lat="40.2863"	lng="27.0230"	mag="1.7" Depth="10.2" />
 	<earhquake	name="2025.12.15 23:26:12"	lokasyon="SELVI-BIGA (CANAKKALE)                            "	lat="40.2782"	lng="27.0713"	mag="1.2" Depth="15.8" />
 	<earhquake	name="2025.12.15 23:49:33"	lokasyon="BUYUKKARABAG-BOLVADIN (AFYONKARAHISAR)            "	lat="38.7745"	lng="31.2077"	mag="1.4" Depth="17.2" />
+	<earhquake	name="2025.12.16 00:41:11"	lokasyon="SELVI-BIGA (CANAKKALE)                            "	lat="40.2718"	lng="27.0538"	mag="1.7" Depth="15.1" />
+	<earhquake	name="2025.12.16 00:46:46"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2917"	lng="27.0355"	mag="1.2" Depth="9.3" />
 </eqlist>
