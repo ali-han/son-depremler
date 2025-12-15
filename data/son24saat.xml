@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.14 11:06:11"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1278"	lng="38.4985"	mag="2.3" Depth="1.0" />
-	<earhquake	name="2025.12.14 11:21:51"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1882"	lng="28.3403"	mag="1.6" Depth="7.6" />
-	<earhquake	name="2025.12.14 11:39:21"	lokasyon="HISARONU-MARMARIS (MUGLA)                         "	lat="36.8253"	lng="28.1157"	mag="2.6" Depth="70.5" />
-	<earhquake	name="2025.12.14 11:41:11"	lokasyon="AYDINCIK ACIKLARI-MERSIN (AKDENIZ)                "	lat="36.0203"	lng="33.5868"	mag="2.2" Depth="9.2" />
 	<earhquake	name="2025.12.14 12:16:57"	lokasyon="KUCUKYAYA-KIRKAGAC (MANISA)                       "	lat="39.1683"	lng="27.7395"	mag="2.0" Depth="0.0" />
 	<earhquake	name="2025.12.14 12:58:28"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1753"	lng="28.0260"	mag="1.9" Depth="9.2" />
 	<earhquake	name="2025.12.14 13:21:23"	lokasyon="GOZLER-(DENIZLI)                                  "	lat="38.1073"	lng="29.1110"	mag="2.3" Depth="7.6" />
@@ -100,4 +96,5 @@
 	<earhquake	name="2025.12.15 10:04:49"	lokasyon="ZAFER-BUCA (IZMIR)                                "	lat="38.3143"	lng="27.2118"	mag="2.0" Depth="15.4" />
 	<earhquake	name="2025.12.15 10:33:26"	lokasyon="DALLITEPE-(BINGOL)                                "	lat="39.0620"	lng="40.5763"	mag="1.6" Depth="16.5" />
 	<earhquake	name="2025.12.15 10:34:44"	lokasyon="KAPLIKAYA-(ELAZIG)                                "	lat="38.7707"	lng="39.1615"	mag="1.4" Depth="4.8" />
+	<earhquake	name="2025.12.15 11:00:50"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1488"	lng="28.2958"	mag="1.6" Depth="8.5" />
 </eqlist>
