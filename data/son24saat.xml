@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.15 22:00:21"	lokasyon="YAGCA-HEKIMHAN (MALATYA)                          "	lat="38.7453"	lng="38.0375"	mag="1.5" Depth="6.6" />
-	<earhquake	name="2025.12.15 22:08:37"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2470"	lng="28.9277"	mag="2.2" Depth="7.6" />
-	<earhquake	name="2025.12.15 22:23:12"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2115"	lng="27.9922"	mag="1.5" Depth="8.8" />
-	<earhquake	name="2025.12.15 22:29:31"	lokasyon="HISARCANDIR-KONYAALTI (ANTALYA)                   "	lat="36.7438"	lng="30.5025"	mag="2.1" Depth="14.0" />
-	<earhquake	name="2025.12.15 22:31:00"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8392"	lng="28.7835"	mag="1.6" Depth="7.9" />
-	<earhquake	name="2025.12.15 22:50:10"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2133"	lng="27.9478"	mag="1.4" Depth="10.1" />
-	<earhquake	name="2025.12.15 22:55:17"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2927"	lng="27.0455"	mag="3.2" Depth="11.9" />
 	<earhquake	name="2025.12.15 23:19:05"	lokasyon="YARBASCANDIR-KONYAALTI (ANTALYA)                  "	lat="36.7637"	lng="30.4095"	mag="2.5" Depth="12.2" />
 	<earhquake	name="2025.12.15 23:22:33"	lokasyon="GURGENDERE-BIGA (CANAKKALE)                       "	lat="40.2815"	lng="27.0210"	mag="1.4" Depth="8.9" />
 	<earhquake	name="2025.12.15 23:24:09"	lokasyon="GURGENDERE-BIGA (CANAKKALE)                       "	lat="40.2863"	lng="27.0230"	mag="1.7" Depth="10.2" />
@@ -138,4 +131,5 @@
 	<earhquake	name="2025.12.16 21:24:06"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2183"	lng="28.9827"	mag="2.0" Depth="4.5" />
 	<earhquake	name="2025.12.16 21:28:19"	lokasyon="BALIKALAN-NURDAGI (GAZIANTEP)                     "	lat="37.3202"	lng="36.8647"	mag="1.8" Depth="4.0" />
 	<earhquake	name="2025.12.16 21:34:45"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2913"	lng="27.0448"	mag="2.7" Depth="5.1" />
+	<earhquake	name="2025.12.16 21:43:07"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2552"	lng="28.9642"	mag="1.9" Depth="5.4" />
 </eqlist>
