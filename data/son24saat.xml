@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.16 10:02:24"	lokasyon="DISBUDAK-LAPSEKI (CANAKKALE)                      "	lat="40.3015"	lng="27.0212"	mag="1.0" Depth="3.4" />
-	<earhquake	name="2025.12.16 10:10:26"	lokasyon="GUNDOGDU-MARMARA (BALIKESIR)                      "	lat="40.5620"	lng="27.5700"	mag="1.8" Depth="14.2" />
-	<earhquake	name="2025.12.16 10:16:45"	lokasyon="TABANLI-(VAN)                                     "	lat="38.7503"	lng="43.3820"	mag="2.4" Depth="7.0" />
-	<earhquake	name="2025.12.16 10:38:00"	lokasyon="HAMZALI-ORHANGAZI (BURSA)                         "	lat="40.5122"	lng="29.2872"	mag="1.4" Depth="0.0" />
-	<earhquake	name="2025.12.16 10:40:53"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2653"	lng="28.1140"	mag="1.1" Depth="15.5" />
-	<earhquake	name="2025.12.16 10:41:38"	lokasyon="ADIGUZEL-(VAN)                                    "	lat="38.6940"	lng="43.4488"	mag="1.5" Depth="21.0" />
 	<earhquake	name="2025.12.16 11:02:41"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1368"	lng="28.1965"	mag="1.2" Depth="17.1" />
 	<earhquake	name="2025.12.16 11:10:29"	lokasyon="CANDIR-SELCUKLU (KONYA)                           "	lat="38.1123"	lng="32.5937"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2025.12.16 11:25:32"	lokasyon="YANISLI-GULNAR (MERSIN)                           "	lat="36.1333"	lng="33.5127"	mag="1.0" Depth="0.0" />
@@ -141,4 +135,6 @@
 	<earhquake	name="2025.12.17 08:41:41"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1903"	lng="28.2315"	mag="1.7" Depth="8.6" />
 	<earhquake	name="2025.12.17 08:46:22"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2437"	lng="28.9850"	mag="1.1" Depth="20.7" />
 	<earhquake	name="2025.12.17 09:02:58"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2703"	lng="28.9468"	mag="1.1" Depth="14.4" />
+	<earhquake	name="2025.12.17 09:51:17"	lokasyon="BALIKLICESME-BIGA (CANAKKALE)                     "	lat="40.2995"	lng="27.0737"	mag="1.3" Depth="18.6" />
+	<earhquake	name="2025.12.17 10:09:33"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2707"	lng="27.0513"	mag="1.5" Depth="21.0" />
 </eqlist>
