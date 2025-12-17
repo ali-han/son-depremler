@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.16 11:02:41"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1368"	lng="28.1965"	mag="1.2" Depth="17.1" />
-	<earhquake	name="2025.12.16 11:10:29"	lokasyon="CANDIR-SELCUKLU (KONYA)                           "	lat="38.1123"	lng="32.5937"	mag="1.5" Depth="0.0" />
-	<earhquake	name="2025.12.16 11:25:32"	lokasyon="YANISLI-GULNAR (MERSIN)                           "	lat="36.1333"	lng="33.5127"	mag="1.0" Depth="0.0" />
-	<earhquake	name="2025.12.16 11:27:38"	lokasyon="CINARDERE-BIGA (CANAKKALE)                        "	lat="40.3043"	lng="27.0468"	mag="1.3" Depth="8.0" />
-	<earhquake	name="2025.12.16 11:43:16"	lokasyon="CANAKCI-KIGI (BINGOL)                             "	lat="39.1515"	lng="40.3140"	mag="2.0" Depth="8.2" />
-	<earhquake	name="2025.12.16 11:53:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2187"	lng="28.9793"	mag="1.1" Depth="17.8" />
 	<earhquake	name="2025.12.16 12:00:00"	lokasyon="DAGISTAN-CEYHAN (ADANA)                           "	lat="37.0958"	lng="35.9842"	mag="1.9" Depth="5.4" />
 	<earhquake	name="2025.12.16 12:02:03"	lokasyon="KOSEFAKILI-AKCAKENT (KIRSEHIR)                    "	lat="39.5752"	lng="34.1453"	mag="1.7" Depth="5.4" />
 	<earhquake	name="2025.12.16 12:04:58"	lokasyon="YOGUNOLUK-MILAS (MUGLA)                           "	lat="37.1402"	lng="27.9827"	mag="1.4" Depth="0.0" />
@@ -139,4 +133,6 @@
 	<earhquake	name="2025.12.17 10:09:33"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2707"	lng="27.0513"	mag="1.5" Depth="21.0" />
 	<earhquake	name="2025.12.17 10:24:08"	lokasyon="PURSUNLER-SINDIRGI (BALIKESIR)                    "	lat="39.2200"	lng="28.2060"	mag="1.4" Depth="7.5" />
 	<earhquake	name="2025.12.17 10:36:33"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1945"	lng="28.1327"	mag="2.5" Depth="10.8" />
+	<earhquake	name="2025.12.17 10:58:29"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2327"	lng="28.0927"	mag="1.3" Depth="10.3" />
+	<earhquake	name="2025.12.17 11:32:49"	lokasyon="CAVDIR-SOMA (MANISA)                              "	lat="39.1803"	lng="27.6902"	mag="1.6" Depth="0.0" />
 </eqlist>
