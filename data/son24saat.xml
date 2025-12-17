@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.16 15:01:25"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1860"	lng="28.2850"	mag="1.5" Depth="7.3" />
-	<earhquake	name="2025.12.16 15:08:49"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1400"	lng="28.3238"	mag="2.6" Depth="14.6" />
-	<earhquake	name="2025.12.16 15:20:32"	lokasyon="GURCESME-BIGA (CANAKKALE)                         "	lat="40.2263"	lng="27.0430"	mag="1.0" Depth="15.9" />
-	<earhquake	name="2025.12.16 15:40:49"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2912"	lng="27.0470"	mag="2.1" Depth="11.1" />
-	<earhquake	name="2025.12.16 15:50:42"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1752"	lng="28.2258"	mag="1.8" Depth="10.9" />
 	<earhquake	name="2025.12.16 16:11:01"	lokasyon="KURSUNLU-AKSU (ANTALYA)                           "	lat="37.0433"	lng="30.8160"	mag="3.8" Depth="86.7" />
 	<earhquake	name="2025.12.16 16:30:08"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2887"	lng="27.0355"	mag="2.0" Depth="12.8" />
 	<earhquake	name="2025.12.16 16:31:00"	lokasyon="HISARLI-BIGA (CANAKKALE)                          "	lat="40.2860"	lng="27.0337"	mag="1.1" Depth="4.7" />
@@ -135,4 +130,7 @@
 	<earhquake	name="2025.12.17 14:09:29"	lokasyon="AKDENIZ                                           "	lat="35.7420"	lng="33.1572"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2025.12.17 14:29:32"	lokasyon="AKDENIZ                                           "	lat="35.6340"	lng="33.1183"	mag="1.7" Depth="27.8" />
 	<earhquake	name="2025.12.17 14:30:59"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1158"	lng="28.1905"	mag="1.2" Depth="13.8" />
+	<earhquake	name="2025.12.17 14:51:28"	lokasyon="AKDENIZ                                           "	lat="35.7592"	lng="33.1408"	mag="1.9" Depth="6.6" />
+	<earhquake	name="2025.12.17 15:18:15"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1810"	lng="28.1592"	mag="2.9" Depth="9.2" />
+	<earhquake	name="2025.12.17 15:21:18"	lokasyon="ILIPINAR-FOCA (IZMIR)                             "	lat="38.6955"	lng="26.9260"	mag="1.6" Depth="2.0" />
 </eqlist>
