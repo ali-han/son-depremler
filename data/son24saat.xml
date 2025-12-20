@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.19 19:03:42"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1528"	lng="28.2680"	mag="1.2" Depth="9.8" />
-	<earhquake	name="2025.12.19 19:17:34"	lokasyon="KEKLIKPINARI-AKCADAG (MALATYA)                    "	lat="38.4870"	lng="37.9978"	mag="1.1" Depth="4.1" />
-	<earhquake	name="2025.12.19 19:27:58"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2035"	lng="28.1020"	mag="1.7" Depth="8.4" />
-	<earhquake	name="2025.12.19 19:49:47"	lokasyon="YENIDAMLAR-KALE (MALATYA)                         "	lat="38.3713"	lng="38.8438"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2025.12.19 19:58:46"	lokasyon="ZEYTINKOY-SELCUK (IZMIR)                          "	lat="37.9678"	lng="27.2248"	mag="1.2" Depth="3.8" />
 	<earhquake	name="2025.12.19 20:22:24"	lokasyon="BOLUKKAYA-PUTURGE (MALATYA)                       "	lat="38.2955"	lng="38.7950"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2025.12.19 20:45:44"	lokasyon="FINDIKKOY-DOGANSEHIR (MALATYA)                    "	lat="38.0897"	lng="37.8023"	mag="1.4" Depth="20.4" />
 	<earhquake	name="2025.12.19 21:10:39"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.5942"	lng="25.9820"	mag="1.8" Depth="6.5" />
@@ -93,4 +88,5 @@
 	<earhquake	name="2025.12.20 17:40:07"	lokasyon="KARAKIRAN-SARAYKOY (DENIZLI)                      "	lat="37.9230"	lng="28.8573"	mag="1.6" Depth="11.9" />
 	<earhquake	name="2025.12.20 17:46:24"	lokasyon="BOYALILAR-AKHISAR (MANISA)                        "	lat="38.8338"	lng="27.9328"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2025.12.20 17:53:18"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1283"	lng="37.0287"	mag="1.7" Depth="5.3" />
+	<earhquake	name="2025.12.20 19:04:52"	lokasyon="YARPUZ-(OSMANIYE)                                 "	lat="37.0163"	lng="36.3885"	mag="2.7" Depth="4.9" />
 </eqlist>
