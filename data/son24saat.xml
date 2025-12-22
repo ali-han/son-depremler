@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.21 19:13:03"	lokasyon="OTMANLAR-KOYCEGIZ (MUGLA)                         "	lat="37.0255"	lng="28.9140"	mag="2.0" Depth="7.9" />
-	<earhquake	name="2025.12.21 19:42:44"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2167"	lng="29.0157"	mag="2.4" Depth="10.8" />
-	<earhquake	name="2025.12.21 19:52:48"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2128"	lng="28.0813"	mag="2.1" Depth="10.2" />
-	<earhquake	name="2025.12.21 19:55:19"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1847"	lng="29.0448"	mag="1.2" Depth="1.7" />
 	<earhquake	name="2025.12.21 20:03:02"	lokasyon="DIKMEN-KARACASU (AYDIN)                           "	lat="37.7222"	lng="28.8987"	mag="1.2" Depth="8.2" />
 	<earhquake	name="2025.12.21 20:07:33"	lokasyon="MOLLAAHMET-BABADAG (DENIZLI)                      "	lat="37.8030"	lng="28.9462"	mag="2.6" Depth="7.1" />
 	<earhquake	name="2025.12.21 20:21:20"	lokasyon="ALTINDERE-(DENIZLI)                               "	lat="37.7977"	lng="28.9545"	mag="1.7" Depth="9.1" />
@@ -100,4 +96,6 @@
 	<earhquake	name="2025.12.22 18:17:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2200"	lng="28.9857"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2025.12.22 18:23:08"	lokasyon="AKDAM-KOZAN (ADANA)                               "	lat="37.5255"	lng="35.6380"	mag="1.5" Depth="9.8" />
 	<earhquake	name="2025.12.22 18:40:21"	lokasyon="ALTINDERE-(DENIZLI)                               "	lat="37.7955"	lng="28.9583"	mag="2.6" Depth="5.1" />
+	<earhquake	name="2025.12.22 18:49:28"	lokasyon="ILICAK-AKCADAG (MALATYA)                          "	lat="38.4810"	lng="38.0597"	mag="1.5" Depth="10.3" />
+	<earhquake	name="2025.12.22 18:58:39"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2175"	lng="28.1472"	mag="1.4" Depth="9.5" />
 </eqlist>
