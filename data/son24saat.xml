@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.23 11:13:39"	lokasyon="GOZELI-SIVRICE (ELAZIG)                           "	lat="38.4317"	lng="39.0865"	mag="2.1" Depth="8.3" />
-	<earhquake	name="2025.12.23 11:42:03"	lokasyon="HACIAHMETOGLU-SIMAV (KUTAHYA)                     "	lat="39.1327"	lng="29.0215"	mag="1.7" Depth="9.0" />
-	<earhquake	name="2025.12.23 11:45:04"	lokasyon="ESMEDERE-SINDIRGI (BALIKESIR)                     "	lat="39.3533"	lng="28.0453"	mag="2.4" Depth="8.0" />
 	<earhquake	name="2025.12.23 12:04:18"	lokasyon="CUKURLAR-IVRINDI (BALIKESIR)                      "	lat="39.4273"	lng="27.4872"	mag="1.6" Depth="28.9" />
 	<earhquake	name="2025.12.23 12:12:40"	lokasyon="TOKAT-HISARCIK (KUTAHYA)                          "	lat="39.2040"	lng="29.0705"	mag="1.0" Depth="11.5" />
 	<earhquake	name="2025.12.23 12:15:38"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2535"	lng="28.0910"	mag="1.5" Depth="5.3" />
@@ -103,4 +100,5 @@
 	<earhquake	name="2025.12.24 10:19:13"	lokasyon="KOBASDERE-AKHISAR (MANISA)                        "	lat="39.1503"	lng="27.9503"	mag="2.4" Depth="3.2" />
 	<earhquake	name="2025.12.24 10:34:44"	lokasyon="ERDEK KORFEZI (MARMARA DENIZI)                    "	lat="40.3675"	lng="27.6738"	mag="1.8" Depth="12.3" />
 	<earhquake	name="2025.12.24 10:46:40"	lokasyon="YASSIOREN-DURSUNBEY (BALIKESIR)                   "	lat="39.4117"	lng="28.8015"	mag="1.5" Depth="9.2" />
+	<earhquake	name="2025.12.24 11:12:53"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1703"	lng="28.2053"	mag="1.1" Depth="5.3" />
 </eqlist>
