@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.24 19:16:21"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2177"	lng="28.1575"	mag="1.8" Depth="8.7" />
-	<earhquake	name="2025.12.24 19:23:00"	lokasyon="CENGELLI-PUTURGE (MALATYA)                        "	lat="38.2472"	lng="38.8707"	mag="2.2" Depth="6.1" />
-	<earhquake	name="2025.12.24 19:25:34"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2410"	lng="38.1748"	mag="1.4" Depth="15.8" />
-	<earhquake	name="2025.12.24 19:39:38"	lokasyon="CANAKCI-DURSUNBEY (BALIKESIR)                     REVIZE01   (2025.12.24 19:39:38)"	lat="39.3775"	lng="28.8463"	mag="1.4" Depth="14.0" />
 	<earhquake	name="2025.12.24 20:22:22"	lokasyon="KAGANLI-TATVAN (BITLIS)                           "	lat="38.3262"	lng="42.6778"	mag="3.0" Depth="4.4" />
 	<earhquake	name="2025.12.24 20:28:17"	lokasyon="KORUKLU-TATVAN (BITLIS)                           "	lat="38.3365"	lng="42.6662"	mag="1.8" Depth="3.7" />
 	<earhquake	name="2025.12.24 21:02:33"	lokasyon="PORTAKALLIK-ULA (MUGLA)                           "	lat="37.0533"	lng="28.4742"	mag="1.5" Depth="11.7" />
@@ -82,4 +78,6 @@
 	<earhquake	name="2025.12.25 18:20:12"	lokasyon="ULA (MUGLA)                                       "	lat="37.1303"	lng="28.4473"	mag="1.7" Depth="24.0" />
 	<earhquake	name="2025.12.25 18:21:00"	lokasyon="YARAS-(MUGLA)                                     "	lat="37.1425"	lng="28.4925"	mag="1.5" Depth="8.1" />
 	<earhquake	name="2025.12.25 18:41:29"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2225"	lng="28.1807"	mag="1.8" Depth="9.8" />
+	<earhquake	name="2025.12.25 19:07:36"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4187"	lng="37.5220"	mag="1.1" Depth="12.0" />
+	<earhquake	name="2025.12.25 19:23:01"	lokasyon="HASANBEYLI-SARICAM (ADANA)                        "	lat="36.9732"	lng="35.5482"	mag="1.9" Depth="7.8" />
 </eqlist>
