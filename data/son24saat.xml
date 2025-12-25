@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.24 20:22:22"	lokasyon="KAGANLI-TATVAN (BITLIS)                           "	lat="38.3262"	lng="42.6778"	mag="3.0" Depth="4.4" />
-	<earhquake	name="2025.12.24 20:28:17"	lokasyon="KORUKLU-TATVAN (BITLIS)                           "	lat="38.3365"	lng="42.6662"	mag="1.8" Depth="3.7" />
 	<earhquake	name="2025.12.24 21:02:33"	lokasyon="PORTAKALLIK-ULA (MUGLA)                           "	lat="37.0533"	lng="28.4742"	mag="1.5" Depth="11.7" />
 	<earhquake	name="2025.12.24 21:08:42"	lokasyon="EGE DENIZI                                        "	lat="36.0653"	lng="25.3518"	mag="2.2" Depth="8.5" />
 	<earhquake	name="2025.12.24 22:07:27"	lokasyon="CALOREN-SEREFLIKOCHISAR (ANKARA)                  "	lat="38.7390"	lng="33.6022"	mag="1.7" Depth="7.6" />
@@ -83,4 +81,8 @@
 	<earhquake	name="2025.12.25 19:23:01"	lokasyon="HASANBEYLI-SARICAM (ADANA)                        "	lat="36.9732"	lng="35.5482"	mag="1.9" Depth="7.8" />
 	<earhquake	name="2025.12.25 19:35:02"	lokasyon="KALEDIBI-HANI (DIYARBAKIR)                        "	lat="38.5412"	lng="40.3693"	mag="1.5" Depth="7.5" />
 	<earhquake	name="2025.12.25 19:43:29"	lokasyon="DENIZLI (DENIZLI)                                 "	lat="37.8198"	lng="29.1320"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2025.12.25 20:00:46"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1782"	lng="28.0820"	mag="1.5" Depth="13.7" />
+	<earhquake	name="2025.12.25 20:03:09"	lokasyon="DENIZLI (DENIZLI)                                 "	lat="37.7970"	lng="29.0977"	mag="1.7" Depth="18.1" />
+	<earhquake	name="2025.12.25 20:03:46"	lokasyon="KAPIKAYA-KOZAN (ADANA)                            "	lat="37.7143"	lng="35.5958"	mag="1.4" Depth="5.4" />
+	<earhquake	name="2025.12.25 20:05:06"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1823"	lng="28.1272"	mag="1.7" Depth="8.6" />
 </eqlist>
