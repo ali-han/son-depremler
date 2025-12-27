@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.26 21:01:26"	lokasyon="MARMARA DENIZI                                    "	lat="40.8202"	lng="28.0825"	mag="2.0" Depth="11.8" />
-	<earhquake	name="2025.12.26 21:39:15"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.0748"	lng="38.4382"	mag="1.8" Depth="13.2" />
-	<earhquake	name="2025.12.26 21:42:06"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1903"	lng="28.1365"	mag="1.5" Depth="8.8" />
 	<earhquake	name="2025.12.26 22:00:50"	lokasyon="MARMARA DENIZI                                    "	lat="40.8032"	lng="28.0708"	mag="2.5" Depth="9.2" />
 	<earhquake	name="2025.12.26 22:29:36"	lokasyon="KOZLUCE-PULUMUR (TUNCELI)                         "	lat="39.4565"	lng="39.9465"	mag="1.9" Depth="5.1" />
 	<earhquake	name="2025.12.26 22:55:11"	lokasyon="BUYUKKUMLA-GEMLIK (BURSA)                         "	lat="40.4673"	lng="29.0927"	mag="1.4" Depth="5.0" />
@@ -70,4 +67,6 @@
 	<earhquake	name="2025.12.27 19:37:55"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1592"	lng="31.7193"	mag="2.2" Depth="11.1" />
 	<earhquake	name="2025.12.27 19:54:12"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2518"	lng="28.0715"	mag="3.1" Depth="11.0" />
 	<earhquake	name="2025.12.27 19:55:27"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2542"	lng="28.0558"	mag="2.5" Depth="6.6" />
+	<earhquake	name="2025.12.27 20:11:01"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2515"	lng="28.0508"	mag="2.4" Depth="8.5" />
+	<earhquake	name="2025.12.27 20:30:43"	lokasyon="SAGIRLAR-ILGAZ (CANKIRI)                          "	lat="40.8853"	lng="33.5458"	mag="2.0" Depth="3.5" />
 </eqlist>
