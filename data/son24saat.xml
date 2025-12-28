@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.27 10:05:30"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1108"	lng="28.2317"	mag="1.5" Depth="16.2" />
-	<earhquake	name="2025.12.27 10:58:42"	lokasyon="KOCAOZU-HEKIMHAN (MALATYA)                        "	lat="38.7570"	lng="37.9737"	mag="2.0" Depth="4.8" />
 	<earhquake	name="2025.12.27 12:10:01"	lokasyon="ORTULU-ISLAHIYE (GAZIANTEP)                       "	lat="37.0805"	lng="36.7053"	mag="2.0" Depth="14.4" />
 	<earhquake	name="2025.12.27 12:46:22"	lokasyon="HASANCELEBI-HEKIMHAN (MALATYA)                    "	lat="38.9433"	lng="37.8922"	mag="1.8" Depth="7.5" />
 	<earhquake	name="2025.12.27 12:50:46"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.4742"	lng="28.1447"	mag="1.9" Depth="25.2" />
@@ -79,4 +77,7 @@
 	<earhquake	name="2025.12.28 09:19:12"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1280"	lng="28.2695"	mag="1.6" Depth="11.0" />
 	<earhquake	name="2025.12.28 09:21:03"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1563"	lng="28.2370"	mag="1.7" Depth="10.3" />
 	<earhquake	name="2025.12.28 09:41:46"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2540"	lng="29.0250"	mag="1.2" Depth="13.3" />
+	<earhquake	name="2025.12.28 10:28:03"	lokasyon="YAYLABELI-(BURDUR)                                "	lat="37.6537"	lng="30.0000"	mag="1.5" Depth="17.9" />
+	<earhquake	name="2025.12.28 10:34:20"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1702"	lng="28.1653"	mag="1.4" Depth="10.0" />
+	<earhquake	name="2025.12.28 10:38:22"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1172"	lng="28.2800"	mag="1.4" Depth="16.4" />
 </eqlist>
