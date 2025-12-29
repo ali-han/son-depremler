@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.29 00:13:58"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1528"	lng="28.2423"	mag="2.3" Depth="9.3" />
-	<earhquake	name="2025.12.29 00:32:04"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2548"	lng="28.9568"	mag="1.6" Depth="7.4" />
-	<earhquake	name="2025.12.29 00:42:45"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1378"	lng="28.2292"	mag="2.6" Depth="9.7" />
-	<earhquake	name="2025.12.29 00:45:06"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1380"	lng="28.2383"	mag="1.7" Depth="11.6" />
 	<earhquake	name="2025.12.29 01:14:40"	lokasyon="GOLBASI (ADIYAMAN)                                "	lat="37.8020"	lng="37.6600"	mag="1.5" Depth="8.0" />
 	<earhquake	name="2025.12.29 01:26:09"	lokasyon="GUNDEGER-PUTURGE (MALATYA)                        "	lat="38.2968"	lng="38.8562"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2025.12.29 01:27:31"	lokasyon="BOLUKDAMLAR-CAGLAYANCERIT (KAHRAMANMARAS)         "	lat="37.6430"	lng="37.3525"	mag="1.8" Depth="5.0" />
@@ -74,4 +70,9 @@
 	<earhquake	name="2025.12.29 22:55:16"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1525"	lng="28.2270"	mag="1.2" Depth="10.9" />
 	<earhquake	name="2025.12.29 22:56:41"	lokasyon="KORU-CINARCIK (YALOVA)                            "	lat="40.6713"	lng="29.1722"	mag="1.5" Depth="6.6" />
 	<earhquake	name="2025.12.29 23:00:24"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1687"	lng="28.4003"	mag="1.0" Depth="19.7" />
+	<earhquake	name="2025.12.29 23:01:06"	lokasyon="GOLCUK-(TOKAT)                                    "	lat="40.5403"	lng="36.5785"	mag="1.4" Depth="12.7" />
+	<earhquake	name="2025.12.29 23:04:32"	lokasyon="CINARPINAR-(KAHRAMANMARAS)                        "	lat="37.6612"	lng="36.5342"	mag="1.2" Depth="7.8" />
+	<earhquake	name="2025.12.29 23:42:07"	lokasyon="TANKOY-KORKUT (MUS)                               "	lat="38.8080"	lng="41.8702"	mag="1.5" Depth="6.9" />
+	<earhquake	name="2025.12.30 00:03:19"	lokasyon="YASSIOREN-DURSUNBEY (BALIKESIR)                   "	lat="39.4258"	lng="28.8178"	mag="1.8" Depth="8.5" />
+	<earhquake	name="2025.12.30 00:04:33"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1570"	lng="28.2008"	mag="1.3" Depth="9.9" />
 </eqlist>
