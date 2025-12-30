@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.29 22:29:36"	lokasyon="KOCAOZU-HEKIMHAN (MALATYA)                        "	lat="38.7588"	lng="37.9695"	mag="1.8" Depth="5.4" />
-	<earhquake	name="2025.12.29 22:30:34"	lokasyon="TURNACIK-DURSUNBEY (BALIKESIR)                    "	lat="39.4345"	lng="28.8288"	mag="1.4" Depth="7.7" />
-	<earhquake	name="2025.12.29 22:47:32"	lokasyon="CINARCIK (YALOVA)                                 "	lat="40.6877"	lng="29.1240"	mag="1.8" Depth="8.8" />
-	<earhquake	name="2025.12.29 22:55:16"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1525"	lng="28.2270"	mag="1.2" Depth="10.9" />
-	<earhquake	name="2025.12.29 22:56:41"	lokasyon="KORU-CINARCIK (YALOVA)                            "	lat="40.6713"	lng="29.1722"	mag="1.5" Depth="6.6" />
 	<earhquake	name="2025.12.29 23:00:24"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1687"	lng="28.4003"	mag="1.0" Depth="19.7" />
 	<earhquake	name="2025.12.29 23:01:06"	lokasyon="GOLCUK-(TOKAT)                                    "	lat="40.5403"	lng="36.5785"	mag="1.4" Depth="12.7" />
 	<earhquake	name="2025.12.29 23:04:32"	lokasyon="CINARPINAR-(KAHRAMANMARAS)                        "	lat="37.6612"	lng="36.5342"	mag="1.2" Depth="7.8" />
@@ -101,4 +96,6 @@
 	<earhquake	name="2025.12.30 20:35:22"	lokasyon="BAKIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.0927"	lng="37.4202"	mag="1.0" Depth="17.1" />
 	<earhquake	name="2025.12.30 20:59:48"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      REVIZE01   (2025.12.30 20:59:55)"	lat="40.1832"	lng="31.7602"	mag="2.2" Depth="7.6" />
 	<earhquake	name="2025.12.30 21:22:44"	lokasyon="CAMIALAN-BIGA (CANAKKALE)                         "	lat="40.1567"	lng="27.3513"	mag="2.1" Depth="12.6" />
+	<earhquake	name="2025.12.30 22:06:55"	lokasyon="SALUR-GORDES (MANISA)                             "	lat="39.0090"	lng="28.3282"	mag="1.5" Depth="17.2" />
+	<earhquake	name="2025.12.30 22:16:56"	lokasyon="CUMALI-BOZKURT (DENIZLI)                          "	lat="37.7462"	lng="29.6075"	mag="1.5" Depth="22.5" />
 </eqlist>
