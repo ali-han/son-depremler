@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.31 08:28:27"	lokasyon="CATALZEYTIN ACIKLARI-KASTAMONU (KARADENIZ)        "	lat="42.1763"	lng="34.6682"	mag="3.3" Depth="5.8" />
 	<earhquake	name="2025.12.31 09:05:58"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.0832"	lng="28.1567"	mag="1.5" Depth="12.8" />
 	<earhquake	name="2025.12.31 09:52:36"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1848"	lng="28.2988"	mag="1.5" Depth="17.1" />
 	<earhquake	name="2025.12.31 09:57:16"	lokasyon="YUNANISTAN                                        "	lat="40.4132"	lng="23.9580"	mag="1.6" Depth="2.4" />
@@ -104,4 +103,6 @@
 	<earhquake	name="2026.01.01 07:25:46"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2598"	lng="28.9842"	mag="1.5" Depth="10.9" />
 	<earhquake	name="2026.01.01 07:37:46"	lokasyon="YOLCUPINAR-SINDIRGI (BALIKESIR)                   "	lat="39.2795"	lng="28.2415"	mag="1.3" Depth="5.4" />
 	<earhquake	name="2026.01.01 07:48:40"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1697"	lng="28.2572"	mag="1.6" Depth="15.1" />
+	<earhquake	name="2026.01.01 07:58:00"	lokasyon="CICEKLI-GORDES (MANISA)                           "	lat="39.0658"	lng="28.2023"	mag="1.9" Depth="9.7" />
+	<earhquake	name="2026.01.01 08:13:01"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1970"	lng="28.1323"	mag="1.4" Depth="14.6" />
 </eqlist>
