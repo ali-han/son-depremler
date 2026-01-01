@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2025.12.31 12:34:03"	lokasyon="DENIZKOY-DIKILI (IZMIR)                           "	lat="38.9522"	lng="26.8622"	mag="1.8" Depth="12.8" />
-	<earhquake	name="2025.12.31 12:59:20"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        REVIZE01   (2025.12.31 12:59:20)"	lat="39.4735"	lng="28.1668"	mag="1.8" Depth="9.5" />
 	<earhquake	name="2025.12.31 13:12:38"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0567"	lng="37.5503"	mag="1.7" Depth="5.8" />
 	<earhquake	name="2025.12.31 13:15:43"	lokasyon="KUCUKYAPALAK-ELBISTAN (KAHRAMANMARAS)             "	lat="38.2968"	lng="37.2402"	mag="1.5" Depth="4.6" />
 	<earhquake	name="2025.12.31 13:21:27"	lokasyon="KORKMAZ-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0727"	lng="36.7838"	mag="1.9" Depth="5.4" />
@@ -100,4 +98,5 @@
 	<earhquake	name="2026.01.01 11:17:36"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1563"	lng="28.3175"	mag="1.6" Depth="10.6" />
 	<earhquake	name="2026.01.01 11:24:05"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1970"	lng="28.2583"	mag="1.5" Depth="13.1" />
 	<earhquake	name="2026.01.01 11:30:50"	lokasyon="SULLER-SINDIRGI (BALIKESIR)                       "	lat="39.3398"	lng="28.1718"	mag="1.7" Depth="12.0" />
+	<earhquake	name="2026.01.01 11:49:56"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1545"	lng="28.2355"	mag="3.0" Depth="13.0" />
 </eqlist>
