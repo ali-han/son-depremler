@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.01 08:13:01"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1970"	lng="28.1323"	mag="1.4" Depth="14.6" />
-	<earhquake	name="2026.01.01 08:35:17"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2407"	lng="28.9935"	mag="1.9" Depth="5.3" />
-	<earhquake	name="2026.01.01 08:52:20"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1938"	lng="28.1468"	mag="2.3" Depth="9.7" />
-	<earhquake	name="2026.01.01 08:55:49"	lokasyon="BALLIOZ-(HATAY)                                   "	lat="36.2137"	lng="36.0978"	mag="0.9" Depth="4.5" />
 	<earhquake	name="2026.01.01 09:13:54"	lokasyon="MUDANYA (BURSA)                                   "	lat="40.3937"	lng="28.8727"	mag="1.3" Depth="8.9" />
 	<earhquake	name="2026.01.01 09:39:18"	lokasyon="CALTILI-SINDIRGI (BALIKESIR)                      "	lat="39.2478"	lng="28.2285"	mag="1.6" Depth="10.2" />
 	<earhquake	name="2026.01.01 09:48:14"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1900"	lng="28.0912"	mag="1.2" Depth="9.1" />
@@ -116,4 +112,6 @@
 	<earhquake	name="2026.01.02 07:00:19"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1557"	lng="28.2177"	mag="1.8" Depth="14.2" />
 	<earhquake	name="2026.01.02 07:48:23"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2425"	lng="27.9972"	mag="1.7" Depth="14.0" />
 	<earhquake	name="2026.01.02 07:51:02"	lokasyon="YASSIOREN-DURSUNBEY (BALIKESIR)                   "	lat="39.4062"	lng="28.8068"	mag="1.9" Depth="5.5" />
+	<earhquake	name="2026.01.02 07:56:08"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2163"	lng="28.1785"	mag="1.4" Depth="11.5" />
+	<earhquake	name="2026.01.02 08:19:37"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2008"	lng="28.2345"	mag="1.5" Depth="12.4" />
 </eqlist>
