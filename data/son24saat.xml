@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.02 20:47:12"	lokasyon="KIYRA-ULA (MUGLA)                                 "	lat="37.0818"	lng="28.5417"	mag="1.1" Depth="18.4" />
-	<earhquake	name="2026.01.02 20:51:06"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.8742"	lng="27.4638"	mag="1.2" Depth="8.1" />
 	<earhquake	name="2026.01.02 22:35:00"	lokasyon="MARMARA DENIZI                                    "	lat="40.7775"	lng="27.9818"	mag="2.2" Depth="11.8" />
 	<earhquake	name="2026.01.02 22:40:03"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1673"	lng="28.3195"	mag="1.4" Depth="12.4" />
 	<earhquake	name="2026.01.02 22:41:26"	lokasyon="CUKURBAG-MUT (MERSIN)                             "	lat="36.7558"	lng="33.6202"	mag="1.6" Depth="7.0" />
@@ -99,4 +97,6 @@
 	<earhquake	name="2026.01.03 18:50:59"	lokasyon="DAGOBA-BAYRAMIC (CANAKKALE)                       "	lat="39.7262"	lng="26.8927"	mag="1.9" Depth="8.5" />
 	<earhquake	name="2026.01.03 19:20:29"	lokasyon="GUNEY-SIMAV (KUTAHYA)                             "	lat="39.1645"	lng="28.9138"	mag="1.6" Depth="18.9" />
 	<earhquake	name="2026.01.03 19:39:14"	lokasyon="UZUNHUSEYIN-KALE (MALATYA)                        "	lat="38.3233"	lng="38.8933"	mag="1.5" Depth="7.3" />
+	<earhquake	name="2026.01.03 20:02:35"	lokasyon="YENIKOY-KAS (ANTALYA)                             "	lat="36.1525"	lng="29.5518"	mag="2.3" Depth="53.4" />
+	<earhquake	name="2026.01.03 20:26:25"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.0920"	lng="38.4280"	mag="2.4" Depth="9.7" />
 </eqlist>
