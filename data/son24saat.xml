@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.03 23:44:13"	lokasyon="TOPALLI-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.2683"	lng="37.6223"	mag="1.8" Depth="2.7" />
 	<earhquake	name="2026.01.04 00:12:05"	lokasyon="TEPEKOY-KALE (MALATYA)                            "	lat="38.3693"	lng="38.7597"	mag="1.5" Depth="1.5" />
 	<earhquake	name="2026.01.04 01:26:44"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="35.1103"	lng="24.6153"	mag="3.1" Depth="11.4" />
 	<earhquake	name="2026.01.04 01:40:24"	lokasyon="KURUCAOVA-DOGANSEHIR (MALATYA)                    "	lat="37.9672"	lng="38.1465"	mag="1.6" Depth="4.4" />
@@ -88,4 +87,7 @@
 	<earhquake	name="2026.01.04 21:14:32"	lokasyon="GUPLUCE-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.1100"	lng="37.1507"	mag="1.6" Depth="3.3" />
 	<earhquake	name="2026.01.04 21:36:15"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0267"	lng="25.9150"	mag="2.4" Depth="8.2" />
 	<earhquake	name="2026.01.04 21:52:51"	lokasyon="TOLUKLAR-BAYRAMIC (CANAKKALE)                     "	lat="39.7815"	lng="26.8515"	mag="1.5" Depth="20.1" />
+	<earhquake	name="2026.01.04 23:09:48"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2615"	lng="29.0005"	mag="2.5" Depth="3.6" />
+	<earhquake	name="2026.01.04 23:13:27"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2555"	lng="29.0247"	mag="2.0" Depth="10.4" />
+	<earhquake	name="2026.01.04 23:21:50"	lokasyon="EGE DENIZI                                        "	lat="35.6805"	lng="25.8613"	mag="2.1" Depth="22.1" />
 </eqlist>
