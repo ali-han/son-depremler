@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.04 07:07:38"	lokasyon="KUCUKLU-DOGANSEHIR (MALATYA)                      "	lat="38.0252"	lng="37.6812"	mag="3.4" Depth="5.0" />
-	<earhquake	name="2026.01.04 07:13:48"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2412"	lng="28.0797"	mag="1.7" Depth="12.8" />
-	<earhquake	name="2026.01.04 07:43:47"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0042"	lng="25.8952"	mag="2.9" Depth="4.7" />
-	<earhquake	name="2026.01.04 07:50:20"	lokasyon="AKKOY ACIKLARI-AYDIN (EGE DENIZI)                 "	lat="37.5280"	lng="27.1465"	mag="1.9" Depth="4.7" />
 	<earhquake	name="2026.01.04 08:00:53"	lokasyon="TIRKAZ-SARAYKOY (DENIZLI)                         "	lat="37.8955"	lng="28.7770"	mag="2.0" Depth="10.1" />
 	<earhquake	name="2026.01.04 08:04:46"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1098"	lng="28.2717"	mag="1.8" Depth="14.3" />
 	<earhquake	name="2026.01.04 08:08:47"	lokasyon="AKPINAR-CAMELI (DENIZLI)                          "	lat="36.9825"	lng="29.1105"	mag="1.9" Depth="19.9" />
@@ -91,4 +87,10 @@
 	<earhquake	name="2026.01.05 05:26:16"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0297"	lng="25.8813"	mag="2.1" Depth="3.2" />
 	<earhquake	name="2026.01.05 05:28:17"	lokasyon="YUNANISTAN                                        "	lat="40.2727"	lng="24.0845"	mag="2.0" Depth="11.0" />
 	<earhquake	name="2026.01.05 05:50:00"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2065"	lng="28.0185"	mag="1.9" Depth="10.7" />
+	<earhquake	name="2026.01.05 06:23:11"	lokasyon="KARSIYAKA-PUTURGE (MALATYA)                       "	lat="38.2528"	lng="38.8003"	mag="1.0" Depth="5.4" />
+	<earhquake	name="2026.01.05 06:30:00"	lokasyon="TANKOY-KORKUT (MUS)                               "	lat="38.7792"	lng="41.8665"	mag="1.4" Depth="9.7" />
+	<earhquake	name="2026.01.05 06:45:23"	lokasyon="PIRSULTANLI-DUZICI (OSMANIYE)                     "	lat="37.2908"	lng="36.3098"	mag="1.4" Depth="4.5" />
+	<earhquake	name="2026.01.05 06:55:40"	lokasyon="EGE DENIZI                                        "	lat="39.8655"	lng="25.9185"	mag="1.4" Depth="3.7" />
+	<earhquake	name="2026.01.05 07:19:16"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0103"	lng="25.9278"	mag="2.8" Depth="15.2" />
+	<earhquake	name="2026.01.05 07:24:46"	lokasyon="TORBALI (IZMIR)                                   "	lat="38.1505"	lng="27.3728"	mag="2.3" Depth="7.3" />
 </eqlist>
