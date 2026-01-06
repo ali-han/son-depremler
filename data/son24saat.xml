@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.05 18:06:12"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2665"	lng="28.9657"	mag="1.3" Depth="9.0" />
-	<earhquake	name="2026.01.05 18:47:34"	lokasyon="TOHUMLU-(ELAZIG)                                  "	lat="38.5665"	lng="39.1088"	mag="1.1" Depth="12.3" />
-	<earhquake	name="2026.01.05 18:47:53"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0225"	lng="25.9380"	mag="2.5" Depth="5.5" />
 	<earhquake	name="2026.01.05 19:18:38"	lokasyon="EGE DENIZI                                        "	lat="38.3953"	lng="25.2937"	mag="2.8" Depth="6.1" />
 	<earhquake	name="2026.01.05 19:28:59"	lokasyon="UGURCAYIRI-AYAS (ANKARA)                          "	lat="40.0110"	lng="32.2780"	mag="1.6" Depth="3.0" />
 	<earhquake	name="2026.01.05 19:55:54"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1227"	lng="37.0477"	mag="1.9" Depth="2.0" />
@@ -100,4 +97,5 @@
 	<earhquake	name="2026.01.06 16:16:27"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9978"	lng="25.8753"	mag="2.4" Depth="1.4" />
 	<earhquake	name="2026.01.06 17:23:13"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1640"	lng="28.0583"	mag="1.5" Depth="17.5" />
 	<earhquake	name="2026.01.06 17:41:11"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2977"	lng="37.7593"	mag="1.3" Depth="18.0" />
+	<earhquake	name="2026.01.06 18:01:06"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2500"	lng="38.2005"	mag="1.5" Depth="8.5" />
 </eqlist>
