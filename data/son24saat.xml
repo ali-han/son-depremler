@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.05 19:18:38"	lokasyon="EGE DENIZI                                        "	lat="38.3953"	lng="25.2937"	mag="2.8" Depth="6.1" />
-	<earhquake	name="2026.01.05 19:28:59"	lokasyon="UGURCAYIRI-AYAS (ANKARA)                          "	lat="40.0110"	lng="32.2780"	mag="1.6" Depth="3.0" />
-	<earhquake	name="2026.01.05 19:55:54"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1227"	lng="37.0477"	mag="1.9" Depth="2.0" />
-	<earhquake	name="2026.01.05 19:57:14"	lokasyon="MARMARA DENIZI                                    "	lat="40.8653"	lng="28.0620"	mag="1.4" Depth="19.5" />
 	<earhquake	name="2026.01.05 20:26:14"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2328"	lng="29.0112"	mag="1.7" Depth="10.9" />
 	<earhquake	name="2026.01.05 20:35:54"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2397"	lng="28.1607"	mag="1.3" Depth="7.7" />
 	<earhquake	name="2026.01.05 20:41:40"	lokasyon="CINARPINAR-(KAHRAMANMARAS)                        "	lat="37.7257"	lng="36.6043"	mag="2.6" Depth="8.3" />
@@ -102,4 +98,5 @@
 	<earhquake	name="2026.01.06 18:12:52"	lokasyon="KARACA-MARMARIS (MUGLA)                           "	lat="36.9227"	lng="28.1892"	mag="2.7" Depth="6.4" />
 	<earhquake	name="2026.01.06 18:13:38"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2217"	lng="28.1537"	mag="2.9" Depth="8.8" />
 	<earhquake	name="2026.01.06 18:32:35"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0017"	lng="25.9295"	mag="2.6" Depth="5.4" />
+	<earhquake	name="2026.01.06 19:23:26"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0038"	lng="25.9548"	mag="2.4" Depth="9.3" />
 </eqlist>
