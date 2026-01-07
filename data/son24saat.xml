@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.07 02:09:57"	lokasyon="KARAAGAC-(KARABUK)                                "	lat="41.0632"	lng="32.4600"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2026.01.07 02:17:46"	lokasyon="KURTPINAR-CEYHAN (ADANA)                          "	lat="36.9030"	lng="35.9348"	mag="1.4" Depth="10.4" />
-	<earhquake	name="2026.01.07 02:36:44"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0518"	lng="25.9863"	mag="1.9" Depth="9.2" />
-	<earhquake	name="2026.01.07 02:51:43"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1865"	lng="28.2242"	mag="2.3" Depth="5.3" />
 	<earhquake	name="2026.01.07 03:04:41"	lokasyon="KARAAGIL-HISARCIK (KUTAHYA)                       "	lat="39.2298"	lng="29.0888"	mag="1.5" Depth="7.9" />
 	<earhquake	name="2026.01.07 03:14:52"	lokasyon="GOKCEOREN-ORTA (CANKIRI)                          "	lat="40.5388"	lng="33.0375"	mag="2.4" Depth="1.1" />
 	<earhquake	name="2026.01.07 03:17:46"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0513"	lng="25.9288"	mag="2.1" Depth="13.8" />
@@ -105,4 +101,5 @@
 	<earhquake	name="2026.01.08 00:53:55"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1650"	lng="28.2275"	mag="1.9" Depth="12.1" />
 	<earhquake	name="2026.01.08 00:54:07"	lokasyon="KAVALA-(TRABZON)                                  "	lat="40.9560"	lng="39.7695"	mag="2.2" Depth="8.7" />
 	<earhquake	name="2026.01.08 01:00:15"	lokasyon="AGCASAR-NURHAK (KAHRAMANMARAS)                    "	lat="38.0507"	lng="37.4352"	mag="0.9" Depth="2.8" />
+	<earhquake	name="2026.01.08 01:11:42"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1885"	lng="28.2793"	mag="1.0" Depth="10.4" />
 </eqlist>
