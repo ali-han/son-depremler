@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.06 16:12:22"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1752"	lng="28.1602"	mag="1.9" Depth="12.1" />
-	<earhquake	name="2026.01.06 16:16:27"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9978"	lng="25.8753"	mag="2.4" Depth="1.4" />
 	<earhquake	name="2026.01.06 17:23:13"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1640"	lng="28.0583"	mag="1.5" Depth="17.5" />
 	<earhquake	name="2026.01.06 17:41:11"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2977"	lng="37.7593"	mag="1.3" Depth="18.0" />
 	<earhquake	name="2026.01.06 18:01:06"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2500"	lng="38.2005"	mag="1.5" Depth="8.5" />
@@ -99,4 +97,8 @@
 	<earhquake	name="2026.01.07 15:18:38"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2147"	lng="28.1578"	mag="2.6" Depth="10.4" />
 	<earhquake	name="2026.01.07 15:18:57"	lokasyon="EGE DENIZI                                        "	lat="35.7717"	lng="25.0733"	mag="2.6" Depth="12.1" />
 	<earhquake	name="2026.01.07 15:28:27"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2402"	lng="28.0612"	mag="2.0" Depth="8.4" />
+	<earhquake	name="2026.01.07 15:32:22"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0297"	lng="25.8998"	mag="2.0" Depth="13.4" />
+	<earhquake	name="2026.01.07 15:38:20"	lokasyon="KARAKUYU-SAIMBEYLI (ADANA)                        "	lat="37.8403"	lng="36.2103"	mag="1.9" Depth="7.6" />
+	<earhquake	name="2026.01.07 15:41:51"	lokasyon="HEKIMHAN (MALATYA)                                "	lat="38.7920"	lng="37.9398"	mag="1.8" Depth="9.9" />
+	<earhquake	name="2026.01.07 16:11:04"	lokasyon="AYAS-ERDEMLI (MERSIN)                             "	lat="36.4940"	lng="34.1782"	mag="2.0" Depth="0.0" />
 </eqlist>
