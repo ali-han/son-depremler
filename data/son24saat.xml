@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.08 13:08:08"	lokasyon="KADIKOY (ISTANBUL)                                "	lat="41.0027"	lng="29.0577"	mag="1.1" Depth="0.0" />
-	<earhquake	name="2026.01.08 13:37:21"	lokasyon="KIBRIS-BESPARMAK                                  "	lat="35.2848"	lng="33.4242"	mag="1.7" Depth="0.0" />
-	<earhquake	name="2026.01.08 13:55:16"	lokasyon="CENGER-FETHIYE (MUGLA)                            "	lat="36.7943"	lng="29.0848"	mag="1.9" Depth="15.5" />
-	<earhquake	name="2026.01.08 13:58:32"	lokasyon="AYDINOCAK-GEVAS (VAN)                             "	lat="38.4100"	lng="42.8605"	mag="2.1" Depth="17.6" />
 	<earhquake	name="2026.01.08 14:24:34"	lokasyon="CIKRIKCI-SINDIRGI (BALIKESIR)                     "	lat="39.1830"	lng="28.3882"	mag="1.5" Depth="4.1" />
 	<earhquake	name="2026.01.08 14:25:18"	lokasyon="AKDENIZ                                           "	lat="34.6750"	lng="32.5292"	mag="3.3" Depth="4.0" />
 	<earhquake	name="2026.01.08 14:42:46"	lokasyon="YESILOVACIK-SILIFKE (MERSIN)                      "	lat="36.1990"	lng="33.6965"	mag="1.3" Depth="0.0" />
@@ -78,4 +74,5 @@
 	<earhquake	name="2026.01.09 11:17:42"	lokasyon="CAMLICA-(KAHRAMANMARAS)                           "	lat="37.9440"	lng="36.6970"	mag="3.9" Depth="5.6" />
 	<earhquake	name="2026.01.09 12:00:17"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2250"	lng="28.0022"	mag="2.5" Depth="9.0" />
 	<earhquake	name="2026.01.09 12:08:57"	lokasyon="TEKIR-(KAHRAMANMARAS)                             "	lat="37.9092"	lng="36.6620"	mag="2.1" Depth="8.2" />
+	<earhquake	name="2026.01.09 12:23:50"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1875"	lng="28.0740"	mag="1.5" Depth="11.9" />
 </eqlist>
