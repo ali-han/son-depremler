@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.09 02:02:11"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2322"	lng="28.0740"	mag="1.2" Depth="8.8" />
-	<earhquake	name="2026.01.09 02:15:13"	lokasyon="KARSIYAKA-PUTURGE (MALATYA)                       "	lat="38.2808"	lng="38.7710"	mag="0.8" Depth="12.6" />
-	<earhquake	name="2026.01.09 02:39:07"	lokasyon="YESILDERE-BIGADIC (BALIKESIR)                     "	lat="39.4777"	lng="27.9707"	mag="1.5" Depth="9.3" />
 	<earhquake	name="2026.01.09 03:08:40"	lokasyon="SAHINKAYASI-(KAHRAMANMARAS)                       "	lat="37.8450"	lng="36.6963"	mag="1.8" Depth="6.1" />
 	<earhquake	name="2026.01.09 03:13:54"	lokasyon="DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               "	lat="38.2038"	lng="37.3398"	mag="1.8" Depth="2.9" />
 	<earhquake	name="2026.01.09 03:15:44"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.2475"	lng="31.6522"	mag="2.3" Depth="87.6" />
@@ -96,4 +93,6 @@
 	<earhquake	name="2026.01.10 00:39:04"	lokasyon="YARAS-(MUGLA)                                     "	lat="37.1390"	lng="28.4472"	mag="2.4" Depth="6.5" />
 	<earhquake	name="2026.01.10 00:48:27"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1992"	lng="28.1238"	mag="1.2" Depth="4.9" />
 	<earhquake	name="2026.01.10 01:10:16"	lokasyon="BAKIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1227"	lng="37.4200"	mag="1.4" Depth="10.2" />
+	<earhquake	name="2026.01.10 02:12:43"	lokasyon="HIMMETLI-SAIMBEYLI (ADANA)                        "	lat="37.8493"	lng="36.0447"	mag="1.3" Depth="7.5" />
+	<earhquake	name="2026.01.10 02:22:14"	lokasyon="YENIKARAKOY-(DUZCE)                               "	lat="40.7915"	lng="31.0912"	mag="1.3" Depth="14.7" />
 </eqlist>
