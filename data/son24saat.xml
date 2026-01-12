@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.11 10:09:29"	lokasyon="EGE DENIZI                                        "	lat="36.3440"	lng="25.4917"	mag="3.4" Depth="6.2" />
 	<earhquake	name="2026.01.11 12:03:57"	lokasyon="EGE DENIZI                                        "	lat="39.0945"	lng="25.8460"	mag="2.5" Depth="2.5" />
 	<earhquake	name="2026.01.11 12:06:14"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2715"	lng="38.1547"	mag="2.6" Depth="3.2" />
 	<earhquake	name="2026.01.11 12:30:48"	lokasyon="ELBISTAN (KAHRAMANMARAS)                          "	lat="38.2122"	lng="37.1887"	mag="1.6" Depth="7.4" />
@@ -81,4 +80,6 @@
 	<earhquake	name="2026.01.12 08:31:37"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2467"	lng="28.9267"	mag="1.3" Depth="10.6" />
 	<earhquake	name="2026.01.12 08:56:03"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1505"	lng="28.2647"	mag="1.4" Depth="10.7" />
 	<earhquake	name="2026.01.12 09:01:09"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.4175"	lng="26.1902"	mag="2.1" Depth="8.6" />
+	<earhquake	name="2026.01.12 09:56:07"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2458"	lng="28.9460"	mag="1.3" Depth="9.2" />
+	<earhquake	name="2026.01.12 10:15:15"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0395"	lng="37.6368"	mag="1.3" Depth="10.3" />
 </eqlist>
