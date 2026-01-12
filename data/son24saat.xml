@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.11 15:03:58"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1323"	lng="28.0963"	mag="0.9" Depth="19.4" />
-	<earhquake	name="2026.01.11 15:11:49"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2427"	lng="28.1242"	mag="1.1" Depth="19.5" />
-	<earhquake	name="2026.01.11 15:14:56"	lokasyon="AKYAR-(OSMANIYE)                                  "	lat="37.0457"	lng="36.2218"	mag="1.7" Depth="7.0" />
-	<earhquake	name="2026.01.11 15:16:11"	lokasyon="HEKIMHAN (MALATYA)                                "	lat="38.7898"	lng="37.9445"	mag="2.0" Depth="2.1" />
-	<earhquake	name="2026.01.11 15:21:21"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4582"	lng="26.3042"	mag="1.3" Depth="15.1" />
 	<earhquake	name="2026.01.11 16:15:04"	lokasyon="YUNANISTAN                                        "	lat="40.3452"	lng="24.0848"	mag="2.1" Depth="16.2" />
 	<earhquake	name="2026.01.11 17:19:33"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1200"	lng="28.2768"	mag="1.3" Depth="18.9" />
 	<earhquake	name="2026.01.11 17:49:37"	lokasyon="ALTINYAYLA-ANDIRIN (KAHRAMANMARAS)                "	lat="37.7715"	lng="36.5057"	mag="1.9" Depth="5.0" />
@@ -87,4 +82,6 @@
 	<earhquake	name="2026.01.12 14:08:08"	lokasyon="ALTINTAS-CELIKHAN (ADIYAMAN)                      "	lat="38.1267"	lng="38.2752"	mag="1.9" Depth="9.7" />
 	<earhquake	name="2026.01.12 14:10:43"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1073"	lng="28.1363"	mag="1.7" Depth="26.3" />
 	<earhquake	name="2026.01.12 14:25:36"	lokasyon="SENLIK-LICE (DIYARBAKIR)                          REVIZE01   (2026.01.12 14:25:37)"	lat="38.5413"	lng="40.4045"	mag="2.1" Depth="13.2" />
+	<earhquake	name="2026.01.12 14:50:34"	lokasyon="YERLI-ISKILIP (CORUM)                             "	lat="40.6005"	lng="34.3602"	mag="1.8" Depth="19.2" />
+	<earhquake	name="2026.01.12 15:44:39"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2258"	lng="28.1247"	mag="2.1" Depth="14.9" />
 </eqlist>
