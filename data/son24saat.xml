@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.11 14:27:52"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1435"	lng="28.1757"	mag="1.7" Depth="5.4" />
 	<earhquake	name="2026.01.11 15:03:58"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1323"	lng="28.0963"	mag="0.9" Depth="19.4" />
 	<earhquake	name="2026.01.11 15:11:49"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2427"	lng="28.1242"	mag="1.1" Depth="19.5" />
 	<earhquake	name="2026.01.11 15:14:56"	lokasyon="AKYAR-(OSMANIYE)                                  "	lat="37.0457"	lng="36.2218"	mag="1.7" Depth="7.0" />
@@ -83,4 +82,7 @@
 	<earhquake	name="2026.01.12 11:58:55"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1805"	lng="28.2367"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2026.01.12 12:23:45"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2353"	lng="29.0353"	mag="1.4" Depth="14.5" />
 	<earhquake	name="2026.01.12 13:01:28"	lokasyon="KIBRIS-BESPARMAK                                  "	lat="35.2982"	lng="33.4213"	mag="1.9" Depth="0.0" />
+	<earhquake	name="2026.01.12 14:08:08"	lokasyon="ALTINTAS-CELIKHAN (ADIYAMAN)                      "	lat="38.1267"	lng="38.2752"	mag="1.9" Depth="9.7" />
+	<earhquake	name="2026.01.12 14:10:43"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1073"	lng="28.1363"	mag="1.7" Depth="26.3" />
+	<earhquake	name="2026.01.12 14:25:36"	lokasyon="SENLIK-LICE (DIYARBAKIR)                          REVIZE01   (2026.01.12 14:25:37)"	lat="38.5413"	lng="40.4045"	mag="2.1" Depth="13.2" />
 </eqlist>
