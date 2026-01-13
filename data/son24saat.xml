@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.12 20:04:07"	lokasyon="EGE DENIZI                                        "	lat="38.4942"	lng="25.4632"	mag="3.4" Depth="15.2" />
-	<earhquake	name="2026.01.12 20:43:23"	lokasyon="GUNDUZBEY-YESILYURT (MALATYA)                     "	lat="38.2777"	lng="38.2518"	mag="3.5" Depth="1.7" />
 	<earhquake	name="2026.01.12 21:04:59"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1657"	lng="28.2408"	mag="2.1" Depth="10.9" />
 	<earhquake	name="2026.01.12 21:56:00"	lokasyon="DEREKOY-KANGAL (SIVAS)                            "	lat="39.4647"	lng="37.5068"	mag="2.4" Depth="8.2" />
 	<earhquake	name="2026.01.12 22:43:16"	lokasyon="EGE DENIZI                                        "	lat="38.3992"	lng="25.2913"	mag="2.8" Depth="12.4" />
@@ -39,4 +37,5 @@
 	<earhquake	name="2026.01.13 18:08:13"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1743"	lng="28.0713"	mag="1.8" Depth="9.7" />
 	<earhquake	name="2026.01.13 18:52:38"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1868"	lng="28.2778"	mag="1.5" Depth="9.6" />
 	<earhquake	name="2026.01.13 19:16:46"	lokasyon="KAS ACIKLARI-ANTALYA (AKDENIZ)                    "	lat="35.9885"	lng="29.7748"	mag="2.9" Depth="15.7" />
+	<earhquake	name="2026.01.13 19:48:41"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0525"	lng="37.6935"	mag="2.6" Depth="5.4" />
 </eqlist>
