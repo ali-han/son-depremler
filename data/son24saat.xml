@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.13 16:00:12"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2175"	lng="28.1357"	mag="3.7" Depth="8.3" />
 	<earhquake	name="2026.01.13 17:40:26"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0263"	lng="25.9032"	mag="2.3" Depth="6.9" />
 	<earhquake	name="2026.01.13 17:46:15"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2298"	lng="28.0255"	mag="1.4" Depth="7.1" />
 	<earhquake	name="2026.01.13 18:08:13"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1743"	lng="28.0713"	mag="1.8" Depth="9.7" />
@@ -69,4 +68,6 @@
 	<earhquake	name="2026.01.14 14:15:55"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1125"	lng="28.3135"	mag="1.8" Depth="10.0" />
 	<earhquake	name="2026.01.14 14:22:32"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1478"	lng="28.1993"	mag="1.4" Depth="15.8" />
 	<earhquake	name="2026.01.14 14:39:08"	lokasyon="ORTAKOY-(MUGLA)                                   "	lat="37.1828"	lng="28.4450"	mag="1.8" Depth="6.9" />
+	<earhquake	name="2026.01.14 15:07:40"	lokasyon="AKIN-SEREFLIKOCHISAR (ANKARA)                     "	lat="39.0877"	lng="33.2838"	mag="2.7" Depth="5.0" />
+	<earhquake	name="2026.01.14 15:18:37"	lokasyon="AYDINLAR-HONAZ (DENIZLI)                          "	lat="37.7263"	lng="29.3735"	mag="1.4" Depth="5.0" />
 </eqlist>
