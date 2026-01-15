@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.14 23:03:09"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1998"	lng="28.0982"	mag="1.2" Depth="3.5" />
-	<earhquake	name="2026.01.14 23:14:47"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8468"	lng="28.6642"	mag="1.6" Depth="7.5" />
-	<earhquake	name="2026.01.14 23:56:37"	lokasyon="OSMANDEDE-PAZARCIK (KAHRAMANMARAS)                "	lat="37.3150"	lng="37.1050"	mag="1.9" Depth="6.7" />
 	<earhquake	name="2026.01.15 00:02:19"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4280"	lng="28.9798"	mag="1.6" Depth="11.5" />
 	<earhquake	name="2026.01.15 00:23:59"	lokasyon="AKDENIZ                                           "	lat="36.2187"	lng="28.3322"	mag="2.0" Depth="58.3" />
 	<earhquake	name="2026.01.15 00:50:32"	lokasyon="MUZKENT-GAZIPASA (ANTALYA)                        "	lat="36.0763"	lng="32.3173"	mag="2.1" Depth="12.3" />
@@ -95,4 +92,6 @@
 	<earhquake	name="2026.01.15 20:49:48"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="37.7445"	lng="26.4145"	mag="1.8" Depth="13.0" />
 	<earhquake	name="2026.01.15 21:18:15"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.7137"	lng="29.2383"	mag="2.2" Depth="10.7" />
 	<earhquake	name="2026.01.15 21:59:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2335"	lng="29.0250"	mag="2.2" Depth="15.6" />
+	<earhquake	name="2026.01.15 22:11:46"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9693"	lng="25.8552"	mag="2.0" Depth="12.5" />
+	<earhquake	name="2026.01.15 22:17:17"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.7272"	lng="29.2300"	mag="1.5" Depth="12.3" />
 </eqlist>
