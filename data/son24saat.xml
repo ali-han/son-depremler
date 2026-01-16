@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.15 21:18:15"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.7137"	lng="29.2383"	mag="2.2" Depth="10.7" />
-	<earhquake	name="2026.01.15 21:46:46"	lokasyon="EGE DENIZI                                        "	lat="35.8165"	lng="25.4970"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2026.01.15 21:59:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2335"	lng="29.0250"	mag="2.2" Depth="15.6" />
 	<earhquake	name="2026.01.15 22:11:46"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9693"	lng="25.8552"	mag="2.0" Depth="12.5" />
 	<earhquake	name="2026.01.15 22:17:17"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.7272"	lng="29.2300"	mag="1.5" Depth="12.3" />
 	<earhquake	name="2026.01.15 22:40:14"	lokasyon="BELENLI-KELKIT (GUMUSHANE)                        "	lat="39.9335"	lng="39.5195"	mag="1.8" Depth="11.6" />
@@ -107,4 +104,10 @@
 	<earhquake	name="2026.01.16 19:38:12"	lokasyon="BOZCAADA (CANAKKALE)                              "	lat="39.8930"	lng="26.0688"	mag="1.4" Depth="5.9" />
 	<earhquake	name="2026.01.16 19:40:28"	lokasyon="SAZOBA-AKHISAR (MANISA)                           "	lat="38.7605"	lng="27.7752"	mag="1.2" Depth="8.3" />
 	<earhquake	name="2026.01.16 19:47:09"	lokasyon="AKDAG-SIMAV (KUTAHYA)                             "	lat="39.1875"	lng="28.8845"	mag="0.9" Depth="10.4" />
+	<earhquake	name="2026.01.16 19:53:25"	lokasyon="YUNANISTAN                                        "	lat="40.2990"	lng="24.0600"	mag="1.7" Depth="13.5" />
+	<earhquake	name="2026.01.16 19:57:24"	lokasyon="YUNANISTAN                                        "	lat="40.2493"	lng="24.0560"	mag="2.1" Depth="6.9" />
+	<earhquake	name="2026.01.16 20:28:37"	lokasyon="YUNANISTAN                                        "	lat="40.2972"	lng="24.1512"	mag="1.5" Depth="8.0" />
+	<earhquake	name="2026.01.16 21:23:01"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0267"	lng="25.9398"	mag="2.4" Depth="2.3" />
+	<earhquake	name="2026.01.16 21:28:18"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1383"	lng="37.0417"	mag="2.3" Depth="2.7" />
+	<earhquake	name="2026.01.16 21:31:02"	lokasyon="BOZKOY-GERMENCIK (AYDIN)                          "	lat="37.9518"	lng="27.6372"	mag="1.7" Depth="3.3" />
 </eqlist>
