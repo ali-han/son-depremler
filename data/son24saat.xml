@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.16 01:01:04"	lokasyon="KAPUZBASI-YAHYALI (KAYSERI)                       "	lat="37.7472"	lng="35.3618"	mag="2.0" Depth="5.5" />
-	<earhquake	name="2026.01.16 01:04:23"	lokasyon="YUNANISTAN                                        "	lat="39.9757"	lng="23.8792"	mag="3.4" Depth="22.3" />
-	<earhquake	name="2026.01.16 01:07:42"	lokasyon="AKDENIZ                                           "	lat="35.7307"	lng="28.5380"	mag="1.8" Depth="9.9" />
-	<earhquake	name="2026.01.16 01:12:56"	lokasyon="BOZCAADA (CANAKKALE)                              "	lat="39.8873"	lng="26.0477"	mag="1.2" Depth="8.0" />
 	<earhquake	name="2026.01.16 02:14:49"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1250"	lng="28.3058"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2026.01.16 02:16:23"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0473"	lng="25.9617"	mag="1.7" Depth="2.8" />
 	<earhquake	name="2026.01.16 02:20:26"	lokasyon="KAPLANLI-KECIBORLU (ISPARTA)                      "	lat="37.9542"	lng="30.1775"	mag="1.4" Depth="2.4" />
@@ -115,4 +111,6 @@
 	<earhquake	name="2026.01.17 00:27:38"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1348"	lng="28.2937"	mag="2.1" Depth="10.4" />
 	<earhquake	name="2026.01.17 00:40:19"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3117"	lng="27.6737"	mag="3.3" Depth="7.5" />
 	<earhquake	name="2026.01.17 00:48:37"	lokasyon="YAGCILI-SOMA (MANISA)                             "	lat="39.3252"	lng="27.6582"	mag="1.6" Depth="5.4" />
+	<earhquake	name="2026.01.17 01:10:50"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1700"	lng="28.2450"	mag="1.6" Depth="15.6" />
+	<earhquake	name="2026.01.17 01:12:42"	lokasyon="ARIKONAK-SINCIK (ADIYAMAN)                        "	lat="38.1270"	lng="38.5632"	mag="2.0" Depth="8.3" />
 </eqlist>
