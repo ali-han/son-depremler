@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.16 11:12:18"	lokasyon="SOGUT-DOGANSEHIR (MALATYA)                        "	lat="38.0620"	lng="37.7795"	mag="2.0" Depth="13.9" />
-	<earhquake	name="2026.01.16 11:18:15"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2458"	lng="29.0135"	mag="1.8" Depth="10.1" />
-	<earhquake	name="2026.01.16 11:21:58"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2480"	lng="29.0240"	mag="1.4" Depth="10.3" />
-	<earhquake	name="2026.01.16 11:23:40"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2578"	lng="28.9907"	mag="1.5" Depth="13.1" />
-	<earhquake	name="2026.01.16 11:33:37"	lokasyon="USAKPINARI-SILIFKE (MERSIN)                       "	lat="36.3092"	lng="33.6057"	mag="1.3" Depth="0.0" />
-	<earhquake	name="2026.01.16 11:59:20"	lokasyon="ISIKLI-SILIFKE (MERSIN)                           "	lat="36.2703"	lng="33.6972"	mag="1.1" Depth="0.0" />
-	<earhquake	name="2026.01.16 11:59:42"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.2315"	lng="33.8230"	mag="1.0" Depth="0.0" />
 	<earhquake	name="2026.01.16 12:01:53"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1332"	lng="28.2532"	mag="1.8" Depth="10.6" />
 	<earhquake	name="2026.01.16 12:03:21"	lokasyon="SERINHISAR (DENIZLI)                              "	lat="37.6423"	lng="29.2577"	mag="1.7" Depth="0.0" />
 	<earhquake	name="2026.01.16 12:26:34"	lokasyon="OLUKLU-YESILYURT (MALATYA)                        "	lat="38.1877"	lng="38.1352"	mag="1.5" Depth="5.6" />
@@ -103,4 +96,5 @@
 	<earhquake	name="2026.01.17 09:21:03"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1723"	lng="28.2672"	mag="2.0" Depth="10.6" />
 	<earhquake	name="2026.01.17 09:44:52"	lokasyon="AKBAYIR-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.1817"	lng="37.3220"	mag="1.7" Depth="15.8" />
 	<earhquake	name="2026.01.17 09:55:30"	lokasyon="SULTANGAZI (ISTANBUL)                             "	lat="41.1368"	lng="28.8738"	mag="1.6" Depth="0.0" />
+	<earhquake	name="2026.01.17 10:06:02"	lokasyon="OVAKOY-(BALIKESIR)                                "	lat="39.6257"	lng="27.9907"	mag="1.2" Depth="10.6" />
 </eqlist>
