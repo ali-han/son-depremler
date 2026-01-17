@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.17 01:10:50"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1700"	lng="28.2450"	mag="1.6" Depth="15.6" />
-	<earhquake	name="2026.01.17 01:12:42"	lokasyon="ARIKONAK-SINCIK (ADIYAMAN)                        "	lat="38.1270"	lng="38.5632"	mag="2.0" Depth="8.3" />
-	<earhquake	name="2026.01.17 01:32:43"	lokasyon="TEPEKOY-CILIMLI (DUZCE)                           "	lat="40.8770"	lng="31.0273"	mag="1.8" Depth="18.4" />
-	<earhquake	name="2026.01.17 01:33:14"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3145"	lng="27.6830"	mag="2.2" Depth="5.3" />
-	<earhquake	name="2026.01.17 01:44:58"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3050"	lng="27.6987"	mag="1.7" Depth="7.9" />
 	<earhquake	name="2026.01.17 02:07:27"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3083"	lng="27.6765"	mag="1.8" Depth="4.8" />
 	<earhquake	name="2026.01.17 02:20:38"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3165"	lng="27.6700"	mag="1.7" Depth="5.3" />
 	<earhquake	name="2026.01.17 02:34:07"	lokasyon="YUNANISTAN                                        "	lat="40.3383"	lng="24.1665"	mag="2.9" Depth="5.4" />
@@ -76,4 +71,5 @@
 	<earhquake	name="2026.01.18 00:23:59"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1142"	lng="28.3003"	mag="1.8" Depth="11.2" />
 	<earhquake	name="2026.01.18 00:35:17"	lokasyon="SAGRAKCI-AKHISAR (MANISA)                         "	lat="39.1153"	lng="28.0857"	mag="1.4" Depth="13.6" />
 	<earhquake	name="2026.01.18 00:42:24"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1663"	lng="28.1948"	mag="1.5" Depth="16.0" />
+	<earhquake	name="2026.01.18 00:50:13"	lokasyon="BADEMPINARI-(ELAZIG)                              "	lat="38.5213"	lng="39.1275"	mag="1.6" Depth="8.8" />
 </eqlist>
