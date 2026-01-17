@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.17 02:07:27"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3083"	lng="27.6765"	mag="1.8" Depth="4.8" />
-	<earhquake	name="2026.01.17 02:20:38"	lokasyon="GOKTAS-SOMA (MANISA)                              "	lat="39.3165"	lng="27.6700"	mag="1.7" Depth="5.3" />
-	<earhquake	name="2026.01.17 02:34:07"	lokasyon="YUNANISTAN                                        "	lat="40.3383"	lng="24.1665"	mag="2.9" Depth="5.4" />
 	<earhquake	name="2026.01.17 03:32:56"	lokasyon="ILIC (ERZINCAN)                                   "	lat="39.4558"	lng="38.5353"	mag="1.4" Depth="13.9" />
 	<earhquake	name="2026.01.17 04:02:43"	lokasyon="KULAHLI-GURUN (SIVAS)                             "	lat="38.8348"	lng="37.4102"	mag="1.3" Depth="10.6" />
 	<earhquake	name="2026.01.17 04:05:14"	lokasyon="ALICLIBUCAK-GOKSUN (KAHRAMANMARAS)                "	lat="38.0883"	lng="36.5375"	mag="1.3" Depth="4.5" />
@@ -75,4 +72,5 @@
 	<earhquake	name="2026.01.18 01:26:28"	lokasyon="YUNANISTAN                                        "	lat="40.3493"	lng="24.1153"	mag="1.9" Depth="9.9" />
 	<earhquake	name="2026.01.18 01:29:02"	lokasyon="KONYAALTI (ANTALYA)                               "	lat="36.8523"	lng="30.6208"	mag="2.8" Depth="7.6" />
 	<earhquake	name="2026.01.18 01:32:50"	lokasyon="YUNANISTAN                                        "	lat="40.3285"	lng="24.0178"	mag="2.2" Depth="16.5" />
+	<earhquake	name="2026.01.18 02:20:05"	lokasyon="YAVU-SIMAV (KUTAHYA)                              "	lat="39.3005"	lng="28.9777"	mag="1.6" Depth="7.6" />
 </eqlist>
