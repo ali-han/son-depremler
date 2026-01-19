@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.18 11:36:18"	lokasyon="CAMLICA-PAZARCIK (KAHRAMANMARAS)                  "	lat="37.5748"	lng="37.2637"	mag="1.6" Depth="11.3" />
-	<earhquake	name="2026.01.18 11:41:44"	lokasyon="AKVIRANCARSAK-BALA (ANKARA)                       "	lat="39.2917"	lng="32.9547"	mag="1.2" Depth="8.0" />
 	<earhquake	name="2026.01.18 12:02:15"	lokasyon="BULGARISTAN                                       "	lat="41.8482"	lng="25.6192"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2026.01.18 12:06:42"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2495"	lng="29.0293"	mag="1.2" Depth="5.4" />
 	<earhquake	name="2026.01.18 12:20:29"	lokasyon="AYDINLAR (SIIRT)                                  "	lat="37.9415"	lng="42.0335"	mag="1.7" Depth="6.6" />
@@ -67,4 +65,8 @@
 	<earhquake	name="2026.01.19 09:49:01"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      REVIZE01   (2026.01.19 09:49:01)"	lat="39.1483"	lng="28.2832"	mag="2.0" Depth="13.2" />
 	<earhquake	name="2026.01.19 09:57:33"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0125"	lng="25.8483"	mag="2.6" Depth="5.4" />
 	<earhquake	name="2026.01.19 10:31:46"	lokasyon="EGE DENIZI                                        "	lat="36.4153"	lng="28.0472"	mag="1.6" Depth="30.1" />
+	<earhquake	name="2026.01.19 10:56:31"	lokasyon="GUNPINAR-DARENDE (MALATYA)                        "	lat="38.5593"	lng="37.4447"	mag="1.0" Depth="2.3" />
+	<earhquake	name="2026.01.19 11:00:37"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.0780"	lng="38.5053"	mag="1.5" Depth="5.1" />
+	<earhquake	name="2026.01.19 11:01:20"	lokasyon="GULPINAR-GORDES (MANISA)                          "	lat="38.9985"	lng="28.3377"	mag="0.8" Depth="16.8" />
+	<earhquake	name="2026.01.19 11:02:06"	lokasyon="BOZKANAT-SOLHAN (BINGOL)                          "	lat="38.8485"	lng="40.8587"	mag="1.5" Depth="2.5" />
 </eqlist>
