@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.18 17:43:13"	lokasyon="ICMELER-GOLYAKA (DUZCE)                           "	lat="40.8030"	lng="30.9970"	mag="2.2" Depth="5.0" />
-	<earhquake	name="2026.01.18 17:44:47"	lokasyon="ARMUTLU-ARGUVAN (MALATYA)                         "	lat="38.8515"	lng="38.1552"	mag="1.1" Depth="25.8" />
 	<earhquake	name="2026.01.18 18:17:15"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1620"	lng="28.2090"	mag="2.7" Depth="11.8" />
 	<earhquake	name="2026.01.18 18:18:34"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6752"	lng="36.1108"	mag="1.4" Depth="22.3" />
 	<earhquake	name="2026.01.18 18:27:09"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1903"	lng="28.2128"	mag="2.5" Depth="10.3" />
@@ -61,4 +59,7 @@
 	<earhquake	name="2026.01.19 15:46:45"	lokasyon="YUNANISTAN                                        "	lat="40.3087"	lng="24.0845"	mag="2.0" Depth="11.5" />
 	<earhquake	name="2026.01.19 16:05:47"	lokasyon="YUNANISTAN                                        "	lat="36.6190"	lng="23.4150"	mag="2.8" Depth="6.1" />
 	<earhquake	name="2026.01.19 16:15:27"	lokasyon="DORUKSARAY-ILIC (ERZINCAN)                        "	lat="39.5625"	lng="38.4993"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2026.01.19 17:11:15"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1943"	lng="28.2212"	mag="1.9" Depth="7.6" />
+	<earhquake	name="2026.01.19 17:13:44"	lokasyon="OZKENT-SARAYONU (KONYA)                           "	lat="38.4818"	lng="32.5042"	mag="1.8" Depth="7.5" />
+	<earhquake	name="2026.01.19 17:16:23"	lokasyon="AKDENIZ                                           "	lat="35.9260"	lng="35.6958"	mag="3.2" Depth="10.0" />
 </eqlist>
