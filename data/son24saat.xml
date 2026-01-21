@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.20 09:23:10"	lokasyon="ICME-(ELAZIG)                                     "	lat="38.6277"	lng="39.5510"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2026.01.20 10:15:48"	lokasyon="MALTEPE-DIVRIGI (SIVAS)                           "	lat="39.4677"	lng="38.1603"	mag="2.0" Depth="11.0" />
-	<earhquake	name="2026.01.20 10:33:45"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2062"	lng="28.9578"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2026.01.20 11:01:31"	lokasyon="SELIMIYE-ARMUTLU (YALOVA)                         "	lat="40.5545"	lng="29.0282"	mag="1.8" Depth="8.9" />
 	<earhquake	name="2026.01.20 11:22:14"	lokasyon="GOLYAYLA-VARTO (MUS)                              "	lat="39.3105"	lng="41.1787"	mag="1.3" Depth="7.9" />
 	<earhquake	name="2026.01.20 11:35:57"	lokasyon="EVCILER-SOMA (MANISA)                             "	lat="39.2232"	lng="27.6687"	mag="1.7" Depth="0.0" />
@@ -77,4 +74,9 @@
 	<earhquake	name="2026.01.21 07:45:38"	lokasyon="KAYNARPINAR-KARLIOVA (BINGOL)                     "	lat="39.3165"	lng="40.7652"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2026.01.21 07:45:40"	lokasyon="KARAKOY-MUSTAFAKEMALPASA (BURSA)                  "	lat="39.8547"	lng="28.6797"	mag="1.9" Depth="9.1" />
 	<earhquake	name="2026.01.21 08:35:55"	lokasyon="BALYA (BALIKESIR)                                 REVIZE01   (2026.01.21 08:35:55)"	lat="39.7465"	lng="27.5893"	mag="1.4" Depth="9.1" />
+	<earhquake	name="2026.01.21 09:07:45"	lokasyon="YUNANISTAN                                        "	lat="40.3095"	lng="24.1823"	mag="3.1" Depth="8.0" />
+	<earhquake	name="2026.01.21 09:10:22"	lokasyon="MINEHUYUK-TURKOGLU (KAHRAMANMARAS)                "	lat="37.3255"	lng="36.8468"	mag="1.7" Depth="5.1" />
+	<earhquake	name="2026.01.21 09:21:04"	lokasyon="KARAAGAC-SINDIRGI (BALIKESIR)                     "	lat="39.2858"	lng="28.1195"	mag="2.0" Depth="8.4" />
+	<earhquake	name="2026.01.21 09:30:56"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2303"	lng="28.0940"	mag="1.2" Depth="11.5" />
+	<earhquake	name="2026.01.21 09:54:42"	lokasyon="MALTEPE-CAY (AFYONKARAHISAR)                      "	lat="38.5870"	lng="30.8912"	mag="0.8" Depth="14.6" />
 </eqlist>
