@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.21 14:08:46"	lokasyon="ALADAG (ADANA)                                    "	lat="37.5695"	lng="35.3893"	mag="1.3" Depth="14.0" />
-	<earhquake	name="2026.01.21 14:08:58"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2490"	lng="28.1032"	mag="1.3" Depth="8.4" />
-	<earhquake	name="2026.01.21 14:32:25"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2007"	lng="28.2173"	mag="1.3" Depth="14.5" />
-	<earhquake	name="2026.01.21 14:56:48"	lokasyon="DOLMADEGIRMEN-AKHISAR (MANISA)                    "	lat="39.1185"	lng="27.9105"	mag="1.5" Depth="9.2" />
-	<earhquake	name="2026.01.21 15:04:00"	lokasyon="CITLIK-ULA (MUGLA)                                "	lat="37.0213"	lng="28.4158"	mag="1.5" Depth="6.8" />
-	<earhquake	name="2026.01.21 15:11:00"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1770"	lng="28.1548"	mag="1.0" Depth="12.8" />
-	<earhquake	name="2026.01.21 15:14:32"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2217"	lng="27.9770"	mag="2.2" Depth="6.2" />
-	<earhquake	name="2026.01.21 15:16:01"	lokasyon="CIKRIKCI-SINDIRGI (BALIKESIR)                     "	lat="39.1917"	lng="28.3575"	mag="1.9" Depth="9.3" />
 	<earhquake	name="2026.01.21 16:12:16"	lokasyon="KUSTULLU-ERDEMLI (MERSIN)                         "	lat="36.6668"	lng="34.1075"	mag="3.8" Depth="7.8" />
 	<earhquake	name="2026.01.21 16:14:42"	lokasyon="KARAPINAR-ANDIRIN (KAHRAMANMARAS)                 "	lat="37.6183"	lng="36.2935"	mag="2.0" Depth="8.8" />
 	<earhquake	name="2026.01.21 16:15:41"	lokasyon="VEYSELLI-ERDEMLI (MERSIN)                         "	lat="36.6355"	lng="34.1047"	mag="2.8" Depth="8.0" />
@@ -185,4 +177,6 @@
 	<earhquake	name="2026.01.22 13:34:14"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1143"	lng="28.3348"	mag="1.4" Depth="9.2" />
 	<earhquake	name="2026.01.22 13:39:40"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1327"	lng="28.2793"	mag="2.2" Depth="15.0" />
 	<earhquake	name="2026.01.22 13:46:25"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1442"	lng="28.3030"	mag="3.3" Depth="11.5" />
+	<earhquake	name="2026.01.22 15:10:56"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1018"	lng="28.3830"	mag="1.6" Depth="7.3" />
+	<earhquake	name="2026.01.22 15:19:26"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1373"	lng="28.2845"	mag="1.4" Depth="5.3" />
 </eqlist>
