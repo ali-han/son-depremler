@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.22 13:06:16"	lokasyon="CITAK-AKHISAR (MANISA)                            "	lat="38.9555"	lng="28.1390"	mag="1.1" Depth="19.4" />
-	<earhquake	name="2026.01.22 13:34:14"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1143"	lng="28.3348"	mag="1.4" Depth="9.2" />
-	<earhquake	name="2026.01.22 13:39:40"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1327"	lng="28.2793"	mag="2.2" Depth="15.0" />
-	<earhquake	name="2026.01.22 13:46:25"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1442"	lng="28.3030"	mag="3.3" Depth="11.5" />
 	<earhquake	name="2026.01.22 15:10:56"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1018"	lng="28.3830"	mag="1.6" Depth="7.3" />
 	<earhquake	name="2026.01.22 15:19:26"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1373"	lng="28.2845"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2026.01.22 16:07:04"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1318"	lng="28.3348"	mag="2.2" Depth="7.8" />
@@ -96,4 +92,9 @@
 	<earhquake	name="2026.01.23 12:16:02"	lokasyon="YENIKOY-SAIMBEYLI (ADANA)                         "	lat="38.0162"	lng="36.2612"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2026.01.23 12:26:07"	lokasyon="INCECIK-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.3692"	lng="37.3770"	mag="1.5" Depth="4.1" />
 	<earhquake	name="2026.01.23 12:39:22"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2503"	lng="28.0975"	mag="1.2" Depth="6.2" />
+	<earhquake	name="2026.01.23 12:53:46"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2653"	lng="28.1322"	mag="1.4" Depth="7.0" />
+	<earhquake	name="2026.01.23 12:55:48"	lokasyon="KADIKOY-BIGADIC (BALIKESIR)                       "	lat="39.4558"	lng="28.0917"	mag="1.7" Depth="15.6" />
+	<earhquake	name="2026.01.23 12:57:28"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1062"	lng="28.3510"	mag="2.0" Depth="7.3" />
+	<earhquake	name="2026.01.23 13:02:08"	lokasyon="ALICAN-YAZIHAN (MALATYA)                          "	lat="38.6883"	lng="38.0510"	mag="2.3" Depth="8.8" />
+	<earhquake	name="2026.01.23 13:15:15"	lokasyon="BASPINAR-NURDAGI (GAZIANTEP)                      "	lat="37.1927"	lng="36.7135"	mag="1.5" Depth="8.7" />
 </eqlist>
