@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.23 15:15:45"	lokasyon="BULGARISTAN                                       "	lat="41.6645"	lng="25.0752"	mag="1.7" Depth="5.5" />
-	<earhquake	name="2026.01.23 15:45:12"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1948"	lng="28.1680"	mag="2.8" Depth="13.4" />
 	<earhquake	name="2026.01.23 16:09:58"	lokasyon="KEKLIKPINARI-AKCADAG (MALATYA)                    "	lat="38.4783"	lng="37.9972"	mag="2.1" Depth="8.9" />
 	<earhquake	name="2026.01.23 16:33:07"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1773"	lng="28.2953"	mag="1.6" Depth="7.7" />
 	<earhquake	name="2026.01.23 16:41:41"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2018"	lng="28.0807"	mag="3.9" Depth="8.5" />
@@ -182,4 +180,7 @@
 	<earhquake	name="2026.01.24 14:27:23"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1212"	lng="28.2918"	mag="1.8" Depth="10.1" />
 	<earhquake	name="2026.01.24 14:28:26"	lokasyon="CICEKPINARI-(BALIKESIR)                           "	lat="39.5325"	lng="27.9413"	mag="1.8" Depth="8.6" />
 	<earhquake	name="2026.01.24 14:39:12"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1980"	lng="28.2553"	mag="1.4" Depth="7.4" />
+	<earhquake	name="2026.01.24 14:54:54"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1782"	lng="28.2172"	mag="1.5" Depth="9.3" />
+	<earhquake	name="2026.01.24 15:11:23"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2173"	lng="28.1578"	mag="3.0" Depth="15.7" />
+	<earhquake	name="2026.01.24 15:12:44"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1950"	lng="28.1805"	mag="2.2" Depth="9.3" />
 </eqlist>
