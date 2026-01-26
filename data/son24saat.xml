@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.25 22:22:27"	lokasyon="KIRAZOGLU-HAYMANA (ANKARA)                        "	lat="39.2227"	lng="32.4172"	mag="1.7" Depth="5.6" />
-	<earhquake	name="2026.01.25 22:32:14"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2070"	lng="28.1435"	mag="3.0" Depth="14.3" />
-	<earhquake	name="2026.01.25 22:37:38"	lokasyon="DUTLUCA-GORDES (MANISA)                           "	lat="39.0677"	lng="28.2617"	mag="1.0" Depth="16.4" />
-	<earhquake	name="2026.01.25 22:46:10"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1435"	lng="28.1755"	mag="2.2" Depth="13.0" />
-	<earhquake	name="2026.01.25 22:57:56"	lokasyon="SUTCULER-KEMALPASA (IZMIR)                        "	lat="38.4935"	lng="27.4622"	mag="1.6" Depth="13.3" />
-	<earhquake	name="2026.01.25 22:58:48"	lokasyon="KARADIGINDERESI-MERAM (KONYA)                     "	lat="37.7153"	lng="32.3580"	mag="1.1" Depth="7.7" />
 	<earhquake	name="2026.01.25 23:08:32"	lokasyon="ESENPINAR-ERDEMLI (MERSIN)                        "	lat="36.5908"	lng="34.1518"	mag="1.4" Depth="20.9" />
 	<earhquake	name="2026.01.25 23:23:59"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1668"	lng="28.2867"	mag="2.9" Depth="9.8" />
 	<earhquake	name="2026.01.25 23:28:00"	lokasyon="TASLI-KANGAL (SIVAS)                              "	lat="39.1085"	lng="37.8247"	mag="2.6" Depth="2.4" />
@@ -160,4 +154,6 @@
 	<earhquake	name="2026.01.26 20:41:20"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1175"	lng="28.3095"	mag="1.5" Depth="12.6" />
 	<earhquake	name="2026.01.26 21:17:59"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1565"	lng="28.2737"	mag="2.9" Depth="12.4" />
 	<earhquake	name="2026.01.26 21:44:01"	lokasyon="EGE DENIZI                                        "	lat="38.8325"	lng="26.4280"	mag="2.1" Depth="5.9" />
+	<earhquake	name="2026.01.26 21:52:53"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1710"	lng="28.2325"	mag="1.9" Depth="11.6" />
+	<earhquake	name="2026.01.26 21:57:07"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1380"	lng="28.2795"	mag="1.6" Depth="10.0" />
 </eqlist>
