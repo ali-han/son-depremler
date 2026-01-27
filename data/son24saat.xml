@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.26 22:13:34"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1312"	lng="28.3000"	mag="1.5" Depth="18.9" />
-	<earhquake	name="2026.01.26 22:16:23"	lokasyon="AKDENIZ                                           "	lat="34.8402"	lng="33.8482"	mag="2.9" Depth="31.2" />
-	<earhquake	name="2026.01.26 22:27:30"	lokasyon="DOGUSOREN-KOPRUBASI (MANISA)                      "	lat="38.7708"	lng="28.3640"	mag="1.4" Depth="27.8" />
 	<earhquake	name="2026.01.26 23:11:01"	lokasyon="ASLANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1983"	lng="28.2848"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2026.01.26 23:18:47"	lokasyon="CAYKOY-PUTURGE (MALATYA)                          "	lat="38.2375"	lng="38.7088"	mag="1.7" Depth="7.2" />
 	<earhquake	name="2026.01.26 23:42:11"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1268"	lng="28.2972"	mag="1.9" Depth="12.0" />
@@ -93,4 +90,6 @@
 	<earhquake	name="2026.01.27 19:56:58"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1718"	lng="28.2478"	mag="2.1" Depth="8.3" />
 	<earhquake	name="2026.01.27 20:02:04"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1672"	lng="28.2498"	mag="1.7" Depth="9.4" />
 	<earhquake	name="2026.01.27 20:22:46"	lokasyon="YOGUNSOGUT-ELBISTAN (KAHRAMANMARAS)               "	lat="38.3470"	lng="37.5310"	mag="1.6" Depth="1.3" />
+	<earhquake	name="2026.01.27 21:53:07"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.0988"	lng="38.4638"	mag="3.7" Depth="5.0" />
+	<earhquake	name="2026.01.27 22:07:38"	lokasyon="EGE DENIZI                                        "	lat="39.0962"	lng="25.7720"	mag="2.0" Depth="6.2" />
 </eqlist>
