@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.27 11:25:33"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0367"	lng="37.4958"	mag="1.5" Depth="10.8" />
-	<earhquake	name="2026.01.27 11:34:30"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1298"	lng="28.3103"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2026.01.27 13:03:02"	lokasyon="DEDECINAR-BIGADIC (BALIKESIR)                     "	lat="39.4458"	lng="28.0597"	mag="1.5" Depth="12.2" />
 	<earhquake	name="2026.01.27 13:04:16"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.2148"	lng="33.5753"	mag="1.0" Depth="0.0" />
 	<earhquake	name="2026.01.27 13:10:51"	lokasyon="SOGUTGEDIGI-BAYRAMIC (CANAKKALE)                  "	lat="39.9272"	lng="26.7625"	mag="1.7" Depth="10.4" />
@@ -100,4 +98,5 @@
 	<earhquake	name="2026.01.28 10:11:08"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2562"	lng="28.9785"	mag="1.5" Depth="12.2" />
 	<earhquake	name="2026.01.28 10:28:43"	lokasyon="FINDIKKOY-DOGANSEHIR (MALATYA)                    "	lat="38.1320"	lng="37.8145"	mag="1.9" Depth="8.8" />
 	<earhquake	name="2026.01.28 10:34:35"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1323"	lng="28.3200"	mag="1.3" Depth="16.1" />
+	<earhquake	name="2026.01.28 11:38:27"	lokasyon="KIBRIS-ZUMRUTKOY                                  "	lat="35.0222"	lng="33.0913"	mag="2.3" Depth="33.0" />
 </eqlist>
