@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.28 20:29:18"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1520"	lng="28.2948"	mag="2.1" Depth="12.2" />
-	<earhquake	name="2026.01.28 21:22:17"	lokasyon="BESKARDES-KULU (KONYA)                            "	lat="39.0292"	lng="33.0147"	mag="1.4" Depth="16.5" />
-	<earhquake	name="2026.01.28 22:20:09"	lokasyon="KARAKUZU-ALIAGA (IZMIR)                           "	lat="38.7648"	lng="27.1193"	mag="2.3" Depth="4.1" />
-	<earhquake	name="2026.01.28 22:43:43"	lokasyon="AKKOC-DOSEMEALTI (ANTALYA)                        "	lat="37.1643"	lng="30.4477"	mag="3.5" Depth="2.0" />
-	<earhquake	name="2026.01.28 22:58:11"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1327"	lng="28.1153"	mag="1.6" Depth="16.3" />
 	<earhquake	name="2026.01.28 23:19:11"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1862"	lng="28.1557"	mag="1.2" Depth="9.5" />
 	<earhquake	name="2026.01.29 00:21:21"	lokasyon="GOKCEAGAC-UGURLUDAG (CORUM)                       "	lat="40.4782"	lng="34.4582"	mag="1.7" Depth="1.6" />
 	<earhquake	name="2026.01.29 00:44:28"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1807"	lng="28.0912"	mag="1.2" Depth="11.7" />
@@ -77,4 +72,6 @@
 	<earhquake	name="2026.01.29 17:52:34"	lokasyon="EGE DENIZI                                        "	lat="39.0428"	lng="25.7363"	mag="2.2" Depth="5.4" />
 	<earhquake	name="2026.01.29 18:47:14"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1672"	lng="28.3115"	mag="1.8" Depth="13.8" />
 	<earhquake	name="2026.01.29 19:39:58"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1607"	lng="28.2570"	mag="2.5" Depth="15.2" />
+	<earhquake	name="2026.01.29 21:49:46"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1512"	lng="28.3128"	mag="3.7" Depth="11.8" />
+	<earhquake	name="2026.01.29 22:04:43"	lokasyon="MARMARA DENIZI                                    "	lat="40.8410"	lng="28.3283"	mag="2.6" Depth="8.6" />
 </eqlist>
