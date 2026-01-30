@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.29 13:18:51"	lokasyon="SELAMLI-BALISEYH (KIRIKKALE)                      "	lat="40.0703"	lng="33.7645"	mag="1.9" Depth="7.3" />
-	<earhquake	name="2026.01.29 13:20:48"	lokasyon="ETIMESGUT (ANKARA)                                "	lat="39.9052"	lng="32.6798"	mag="1.5" Depth="11.5" />
-	<earhquake	name="2026.01.29 13:21:03"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.6773"	lng="27.5025"	mag="1.1" Depth="8.7" />
-	<earhquake	name="2026.01.29 13:57:00"	lokasyon="KURTDERE-HISARCIK (KUTAHYA)                       "	lat="39.1798"	lng="29.1553"	mag="1.6" Depth="12.2" />
 	<earhquake	name="2026.01.29 14:03:13"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1883"	lng="31.7280"	mag="2.1" Depth="3.9" />
 	<earhquake	name="2026.01.29 14:50:28"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1242"	lng="28.2778"	mag="1.8" Depth="11.3" />
 	<earhquake	name="2026.01.29 14:53:11"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2320"	lng="28.0947"	mag="2.7" Depth="8.7" />
@@ -78,6 +74,9 @@
 	<earhquake	name="2026.01.30 11:24:23"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2440"	lng="29.0267"	mag="1.6" Depth="10.8" />
 	<earhquake	name="2026.01.30 11:37:59"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2638"	lng="29.0258"	mag="1.5" Depth="10.6" />
 	<earhquake	name="2026.01.30 11:39:38"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0893"	lng="28.3438"	mag="1.8" Depth="8.8" />
+	<earhquake	name="2026.01.30 11:39:39"	lokasyon="ORENCIK-DOGANSEHIR (MALATYA)                      "	lat="37.9427"	lng="37.7048"	mag="1.2" Depth="19.4" />
 	<earhquake	name="2026.01.30 11:46:53"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0132"	lng="25.9308"	mag="1.8" Depth="7.8" />
 	<earhquake	name="2026.01.30 11:56:46"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1720"	lng="28.2620"	mag="1.9" Depth="13.4" />
+	<earhquake	name="2026.01.30 12:12:54"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4602"	lng="26.3678"	mag="1.4" Depth="14.8" />
+	<earhquake	name="2026.01.30 12:44:35"	lokasyon="AKBEZ-HASSA (HATAY)                               "	lat="36.8518"	lng="36.5472"	mag="1.8" Depth="9.1" />
 </eqlist>
