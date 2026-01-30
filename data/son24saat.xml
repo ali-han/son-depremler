@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.29 06:07:41"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1298"	lng="28.2917"	mag="1.5" Depth="14.7" />
-	<earhquake	name="2026.01.29 06:37:43"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1323"	lng="28.3148"	mag="1.5" Depth="13.9" />
 	<earhquake	name="2026.01.29 08:30:00"	lokasyon="YUVA-GURUN (SIVAS)                                "	lat="38.8052"	lng="37.3952"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2026.01.29 08:50:42"	lokasyon="KIRKISRAK-SARIZ (KAYSERI)                         "	lat="38.4635"	lng="36.6883"	mag="0.9" Depth="9.2" />
 	<earhquake	name="2026.01.29 08:58:05"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.1590"	lng="31.7473"	mag="2.1" Depth="1.5" />
@@ -74,4 +72,8 @@
 	<earhquake	name="2026.01.30 04:53:45"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1717"	lng="28.1973"	mag="2.3" Depth="11.7" />
 	<earhquake	name="2026.01.30 05:04:51"	lokasyon="KANIBEY-BIGA (CANAKKALE)                          "	lat="40.2737"	lng="27.3375"	mag="2.7" Depth="6.3" />
 	<earhquake	name="2026.01.30 05:30:14"	lokasyon="YENIKOY-KUSADASI (AYDIN)                          "	lat="37.8728"	lng="27.3612"	mag="2.6" Depth="5.1" />
+	<earhquake	name="2026.01.30 05:34:19"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2758"	lng="28.0020"	mag="1.3" Depth="10.8" />
+	<earhquake	name="2026.01.30 06:17:29"	lokasyon="BALATCIK-GERMENCIK (AYDIN)                        "	lat="37.9112"	lng="27.4805"	mag="3.8" Depth="8.4" />
+	<earhquake	name="2026.01.30 06:23:13"	lokasyon="KARBASAN-HISARCIK (KUTAHYA)                       "	lat="39.2000"	lng="29.3815"	mag="1.4" Depth="15.1" />
+	<earhquake	name="2026.01.30 07:01:11"	lokasyon="UCMAKDERE-SARKOY (TEKIRDAG)                       "	lat="40.7770"	lng="27.4073"	mag="0.7" Depth="14.3" />
 </eqlist>
