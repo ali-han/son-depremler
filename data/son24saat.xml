@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.31 00:01:16"	lokasyon="CAMYAYLA-ODEMIS (IZMIR)                           "	lat="38.3297"	lng="27.9127"	mag="1.4" Depth="8.7" />
-	<earhquake	name="2026.01.31 00:10:47"	lokasyon="SALKIMBAGI-KAHTA (ADIYAMAN)                       "	lat="37.8323"	lng="38.5972"	mag="1.9" Depth="5.4" />
-	<earhquake	name="2026.01.31 00:50:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2363"	lng="29.0133"	mag="1.2" Depth="12.7" />
-	<earhquake	name="2026.01.31 00:58:22"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1582"	lng="28.3032"	mag="1.4" Depth="9.2" />
 	<earhquake	name="2026.01.31 01:09:21"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2498"	lng="29.0062"	mag="0.8" Depth="10.5" />
 	<earhquake	name="2026.01.31 01:24:19"	lokasyon="HACIHUSEYINLER-BASKIL (ELAZIG)                    "	lat="38.4057"	lng="38.9250"	mag="2.5" Depth="7.8" />
 	<earhquake	name="2026.01.31 01:26:19"	lokasyon="GOKOVA-ULA (MUGLA)                                "	lat="37.0672"	lng="28.3748"	mag="1.9" Depth="1.4" />
@@ -103,4 +99,8 @@
 	<earhquake	name="2026.01.31 23:07:13"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2115"	lng="28.1157"	mag="1.9" Depth="9.4" />
 	<earhquake	name="2026.01.31 23:17:27"	lokasyon="KARADERE-FETHIYE (MUGLA)                          "	lat="36.3308"	lng="29.2175"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2026.01.31 23:31:18"	lokasyon="EDREMIT KORFEZI (EGE DENIZI)                      "	lat="39.4392"	lng="26.3455"	mag="1.2" Depth="13.2" />
+	<earhquake	name="2026.01.31 23:53:26"	lokasyon="SARIOT-KALE (MALATYA)                             "	lat="38.3503"	lng="38.7405"	mag="2.6" Depth="6.8" />
+	<earhquake	name="2026.02.01 00:02:33"	lokasyon="YUNANISTAN                                        "	lat="40.2565"	lng="23.9290"	mag="2.2" Depth="14.5" />
+	<earhquake	name="2026.02.01 00:05:23"	lokasyon="YUNANISTAN                                        "	lat="40.3393"	lng="24.1332"	mag="1.9" Depth="5.2" />
+	<earhquake	name="2026.02.01 00:07:58"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1553"	lng="31.7165"	mag="2.2" Depth="8.3" />
 </eqlist>
