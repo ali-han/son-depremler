@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.01.31 18:18:00"	lokasyon="ATLIDERE-FETHIYE (MUGLA)                          "	lat="36.6783"	lng="29.3248"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2026.01.31 18:38:14"	lokasyon="AKSAAGAC-SAIMBEYLI (ADANA)                        "	lat="37.9147"	lng="36.2232"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2026.01.31 19:23:38"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1390"	lng="28.1980"	mag="1.5" Depth="10.9" />
 	<earhquake	name="2026.01.31 19:30:05"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1700"	lng="28.3833"	mag="1.5" Depth="8.1" />
 	<earhquake	name="2026.01.31 19:54:00"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1048"	lng="28.2242"	mag="1.6" Depth="8.9" />
@@ -91,4 +89,6 @@
 	<earhquake	name="2026.02.01 15:37:59"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2522"	lng="28.9813"	mag="1.6" Depth="12.5" />
 	<earhquake	name="2026.02.01 17:03:10"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1743"	lng="28.1327"	mag="3.3" Depth="14.3" />
 	<earhquake	name="2026.02.01 17:17:54"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1487"	lng="38.5078"	mag="1.5" Depth="23.3" />
+	<earhquake	name="2026.02.01 18:00:05"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.0692"	lng="38.3397"	mag="2.2" Depth="7.7" />
+	<earhquake	name="2026.02.01 18:08:00"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1783"	lng="28.1713"	mag="1.7" Depth="11.4" />
 </eqlist>
