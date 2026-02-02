@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.01 17:03:10"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1743"	lng="28.1327"	mag="3.3" Depth="14.3" />
-	<earhquake	name="2026.02.01 17:17:54"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1487"	lng="38.5078"	mag="1.5" Depth="23.3" />
-	<earhquake	name="2026.02.01 17:52:52"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.1730"	lng="31.7483"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2026.02.01 18:00:05"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.0692"	lng="38.3397"	mag="2.2" Depth="7.7" />
-	<earhquake	name="2026.02.01 18:08:00"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1783"	lng="28.1713"	mag="1.7" Depth="11.4" />
-	<earhquake	name="2026.02.01 18:48:06"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2718"	lng="38.7475"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2026.02.01 18:48:13"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2210"	lng="28.1163"	mag="1.4" Depth="16.7" />
-	<earhquake	name="2026.02.01 18:57:34"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8770"	lng="25.8070"	mag="3.0" Depth="10.3" />
 	<earhquake	name="2026.02.01 19:16:11"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1543"	lng="28.2298"	mag="1.9" Depth="9.0" />
 	<earhquake	name="2026.02.01 19:36:10"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.1992"	lng="28.9282"	mag="1.7" Depth="11.7" />
 	<earhquake	name="2026.02.01 19:47:30"	lokasyon="YUNANISTAN                                        "	lat="40.3670"	lng="24.0933"	mag="2.3" Depth="7.5" />
@@ -72,4 +64,7 @@
 	<earhquake	name="2026.02.02 15:56:08"	lokasyon="BUYUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1785"	lng="28.2995"	mag="1.3" Depth="5.4" />
 	<earhquake	name="2026.02.02 16:14:13"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2202"	lng="28.9457"	mag="1.7" Depth="17.0" />
 	<earhquake	name="2026.02.02 16:15:30"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2428"	lng="37.7388"	mag="1.7" Depth="11.2" />
+	<earhquake	name="2026.02.02 17:18:47"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1562"	lng="28.2705"	mag="1.9" Depth="15.4" />
+	<earhquake	name="2026.02.02 17:19:32"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1587"	lng="28.2800"	mag="2.4" Depth="9.5" />
+	<earhquake	name="2026.02.02 17:56:09"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1680"	lng="28.2867"	mag="2.2" Depth="11.1" />
 </eqlist>
