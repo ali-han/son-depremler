@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.02 20:10:40"	lokasyon="KARAKUZU-ALIAGA (IZMIR)                           "	lat="38.7590"	lng="27.1293"	mag="3.1" Depth="14.0" />
 	<earhquake	name="2026.02.02 21:00:06"	lokasyon="HACIOMER-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0640"	lng="36.5832"	mag="1.6" Depth="5.3" />
 	<earhquake	name="2026.02.02 21:07:04"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2418"	lng="29.0285"	mag="1.4" Depth="10.1" />
 	<earhquake	name="2026.02.02 21:28:11"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1942"	lng="28.1463"	mag="1.7" Depth="16.6" />
@@ -89,4 +88,8 @@
 	<earhquake	name="2026.02.03 17:48:59"	lokasyon="CALOVA-BALYA (BALIKESIR)                          "	lat="39.8218"	lng="27.5075"	mag="1.6" Depth="3.9" />
 	<earhquake	name="2026.02.03 19:25:29"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2423"	lng="29.0457"	mag="1.8" Depth="9.8" />
 	<earhquake	name="2026.02.03 19:35:44"	lokasyon="TANOBA-ERBAA (TOKAT)                              "	lat="40.6392"	lng="36.4160"	mag="1.6" Depth="7.6" />
+	<earhquake	name="2026.02.03 20:09:05"	lokasyon="GENCEK-DEREBUCAK (KONYA)                          "	lat="37.4657"	lng="31.5247"	mag="1.7" Depth="7.3" />
+	<earhquake	name="2026.02.03 20:12:32"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2090"	lng="38.5048"	mag="3.2" Depth="5.4" />
+	<earhquake	name="2026.02.03 20:14:52"	lokasyon="SINCI-KAZIMKARABEKIR (KARAMAN)                    "	lat="37.3162"	lng="32.9293"	mag="1.7" Depth="11.2" />
+	<earhquake	name="2026.02.03 20:16:15"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1643"	lng="28.2662"	mag="2.0" Depth="15.9" />
 </eqlist>
