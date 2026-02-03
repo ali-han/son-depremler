@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.02 06:03:45"	lokasyon="ARITOPRAK-PUTURGE (MALATYA)                       "	lat="38.1840"	lng="38.6542"	mag="1.6" Depth="19.3" />
-	<earhquake	name="2026.02.02 06:54:16"	lokasyon="TASBURUN-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.1863"	lng="37.2228"	mag="1.5" Depth="17.3" />
-	<earhquake	name="2026.02.02 07:42:56"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2268"	lng="29.0637"	mag="2.0" Depth="12.0" />
 	<earhquake	name="2026.02.02 08:11:32"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2078"	lng="29.0313"	mag="1.6" Depth="14.2" />
 	<earhquake	name="2026.02.02 08:17:13"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="29.0190"	mag="2.0" Depth="7.1" />
 	<earhquake	name="2026.02.02 08:19:11"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2510"	lng="29.0427"	mag="1.6" Depth="5.4" />
@@ -88,4 +85,7 @@
 	<earhquake	name="2026.02.03 05:13:05"	lokasyon="KALEKOY-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0430"	lng="36.6008"	mag="1.4" Depth="8.2" />
 	<earhquake	name="2026.02.03 05:17:23"	lokasyon="KIRATLI-DIKILI (IZMIR)                            "	lat="39.1610"	lng="26.8572"	mag="1.1" Depth="6.6" />
 	<earhquake	name="2026.02.03 05:20:37"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2535"	lng="29.0287"	mag="1.5" Depth="11.4" />
+	<earhquake	name="2026.02.03 05:48:40"	lokasyon="YUKARIDOLAYLAR-SIMAV (KUTAHYA)                    "	lat="39.3172"	lng="29.0595"	mag="2.5" Depth="8.2" />
+	<earhquake	name="2026.02.03 07:12:59"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2513"	lng="37.7537"	mag="3.2" Depth="9.4" />
+	<earhquake	name="2026.02.03 07:31:26"	lokasyon="HARUNUSAGI-AKCADAG (MALATYA)                      "	lat="38.2610"	lng="37.7255"	mag="1.6" Depth="11.5" />
 </eqlist>
