@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.03 14:49:34"	lokasyon="AVCIOVA-CUBUK (ANKARA)                            "	lat="40.4492"	lng="33.0010"	mag="2.0" Depth="11.0" />
-	<earhquake	name="2026.02.03 14:57:06"	lokasyon="CALIOBA-GONEN (BALIKESIR)                         "	lat="40.1973"	lng="27.7328"	mag="1.0" Depth="14.0" />
 	<earhquake	name="2026.02.03 15:07:35"	lokasyon="COBANLAR-ODEMIS (IZMIR)                           "	lat="38.3103"	lng="27.9640"	mag="0.5" Depth="21.7" />
 	<earhquake	name="2026.02.03 15:13:07"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2498"	lng="28.1625"	mag="1.6" Depth="4.4" />
 	<earhquake	name="2026.02.03 15:21:47"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1762"	lng="28.9838"	mag="0.9" Depth="10.3" />
@@ -101,4 +99,7 @@
 	<earhquake	name="2026.02.04 12:42:16"	lokasyon="TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.6693"	lng="26.0223"	mag="1.2" Depth="21.3" />
 	<earhquake	name="2026.02.04 12:44:51"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1722"	lng="28.2820"	mag="2.0" Depth="9.1" />
 	<earhquake	name="2026.02.04 13:06:33"	lokasyon="BAYRAMGAZI-PAZARCIK (KAHRAMANMARAS)               "	lat="37.3095"	lng="36.9697"	mag="3.1" Depth="5.0" />
+	<earhquake	name="2026.02.04 13:56:21"	lokasyon="AKDENIZ                                           "	lat="36.3713"	lng="28.4500"	mag="1.5" Depth="19.3" />
+	<earhquake	name="2026.02.04 14:08:31"	lokasyon="SAGRAKCI-AKHISAR (MANISA)                         "	lat="39.1122"	lng="28.1042"	mag="1.0" Depth="15.2" />
+	<earhquake	name="2026.02.04 14:19:53"	lokasyon="EVCILER-SOMA (MANISA)                             "	lat="39.2385"	lng="27.6900"	mag="1.1" Depth="5.0" />
 </eqlist>
