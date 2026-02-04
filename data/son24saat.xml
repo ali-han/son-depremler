@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.03 21:52:42"	lokasyon="EGE DENIZI                                        "	lat="36.7623"	lng="26.5338"	mag="2.4" Depth="7.3" />
-	<earhquake	name="2026.02.03 21:59:05"	lokasyon="SOGUTALANI-KIRKAGAC (MANISA)                      "	lat="39.2288"	lng="27.8318"	mag="1.6" Depth="0.0" />
-	<earhquake	name="2026.02.03 22:14:54"	lokasyon="GUNEY KIBRIS                                      "	lat="34.8282"	lng="33.3505"	mag="2.6" Depth="28.4" />
-	<earhquake	name="2026.02.03 22:21:03"	lokasyon="EGE DENIZI                                        "	lat="36.6790"	lng="25.5942"	mag="1.2" Depth="5.4" />
-	<earhquake	name="2026.02.03 22:41:09"	lokasyon="EGE DENIZI                                        "	lat="36.7890"	lng="26.1830"	mag="2.1" Depth="5.9" />
-	<earhquake	name="2026.02.03 22:46:51"	lokasyon="EGE DENIZI                                        "	lat="38.4033"	lng="25.2535"	mag="2.5" Depth="5.7" />
 	<earhquake	name="2026.02.03 23:10:54"	lokasyon="ULUTAS-PUTURGE (MALATYA)                          "	lat="38.0692"	lng="38.6533"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2026.02.03 23:14:55"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2305"	lng="29.0078"	mag="1.1" Depth="11.7" />
 	<earhquake	name="2026.02.03 23:15:48"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6425"	lng="26.6150"	mag="1.6" Depth="8.9" />
@@ -94,4 +88,6 @@
 	<earhquake	name="2026.02.04 19:54:35"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2057"	lng="29.0205"	mag="1.1" Depth="22.5" />
 	<earhquake	name="2026.02.04 19:58:16"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2147"	lng="29.0325"	mag="1.7" Depth="7.1" />
 	<earhquake	name="2026.02.04 20:06:38"	lokasyon="EGE DENIZI                                        "	lat="35.6698"	lng="26.5062"	mag="3.3" Depth="28.4" />
+	<earhquake	name="2026.02.04 21:13:43"	lokasyon="ORMANICI-PUTURGE (MALATYA)                        "	lat="38.2498"	lng="38.7748"	mag="1.5" Depth="3.0" />
+	<earhquake	name="2026.02.04 22:04:15"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1870"	lng="28.1200"	mag="1.5" Depth="11.3" />
 </eqlist>
