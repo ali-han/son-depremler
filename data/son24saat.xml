@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.05 21:02:20"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2855"	lng="25.8370"	mag="2.8" Depth="10.5" />
-	<earhquake	name="2026.02.05 21:04:51"	lokasyon="ASAGIORUKCU-AKCADAG (MALATYA)                     "	lat="38.4430"	lng="38.0632"	mag="1.6" Depth="10.0" />
-	<earhquake	name="2026.02.05 21:29:47"	lokasyon="BELEN (HATAY)                                     "	lat="36.4885"	lng="36.1867"	mag="1.8" Depth="5.0" />
-	<earhquake	name="2026.02.05 22:15:15"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2153"	lng="28.0903"	mag="1.4" Depth="4.0" />
-	<earhquake	name="2026.02.05 22:20:33"	lokasyon="EGE DENIZI                                        "	lat="35.9975"	lng="27.6407"	mag="2.2" Depth="8.1" />
 	<earhquake	name="2026.02.05 23:22:20"	lokasyon="PARMAKDERE-SARIKAMIS (KARS)                       "	lat="40.3193"	lng="42.1725"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2026.02.05 23:56:11"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2435"	lng="28.9702"	mag="1.8" Depth="9.1" />
 	<earhquake	name="2026.02.06 00:02:08"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.1915"	lng="28.9575"	mag="1.4" Depth="14.6" />
@@ -77,4 +72,7 @@
 	<earhquake	name="2026.02.06 20:06:29"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2218"	lng="28.9463"	mag="0.9" Depth="21.9" />
 	<earhquake	name="2026.02.06 20:21:17"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.8012"	lng="31.5188"	mag="1.5" Depth="10.0" />
 	<earhquake	name="2026.02.06 20:22:17"	lokasyon="YENIBAGYAKA-(MUGLA)                               "	lat="37.1145"	lng="28.2448"	mag="2.4" Depth="11.5" />
+	<earhquake	name="2026.02.06 21:00:36"	lokasyon="CIMIKOY-AKSEKI (ANTALYA)                          "	lat="37.0605"	lng="31.8967"	mag="2.4" Depth="8.3" />
+	<earhquake	name="2026.02.06 21:05:58"	lokasyon="POLATDERESI-DOGANSEHIR (MALATYA)                  "	lat="38.1560"	lng="37.9308"	mag="1.8" Depth="2.1" />
+	<earhquake	name="2026.02.06 21:19:38"	lokasyon="TEPEKOY-MEZITLI (MERSIN)                          "	lat="36.9190"	lng="34.2222"	mag="1.9" Depth="20.4" />
 </eqlist>
