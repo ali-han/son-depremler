@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.05 11:05:22"	lokasyon="HANPASA-AKHISAR (MANISA)                          "	lat="39.0580"	lng="28.0995"	mag="1.4" Depth="20.0" />
-	<earhquake	name="2026.02.05 11:18:17"	lokasyon="KUZOLUK-YAHYALI (KAYSERI)                         "	lat="38.0377"	lng="35.4745"	mag="1.4" Depth="5.4" />
-	<earhquake	name="2026.02.05 11:40:23"	lokasyon="TIYEKLI-SAHINBEY (GAZIANTEP)                      "	lat="37.0213"	lng="37.0660"	mag="1.6" Depth="5.0" />
-	<earhquake	name="2026.02.05 11:49:18"	lokasyon="DARGIL-GORDES (MANISA)                            "	lat="39.0537"	lng="28.3555"	mag="1.6" Depth="4.9" />
-	<earhquake	name="2026.02.05 11:53:19"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1558"	lng="28.2345"	mag="1.4" Depth="17.3" />
-	<earhquake	name="2026.02.05 11:53:22"	lokasyon="KALEMOGLU-GORDES (MANISA)                         "	lat="39.0460"	lng="28.1743"	mag="1.5" Depth="15.5" />
 	<earhquake	name="2026.02.05 12:19:15"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.1960"	lng="27.9973"	mag="1.8" Depth="6.9" />
 	<earhquake	name="2026.02.05 12:37:51"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2010"	lng="38.4458"	mag="2.5" Depth="7.2" />
 	<earhquake	name="2026.02.05 12:48:12"	lokasyon="BEGEL-GORDES (MANISA)                             "	lat="39.0242"	lng="28.2448"	mag="1.4" Depth="25.6" />
@@ -77,4 +71,6 @@
 	<earhquake	name="2026.02.06 09:02:39"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2155"	lng="28.1135"	mag="1.9" Depth="7.7" />
 	<earhquake	name="2026.02.06 09:03:55"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1947"	lng="28.0900"	mag="1.8" Depth="8.4" />
 	<earhquake	name="2026.02.06 10:00:51"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1800"	lng="28.1807"	mag="1.7" Depth="11.2" />
+	<earhquake	name="2026.02.06 10:37:19"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0900"	lng="28.3882"	mag="1.4" Depth="10.9" />
+	<earhquake	name="2026.02.06 10:52:23"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.0530"	lng="38.4957"	mag="1.8" Depth="11.1" />
 </eqlist>
