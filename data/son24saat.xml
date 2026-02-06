@@ -74,5 +74,7 @@
 	<earhquake	name="2026.02.06 12:41:15"	lokasyon="DUALAR-KIRKAGAC (MANISA)                          "	lat="39.2145"	lng="27.9348"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2026.02.06 13:01:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2237"	lng="28.9740"	mag="1.4" Depth="13.6" />
 	<earhquake	name="2026.02.06 13:54:50"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1862"	lng="28.1192"	mag="2.3" Depth="9.7" />
-	<earhquake	name="2026.02.06 14:16:13"	lokasyon="HAKBILIR-KEMAH (ERZINCAN)                         "	lat="39.7008"	lng="38.8502"	mag="5.0" Depth="3.1" />
+	<earhquake	name="2026.02.06 14:16:13"	lokasyon="HAKBILIR-KEMAH (ERZINCAN)                         REVIZE01   (2026.02.06 14:16:13)"	lat="39.6955"	lng="38.8483"	mag="5.0" Depth="6.1" />
+	<earhquake	name="2026.02.06 14:24:20"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2328"	lng="29.0363"	mag="1.7" Depth="6.8" />
+	<earhquake	name="2026.02.06 14:31:45"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1635"	lng="28.2965"	mag="2.9" Depth="13.8" />
 </eqlist>
