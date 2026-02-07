@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.06 12:20:46"	lokasyon="CICEKKOY-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.2273"	lng="37.2438"	mag="1.6" Depth="10.5" />
-	<earhquake	name="2026.02.06 12:29:43"	lokasyon="BULUTLU-(MALATYA)                                 "	lat="38.3177"	lng="38.5465"	mag="1.0" Depth="12.3" />
-	<earhquake	name="2026.02.06 12:41:15"	lokasyon="DUALAR-KIRKAGAC (MANISA)                          "	lat="39.2145"	lng="27.9348"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2026.02.06 13:01:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2237"	lng="28.9740"	mag="1.4" Depth="13.6" />
 	<earhquake	name="2026.02.06 13:12:40"	lokasyon="AKYAKA-ULA (MUGLA)                                "	lat="37.0405"	lng="28.3302"	mag="1.4" Depth="2.2" />
 	<earhquake	name="2026.02.06 13:16:37"	lokasyon="MARMARA DENIZI                                    "	lat="40.7825"	lng="27.7323"	mag="1.6" Depth="12.9" />
@@ -74,6 +71,7 @@
 	<earhquake	name="2026.02.07 09:41:30"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2390"	lng="28.0627"	mag="4.0" Depth="9.1" />
 	<earhquake	name="2026.02.07 09:43:12"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2282"	lng="28.0408"	mag="3.0" Depth="8.9" />
 	<earhquake	name="2026.02.07 09:45:59"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2430"	lng="28.0898"	mag="2.1" Depth="9.4" />
+	<earhquake	name="2026.02.07 09:50:29"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2560"	lng="28.0700"	mag="1.6" Depth="8.0" />
 	<earhquake	name="2026.02.07 09:54:01"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2308"	lng="28.0392"	mag="1.8" Depth="7.1" />
 	<earhquake	name="2026.02.07 10:05:23"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2458"	lng="28.0792"	mag="1.6" Depth="12.4" />
 	<earhquake	name="2026.02.07 10:17:14"	lokasyon="BOZKURT (DENIZLI)                                 "	lat="37.8268"	lng="29.6090"	mag="2.5" Depth="8.6" />
