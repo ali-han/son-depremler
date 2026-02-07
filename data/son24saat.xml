@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.06 21:00:36"	lokasyon="CIMIKOY-AKSEKI (ANTALYA)                          "	lat="37.0605"	lng="31.8967"	mag="2.4" Depth="8.3" />
-	<earhquake	name="2026.02.06 21:05:58"	lokasyon="POLATDERESI-DOGANSEHIR (MALATYA)                  "	lat="38.1560"	lng="37.9308"	mag="1.8" Depth="2.1" />
-	<earhquake	name="2026.02.06 21:19:38"	lokasyon="TEPEKOY-MEZITLI (MERSIN)                          "	lat="36.9190"	lng="34.2222"	mag="1.9" Depth="20.4" />
 	<earhquake	name="2026.02.06 22:25:06"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0410"	lng="37.5615"	mag="1.3" Depth="5.3" />
 	<earhquake	name="2026.02.06 22:35:18"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2167"	lng="28.0393"	mag="1.3" Depth="12.1" />
 	<earhquake	name="2026.02.06 22:36:19"	lokasyon="SACAKLI-(HATAY)                                   "	lat="36.3125"	lng="36.3118"	mag="1.2" Depth="6.8" />
@@ -76,4 +73,6 @@
 	<earhquake	name="2026.02.07 19:37:36"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1357"	lng="28.3102"	mag="2.2" Depth="8.5" />
 	<earhquake	name="2026.02.07 19:46:40"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2508"	lng="29.0213"	mag="1.8" Depth="6.9" />
 	<earhquake	name="2026.02.07 19:53:50"	lokasyon="SARIKOC-REFAHIYE (ERZINCAN)                       "	lat="39.7308"	lng="38.8538"	mag="1.7" Depth="6.2" />
+	<earhquake	name="2026.02.07 21:13:28"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1670"	lng="28.0165"	mag="1.7" Depth="10.2" />
+	<earhquake	name="2026.02.07 21:42:15"	lokasyon="GUNAYDIN-SUSURLUK (BALIKESIR)                     "	lat="39.9703"	lng="28.1043"	mag="3.1" Depth="5.3" />
 </eqlist>
