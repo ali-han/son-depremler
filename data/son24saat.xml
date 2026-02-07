@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.06 13:01:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2237"	lng="28.9740"	mag="1.4" Depth="13.6" />
-	<earhquake	name="2026.02.06 13:12:40"	lokasyon="AKYAKA-ULA (MUGLA)                                "	lat="37.0405"	lng="28.3302"	mag="1.4" Depth="2.2" />
-	<earhquake	name="2026.02.06 13:16:37"	lokasyon="MARMARA DENIZI                                    "	lat="40.7825"	lng="27.7323"	mag="1.6" Depth="12.9" />
-	<earhquake	name="2026.02.06 13:54:50"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1862"	lng="28.1192"	mag="2.3" Depth="9.7" />
 	<earhquake	name="2026.02.06 14:16:13"	lokasyon="HAKBILIR-KEMAH (ERZINCAN)                         REVIZE01   (2026.02.06 14:16:13)"	lat="39.6955"	lng="38.8483"	mag="5.0" Depth="6.1" />
 	<earhquake	name="2026.02.06 14:24:20"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2328"	lng="29.0363"	mag="1.7" Depth="6.8" />
 	<earhquake	name="2026.02.06 14:31:45"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1635"	lng="28.2965"	mag="2.9" Depth="13.8" />
@@ -78,4 +74,7 @@
 	<earhquake	name="2026.02.07 10:40:13"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2487"	lng="28.0648"	mag="2.2" Depth="9.4" />
 	<earhquake	name="2026.02.07 11:23:02"	lokasyon="AKKOCALI-AKHISAR (MANISA)                         "	lat="39.1997"	lng="27.9738"	mag="2.2" Depth="9.8" />
 	<earhquake	name="2026.02.07 11:25:04"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2488"	lng="28.0707"	mag="1.8" Depth="10.4" />
+	<earhquake	name="2026.02.07 12:00:22"	lokasyon="CATKOY-DORTYOL (HATAY)                            "	lat="36.9122"	lng="36.4192"	mag="1.6" Depth="9.2" />
+	<earhquake	name="2026.02.07 12:10:43"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.9920"	lng="25.5615"	mag="3.6" Depth="26.0" />
+	<earhquake	name="2026.02.07 12:24:43"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1588"	lng="28.1392"	mag="1.6" Depth="13.5" />
 </eqlist>
