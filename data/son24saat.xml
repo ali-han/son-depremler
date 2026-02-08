@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.07 14:08:59"	lokasyon="ICME-(ELAZIG)                                     "	lat="38.6397"	lng="39.5407"	mag="2.0" Depth="7.7" />
-	<earhquake	name="2026.02.07 14:58:20"	lokasyon="YUNANISTAN                                        "	lat="40.5612"	lng="23.5415"	mag="3.2" Depth="2.5" />
 	<earhquake	name="2026.02.07 15:02:52"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1392"	lng="28.3212"	mag="1.6" Depth="12.7" />
 	<earhquake	name="2026.02.07 15:31:51"	lokasyon="HAKBILIR-KEMAH (ERZINCAN)                         "	lat="39.6975"	lng="38.8405"	mag="1.9" Depth="22.1" />
 	<earhquake	name="2026.02.07 16:44:57"	lokasyon="SOGUTLUOZ-KIRIKHAN (HATAY)                        "	lat="36.6158"	lng="36.4332"	mag="2.1" Depth="7.1" />
@@ -59,4 +57,6 @@
 	<earhquake	name="2026.02.08 11:53:34"	lokasyon="TAHTALIDEDELER-TURKOGLU (KAHRAMANMARAS)           "	lat="37.3935"	lng="36.9302"	mag="2.3" Depth="9.0" />
 	<earhquake	name="2026.02.08 12:34:16"	lokasyon="BEZIRHANE-CALDIRAN (VAN)                          "	lat="39.1065"	lng="44.0335"	mag="2.4" Depth="9.8" />
 	<earhquake	name="2026.02.08 12:51:47"	lokasyon="AKDENIZ                                           "	lat="35.4875"	lng="31.2970"	mag="2.3" Depth="6.6" />
+	<earhquake	name="2026.02.08 13:55:00"	lokasyon="ATLIDERE-FETHIYE (MUGLA)                          "	lat="36.6713"	lng="29.3317"	mag="1.8" Depth="17.3" />
+	<earhquake	name="2026.02.08 14:02:55"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1650"	lng="28.2827"	mag="1.8" Depth="11.0" />
 </eqlist>
