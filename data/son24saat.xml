@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.09 01:21:47"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.4443"	lng="26.9070"	mag="1.4" Depth="7.4" />
-	<earhquake	name="2026.02.09 01:32:48"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8440"	lng="28.7212"	mag="1.7" Depth="10.6" />
-	<earhquake	name="2026.02.09 01:45:53"	lokasyon="DEDEKOY-AKCADAG (MALATYA)                         "	lat="38.2265"	lng="37.9935"	mag="1.5" Depth="10.8" />
-	<earhquake	name="2026.02.09 01:50:09"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1780"	lng="28.2775"	mag="1.2" Depth="10.8" />
 	<earhquake	name="2026.02.09 02:12:26"	lokasyon="CAMLI-MARMARIS (MUGLA)                            "	lat="36.9677"	lng="28.2300"	mag="1.5" Depth="8.7" />
 	<earhquake	name="2026.02.09 02:15:40"	lokasyon="GECITLI-SINCIK (ADIYAMAN)                         "	lat="38.1128"	lng="38.5123"	mag="1.1" Depth="20.4" />
 	<earhquake	name="2026.02.09 02:51:21"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1137"	lng="38.4698"	mag="1.8" Depth="10.0" />
@@ -89,4 +85,8 @@
 	<earhquake	name="2026.02.10 00:30:33"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1650"	lng="28.2537"	mag="1.5" Depth="15.2" />
 	<earhquake	name="2026.02.10 00:49:21"	lokasyon="ORTAOREN-EKINOZU (KAHRAMANMARAS)                  "	lat="38.0932"	lng="37.1162"	mag="1.2" Depth="5.2" />
 	<earhquake	name="2026.02.10 00:50:40"	lokasyon="EYCELLI-NAZILLI (AYDIN)                           "	lat="37.9837"	lng="28.3503"	mag="1.0" Depth="14.7" />
+	<earhquake	name="2026.02.10 01:11:05"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1907"	lng="28.2000"	mag="1.5" Depth="11.7" />
+	<earhquake	name="2026.02.10 01:17:38"	lokasyon="KULAHLI-GURUN (SIVAS)                             "	lat="38.8562"	lng="37.4270"	mag="1.4" Depth="13.8" />
+	<earhquake	name="2026.02.10 01:21:07"	lokasyon="TIPIKOY-AKSEHIR (KONYA)                           "	lat="38.5242"	lng="31.4198"	mag="2.0" Depth="5.2" />
+	<earhquake	name="2026.02.10 01:27:19"	lokasyon="TAHTAKOPRU-(HATAY)                                "	lat="36.3742"	lng="36.1203"	mag="1.5" Depth="2.7" />
 </eqlist>
