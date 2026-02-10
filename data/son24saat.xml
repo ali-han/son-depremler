@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.09 20:56:08"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1880"	lng="28.2478"	mag="1.6" Depth="11.9" />
 	<earhquake	name="2026.02.09 21:07:53"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2280"	lng="28.1343"	mag="1.6" Depth="9.4" />
 	<earhquake	name="2026.02.09 21:18:58"	lokasyon="YASTIKTEPE-PASINLER (ERZURUM)                     "	lat="39.8945"	lng="41.7345"	mag="1.8" Depth="7.4" />
 	<earhquake	name="2026.02.09 21:36:38"	lokasyon="ALTINKAYA-(AKSARAY)                               "	lat="38.6185"	lng="33.7988"	mag="1.9" Depth="8.3" />
@@ -74,4 +73,7 @@
 	<earhquake	name="2026.02.10 19:15:26"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2035"	lng="28.1633"	mag="2.4" Depth="10.9" />
 	<earhquake	name="2026.02.10 19:18:50"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1242"	lng="38.5050"	mag="0.9" Depth="16.7" />
 	<earhquake	name="2026.02.10 19:27:31"	lokasyon="YOLCATI-(BOLU)                                    "	lat="40.7345"	lng="31.4773"	mag="1.2" Depth="15.3" />
+	<earhquake	name="2026.02.10 19:56:44"	lokasyon="ISIKLAR-TOMARZA (KAYSERI)                         "	lat="38.3835"	lng="36.0657"	mag="1.8" Depth="6.1" />
+	<earhquake	name="2026.02.10 20:19:59"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1710"	lng="28.1330"	mag="1.4" Depth="9.2" />
+	<earhquake	name="2026.02.10 20:30:30"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1592"	lng="28.3075"	mag="2.6" Depth="11.9" />
 </eqlist>
