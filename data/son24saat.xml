@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.10 21:39:51"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6182"	lng="26.7925"	mag="1.5" Depth="5.5" />
-	<earhquake	name="2026.02.10 21:59:45"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2498"	lng="29.0235"	mag="2.7" Depth="7.2" />
 	<earhquake	name="2026.02.10 22:01:28"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2458"	lng="29.0328"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2026.02.10 22:05:00"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2497"	lng="29.0268"	mag="1.8" Depth="11.4" />
 	<earhquake	name="2026.02.10 22:12:05"	lokasyon="TEPEONU-SAMSAT (ADIYAMAN)                         "	lat="37.6117"	lng="38.5300"	mag="1.7" Depth="13.9" />
@@ -91,4 +89,8 @@
 	<earhquake	name="2026.02.11 19:23:30"	lokasyon="DISBUDAK-LAPSEKI (CANAKKALE)                      "	lat="40.3145"	lng="27.0277"	mag="1.4" Depth="14.1" />
 	<earhquake	name="2026.02.11 19:35:56"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2518"	lng="29.0100"	mag="1.9" Depth="3.9" />
 	<earhquake	name="2026.02.11 19:49:44"	lokasyon="ERIM-POSOF (ARDAHAN)                              "	lat="41.9065"	lng="42.7005"	mag="2.4" Depth="5.0" />
+	<earhquake	name="2026.02.11 20:27:24"	lokasyon="YAZIGEDIGI-REFAHIYE (ERZINCAN)                    "	lat="39.7643"	lng="38.9082"	mag="1.8" Depth="29.1" />
+	<earhquake	name="2026.02.11 21:10:25"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2050"	lng="29.0265"	mag="1.2" Depth="9.5" />
+	<earhquake	name="2026.02.11 21:13:01"	lokasyon="KARAKOSELI-DELICE (KIRIKKALE)                     "	lat="40.1923"	lng="34.0950"	mag="1.5" Depth="15.5" />
+	<earhquake	name="2026.02.11 21:15:58"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2143"	lng="28.9955"	mag="0.9" Depth="16.6" />
 </eqlist>
