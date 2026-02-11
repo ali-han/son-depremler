@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.10 12:27:36"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2435"	lng="29.0230"	mag="2.1" Depth="12.3" />
-	<earhquake	name="2026.02.10 12:41:20"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2347"	lng="29.0485"	mag="1.4" Depth="14.1" />
-	<earhquake	name="2026.02.10 12:54:05"	lokasyon="KIBRIS ACIKLARI-KUZEY--(AKDENIZ)                  "	lat="35.5638"	lng="33.6232"	mag="1.8" Depth="23.9" />
-	<earhquake	name="2026.02.10 12:55:17"	lokasyon="ASLIHAN-(BALIKESIR)                               "	lat="39.5885"	lng="28.0123"	mag="0.8" Depth="10.7" />
 	<earhquake	name="2026.02.10 13:43:09"	lokasyon="KULU (KONYA)                                      "	lat="39.0923"	lng="33.1407"	mag="1.4" Depth="11.8" />
 	<earhquake	name="2026.02.10 13:43:42"	lokasyon="YURTTUTAN-VARTO (MUS)                             "	lat="39.0668"	lng="41.7468"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2026.02.10 13:51:14"	lokasyon="KARAMESE-(MUS)                                    "	lat="38.9393"	lng="41.7500"	mag="1.7" Depth="4.5" />
@@ -90,4 +86,6 @@
 	<earhquake	name="2026.02.11 10:10:29"	lokasyon="MARMARA DENIZI                                    "	lat="40.6662"	lng="28.2985"	mag="2.2" Depth="9.4" />
 	<earhquake	name="2026.02.11 10:25:50"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.7885"	lng="27.0488"	mag="1.3" Depth="18.4" />
 	<earhquake	name="2026.02.11 10:55:08"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2007"	lng="28.1680"	mag="2.1" Depth="15.7" />
+	<earhquake	name="2026.02.11 11:36:05"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1670"	lng="28.2898"	mag="1.6" Depth="11.9" />
+	<earhquake	name="2026.02.11 11:55:23"	lokasyon="ULUKOY-(MALATYA)                                  "	lat="38.1558"	lng="38.5695"	mag="1.4" Depth="15.7" />
 </eqlist>
