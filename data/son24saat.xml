@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.12 11:20:40"	lokasyon="MESCICELE-(BOLU)                                  "	lat="40.8972"	lng="31.6707"	mag="1.3" Depth="8.2" />
-	<earhquake	name="2026.02.12 11:33:47"	lokasyon="GUCUKSU-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0830"	lng="36.6563"	mag="2.7" Depth="6.6" />
-	<earhquake	name="2026.02.12 11:38:45"	lokasyon="SIPAHILI-GULNAR (MERSIN)                          "	lat="36.1785"	lng="33.4508"	mag="0.9" Depth="0.0" />
-	<earhquake	name="2026.02.12 11:43:12"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1655"	lng="28.2927"	mag="2.0" Depth="11.6" />
-	<earhquake	name="2026.02.12 11:49:29"	lokasyon="ATAYURT-SILIFKE (MERSIN)                          "	lat="36.3737"	lng="34.0410"	mag="0.9" Depth="9.2" />
 	<earhquake	name="2026.02.12 12:04:57"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.2647"	lng="33.7310"	mag="1.2" Depth="0.0" />
 	<earhquake	name="2026.02.12 12:15:00"	lokasyon="YAKUPLU-ILIC (ERZINCAN)                           "	lat="39.4157"	lng="38.6075"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2026.02.12 12:59:38"	lokasyon="IHSANIYE-EYUP (ISTANBUL)                          "	lat="41.2322"	lng="28.8088"	mag="1.0" Depth="0.0" />
@@ -78,4 +73,6 @@
 	<earhquake	name="2026.02.13 08:36:38"	lokasyon="AKDENIZ                                           "	lat="36.4353"	lng="28.0923"	mag="2.2" Depth="39.8" />
 	<earhquake	name="2026.02.13 09:49:50"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2473"	lng="28.1250"	mag="1.6" Depth="8.1" />
 	<earhquake	name="2026.02.13 10:02:53"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2412"	lng="29.0600"	mag="1.9" Depth="16.4" />
+	<earhquake	name="2026.02.13 10:32:17"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1590"	lng="28.2337"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.02.13 10:47:37"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      REVIZE01   (2026.02.13 10:47:37)"	lat="39.1248"	lng="28.3010"	mag="1.3" Depth="3.1" />
 </eqlist>
