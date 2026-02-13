@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.13 01:44:46"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4395"	lng="28.8347"	mag="1.2" Depth="4.8" />
-	<earhquake	name="2026.02.13 01:45:04"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1905"	lng="37.7833"	mag="1.6" Depth="17.5" />
-	<earhquake	name="2026.02.13 02:01:49"	lokasyon="SAFIBEY-GEYVE (SAKARYA)                           "	lat="40.4698"	lng="30.2258"	mag="3.3" Depth="5.0" />
-	<earhquake	name="2026.02.13 02:25:34"	lokasyon="ARIKONAK-SINCIK (ADIYAMAN)                        "	lat="38.1153"	lng="38.5725"	mag="1.4" Depth="22.3" />
-	<earhquake	name="2026.02.13 02:36:06"	lokasyon="VAN GOLU                                          "	lat="38.5198"	lng="43.2145"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2026.02.13 03:09:09"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2083"	lng="27.9993"	mag="1.8" Depth="10.0" />
 	<earhquake	name="2026.02.13 03:23:36"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1383"	lng="38.4473"	mag="2.1" Depth="5.7" />
 	<earhquake	name="2026.02.13 03:58:10"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2428"	lng="37.7398"	mag="1.4" Depth="14.0" />
@@ -76,4 +71,5 @@
 	<earhquake	name="2026.02.13 23:44:55"	lokasyon="YAGMURLU-GOKSUN (KAHRAMANMARAS)                   "	lat="38.0938"	lng="36.5662"	mag="2.2" Depth="5.2" />
 	<earhquake	name="2026.02.14 00:00:43"	lokasyon="AKKOCALI-AKHISAR (MANISA)                         "	lat="39.2057"	lng="27.9717"	mag="1.7" Depth="8.2" />
 	<earhquake	name="2026.02.14 00:49:32"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2143"	lng="28.9568"	mag="1.6" Depth="14.0" />
+	<earhquake	name="2026.02.14 01:59:05"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2228"	lng="28.9745"	mag="1.6" Depth="10.0" />
 </eqlist>
