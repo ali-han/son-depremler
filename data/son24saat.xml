@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.13 13:32:33"	lokasyon="DUZAGAC-SOLHAN (BINGOL)                           "	lat="38.8860"	lng="40.9372"	mag="1.9" Depth="27.6" />
-	<earhquake	name="2026.02.13 13:42:17"	lokasyon="AKPINAR-SIMAV (KUTAHYA)                           "	lat="39.2000"	lng="28.7255"	mag="1.6" Depth="19.8" />
-	<earhquake	name="2026.02.13 13:54:51"	lokasyon="TEKIR-(KAHRAMANMARAS)                             "	lat="37.8703"	lng="36.6323"	mag="2.2" Depth="12.1" />
 	<earhquake	name="2026.02.13 14:18:28"	lokasyon="KARABEY-(MUS)                                     "	lat="38.9370"	lng="41.1585"	mag="1.5" Depth="11.3" />
 	<earhquake	name="2026.02.13 14:36:21"	lokasyon="KIRMIZILAR-(BALIKESIR)                            "	lat="39.8107"	lng="27.8107"	mag="2.2" Depth="9.7" />
 	<earhquake	name="2026.02.13 14:37:54"	lokasyon="ALPA-TAVAS (DENIZLI)                              "	lat="37.2323"	lng="29.0425"	mag="1.9" Depth="11.7" />
@@ -71,4 +68,6 @@
 	<earhquake	name="2026.02.14 11:49:35"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1675"	lng="28.1272"	mag="2.1" Depth="11.5" />
 	<earhquake	name="2026.02.14 11:49:46"	lokasyon="EGE DENIZI                                        "	lat="35.7107"	lng="25.8292"	mag="2.4" Depth="25.5" />
 	<earhquake	name="2026.02.14 12:28:31"	lokasyon="KAYMAKLI-ILIC (ERZINCAN)                          "	lat="39.4257"	lng="38.8708"	mag="1.7" Depth="13.2" />
+	<earhquake	name="2026.02.14 12:54:58"	lokasyon="KARAKUYU-SAIMBEYLI (ADANA)                        "	lat="37.8730"	lng="36.1867"	mag="1.5" Depth="6.4" />
+	<earhquake	name="2026.02.14 13:06:58"	lokasyon="CALDERE-BIGADIC (BALIKESIR)                       "	lat="39.5225"	lng="28.1763"	mag="2.1" Depth="5.0" />
 </eqlist>
