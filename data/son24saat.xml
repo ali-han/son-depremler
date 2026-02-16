@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.15 08:13:04"	lokasyon="DIKMEN-BIGA (CANAKKALE)                           "	lat="40.1325"	lng="27.1173"	mag="1.3" Depth="4.0" />
-	<earhquake	name="2026.02.15 08:18:49"	lokasyon="GURCAYIR-SARKISLA (SIVAS)                         "	lat="39.3520"	lng="36.3615"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2026.02.15 08:28:30"	lokasyon="KARLIK-ISKILIP (CORUM)                            "	lat="40.6178"	lng="34.5320"	mag="1.6" Depth="8.4" />
-	<earhquake	name="2026.02.15 08:48:35"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1163"	lng="28.3338"	mag="2.2" Depth="13.6" />
 	<earhquake	name="2026.02.15 09:20:05"	lokasyon="UNCULAR-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.4547"	lng="37.0952"	mag="1.5" Depth="28.2" />
 	<earhquake	name="2026.02.15 10:06:57"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.0823"	lng="28.3093"	mag="1.4" Depth="14.7" />
 	<earhquake	name="2026.02.15 10:40:57"	lokasyon="CORUS-ULA (MUGLA)                                 "	lat="36.9845"	lng="28.4933"	mag="2.3" Depth="9.5" />
@@ -50,4 +46,6 @@
 	<earhquake	name="2026.02.16 06:15:20"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2380"	lng="28.9912"	mag="2.1" Depth="9.0" />
 	<earhquake	name="2026.02.16 06:49:28"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1565"	lng="28.3357"	mag="1.5" Depth="8.9" />
 	<earhquake	name="2026.02.16 07:06:43"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2047"	lng="29.0413"	mag="1.6" Depth="9.7" />
+	<earhquake	name="2026.02.16 07:24:14"	lokasyon="CAKALLI-BELEN (HATAY)                             "	lat="36.4518"	lng="36.2835"	mag="2.7" Depth="5.4" />
+	<earhquake	name="2026.02.16 08:42:42"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0882"	lng="37.6835"	mag="1.0" Depth="12.0" />
 </eqlist>
