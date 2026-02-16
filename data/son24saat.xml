@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.15 09:20:05"	lokasyon="UNCULAR-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.4547"	lng="37.0952"	mag="1.5" Depth="28.2" />
-	<earhquake	name="2026.02.15 10:06:57"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.0823"	lng="28.3093"	mag="1.4" Depth="14.7" />
-	<earhquake	name="2026.02.15 10:40:57"	lokasyon="CORUS-ULA (MUGLA)                                 "	lat="36.9845"	lng="28.4933"	mag="2.3" Depth="9.5" />
 	<earhquake	name="2026.02.15 11:22:08"	lokasyon="MEYDANCIK-(VAN)                                   "	lat="38.7565"	lng="43.5177"	mag="2.0" Depth="24.9" />
 	<earhquake	name="2026.02.15 11:33:55"	lokasyon="UCPINAR-(BALIKESIR)                               "	lat="39.6925"	lng="27.9047"	mag="1.9" Depth="3.6" />
 	<earhquake	name="2026.02.15 11:50:19"	lokasyon="BALLITAS-ASKALE (ERZURUM)                         "	lat="40.0460"	lng="40.7448"	mag="1.8" Depth="3.4" />
@@ -48,4 +45,9 @@
 	<earhquake	name="2026.02.16 07:06:43"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2047"	lng="29.0413"	mag="1.6" Depth="9.7" />
 	<earhquake	name="2026.02.16 07:24:14"	lokasyon="CAKALLI-BELEN (HATAY)                             "	lat="36.4518"	lng="36.2835"	mag="2.7" Depth="5.4" />
 	<earhquake	name="2026.02.16 08:42:42"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0882"	lng="37.6835"	mag="1.0" Depth="12.0" />
+	<earhquake	name="2026.02.16 08:45:18"	lokasyon="SEMERCILER-(BOLU)                                 "	lat="40.8495"	lng="31.8048"	mag="1.7" Depth="9.4" />
+	<earhquake	name="2026.02.16 09:01:18"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2218"	lng="28.1067"	mag="1.5" Depth="9.1" />
+	<earhquake	name="2026.02.16 09:19:11"	lokasyon="OZLUCE-(MUGLA)                                    "	lat="37.2028"	lng="28.5320"	mag="1.8" Depth="5.2" />
+	<earhquake	name="2026.02.16 09:20:42"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1718"	lng="29.0193"	mag="1.1" Depth="5.0" />
+	<earhquake	name="2026.02.16 09:50:50"	lokasyon="ASAGIMIRAHMET-KOVANCILAR (ELAZIG)                 "	lat="38.7598"	lng="40.0582"	mag="2.3" Depth="2.9" />
 </eqlist>
