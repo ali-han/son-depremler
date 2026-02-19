@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.18 08:19:18"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1370"	lng="28.3053"	mag="2.3" Depth="12.6" />
-	<earhquake	name="2026.02.18 08:21:10"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       REVIZE01   (2026.02.18 08:21:10)"	lat="39.2203"	lng="28.0715"	mag="2.2" Depth="7.5" />
-	<earhquake	name="2026.02.18 08:26:16"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.8160"	lng="26.8053"	mag="1.7" Depth="2.3" />
 	<earhquake	name="2026.02.18 09:08:41"	lokasyon="KALEKOY-GOKCEADA (CANAKKALE)                      "	lat="40.3722"	lng="25.8468"	mag="1.6" Depth="5.3" />
 	<earhquake	name="2026.02.18 09:18:08"	lokasyon="OGLAKLI-(AGRI)                                    "	lat="39.6172"	lng="43.2582"	mag="2.5" Depth="22.5" />
 	<earhquake	name="2026.02.18 09:42:30"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2095"	lng="28.9995"	mag="1.0" Depth="19.1" />
@@ -100,4 +97,8 @@
 	<earhquake	name="2026.02.19 06:57:07"	lokasyon="CINDERE-GUNEY (DENIZLI)                           "	lat="38.0858"	lng="29.0610"	mag="1.4" Depth="9.6" />
 	<earhquake	name="2026.02.19 07:16:22"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9265"	lng="26.0823"	mag="1.8" Depth="7.3" />
 	<earhquake	name="2026.02.19 07:43:14"	lokasyon="BELENARDIC-AKKOY (DENIZLI)                        "	lat="38.0527"	lng="29.0588"	mag="2.0" Depth="5.0" />
+	<earhquake	name="2026.02.19 08:07:30"	lokasyon="CAMLIBEL-POZANTI (ADANA)                          "	lat="37.4337"	lng="35.0948"	mag="3.3" Depth="5.8" />
+	<earhquake	name="2026.02.19 08:12:54"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9687"	lng="26.0887"	mag="2.3" Depth="16.8" />
+	<earhquake	name="2026.02.19 08:31:04"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8490"	lng="28.6675"	mag="2.1" Depth="16.0" />
+	<earhquake	name="2026.02.19 08:38:38"	lokasyon="SARIAGIL-BEYPAZARI (ANKARA)                       "	lat="40.1993"	lng="31.8168"	mag="2.6" Depth="7.3" />
 </eqlist>
