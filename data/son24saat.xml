@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.19 01:09:38"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1487"	lng="28.1925"	mag="2.5" Depth="12.0" />
-	<earhquake	name="2026.02.19 01:16:00"	lokasyon="SANDALCIK-ACIPAYAM (DENIZLI)                      "	lat="37.1193"	lng="29.0512"	mag="1.7" Depth="11.3" />
-	<earhquake	name="2026.02.19 01:56:21"	lokasyon="BEYGIRCIOGLU-KARGI (CORUM)                        "	lat="41.1152"	lng="34.3737"	mag="2.5" Depth="5.7" />
 	<earhquake	name="2026.02.19 02:04:54"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="28.9947"	mag="1.1" Depth="11.3" />
 	<earhquake	name="2026.02.19 02:15:00"	lokasyon="KARAOMER-KIZILIRMAK (CANKIRI)                     "	lat="40.4753"	lng="34.0817"	mag="2.0" Depth="6.2" />
 	<earhquake	name="2026.02.19 02:18:44"	lokasyon="SURIYE                                            "	lat="36.0595"	lng="40.0177"	mag="2.5" Depth="5.0" />
@@ -93,5 +90,9 @@
 	<earhquake	name="2026.02.19 23:50:57"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2592"	lng="28.1745"	mag="1.3" Depth="8.4" />
 	<earhquake	name="2026.02.20 00:10:45"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1892"	lng="28.0942"	mag="1.6" Depth="12.8" />
 	<earhquake	name="2026.02.20 00:31:48"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9070"	lng="26.0870"	mag="2.0" Depth="7.2" />
+	<earhquake	name="2026.02.20 00:36:16"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2193"	lng="37.7870"	mag="1.3" Depth="11.4" />
 	<earhquake	name="2026.02.20 00:38:16"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.5762"	lng="26.7402"	mag="1.4" Depth="3.6" />
+	<earhquake	name="2026.02.20 00:52:32"	lokasyon="AKDENIZ                                           "	lat="35.8747"	lng="29.1008"	mag="2.2" Depth="8.9" />
+	<earhquake	name="2026.02.20 00:53:21"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1697"	lng="28.1292"	mag="1.1" Depth="18.1" />
+	<earhquake	name="2026.02.20 01:01:30"	lokasyon="DARILIK-ALADAG (ADANA)                            "	lat="37.6062"	lng="35.3987"	mag="1.4" Depth="5.0" />
 </eqlist>
