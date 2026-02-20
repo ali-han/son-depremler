@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.20 01:01:30"	lokasyon="DARILIK-ALADAG (ADANA)                            "	lat="37.6062"	lng="35.3987"	mag="1.4" Depth="5.0" />
-	<earhquake	name="2026.02.20 01:52:55"	lokasyon="ARSLANLI-(OSMANIYE)                               "	lat="37.1363"	lng="36.2795"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2026.02.20 02:15:34"	lokasyon="KAZANDERE-GOKSUN (KAHRAMANMARAS)                  "	lat="37.9507"	lng="36.2942"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2026.02.20 02:34:50"	lokasyon="KUP-ALADAG (ADANA)                                "	lat="37.6582"	lng="35.4292"	mag="1.6" Depth="8.7" />
 	<earhquake	name="2026.02.20 02:40:28"	lokasyon="YUNANISTAN                                        "	lat="40.2987"	lng="24.1237"	mag="2.2" Depth="8.7" />
@@ -80,4 +78,6 @@
 	<earhquake	name="2026.02.20 23:55:32"	lokasyon="OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.4890"	lng="29.0058"	mag="2.4" Depth="8.9" />
 	<earhquake	name="2026.02.21 00:14:10"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1387"	lng="37.7803"	mag="1.5" Depth="9.6" />
 	<earhquake	name="2026.02.21 00:25:38"	lokasyon="ILYASLAR-KIRKAGAC (MANISA)                        "	lat="39.1002"	lng="27.7903"	mag="1.5" Depth="5.4" />
+	<earhquake	name="2026.02.21 00:51:32"	lokasyon="AKBAYIR-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.1870"	lng="37.3537"	mag="1.5" Depth="4.2" />
+	<earhquake	name="2026.02.21 01:12:28"	lokasyon="ELEKGOLU-CAMARDI (NIGDE)                          "	lat="37.7710"	lng="35.0583"	mag="1.5" Depth="3.3" />
 </eqlist>
