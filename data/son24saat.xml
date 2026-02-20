@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.19 07:16:22"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9265"	lng="26.0823"	mag="1.8" Depth="7.3" />
-	<earhquake	name="2026.02.19 07:43:14"	lokasyon="BELENARDIC-AKKOY (DENIZLI)                        "	lat="38.0527"	lng="29.0588"	mag="2.0" Depth="5.0" />
-	<earhquake	name="2026.02.19 08:07:30"	lokasyon="CAMLIBEL-POZANTI (ADANA)                          "	lat="37.4337"	lng="35.0948"	mag="3.3" Depth="5.8" />
-	<earhquake	name="2026.02.19 08:12:54"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9687"	lng="26.0887"	mag="2.3" Depth="16.8" />
-	<earhquake	name="2026.02.19 08:31:04"	lokasyon="AVCILAR ACIKLARI-ISTANBUL (MARMARA DENIZI)        "	lat="40.8490"	lng="28.6675"	mag="2.1" Depth="16.0" />
-	<earhquake	name="2026.02.19 08:38:38"	lokasyon="SARIAGIL-BEYPAZARI (ANKARA)                       "	lat="40.1993"	lng="31.8168"	mag="2.6" Depth="7.3" />
 	<earhquake	name="2026.02.19 09:33:09"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9340"	lng="26.0922"	mag="2.0" Depth="9.1" />
 	<earhquake	name="2026.02.19 10:09:42"	lokasyon="ALACAT-FETHIYE (MUGLA)                            "	lat="36.5402"	lng="29.3270"	mag="1.0" Depth="1.4" />
 	<earhquake	name="2026.02.19 10:10:39"	lokasyon="SAHINKAYASI-(KAHRAMANMARAS)                       "	lat="37.8470"	lng="36.7008"	mag="2.9" Depth="5.6" />
@@ -83,4 +77,8 @@
 	<earhquake	name="2026.02.20 06:10:51"	lokasyon="KAZKELI-KIRIKHAN (HATAY)                          "	lat="36.3832"	lng="36.3648"	mag="4.1" Depth="7.4" />
 	<earhquake	name="2026.02.20 06:15:37"	lokasyon="KARDERE-KEMAH (ERZINCAN)                          "	lat="39.6785"	lng="38.8002"	mag="1.9" Depth="12.2" />
 	<earhquake	name="2026.02.20 06:24:35"	lokasyon="EGE DENIZI                                        "	lat="35.6135"	lng="26.6615"	mag="3.0" Depth="15.5" />
+	<earhquake	name="2026.02.20 06:33:16"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.4802"	lng="26.0917"	mag="2.9" Depth="27.5" />
+	<earhquake	name="2026.02.20 07:09:20"	lokasyon="KESLITURKMENLI-SILIFKE (MERSIN)                   "	lat="36.5497"	lng="33.9673"	mag="1.9" Depth="27.8" />
+	<earhquake	name="2026.02.20 07:22:00"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2382"	lng="28.0710"	mag="1.5" Depth="7.8" />
+	<earhquake	name="2026.02.20 07:52:51"	lokasyon="KARABUCAK-KOZAN (ADANA)                           "	lat="37.6445"	lng="35.8697"	mag="2.0" Depth="3.4" />
 </eqlist>
