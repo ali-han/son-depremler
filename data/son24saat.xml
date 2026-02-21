@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.20 16:31:29"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.4002"	lng="25.9632"	mag="2.2" Depth="12.8" />
-	<earhquake	name="2026.02.20 16:46:15"	lokasyon="GOBELLI-FEKE (ADANA)                              "	lat="37.9278"	lng="35.9235"	mag="1.6" Depth="28.2" />
-	<earhquake	name="2026.02.20 16:58:54"	lokasyon="KOYUNYURDU-SELIM (KARS)                           "	lat="40.4030"	lng="42.9143"	mag="1.7" Depth="20.4" />
 	<earhquake	name="2026.02.20 17:17:05"	lokasyon="TEPEBOZ-KARABURUN (IZMIR)                         "	lat="38.6537"	lng="26.4552"	mag="2.1" Depth="8.0" />
 	<earhquake	name="2026.02.20 17:22:00"	lokasyon="TEPEBOZ-KARABURUN (IZMIR)                         "	lat="38.6747"	lng="26.4502"	mag="2.1" Depth="6.4" />
 	<earhquake	name="2026.02.20 17:24:01"	lokasyon="TEPEBOZ-KARABURUN (IZMIR)                         "	lat="38.6648"	lng="26.4553"	mag="2.0" Depth="4.6" />
@@ -97,4 +94,6 @@
 	<earhquake	name="2026.02.21 14:12:07"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6620"	lng="35.3862"	mag="1.5" Depth="4.7" />
 	<earhquake	name="2026.02.21 14:18:31"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2887"	lng="38.7307"	mag="1.8" Depth="7.0" />
 	<earhquake	name="2026.02.21 14:38:37"	lokasyon="EGE DENIZI                                        "	lat="36.6100"	lng="25.6850"	mag="2.1" Depth="5.7" />
+	<earhquake	name="2026.02.21 15:03:01"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2820"	lng="38.7378"	mag="1.5" Depth="5.2" />
+	<earhquake	name="2026.02.21 16:19:49"	lokasyon="KALINAGIL-MILAS (MUGLA)                           "	lat="37.2522"	lng="27.8473"	mag="2.0" Depth="10.5" />
 </eqlist>
