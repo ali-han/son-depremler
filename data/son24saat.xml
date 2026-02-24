@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.23 13:03:20"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2232"	lng="27.9852"	mag="1.3" Depth="9.3" />
-	<earhquake	name="2026.02.23 13:05:12"	lokasyon="CALTEPE-YESILOVA (BURDUR)                         "	lat="37.4308"	lng="29.8153"	mag="1.4" Depth="29.6" />
 	<earhquake	name="2026.02.23 14:30:31"	lokasyon="YUREGIR (ADANA)                                   "	lat="36.8937"	lng="35.4368"	mag="1.9" Depth="12.7" />
 	<earhquake	name="2026.02.23 15:26:06"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2217"	lng="28.1518"	mag="3.3" Depth="15.7" />
 	<earhquake	name="2026.02.23 15:29:12"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1745"	lng="28.2710"	mag="2.7" Depth="19.6" />
@@ -82,7 +80,10 @@
 	<earhquake	name="2026.02.24 10:08:29"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2157"	lng="28.1430"	mag="1.9" Depth="7.1" />
 	<earhquake	name="2026.02.24 10:28:17"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1332"	lng="28.3408"	mag="1.8" Depth="13.2" />
 	<earhquake	name="2026.02.24 10:32:06"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2323"	lng="28.1202"	mag="1.8" Depth="9.8" />
+	<earhquake	name="2026.02.24 10:50:26"	lokasyon="YAYKIN-CAN (CANAKKALE)                            "	lat="40.0218"	lng="27.1432"	mag="1.6" Depth="24.0" />
 	<earhquake	name="2026.02.24 11:02:55"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      REVIZE01   (2026.02.24 11:02:55)"	lat="39.1448"	lng="28.2910"	mag="1.9" Depth="8.8" />
 	<earhquake	name="2026.02.24 11:04:50"	lokasyon="AKDENIZ                                           "	lat="36.0465"	lng="29.0143"	mag="3.0" Depth="45.3" />
 	<earhquake	name="2026.02.24 11:54:17"	lokasyon="TIRKAZ-SARAYKOY (DENIZLI)                         "	lat="37.8740"	lng="28.7678"	mag="1.8" Depth="14.6" />
+	<earhquake	name="2026.02.24 11:58:52"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="35.0740"	lng="26.6852"	mag="3.7" Depth="6.3" />
+	<earhquake	name="2026.02.24 12:04:37"	lokasyon="YESILOVACIK-SILIFKE (MERSIN)                      "	lat="36.2128"	lng="33.6712"	mag="0.6" Depth="0.0" />
 </eqlist>
