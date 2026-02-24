@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.23 14:30:31"	lokasyon="YUREGIR (ADANA)                                   "	lat="36.8937"	lng="35.4368"	mag="1.9" Depth="12.7" />
 	<earhquake	name="2026.02.23 15:26:06"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2217"	lng="28.1518"	mag="3.3" Depth="15.7" />
 	<earhquake	name="2026.02.23 15:29:12"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1745"	lng="28.2710"	mag="2.7" Depth="19.6" />
 	<earhquake	name="2026.02.23 15:30:31"	lokasyon="TASKESIK-TORBALI (IZMIR)                          "	lat="38.1583"	lng="27.4427"	mag="2.0" Depth="4.1" />
@@ -86,4 +85,12 @@
 	<earhquake	name="2026.02.24 11:54:17"	lokasyon="TIRKAZ-SARAYKOY (DENIZLI)                         "	lat="37.8740"	lng="28.7678"	mag="1.8" Depth="14.6" />
 	<earhquake	name="2026.02.24 11:58:52"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="35.0740"	lng="26.6852"	mag="3.7" Depth="6.3" />
 	<earhquake	name="2026.02.24 12:04:37"	lokasyon="YESILOVACIK-SILIFKE (MERSIN)                      "	lat="36.2128"	lng="33.6712"	mag="0.6" Depth="0.0" />
+	<earhquake	name="2026.02.24 12:15:39"	lokasyon="AVLAGI-YAHYALI (KAYSERI)                          "	lat="37.9927"	lng="35.5285"	mag="2.5" Depth="3.8" />
+	<earhquake	name="2026.02.24 12:47:58"	lokasyon="DARGIL-GORDES (MANISA)                            "	lat="39.0643"	lng="28.3372"	mag="1.2" Depth="11.5" />
+	<earhquake	name="2026.02.24 13:08:49"	lokasyon="SAGRAKCI-AKHISAR (MANISA)                         "	lat="39.0873"	lng="28.0338"	mag="1.0" Depth="20.5" />
+	<earhquake	name="2026.02.24 13:14:51"	lokasyon="EGE DENIZI                                        REVIZE01   (2026.02.24 13:14:57)"	lat="36.5837"	lng="25.6998"	mag="1.5" Depth="10.7" />
+	<earhquake	name="2026.02.24 13:23:33"	lokasyon="AYDINCIK ACIKLARI-MERSIN (AKDENIZ)                "	lat="35.9970"	lng="33.6230"	mag="1.3" Depth="5.0" />
+	<earhquake	name="2026.02.24 13:31:05"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2358"	lng="28.0057"	mag="1.2" Depth="7.5" />
+	<earhquake	name="2026.02.24 13:34:14"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.2592"	lng="33.5513"	mag="1.4" Depth="0.0" />
+	<earhquake	name="2026.02.24 14:33:00"	lokasyon="KABAAGAC-SARAYKOY (DENIZLI)                       "	lat="37.9233"	lng="28.7738"	mag="3.4" Depth="7.1" />
 </eqlist>
