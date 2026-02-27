@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.26 14:05:13"	lokasyon="CAVUSKOY-INEGOL (BURSA)                           "	lat="40.1872"	lng="29.4628"	mag="1.4" Depth="1.6" />
-	<earhquake	name="2026.02.26 14:19:26"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2592"	lng="28.0623"	mag="1.3" Depth="11.6" />
-	<earhquake	name="2026.02.26 14:26:27"	lokasyon="BALYA (BALIKESIR)                                 "	lat="39.7372"	lng="27.6012"	mag="1.3" Depth="5.3" />
 	<earhquake	name="2026.02.26 18:32:43"	lokasyon="COTURTEPE-SINDIRGI (BALIKESIR)                    "	lat="39.2735"	lng="28.3070"	mag="1.5" Depth="6.6" />
 	<earhquake	name="2026.02.26 19:26:23"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1680"	lng="28.1432"	mag="3.0" Depth="11.2" />
 	<earhquake	name="2026.02.26 19:39:18"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1280"	lng="28.3168"	mag="1.8" Depth="11.1" />
@@ -48,4 +45,5 @@
 	<earhquake	name="2026.02.27 11:26:30"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2073"	lng="28.9435"	mag="1.4" Depth="14.6" />
 	<earhquake	name="2026.02.27 12:21:31"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2223"	lng="28.9710"	mag="1.4" Depth="11.7" />
 	<earhquake	name="2026.02.27 12:25:39"	lokasyon="KURUCAOVA-DOGANSEHIR (MALATYA)                    "	lat="37.9872"	lng="38.1475"	mag="1.9" Depth="6.2" />
+	<earhquake	name="2026.02.27 13:14:08"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1905"	lng="28.1467"	mag="1.5" Depth="9.2" />
 </eqlist>
