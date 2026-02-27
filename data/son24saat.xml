@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.26 21:33:33"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2490"	lng="28.9927"	mag="2.2" Depth="8.8" />
-	<earhquake	name="2026.02.26 21:35:13"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2103"	lng="28.0210"	mag="1.5" Depth="11.8" />
 	<earhquake	name="2026.02.26 23:18:16"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1888"	lng="28.2847"	mag="1.3" Depth="8.6" />
 	<earhquake	name="2026.02.26 23:21:29"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1405"	lng="28.2720"	mag="1.6" Depth="15.0" />
 	<earhquake	name="2026.02.26 23:29:26"	lokasyon="YENIMAHALLE-TERMAL (YALOVA)                       "	lat="40.6005"	lng="29.2012"	mag="1.4" Depth="3.5" />
@@ -49,4 +47,5 @@
 	<earhquake	name="2026.02.27 20:18:06"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2375"	lng="28.1015"	mag="2.2" Depth="9.9" />
 	<earhquake	name="2026.02.27 20:33:20"	lokasyon="TOPBOGAZI-KIRIKHAN (HATAY)                        "	lat="36.4147"	lng="36.2903"	mag="2.0" Depth="12.1" />
 	<earhquake	name="2026.02.27 20:40:18"	lokasyon="TOPBOGAZI-KIRIKHAN (HATAY)                        "	lat="36.4132"	lng="36.2940"	mag="1.5" Depth="12.8" />
+	<earhquake	name="2026.02.27 21:19:51"	lokasyon="SARIKAYA-(ADIYAMAN)                               "	lat="37.9515"	lng="38.1642"	mag="1.3" Depth="12.7" />
 </eqlist>
