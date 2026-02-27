@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.26 23:18:16"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1888"	lng="28.2847"	mag="1.3" Depth="8.6" />
-	<earhquake	name="2026.02.26 23:21:29"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1405"	lng="28.2720"	mag="1.6" Depth="15.0" />
-	<earhquake	name="2026.02.26 23:29:26"	lokasyon="YENIMAHALLE-TERMAL (YALOVA)                       "	lat="40.6005"	lng="29.2012"	mag="1.4" Depth="3.5" />
 	<earhquake	name="2026.02.27 00:07:36"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1455"	lng="28.3390"	mag="1.4" Depth="11.9" />
 	<earhquake	name="2026.02.27 01:38:38"	lokasyon="AGCASAR-NURHAK (KAHRAMANMARAS)                    "	lat="38.0735"	lng="37.3507"	mag="1.8" Depth="6.5" />
 	<earhquake	name="2026.02.27 01:46:42"	lokasyon="TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)             "	lat="38.0855"	lng="37.6295"	mag="1.6" Depth="5.0" />
@@ -49,4 +46,5 @@
 	<earhquake	name="2026.02.27 20:40:18"	lokasyon="TOPBOGAZI-KIRIKHAN (HATAY)                        "	lat="36.4132"	lng="36.2940"	mag="1.5" Depth="12.8" />
 	<earhquake	name="2026.02.27 21:19:51"	lokasyon="SARIKAYA-(ADIYAMAN)                               "	lat="37.9515"	lng="38.1642"	mag="1.3" Depth="12.7" />
 	<earhquake	name="2026.02.27 22:27:17"	lokasyon="TETIRLIK-PAZARCIK (KAHRAMANMARAS)                 "	lat="37.5355"	lng="37.2373"	mag="1.3" Depth="8.5" />
+	<earhquake	name="2026.02.27 23:44:04"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="36.0433"	lng="27.8307"	mag="2.5" Depth="26.3" />
 </eqlist>
