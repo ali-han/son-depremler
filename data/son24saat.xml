@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.27 19:06:45"	lokasyon="EGE DENIZI                                        "	lat="36.6147"	lng="25.4975"	mag="2.3" Depth="13.3" />
-	<earhquake	name="2026.02.27 19:23:40"	lokasyon="YAYLACIK-(HATAY)                                  "	lat="36.2435"	lng="36.0220"	mag="2.0" Depth="5.1" />
-	<earhquake	name="2026.02.27 19:45:58"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1280"	lng="28.3410"	mag="2.4" Depth="12.3" />
 	<earhquake	name="2026.02.27 20:18:06"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2375"	lng="28.1015"	mag="2.2" Depth="9.9" />
 	<earhquake	name="2026.02.27 20:33:20"	lokasyon="TOPBOGAZI-KIRIKHAN (HATAY)                        "	lat="36.4147"	lng="36.2903"	mag="2.0" Depth="12.1" />
 	<earhquake	name="2026.02.27 20:40:18"	lokasyon="TOPBOGAZI-KIRIKHAN (HATAY)                        "	lat="36.4132"	lng="36.2940"	mag="1.5" Depth="12.8" />
@@ -69,4 +66,6 @@
 	<earhquake	name="2026.02.28 17:49:19"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2210"	lng="28.0497"	mag="1.5" Depth="7.9" />
 	<earhquake	name="2026.02.28 18:01:33"	lokasyon="KARBASAN-HISARCIK (KUTAHYA)                       "	lat="39.2425"	lng="29.3683"	mag="1.6" Depth="11.7" />
 	<earhquake	name="2026.02.28 18:37:39"	lokasyon="YESILDERE-HORASAN (ERZURUM)                       "	lat="40.1413"	lng="42.0852"	mag="1.9" Depth="16.9" />
+	<earhquake	name="2026.02.28 18:52:46"	lokasyon="SOGUTLU-PAZARCIK (KAHRAMANMARAS)                  "	lat="37.4773"	lng="37.2043"	mag="1.1" Depth="14.4" />
+	<earhquake	name="2026.02.28 19:31:57"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7368"	lng="36.0785"	mag="1.7" Depth="9.4" />
 </eqlist>
