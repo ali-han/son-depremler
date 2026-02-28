@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.27 10:04:09"	lokasyon="YOKUSBASI-HONAZ (DENIZLI)                         "	lat="37.8770"	lng="29.4357"	mag="1.4" Depth="22.1" />
-	<earhquake	name="2026.02.27 10:40:48"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.4110"	lng="25.9907"	mag="2.3" Depth="9.7" />
-	<earhquake	name="2026.02.27 10:44:38"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.4403"	lng="25.9637"	mag="1.6" Depth="14.6" />
 	<earhquake	name="2026.02.27 11:26:30"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2073"	lng="28.9435"	mag="1.4" Depth="14.6" />
 	<earhquake	name="2026.02.27 12:21:31"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2223"	lng="28.9710"	mag="1.4" Depth="11.7" />
 	<earhquake	name="2026.02.27 12:25:39"	lokasyon="KURUCAOVA-DOGANSEHIR (MALATYA)                    "	lat="37.9872"	lng="38.1475"	mag="1.9" Depth="6.2" />
@@ -47,5 +44,7 @@
 	<earhquake	name="2026.02.28 07:34:03"	lokasyon="YENIKOY-YATAGAN (MUGLA)                           "	lat="37.3527"	lng="28.0775"	mag="2.0" Depth="5.3" />
 	<earhquake	name="2026.02.28 07:57:10"	lokasyon="EGE DENIZI                                        "	lat="40.1955"	lng="24.6058"	mag="2.6" Depth="9.9" />
 	<earhquake	name="2026.02.28 08:40:06"	lokasyon="DEREBERCIN-(KASTAMONU)                            "	lat="41.1385"	lng="33.9210"	mag="1.9" Depth="5.2" />
+	<earhquake	name="2026.02.28 09:00:43"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.2023"	lng="28.1390"	mag="1.0" Depth="5.3" />
 	<earhquake	name="2026.02.28 09:26:15"	lokasyon="SARAYOVA-HASANBEYLI (OSMANIYE)                    "	lat="37.0960"	lng="36.5717"	mag="3.4" Depth="1.9" />
+	<earhquake	name="2026.02.28 09:33:43"	lokasyon="ASLANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1970"	lng="28.3053"	mag="2.2" Depth="9.0" />
 </eqlist>
