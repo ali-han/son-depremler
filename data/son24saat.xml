@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.02.28 13:02:42"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1220"	lng="28.2957"	mag="1.9" Depth="9.4" />
-	<earhquake	name="2026.02.28 13:04:15"	lokasyon="ERDEMLI ACIKLARI-MERSIN (AKDENIZ)                 "	lat="36.5095"	lng="34.3145"	mag="1.6" Depth="12.0" />
-	<earhquake	name="2026.02.28 13:16:17"	lokasyon="BEGENDIKLER-BIGADIC (BALIKESIR)                   "	lat="39.5168"	lng="28.1957"	mag="1.4" Depth="25.4" />
-	<earhquake	name="2026.02.28 13:22:40"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.4860"	lng="28.1462"	mag="1.8" Depth="10.6" />
-	<earhquake	name="2026.02.28 13:34:33"	lokasyon="SIGIRLIHACI-CUBUK (ANKARA)                        "	lat="40.2075"	lng="32.9760"	mag="1.7" Depth="0.0" />
-	<earhquake	name="2026.02.28 13:53:10"	lokasyon="TANYOLU-TASLICAY (AGRI)                           "	lat="39.7768"	lng="43.5508"	mag="2.0" Depth="4.9" />
 	<earhquake	name="2026.02.28 14:07:58"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0845"	lng="28.3748"	mag="1.2" Depth="5.4" />
 	<earhquake	name="2026.02.28 14:24:47"	lokasyon="GULPINAR-AYVACIK (CANAKKALE)                      REVIZE01   (2026.02.28 14:24:47)"	lat="39.5593"	lng="26.0525"	mag="1.6" Depth="10.5" />
 	<earhquake	name="2026.02.28 15:05:52"	lokasyon="CAKIRLAR-YATAGAN (MUGLA)                          "	lat="37.4562"	lng="28.1895"	mag="1.8" Depth="0.0" />
@@ -92,5 +86,6 @@
 	<earhquake	name="2026.03.01 10:19:20"	lokasyon="BOZBEL-DALAMAN (MUGLA)                            "	lat="36.9113"	lng="28.9772"	mag="1.5" Depth="3.9" />
 	<earhquake	name="2026.03.01 11:36:29"	lokasyon="EGE DENIZI                                        "	lat="40.3405"	lng="25.6727"	mag="1.6" Depth="12.1" />
 	<earhquake	name="2026.03.01 11:42:36"	lokasyon="BOZBEL-DALAMAN (MUGLA)                            "	lat="36.9167"	lng="28.9700"	mag="1.0" Depth="19.0" />
+	<earhquake	name="2026.03.01 11:52:40"	lokasyon="KOSEDERE-KARABURUN (IZMIR)                        "	lat="38.5670"	lng="26.5400"	mag="1.5" Depth="3.9" />
 	<earhquake	name="2026.03.01 12:16:02"	lokasyon="SARMA-(MANISA)                                    "	lat="38.7567"	lng="27.4107"	mag="1.6" Depth="9.1" />
 </eqlist>
