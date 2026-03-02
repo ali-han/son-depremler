@@ -70,5 +70,8 @@
 	<earhquake	name="2026.03.02 15:33:03"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6133"	lng="26.6505"	mag="1.7" Depth="5.5" />
 	<earhquake	name="2026.03.02 15:52:55"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2543"	lng="28.9555"	mag="1.9" Depth="12.3" />
 	<earhquake	name="2026.03.02 15:53:26"	lokasyon="CEBRAIL-GEDIZ (KUTAHYA)                           "	lat="39.0592"	lng="29.5760"	mag="1.4" Depth="4.5" />
-	<earhquake	name="2026.03.02 16:09:21"	lokasyon="AKDENIZ                                           "	lat="34.8210"	lng="28.9573"	mag="3.4" Depth="70.9" />
+	<earhquake	name="2026.03.02 16:09:20"	lokasyon="AKDENIZ                                           REVIZE01   (2026.03.02 16:09:21)"	lat="34.8483"	lng="28.9588"	mag="3.4" Depth="15.8" />
+	<earhquake	name="2026.03.02 16:24:25"	lokasyon="OSMANCIK-TURGUTLU (MANISA)                        "	lat="38.4745"	lng="27.7477"	mag="1.5" Depth="24.0" />
+	<earhquake	name="2026.03.02 16:26:50"	lokasyon="EGE DENIZI                                        "	lat="36.0485"	lng="27.0623"	mag="1.9" Depth="13.9" />
+	<earhquake	name="2026.03.02 16:46:17"	lokasyon="ORMANGUZLE-BOZUYUK (BILECIK)                      "	lat="39.8652"	lng="29.9107"	mag="3.1" Depth="8.3" />
 </eqlist>
