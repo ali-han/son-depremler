@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.01 20:44:11"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1027"	lng="28.3438"	mag="1.3" Depth="5.0" />
 	<earhquake	name="2026.03.01 22:27:25"	lokasyon="EGE DENIZI                                        "	lat="36.8930"	lng="26.3103"	mag="1.8" Depth="2.4" />
 	<earhquake	name="2026.03.01 23:01:10"	lokasyon="GUMUSCEVRE-ZARA (SIVAS)                           "	lat="39.9565"	lng="37.6013"	mag="1.5" Depth="5.4" />
 	<earhquake	name="2026.03.01 23:03:29"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1505"	lng="28.3123"	mag="1.6" Depth="11.8" />
@@ -69,12 +68,16 @@
 	<earhquake	name="2026.03.02 16:24:25"	lokasyon="OSMANCIK-TURGUTLU (MANISA)                        "	lat="38.4745"	lng="27.7477"	mag="1.5" Depth="24.0" />
 	<earhquake	name="2026.03.02 16:26:50"	lokasyon="EGE DENIZI                                        "	lat="36.0485"	lng="27.0623"	mag="1.9" Depth="13.9" />
 	<earhquake	name="2026.03.02 16:46:17"	lokasyon="ORMANGUZLE-BOZUYUK (BILECIK)                      "	lat="39.8652"	lng="29.9107"	mag="3.1" Depth="8.3" />
-	<earhquake	name="2026.03.02 17:37:57"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1465"	lng="28.1915"	mag="1.5" Depth="14.6" />
+	<earhquake	name="2026.03.02 17:37:54"	lokasyon="GIRIT ADASI (AKDENIZ)                             REVIZE01   (2026.03.02 17:37:57)"	lat="35.4772"	lng="26.6560"	mag="3.2" Depth="8.2" />
 	<earhquake	name="2026.03.02 17:52:50"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2098"	lng="38.5035"	mag="4.4" Depth="4.6" />
 	<earhquake	name="2026.03.02 18:05:01"	lokasyon="KOKPINAR-PUTURGE (MALATYA)                        "	lat="38.2382"	lng="38.6832"	mag="1.4" Depth="20.2" />
+	<earhquake	name="2026.03.02 18:09:43"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.3068"	lng="25.4372"	mag="1.9" Depth="5.6" />
 	<earhquake	name="2026.03.02 18:23:26"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2338"	lng="38.5012"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2026.03.02 18:53:15"	lokasyon="SENYAYLA-(MUGLA)                                  "	lat="37.3460"	lng="28.4550"	mag="1.4" Depth="5.8" />
 	<earhquake	name="2026.03.02 18:53:57"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1585"	lng="28.2587"	mag="1.3" Depth="12.6" />
 	<earhquake	name="2026.03.02 18:56:11"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2172"	lng="38.4645"	mag="1.4" Depth="14.0" />
+	<earhquake	name="2026.03.02 19:20:12"	lokasyon="AKDENIZ                                           "	lat="35.5222"	lng="27.6028"	mag="2.4" Depth="7.0" />
 	<earhquake	name="2026.03.02 19:25:54"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2475"	lng="28.1397"	mag="1.2" Depth="14.8" />
+	<earhquake	name="2026.03.02 19:43:23"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0090"	lng="25.9542"	mag="2.4" Depth="8.3" />
+	<earhquake	name="2026.03.02 19:55:41"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2413"	lng="28.0135"	mag="1.4" Depth="9.5" />
 </eqlist>
