@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.01 18:31:46"	lokasyon="KAVAKKOY-SIVRICE (ELAZIG)                         "	lat="38.4385"	lng="39.1613"	mag="1.7" Depth="10.8" />
 	<earhquake	name="2026.03.01 19:26:43"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1400"	lng="28.2845"	mag="1.8" Depth="9.4" />
 	<earhquake	name="2026.03.01 19:41:32"	lokasyon="AKYAKA-ULA (MUGLA)                                "	lat="37.0775"	lng="28.3183"	mag="1.6" Depth="6.0" />
 	<earhquake	name="2026.03.01 19:48:33"	lokasyon="AKYAKA-ULA (MUGLA)                                "	lat="37.0705"	lng="28.3383"	mag="1.8" Depth="9.8" />
@@ -75,4 +74,6 @@
 	<earhquake	name="2026.03.02 16:46:17"	lokasyon="ORMANGUZLE-BOZUYUK (BILECIK)                      "	lat="39.8652"	lng="29.9107"	mag="3.1" Depth="8.3" />
 	<earhquake	name="2026.03.02 17:37:57"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1465"	lng="28.1915"	mag="1.5" Depth="14.6" />
 	<earhquake	name="2026.03.02 17:52:50"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2098"	lng="38.5035"	mag="4.4" Depth="4.6" />
+	<earhquake	name="2026.03.02 18:05:01"	lokasyon="KOKPINAR-PUTURGE (MALATYA)                        "	lat="38.2382"	lng="38.6832"	mag="1.4" Depth="20.2" />
+	<earhquake	name="2026.03.02 18:23:26"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2338"	lng="38.5012"	mag="2.1" Depth="5.0" />
 </eqlist>
