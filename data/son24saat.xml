@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.02 18:05:01"	lokasyon="KOKPINAR-PUTURGE (MALATYA)                        "	lat="38.2382"	lng="38.6832"	mag="1.4" Depth="20.2" />
-	<earhquake	name="2026.03.02 18:09:43"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.3068"	lng="25.4372"	mag="1.9" Depth="5.6" />
-	<earhquake	name="2026.03.02 18:23:26"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2338"	lng="38.5012"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2026.03.02 18:53:15"	lokasyon="SENYAYLA-(MUGLA)                                  "	lat="37.3460"	lng="28.4550"	mag="1.4" Depth="5.8" />
-	<earhquake	name="2026.03.02 18:53:57"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1585"	lng="28.2587"	mag="1.3" Depth="12.6" />
-	<earhquake	name="2026.03.02 18:56:11"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2172"	lng="38.4645"	mag="1.4" Depth="14.0" />
 	<earhquake	name="2026.03.02 19:20:12"	lokasyon="AKDENIZ                                           "	lat="35.5222"	lng="27.6028"	mag="2.4" Depth="7.0" />
 	<earhquake	name="2026.03.02 19:25:54"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2475"	lng="28.1397"	mag="1.2" Depth="14.8" />
 	<earhquake	name="2026.03.02 19:43:23"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0090"	lng="25.9542"	mag="2.4" Depth="8.3" />
@@ -87,4 +81,8 @@
 	<earhquake	name="2026.03.03 16:19:30"	lokasyon="EGE DENIZI                                        "	lat="39.5707"	lng="24.7935"	mag="2.3" Depth="1.2" />
 	<earhquake	name="2026.03.03 16:35:05"	lokasyon="GUZYURDU-AKCADAG (MALATYA)                        "	lat="38.3783"	lng="38.0030"	mag="1.8" Depth="15.8" />
 	<earhquake	name="2026.03.03 16:43:26"	lokasyon="KARAATLI-SOKE (AYDIN)                             "	lat="37.7340"	lng="27.5013"	mag="1.4" Depth="11.6" />
+	<earhquake	name="2026.03.03 17:39:28"	lokasyon="PINARBASI-MECITOZU (CORUM)                        "	lat="40.6923"	lng="35.2980"	mag="1.6" Depth="16.8" />
+	<earhquake	name="2026.03.03 18:01:28"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0302"	lng="33.2528"	mag="1.2" Depth="24.0" />
+	<earhquake	name="2026.03.03 18:12:34"	lokasyon="OGULDURUK-GORDES (MANISA)                         "	lat="38.9945"	lng="28.3172"	mag="1.2" Depth="7.8" />
+	<earhquake	name="2026.03.03 18:49:51"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2530"	lng="38.7635"	mag="2.6" Depth="5.0" />
 </eqlist>
