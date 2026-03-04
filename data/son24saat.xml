@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.03 17:39:28"	lokasyon="PINARBASI-MECITOZU (CORUM)                        "	lat="40.6923"	lng="35.2980"	mag="1.6" Depth="16.8" />
 	<earhquake	name="2026.03.03 18:01:28"	lokasyon="KIRKKUYU-KULU (KONYA)                             "	lat="39.0302"	lng="33.2528"	mag="1.2" Depth="24.0" />
 	<earhquake	name="2026.03.03 18:12:34"	lokasyon="OGULDURUK-GORDES (MANISA)                         "	lat="38.9945"	lng="28.3172"	mag="1.2" Depth="7.8" />
 	<earhquake	name="2026.03.03 18:16:03"	lokasyon="ASAGIORUKCU-AKCADAG (MALATYA)                     "	lat="38.4218"	lng="38.0767"	mag="1.4" Depth="5.0" />
@@ -94,4 +93,8 @@
 	<earhquake	name="2026.03.04 15:46:07"	lokasyon="ASLANYAKA-MILAS (MUGLA)                           "	lat="37.2260"	lng="27.8082"	mag="1.4" Depth="3.3" />
 	<earhquake	name="2026.03.04 16:08:16"	lokasyon="YUNANISTAN                                        "	lat="40.3675"	lng="24.1120"	mag="2.0" Depth="6.9" />
 	<earhquake	name="2026.03.04 16:16:06"	lokasyon="ASLANYAKA-MILAS (MUGLA)                           "	lat="37.2387"	lng="27.8468"	mag="2.3" Depth="5.4" />
+	<earhquake	name="2026.03.04 17:18:43"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2393"	lng="38.4578"	mag="1.7" Depth="17.7" />
+	<earhquake	name="2026.03.04 17:27:58"	lokasyon="ASLANYAKA-MILAS (MUGLA)                           "	lat="37.2433"	lng="27.8188"	mag="1.7" Depth="5.6" />
+	<earhquake	name="2026.03.04 17:29:16"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.0298"	lng="26.4993"	mag="1.9" Depth="7.7" />
+	<earhquake	name="2026.03.04 17:31:10"	lokasyon="YAYLASOGUT-ULA (MUGLA)                            "	lat="37.1558"	lng="28.5548"	mag="2.2" Depth="7.4" />
 </eqlist>
