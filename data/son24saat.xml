@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.04 00:16:27"	lokasyon="GEMLIK KORFEZI (MARMARA DENIZI)                   "	lat="40.4280"	lng="28.8727"	mag="0.8" Depth="5.3" />
-	<earhquake	name="2026.03.04 00:23:32"	lokasyon="CATALOBA-BAKLAN (DENIZLI)                         "	lat="37.9415"	lng="29.5125"	mag="0.9" Depth="15.9" />
-	<earhquake	name="2026.03.04 00:29:38"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1673"	lng="28.2768"	mag="2.9" Depth="14.4" />
-	<earhquake	name="2026.03.04 00:40:45"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2085"	lng="38.5050"	mag="1.4" Depth="9.1" />
 	<earhquake	name="2026.03.04 01:01:51"	lokasyon="AKCAKOYUNLU-PAZARCIK (KAHRAMANMARAS)              "	lat="37.3418"	lng="37.1788"	mag="1.2" Depth="7.8" />
 	<earhquake	name="2026.03.04 01:15:37"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1152"	lng="28.3508"	mag="2.0" Depth="9.8" />
 	<earhquake	name="2026.03.04 01:34:34"	lokasyon="SILEDIK-KIRKAGAC (MANISA)                         "	lat="39.1360"	lng="27.7602"	mag="1.5" Depth="6.0" />
@@ -83,5 +79,8 @@
 	<earhquake	name="2026.03.04 22:16:59"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1832"	lng="28.1332"	mag="1.7" Depth="3.7" />
 	<earhquake	name="2026.03.04 22:32:28"	lokasyon="BOZKOY-KARABURUN (IZMIR)                          "	lat="38.6760"	lng="26.4827"	mag="2.2" Depth="7.7" />
 	<earhquake	name="2026.03.04 23:11:57"	lokasyon="TIRKAZ-SARAYKOY (DENIZLI)                         "	lat="37.8553"	lng="28.7380"	mag="1.0" Depth="4.3" />
+	<earhquake	name="2026.03.04 23:13:03"	lokasyon="ESENKOC-MURADIYE (VAN)                            "	lat="38.8310"	lng="43.6323"	mag="2.6" Depth="2.0" />
+	<earhquake	name="2026.03.04 23:14:24"	lokasyon="ESENKOC-MURADIYE (VAN)                            "	lat="38.8452"	lng="43.6367"	mag="3.4" Depth="5.0" />
 	<earhquake	name="2026.03.04 23:30:40"	lokasyon="YAYLASOGUT-ULA (MUGLA)                            "	lat="37.1528"	lng="28.5730"	mag="1.9" Depth="13.0" />
+	<earhquake	name="2026.03.04 23:41:53"	lokasyon="ILHAN-(SANLIURFA)                                 "	lat="37.4153"	lng="38.7685"	mag="1.5" Depth="2.4" />
 </eqlist>
