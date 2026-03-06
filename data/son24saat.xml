@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.05 18:02:34"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="35.1183"	lng="26.9080"	mag="3.0" Depth="3.2" />
-	<earhquake	name="2026.03.05 18:04:04"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1750"	lng="26.8943"	mag="3.1" Depth="5.3" />
-	<earhquake	name="2026.03.05 18:27:23"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1663"	lng="28.1670"	mag="1.4" Depth="14.6" />
 	<earhquake	name="2026.03.05 19:11:01"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2353"	lng="28.1188"	mag="1.2" Depth="5.2" />
 	<earhquake	name="2026.03.05 19:17:00"	lokasyon="ESENCE-AFSIN (KAHRAMANMARAS)                      "	lat="38.1613"	lng="36.9102"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2026.03.05 19:18:28"	lokasyon="KADIRUSAGI-YESILYURT (MALATYA)                    "	lat="38.2080"	lng="38.2328"	mag="1.6" Depth="10.0" />
@@ -98,4 +95,7 @@
 	<earhquake	name="2026.03.06 17:30:33"	lokasyon="LIMONLU-ERDEMLI (MERSIN)                          "	lat="36.5345"	lng="34.2370"	mag="1.3" Depth="1.6" />
 	<earhquake	name="2026.03.06 17:40:40"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="37.0343"	lng="28.2215"	mag="1.6" Depth="5.6" />
 	<earhquake	name="2026.03.06 17:46:08"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1740"	lng="28.1123"	mag="1.4" Depth="14.8" />
+	<earhquake	name="2026.03.06 17:53:24"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1028"	lng="28.2775"	mag="2.3" Depth="7.9" />
+	<earhquake	name="2026.03.06 18:04:25"	lokasyon="KAVAKLIDERE-BORNOVA (IZMIR)                       "	lat="38.4620"	lng="27.3070"	mag="1.4" Depth="4.6" />
+	<earhquake	name="2026.03.06 18:04:52"	lokasyon="MESCICELE-(BOLU)                                  "	lat="40.8638"	lng="31.6980"	mag="1.1" Depth="3.2" />
 </eqlist>
