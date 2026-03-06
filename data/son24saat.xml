@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.05 20:02:35"	lokasyon="KIYRA-ULA (MUGLA)                                 "	lat="37.1210"	lng="28.5612"	mag="1.4" Depth="10.2" />
-	<earhquake	name="2026.03.05 20:05:57"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2525"	lng="29.0208"	mag="1.6" Depth="11.4" />
-	<earhquake	name="2026.03.05 20:14:13"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2432"	lng="28.9555"	mag="1.1" Depth="16.2" />
-	<earhquake	name="2026.03.05 20:26:45"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0988"	lng="28.3507"	mag="1.4" Depth="9.3" />
 	<earhquake	name="2026.03.05 21:06:48"	lokasyon="TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.6098"	lng="25.9758"	mag="1.4" Depth="10.2" />
 	<earhquake	name="2026.03.05 21:07:06"	lokasyon="EYNESIL ACIKLARI-GIRESUN (KARADENIZ)              "	lat="41.3953"	lng="38.9032"	mag="2.9" Depth="7.8" />
 	<earhquake	name="2026.03.05 21:37:11"	lokasyon="MURSALLI-GERMENCIK (AYDIN)                        "	lat="37.8673"	lng="27.5733"	mag="1.5" Depth="28.7" />
@@ -96,4 +92,5 @@
 	<earhquake	name="2026.03.06 18:48:11"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0918"	lng="28.3413"	mag="1.4" Depth="22.0" />
 	<earhquake	name="2026.03.06 19:20:55"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.1963"	lng="38.6197"	mag="2.7" Depth="2.1" />
 	<earhquake	name="2026.03.06 19:31:37"	lokasyon="KURUCAOVA-(KAHRAMANMARAS)                         "	lat="37.9605"	lng="36.5990"	mag="1.8" Depth="6.8" />
+	<earhquake	name="2026.03.06 20:14:26"	lokasyon="EGE DENIZI                                        "	lat="36.6557"	lng="25.5405"	mag="1.8" Depth="7.7" />
 </eqlist>
