@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.06 14:04:55"	lokasyon="LADIK (SAMSUN)                                    "	lat="40.9163"	lng="35.9118"	mag="1.5" Depth="0.0" />
-	<earhquake	name="2026.03.06 14:14:32"	lokasyon="CATALHARMAN-(ELAZIG)                              "	lat="38.8202"	lng="39.1368"	mag="1.7" Depth="4.5" />
-	<earhquake	name="2026.03.06 14:21:30"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1988"	lng="29.0422"	mag="1.2" Depth="19.2" />
-	<earhquake	name="2026.03.06 14:52:18"	lokasyon="BASLAMIS-AKHISAR (MANISA)                         "	lat="39.0827"	lng="27.9542"	mag="1.4" Depth="13.7" />
-	<earhquake	name="2026.03.06 15:30:03"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1482"	lng="28.2562"	mag="1.4" Depth="14.2" />
 	<earhquake	name="2026.03.06 16:15:41"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.2233"	lng="37.7625"	mag="2.0" Depth="10.6" />
 	<earhquake	name="2026.03.06 16:57:36"	lokasyon="YUNANISTAN                                        "	lat="40.4970"	lng="24.3420"	mag="1.7" Depth="9.7" />
 	<earhquake	name="2026.03.06 17:02:36"	lokasyon="BUYUKOBA-SAMANDAG (HATAY)                         "	lat="36.2300"	lng="35.9588"	mag="2.2" Depth="5.6" />
@@ -73,4 +68,5 @@
 	<earhquake	name="2026.03.07 10:05:40"	lokasyon="MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI)   "	lat="40.8738"	lng="27.9388"	mag="2.3" Depth="6.4" />
 	<earhquake	name="2026.03.07 10:53:46"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1343"	lng="28.3217"	mag="1.6" Depth="18.9" />
 	<earhquake	name="2026.03.07 12:42:13"	lokasyon="KULFAL-CAN (CANAKKALE)                            "	lat="40.0255"	lng="26.9772"	mag="1.7" Depth="13.5" />
+	<earhquake	name="2026.03.07 15:22:00"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1937"	lng="28.1190"	mag="1.6" Depth="5.3" />
 </eqlist>
