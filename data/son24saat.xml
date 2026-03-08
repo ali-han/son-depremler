@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.07 21:24:26"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2030"	lng="28.1688"	mag="2.1" Depth="8.2" />
-	<earhquake	name="2026.03.07 21:33:15"	lokasyon="EGE DENIZI                                        "	lat="36.6118"	lng="25.6510"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2026.03.07 21:58:01"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2233"	lng="28.0803"	mag="2.9" Depth="10.1" />
 	<earhquake	name="2026.03.07 22:02:31"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1125"	lng="28.1647"	mag="2.4" Depth="4.8" />
 	<earhquake	name="2026.03.07 22:20:22"	lokasyon="CINARCIK-ORHANELI (BURSA)                         "	lat="40.0332"	lng="28.7900"	mag="3.0" Depth="12.7" />
 	<earhquake	name="2026.03.07 22:28:52"	lokasyon="ALPA-TAVAS (DENIZLI)                              "	lat="37.1675"	lng="28.9968"	mag="1.5" Depth="11.7" />
@@ -75,4 +72,5 @@
 	<earhquake	name="2026.03.08 19:32:41"	lokasyon="YAYLAKOY-KARABURUN (IZMIR)                        "	lat="38.5710"	lng="26.4967"	mag="3.0" Depth="4.5" />
 	<earhquake	name="2026.03.08 19:34:50"	lokasyon="EDREMIT KORFEZI (EGE DENIZI)                      "	lat="39.2483"	lng="26.6192"	mag="1.6" Depth="4.7" />
 	<earhquake	name="2026.03.08 19:58:29"	lokasyon="SAKIZ ADASI (EGE DENIZI)                          "	lat="38.0787"	lng="25.8622"	mag="2.9" Depth="9.5" />
+	<earhquake	name="2026.03.08 20:58:24"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1915"	lng="28.1328"	mag="2.7" Depth="11.8" />
 </eqlist>
