@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.07 12:42:13"	lokasyon="KULFAL-CAN (CANAKKALE)                            "	lat="40.0255"	lng="26.9772"	mag="1.7" Depth="13.5" />
 	<earhquake	name="2026.03.07 15:22:00"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1937"	lng="28.1190"	mag="1.6" Depth="5.3" />
 	<earhquake	name="2026.03.07 15:52:42"	lokasyon="OVACIK-YAPRAKLI (CANKIRI)                         "	lat="40.8040"	lng="34.0688"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2026.03.07 16:08:57"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2363"	lng="38.1735"	mag="2.0" Depth="4.5" />
@@ -71,4 +70,6 @@
 	<earhquake	name="2026.03.08 09:01:30"	lokasyon="GUNYAKA-AKSEKI (ANTALYA)                          "	lat="37.1775"	lng="31.7612"	mag="2.3" Depth="2.9" />
 	<earhquake	name="2026.03.08 10:06:15"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6075"	lng="26.7667"	mag="1.6" Depth="2.7" />
 	<earhquake	name="2026.03.08 10:58:48"	lokasyon="COBANISA-(ISPARTA)                                "	lat="37.7713"	lng="30.7685"	mag="1.8" Depth="15.9" />
+	<earhquake	name="2026.03.08 11:03:55"	lokasyon="VAN GOLU                                          "	lat="38.6472"	lng="43.0963"	mag="2.1" Depth="5.3" />
+	<earhquake	name="2026.03.08 12:06:58"	lokasyon="BABAKOY-BIGADIC (BALIKESIR)                       "	lat="39.3937"	lng="28.0467"	mag="2.2" Depth="9.0" />
 </eqlist>
