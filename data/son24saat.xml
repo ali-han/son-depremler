@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.09 01:10:48"	lokasyon="PINARARASI-MILAS (MUGLA)                          "	lat="37.1360"	lng="27.8357"	mag="1.1" Depth="5.0" />
-	<earhquake	name="2026.03.09 01:26:06"	lokasyon="DEMIRCILI-ODEMIS (IZMIR)                          "	lat="38.2292"	lng="27.9215"	mag="0.9" Depth="9.6" />
-	<earhquake	name="2026.03.09 01:32:47"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2482"	lng="28.1267"	mag="1.1" Depth="5.4" />
-	<earhquake	name="2026.03.09 01:40:14"	lokasyon="DOSEKKAYA-GENC (BINGOL)                           "	lat="38.6232"	lng="40.3622"	mag="1.6" Depth="10.5" />
-	<earhquake	name="2026.03.09 01:52:59"	lokasyon="TANISIK-(MALATYA)                                 "	lat="38.3050"	lng="38.5922"	mag="0.8" Depth="23.8" />
 	<earhquake	name="2026.03.09 02:22:39"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2315"	lng="28.1235"	mag="3.1" Depth="9.5" />
 	<earhquake	name="2026.03.09 02:43:52"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.3415"	lng="25.9745"	mag="2.3" Depth="7.5" />
 	<earhquake	name="2026.03.09 02:59:42"	lokasyon="YESILKOY-SIMAV (KUTAHYA)                          "	lat="39.0683"	lng="29.0217"	mag="1.2" Depth="13.4" />
@@ -203,4 +198,5 @@
 	<earhquake	name="2026.03.10 00:23:12"	lokasyon="SUREK-SIVRICE (ELAZIG)                            "	lat="38.4600"	lng="39.3978"	mag="1.9" Depth="5.4" />
 	<earhquake	name="2026.03.10 00:36:55"	lokasyon="PINARYOLU-NARMAN (ERZURUM)                        "	lat="40.3443"	lng="42.1402"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2026.03.10 00:40:05"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0803"	lng="28.9672"	mag="2.9" Depth="9.4" />
+	<earhquake	name="2026.03.10 00:58:35"	lokasyon="TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.6492"	lng="25.9948"	mag="1.8" Depth="15.4" />
 </eqlist>
