@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.09 02:22:39"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2315"	lng="28.1235"	mag="3.1" Depth="9.5" />
-	<earhquake	name="2026.03.09 02:43:52"	lokasyon="BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.3415"	lng="25.9745"	mag="2.3" Depth="7.5" />
-	<earhquake	name="2026.03.09 02:59:42"	lokasyon="YESILKOY-SIMAV (KUTAHYA)                          "	lat="39.0683"	lng="29.0217"	mag="1.2" Depth="13.4" />
 	<earhquake	name="2026.03.09 03:09:07"	lokasyon="CATKOSEDAG-ELESKIRT (AGRI)                        "	lat="39.8865"	lng="42.5563"	mag="1.7" Depth="5.6" />
 	<earhquake	name="2026.03.09 03:14:10"	lokasyon="YAKUPKOY-(BALIKESIR)                              "	lat="39.6418"	lng="27.9702"	mag="1.6" Depth="6.3" />
 	<earhquake	name="2026.03.09 03:24:18"	lokasyon="DIKMECE-(HATAY)                                   "	lat="36.2910"	lng="36.1533"	mag="1.4" Depth="6.7" />
@@ -199,4 +196,7 @@
 	<earhquake	name="2026.03.10 00:36:55"	lokasyon="PINARYOLU-NARMAN (ERZURUM)                        "	lat="40.3443"	lng="42.1402"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2026.03.10 00:40:05"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0803"	lng="28.9672"	mag="2.9" Depth="9.4" />
 	<earhquake	name="2026.03.10 00:58:35"	lokasyon="TAVAKLI ACIKLARI-CANAKKALE (EGE DENIZI)           "	lat="39.6492"	lng="25.9948"	mag="1.8" Depth="15.4" />
+	<earhquake	name="2026.03.10 01:21:32"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2083"	lng="28.1670"	mag="1.3" Depth="9.9" />
+	<earhquake	name="2026.03.10 01:25:13"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0800"	lng="28.9682"	mag="1.9" Depth="9.6" />
+	<earhquake	name="2026.03.10 02:12:52"	lokasyon="YAYLAKOY-KARABURUN (IZMIR)                        "	lat="38.5727"	lng="26.5002"	mag="1.7" Depth="8.0" />
 </eqlist>
