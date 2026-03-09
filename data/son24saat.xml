@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.08 20:58:24"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1915"	lng="28.1328"	mag="2.7" Depth="11.8" />
 	<earhquake	name="2026.03.08 21:13:04"	lokasyon="CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             "	lat="37.3107"	lng="37.0268"	mag="1.9" Depth="10.8" />
 	<earhquake	name="2026.03.08 21:13:15"	lokasyon="KOYUNOBA-SIMAV (KUTAHYA)                          "	lat="39.2268"	lng="28.9197"	mag="1.1" Depth="14.1" />
 	<earhquake	name="2026.03.08 23:03:15"	lokasyon="BOZCAADA (CANAKKALE)                              "	lat="39.8868"	lng="26.0595"	mag="1.4" Depth="8.3" />
@@ -178,4 +177,7 @@
 	<earhquake	name="2026.03.09 19:05:15"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0862"	lng="28.9428"	mag="2.6" Depth="6.5" />
 	<earhquake	name="2026.03.09 19:10:29"	lokasyon="BELENARDIC-AKKOY (DENIZLI)                        "	lat="38.0453"	lng="29.0600"	mag="2.3" Depth="9.3" />
 	<earhquake	name="2026.03.09 19:15:52"	lokasyon="BELENARDIC-AKKOY (DENIZLI)                        "	lat="38.0463"	lng="29.0423"	mag="2.5" Depth="10.6" />
+	<earhquake	name="2026.03.09 19:32:19"	lokasyon="CAMKOY-BULDAN (DENIZLI)                           "	lat="38.1175"	lng="28.9435"	mag="1.8" Depth="9.8" />
+	<earhquake	name="2026.03.09 19:42:46"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0677"	lng="28.9465"	mag="1.3" Depth="14.4" />
+	<earhquake	name="2026.03.09 20:02:34"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0998"	lng="28.9643"	mag="4.2" Depth="15.3" />
 </eqlist>
