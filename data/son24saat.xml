@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.08 15:21:25"	lokasyon="OTMANLAR-KOYCEGIZ (MUGLA)                         "	lat="37.0745"	lng="28.9157"	mag="1.7" Depth="14.3" />
-	<earhquake	name="2026.03.08 16:17:45"	lokasyon="SAKIZ ADASI (EGE DENIZI)                          "	lat="38.1563"	lng="25.9750"	mag="3.4" Depth="4.3" />
-	<earhquake	name="2026.03.08 16:31:47"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="37.0347"	lng="28.2583"	mag="1.4" Depth="11.8" />
 	<earhquake	name="2026.03.08 17:30:52"	lokasyon="ASAGIOZLUCE-KELKIT (GUMUSHANE)                    "	lat="39.9852"	lng="39.5575"	mag="2.0" Depth="2.5" />
 	<earhquake	name="2026.03.08 18:17:55"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2785"	lng="29.0083"	mag="1.5" Depth="15.8" />
 	<earhquake	name="2026.03.08 18:32:30"	lokasyon="AKDENIZ                                           "	lat="36.2208"	lng="28.2557"	mag="3.5" Depth="25.8" />
@@ -164,4 +161,10 @@
 	<earhquake	name="2026.03.09 13:43:59"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0712"	lng="28.9447"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2026.03.09 14:01:54"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0720"	lng="28.9712"	mag="3.1" Depth="3.3" />
 	<earhquake	name="2026.03.09 14:08:27"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0808"	lng="28.9727"	mag="2.2" Depth="12.3" />
+	<earhquake	name="2026.03.09 15:00:13"	lokasyon="CUKUROREN-YIGILCA (DUZCE)                         "	lat="40.8855"	lng="31.5745"	mag="1.8" Depth="14.5" />
+	<earhquake	name="2026.03.09 15:04:56"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0722"	lng="28.9485"	mag="2.2" Depth="8.6" />
+	<earhquake	name="2026.03.09 15:42:17"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0668"	lng="28.9567"	mag="3.1" Depth="5.0" />
+	<earhquake	name="2026.03.09 15:42:43"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.1020"	lng="28.9775"	mag="2.3" Depth="11.7" />
+	<earhquake	name="2026.03.09 15:46:19"	lokasyon="ERTUGRUL-GUNEY (DENIZLI)                          "	lat="38.0620"	lng="28.9943"	mag="3.1" Depth="5.3" />
+	<earhquake	name="2026.03.09 16:24:15"	lokasyon="KALEBOYNU-GOKSUN (KAHRAMANMARAS)                  "	lat="37.9518"	lng="36.2195"	mag="2.5" Depth="5.5" />
 </eqlist>
