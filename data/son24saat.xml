@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.09 21:04:17"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0732"	lng="28.9743"	mag="2.2" Depth="10.4" />
-	<earhquake	name="2026.03.09 21:10:44"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0955"	lng="28.9497"	mag="1.8" Depth="5.7" />
-	<earhquake	name="2026.03.09 21:15:27"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0595"	lng="28.9483"	mag="1.5" Depth="14.9" />
-	<earhquake	name="2026.03.09 21:26:48"	lokasyon="EGE DENIZI                                        "	lat="38.8140"	lng="26.3860"	mag="3.4" Depth="10.9" />
-	<earhquake	name="2026.03.09 21:28:53"	lokasyon="BIYIKLI-DOSEMEALTI (ANTALYA)                      "	lat="37.1127"	lng="30.5605"	mag="2.2" Depth="11.4" />
-	<earhquake	name="2026.03.09 21:30:34"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0702"	lng="28.9672"	mag="1.7" Depth="11.7" />
 	<earhquake	name="2026.03.09 22:05:54"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0833"	lng="28.9683"	mag="3.0" Depth="7.4" />
 	<earhquake	name="2026.03.09 22:25:50"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0840"	lng="28.9578"	mag="1.6" Depth="5.3" />
 	<earhquake	name="2026.03.09 22:35:05"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0830"	lng="28.9623"	mag="2.2" Depth="9.8" />
@@ -118,4 +112,10 @@
 	<earhquake	name="2026.03.10 19:52:17"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0455"	lng="28.9378"	mag="1.5" Depth="12.0" />
 	<earhquake	name="2026.03.10 19:57:37"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0632"	lng="28.9682"	mag="1.4" Depth="15.2" />
 	<earhquake	name="2026.03.10 20:17:44"	lokasyon="UZUNHUSEYIN-KALE (MALATYA)                        "	lat="38.3282"	lng="38.9008"	mag="2.8" Depth="5.7" />
+	<earhquake	name="2026.03.10 20:31:27"	lokasyon="OGUZ-BULDAN (DENIZLI)                             "	lat="38.0522"	lng="28.9077"	mag="1.3" Depth="25.0" />
+	<earhquake	name="2026.03.10 20:34:07"	lokasyon="CIMEN-CIHANBEYLI (KONYA)                          "	lat="39.0360"	lng="32.5450"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2026.03.10 20:42:32"	lokasyon="CUKUROREN-(BOLU)                                  "	lat="40.8440"	lng="31.6323"	mag="1.9" Depth="3.3" />
+	<earhquake	name="2026.03.10 20:43:53"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1973"	lng="28.1373"	mag="2.0" Depth="8.6" />
+	<earhquake	name="2026.03.10 20:49:50"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1925"	lng="28.1720"	mag="1.4" Depth="16.0" />
+	<earhquake	name="2026.03.10 21:17:38"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1335"	lng="28.1660"	mag="1.1" Depth="10.7" />
 </eqlist>
