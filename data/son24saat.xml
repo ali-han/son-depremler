@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.10 02:04:37"	lokasyon="GUZBULAK-TERCAN (ERZINCAN)                        "	lat="39.7323"	lng="40.5422"	mag="1.4" Depth="8.6" />
-	<earhquake	name="2026.03.10 02:12:44"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       REVIZE01   (2026.03.10 02:12:52)"	lat="40.7467"	lng="27.4643"	mag="1.5" Depth="10.0" />
-	<earhquake	name="2026.03.10 02:28:53"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0347"	lng="28.9540"	mag="1.5" Depth="16.1" />
-	<earhquake	name="2026.03.10 02:38:32"	lokasyon="MAHMUTLU-BULDAN (DENIZLI)                         "	lat="38.0492"	lng="28.9740"	mag="1.7" Depth="15.8" />
-	<earhquake	name="2026.03.10 02:44:27"	lokasyon="KUMARLI-(KAHRAMANMARAS)                           "	lat="37.8530"	lng="36.5562"	mag="1.5" Depth="8.9" />
-	<earhquake	name="2026.03.10 02:50:11"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0697"	lng="28.9570"	mag="1.8" Depth="7.0" />
-	<earhquake	name="2026.03.10 02:53:39"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0665"	lng="28.9630"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2026.03.10 03:06:19"	lokasyon="YUNANISTAN                                        "	lat="40.4438"	lng="23.8863"	mag="1.9" Depth="1.1" />
 	<earhquake	name="2026.03.10 03:35:01"	lokasyon="MAKSUTUSAGI-PAZARCIK (KAHRAMANMARAS)              "	lat="37.4017"	lng="37.1022"	mag="1.1" Depth="5.4" />
 	<earhquake	name="2026.03.10 03:50:16"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1868"	lng="28.1945"	mag="1.1" Depth="8.2" />
@@ -118,4 +111,6 @@
 	<earhquake	name="2026.03.11 01:35:29"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2278"	lng="29.0270"	mag="1.2" Depth="15.5" />
 	<earhquake	name="2026.03.11 01:44:19"	lokasyon="UYLUPINAR-GOLHISAR (BURDUR)                       "	lat="37.1085"	lng="29.6302"	mag="1.5" Depth="7.9" />
 	<earhquake	name="2026.03.11 01:48:46"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0772"	lng="25.9440"	mag="1.4" Depth="15.6" />
+	<earhquake	name="2026.03.11 02:11:42"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2317"	lng="29.0345"	mag="0.9" Depth="9.9" />
+	<earhquake	name="2026.03.11 02:32:04"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.3855"	lng="26.6713"	mag="1.4" Depth="3.6" />
 </eqlist>
