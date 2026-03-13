@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.12 17:07:23"	lokasyon="DEREBEY (VAN)                                     "	lat="38.7815"	lng="43.4557"	mag="1.9" Depth="5.5" />
-	<earhquake	name="2026.03.12 17:15:10"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.5350"	lng="23.7983"	mag="2.6" Depth="83.3" />
-	<earhquake	name="2026.03.12 17:20:24"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.2378"	lng="33.5407"	mag="1.6" Depth="0.0" />
-	<earhquake	name="2026.03.12 17:34:42"	lokasyon="YALIOZU-CERKES (CANKIRI)                          "	lat="40.7750"	lng="32.9743"	mag="2.0" Depth="5.4" />
-	<earhquake	name="2026.03.12 17:49:09"	lokasyon="SAATLI-HAYMANA (ANKARA)                           "	lat="39.0467"	lng="32.5312"	mag="4.0" Depth="5.0" />
 	<earhquake	name="2026.03.12 18:01:15"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2175"	lng="28.1627"	mag="2.1" Depth="10.9" />
 	<earhquake	name="2026.03.12 18:17:31"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2407"	lng="28.1813"	mag="2.1" Depth="18.3" />
 	<earhquake	name="2026.03.12 18:26:11"	lokasyon="MARMARA DENIZI                                    "	lat="40.7970"	lng="27.8185"	mag="2.6" Depth="9.2" />
@@ -184,4 +179,7 @@
 	<earhquake	name="2026.03.13 15:56:31"	lokasyon="GUNEBAKAN-NIKSAR (TOKAT)                          "	lat="40.7050"	lng="36.8082"	mag="1.7" Depth="5.8" />
 	<earhquake	name="2026.03.13 15:57:23"	lokasyon="ESKINKAYA-AZIZIYE (ERZURUM)                       "	lat="40.1617"	lng="41.0585"	mag="1.7" Depth="1.7" />
 	<earhquake	name="2026.03.13 16:13:27"	lokasyon="BUZKOY-NIKSAR (TOKAT)                             "	lat="40.6428"	lng="36.7958"	mag="2.2" Depth="3.8" />
+	<earhquake	name="2026.03.13 16:19:46"	lokasyon="KIRACI-NIKSAR (TOKAT)                             REVIZE01   (2026.03.13 16:19:46)"	lat="40.6498"	lng="36.8208"	mag="1.8" Depth="5.4" />
+	<earhquake	name="2026.03.13 16:58:49"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6385"	lng="36.7752"	mag="3.6" Depth="5.3" />
+	<earhquake	name="2026.03.13 17:03:33"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6383"	lng="36.7650"	mag="1.8" Depth="5.9" />
 </eqlist>
