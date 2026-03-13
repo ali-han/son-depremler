@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.12 14:22:21"	lokasyon="BUYUKECELI-GULNAR (MERSIN)                        "	lat="36.1338"	lng="33.5602"	mag="1.2" Depth="0.0" />
 	<earhquake	name="2026.03.12 15:04:10"	lokasyon="KUCUKBUKU-SINDIRGI (BALIKESIR)                    "	lat="39.2967"	lng="28.1067"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2026.03.12 16:16:05"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1327"	lng="28.3287"	mag="1.2" Depth="12.4" />
 	<earhquake	name="2026.03.12 16:34:16"	lokasyon="BEKTASLI-ANDIRIN (KAHRAMANMARAS)                  "	lat="37.4392"	lng="36.2930"	mag="2.0" Depth="5.4" />
@@ -170,4 +169,11 @@
 	<earhquake	name="2026.03.13 13:08:21"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6287"	lng="36.7725"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2026.03.13 13:09:56"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1318"	lng="28.1402"	mag="1.5" Depth="4.7" />
 	<earhquake	name="2026.03.13 13:12:13"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1703"	lng="28.2368"	mag="1.9" Depth="8.7" />
+	<earhquake	name="2026.03.13 13:17:17"	lokasyon="GOZPINAR-NIKSAR (TOKAT)                           "	lat="40.6315"	lng="36.7285"	mag="1.4" Depth="5.4" />
+	<earhquake	name="2026.03.13 13:28:44"	lokasyon="EGRIDERE-TIRE (IZMIR)                             "	lat="38.0430"	lng="27.9407"	mag="0.7" Depth="16.5" />
+	<earhquake	name="2026.03.13 13:29:12"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6343"	lng="36.7453"	mag="1.4" Depth="5.4" />
+	<earhquake	name="2026.03.13 13:39:26"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6385"	lng="36.7645"	mag="1.5" Depth="12.1" />
+	<earhquake	name="2026.03.13 13:45:26"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6428"	lng="36.7805"	mag="1.8" Depth="2.8" />
+	<earhquake	name="2026.03.13 14:10:58"	lokasyon="ERYABA-NIKSAR (TOKAT)                             "	lat="40.5452"	lng="36.7642"	mag="0.9" Depth="1.3" />
+	<earhquake	name="2026.03.13 14:19:57"	lokasyon="PINARBEYLI-ERBAA (TOKAT)                          "	lat="40.6707"	lng="36.7840"	mag="2.2" Depth="5.5" />
 </eqlist>
