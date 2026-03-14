@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.13 13:02:32"	lokasyon="KIRACI-NIKSAR (TOKAT)                             "	lat="40.6558"	lng="36.7903"	mag="2.6" Depth="3.1" />
-	<earhquake	name="2026.03.13 13:05:56"	lokasyon="YESILKOY-ODEMIS (IZMIR)                           REVIZE01   (2026.03.13 13:05:56)"	lat="38.1382"	lng="28.1917"	mag="1.1" Depth="11.2" />
-	<earhquake	name="2026.03.13 13:08:21"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6287"	lng="36.7725"	mag="2.8" Depth="5.0" />
-	<earhquake	name="2026.03.13 13:09:56"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1318"	lng="28.1402"	mag="1.5" Depth="4.7" />
-	<earhquake	name="2026.03.13 13:12:13"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1703"	lng="28.2368"	mag="1.9" Depth="8.7" />
-	<earhquake	name="2026.03.13 13:17:17"	lokasyon="GOZPINAR-NIKSAR (TOKAT)                           "	lat="40.6315"	lng="36.7285"	mag="1.4" Depth="5.4" />
-	<earhquake	name="2026.03.13 13:28:44"	lokasyon="EGRIDERE-TIRE (IZMIR)                             "	lat="38.0430"	lng="27.9407"	mag="0.7" Depth="16.5" />
-	<earhquake	name="2026.03.13 13:29:12"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6343"	lng="36.7453"	mag="1.4" Depth="5.4" />
-	<earhquake	name="2026.03.13 13:39:26"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6385"	lng="36.7645"	mag="1.5" Depth="12.1" />
-	<earhquake	name="2026.03.13 13:45:26"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6428"	lng="36.7805"	mag="1.8" Depth="2.8" />
-	<earhquake	name="2026.03.13 13:51:15"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2447"	lng="28.1067"	mag="1.2" Depth="4.6" />
 	<earhquake	name="2026.03.13 14:10:58"	lokasyon="ERYABA-NIKSAR (TOKAT)                             "	lat="40.5452"	lng="36.7642"	mag="0.9" Depth="1.3" />
 	<earhquake	name="2026.03.13 14:19:57"	lokasyon="PINARBEYLI-ERBAA (TOKAT)                          "	lat="40.6707"	lng="36.7840"	mag="2.2" Depth="5.5" />
 	<earhquake	name="2026.03.13 14:23:25"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2393"	lng="29.0333"	mag="1.6" Depth="12.4" />
@@ -117,4 +106,7 @@
 	<earhquake	name="2026.03.14 11:34:13"	lokasyon="AGCAALAN-ERBAA (TOKAT)                            "	lat="40.6535"	lng="36.7108"	mag="2.3" Depth="9.1" />
 	<earhquake	name="2026.03.14 11:48:31"	lokasyon="AYAN-ERBAA (TOKAT)                                "	lat="40.6658"	lng="36.7512"	mag="1.6" Depth="5.5" />
 	<earhquake	name="2026.03.14 12:10:16"	lokasyon="TEPEKOY-BALA (ANKARA)                             "	lat="39.3332"	lng="33.4515"	mag="1.2" Depth="6.4" />
+	<earhquake	name="2026.03.14 13:00:35"	lokasyon="KOS ADASI (EGE DENIZI)                            "	lat="36.3783"	lng="27.2900"	mag="2.1" Depth="22.5" />
+	<earhquake	name="2026.03.14 13:08:21"	lokasyon="ERICEK-OSMANELI (BILECIK)                         "	lat="40.4158"	lng="29.9768"	mag="1.2" Depth="17.5" />
+	<earhquake	name="2026.03.14 13:22:45"	lokasyon="SOGUTLU-PUTURGE (MALATYA)                         "	lat="38.1845"	lng="38.6267"	mag="3.0" Depth="3.6" />
 </eqlist>
