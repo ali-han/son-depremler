@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.13 17:03:33"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6383"	lng="36.7650"	mag="1.8" Depth="5.9" />
-	<earhquake	name="2026.03.13 17:24:59"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6352"	lng="36.7728"	mag="2.1" Depth="5.8" />
-	<earhquake	name="2026.03.13 17:25:37"	lokasyon="BUZKOY-NIKSAR (TOKAT)                             "	lat="40.6388"	lng="36.8148"	mag="1.6" Depth="4.5" />
-	<earhquake	name="2026.03.13 17:39:59"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6322"	lng="36.7762"	mag="2.6" Depth="3.1" />
-	<earhquake	name="2026.03.13 17:42:13"	lokasyon="GUNLUCE-NIKSAR (TOKAT)                            "	lat="40.6180"	lng="36.7860"	mag="1.7" Depth="2.4" />
-	<earhquake	name="2026.03.13 17:42:53"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1568"	lng="28.3332"	mag="1.5" Depth="14.0" />
-	<earhquake	name="2026.03.13 17:52:40"	lokasyon="EGE DENIZI                                        "	lat="36.3410"	lng="27.6423"	mag="2.2" Depth="5.4" />
-	<earhquake	name="2026.03.13 17:55:06"	lokasyon="EGE DENIZI                                        "	lat="39.3452"	lng="24.8930"	mag="2.2" Depth="9.8" />
 	<earhquake	name="2026.03.13 18:07:34"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6450"	lng="36.7897"	mag="1.7" Depth="5.4" />
 	<earhquake	name="2026.03.13 18:42:18"	lokasyon="YUNANISTAN                                        "	lat="39.7963"	lng="24.2508"	mag="2.5" Depth="20.5" />
 	<earhquake	name="2026.03.13 18:54:36"	lokasyon="YENIKOY-(TEKIRDAG)                                "	lat="40.7903"	lng="27.4353"	mag="1.9" Depth="11.0" />
@@ -104,4 +96,5 @@
 	<earhquake	name="2026.03.14 15:35:34"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0877"	lng="28.9683"	mag="1.7" Depth="20.0" />
 	<earhquake	name="2026.03.14 15:57:11"	lokasyon="USTAHASAN-NIKSAR (TOKAT)                          "	lat="40.5768"	lng="37.0067"	mag="2.4" Depth="5.2" />
 	<earhquake	name="2026.03.14 16:03:56"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.1077"	lng="28.9860"	mag="1.6" Depth="22.3" />
+	<earhquake	name="2026.03.14 16:56:43"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6268"	lng="36.7728"	mag="1.9" Depth="6.0" />
 </eqlist>
