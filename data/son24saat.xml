@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.14 23:06:53"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2258"	lng="29.0060"	mag="1.0" Depth="11.6" />
 	<earhquake	name="2026.03.15 00:00:29"	lokasyon="SINDIRGI (BALIKESIR)                              "	lat="39.2255"	lng="28.1638"	mag="1.7" Depth="12.0" />
 	<earhquake	name="2026.03.15 00:03:51"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6393"	lng="36.7872"	mag="3.1" Depth="5.4" />
 	<earhquake	name="2026.03.15 00:16:42"	lokasyon="KORU-CINARCIK (YALOVA)                            "	lat="40.7020"	lng="29.1613"	mag="2.0" Depth="7.7" />
@@ -112,6 +111,7 @@
 	<earhquake	name="2026.03.15 21:50:58"	lokasyon="YUNANISTAN                                        "	lat="41.4372"	lng="24.0255"	mag="0.8" Depth="13.7" />
 	<earhquake	name="2026.03.15 21:55:58"	lokasyon="SEYHYAYLA-GORDES (MANISA)                         "	lat="39.0223"	lng="28.3608"	mag="1.1" Depth="5.0" />
 	<earhquake	name="2026.03.15 22:17:53"	lokasyon="YESILBELDE-MARMARIS (MUGLA)                       "	lat="36.8992"	lng="28.2325"	mag="2.2" Depth="60.5" />
+	<earhquake	name="2026.03.15 22:18:59"	lokasyon="MARMARA DENIZI                                    "	lat="40.7802"	lng="27.6152"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2026.03.15 22:25:45"	lokasyon="AZIZIYE (ERZURUM)                                 "	lat="39.9105"	lng="41.1650"	mag="1.0" Depth="20.6" />
 	<earhquake	name="2026.03.15 22:27:49"	lokasyon="GOZENE-YESILYURT (MALATYA)                        REVIZE01   (2026.03.15 22:27:49)"	lat="38.1772"	lng="38.0380"	mag="1.5" Depth="6.8" />
 </eqlist>
