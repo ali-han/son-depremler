@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.16 17:01:43"	lokasyon="EGE DENIZI                                        "	lat="36.6588"	lng="25.6787"	mag="3.0" Depth="8.0" />
-	<earhquake	name="2026.03.16 17:15:22"	lokasyon="KOZAGAC-BEYPAZARI (ANKARA)                        "	lat="40.2232"	lng="31.7528"	mag="2.4" Depth="14.7" />
-	<earhquake	name="2026.03.16 17:27:51"	lokasyon="CINGIRLI-HAYMANA (ANKARA)                         "	lat="39.4098"	lng="32.6263"	mag="2.1" Depth="6.0" />
-	<earhquake	name="2026.03.16 17:33:55"	lokasyon="GURPINAR-EMET (KUTAHYA)                           "	lat="39.3348"	lng="29.3390"	mag="2.4" Depth="0.0" />
-	<earhquake	name="2026.03.16 17:45:59"	lokasyon="GUNLUCE-NIKSAR (TOKAT)                            "	lat="40.6187"	lng="36.7833"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2026.03.16 18:01:23"	lokasyon="KOSK KOYU-MURADIYE (VAN)                          "	lat="38.9467"	lng="43.7450"	mag="2.3" Depth="7.8" />
 	<earhquake	name="2026.03.16 18:02:44"	lokasyon="DINARBEY-YEDISU (BINGOL)                          "	lat="39.3888"	lng="40.7025"	mag="2.2" Depth="4.1" />
 	<earhquake	name="2026.03.16 18:05:37"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6750"	lng="35.3723"	mag="1.8" Depth="5.0" />
@@ -86,4 +81,7 @@
 	<earhquake	name="2026.03.17 15:09:01"	lokasyon="HOSKOY-SENKAYA (ERZURUM)                          "	lat="40.6640"	lng="42.3073"	mag="1.4" Depth="11.2" />
 	<earhquake	name="2026.03.17 15:47:09"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2120"	lng="27.9877"	mag="2.2" Depth="9.7" />
 	<earhquake	name="2026.03.17 16:23:18"	lokasyon="YAYLASOGUT-ULA (MUGLA)                            "	lat="37.1767"	lng="28.5380"	mag="1.8" Depth="12.0" />
+	<earhquake	name="2026.03.17 16:24:11"	lokasyon="AGCASAR-NURHAK (KAHRAMANMARAS)                    "	lat="38.0778"	lng="37.4250"	mag="1.5" Depth="3.9" />
+	<earhquake	name="2026.03.17 16:30:50"	lokasyon="MALAZ-GORDES (MANISA)                             "	lat="39.0575"	lng="28.2730"	mag="1.5" Depth="2.3" />
+	<earhquake	name="2026.03.17 17:04:30"	lokasyon="MARMARA DENIZI                                    "	lat="40.4942"	lng="27.1277"	mag="2.2" Depth="11.5" />
 </eqlist>
