@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.17 01:00:20"	lokasyon="KARAAGIL-HISARCIK (KUTAHYA)                       "	lat="39.2307"	lng="29.0952"	mag="0.9" Depth="1.2" />
-	<earhquake	name="2026.03.17 01:12:31"	lokasyon="CAMDIBI-ERBAA (TOKAT)                             "	lat="40.6767"	lng="36.7602"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2026.03.17 01:14:54"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1377"	lng="28.3453"	mag="1.8" Depth="9.8" />
-	<earhquake	name="2026.03.17 01:17:04"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1758"	lng="28.1660"	mag="1.2" Depth="16.1" />
-	<earhquake	name="2026.03.17 01:38:01"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2073"	lng="28.0883"	mag="3.0" Depth="9.4" />
 	<earhquake	name="2026.03.17 02:07:28"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1587"	lng="28.2822"	mag="1.7" Depth="9.8" />
 	<earhquake	name="2026.03.17 02:08:46"	lokasyon="DERE-KAS (ANTALYA)                                "	lat="36.2773"	lng="29.6750"	mag="3.5" Depth="39.6" />
 	<earhquake	name="2026.03.17 02:21:43"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2368"	lng="29.0638"	mag="1.3" Depth="7.9" />
@@ -86,4 +81,5 @@
 	<earhquake	name="2026.03.18 00:05:49"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2202"	lng="28.2302"	mag="1.3" Depth="7.8" />
 	<earhquake	name="2026.03.18 00:16:35"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="37.2063"	lng="26.4182"	mag="3.0" Depth="9.2" />
 	<earhquake	name="2026.03.18 00:19:07"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="37.1252"	lng="26.4367"	mag="2.2" Depth="6.9" />
+	<earhquake	name="2026.03.18 01:00:53"	lokasyon="GUMUSALAN-ERBAA (TOKAT)                           "	lat="40.7078"	lng="36.7738"	mag="1.8" Depth="5.4" />
 </eqlist>
