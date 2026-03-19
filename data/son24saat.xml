@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.18 15:31:40"	lokasyon="YAGCA-DOSEMEALTI (ANTALYA)                        "	lat="37.0298"	lng="30.5535"	mag="1.8" Depth="26.5" />
-	<earhquake	name="2026.03.18 16:34:00"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8185"	lng="26.9945"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.03.18 17:00:48"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="35.1712"	lng="27.0443"	mag="3.8" Depth="2.4" />
 	<earhquake	name="2026.03.18 17:01:46"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          REVIZE02   (2026.03.18 17:01:54)"	lat="39.4422"	lng="25.8657"	mag="1.6" Depth="29.9" />
 	<earhquake	name="2026.03.18 17:23:09"	lokasyon="OSMANBEY-AKYAZI (SAKARYA)                         "	lat="40.7352"	lng="30.5998"	mag="1.6" Depth="25.1" />
@@ -72,4 +70,10 @@
 	<earhquake	name="2026.03.19 13:57:44"	lokasyon="KAPUZBASI-YAHYALI (KAYSERI)                       "	lat="37.7127"	lng="35.3558"	mag="1.6" Depth="14.5" />
 	<earhquake	name="2026.03.19 13:58:38"	lokasyon="BUYUKPINAR-(BALIKESIR)                            "	lat="39.7740"	lng="27.7097"	mag="1.0" Depth="5.0" />
 	<earhquake	name="2026.03.19 14:03:15"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1678"	lng="28.1077"	mag="1.9" Depth="11.9" />
+	<earhquake	name="2026.03.19 14:58:09"	lokasyon="BABAKALE-AYVACIK (CANAKKALE)                      "	lat="39.5308"	lng="26.0407"	mag="1.6" Depth="5.1" />
+	<earhquake	name="2026.03.19 15:13:57"	lokasyon="GULPINAR-AYVACIK (CANAKKALE)                      "	lat="39.5338"	lng="26.1348"	mag="1.5" Depth="19.8" />
+	<earhquake	name="2026.03.19 15:37:31"	lokasyon="SELCUKLU (KONYA)                                  "	lat="37.8993"	lng="32.4412"	mag="1.2" Depth="0.0" />
+	<earhquake	name="2026.03.19 15:38:40"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2802"	lng="28.9812"	mag="1.6" Depth="7.8" />
+	<earhquake	name="2026.03.19 16:16:23"	lokasyon="CAYIRBAGI-MERAM (KONYA)                           "	lat="37.8175"	lng="32.3702"	mag="1.1" Depth="0.0" />
+	<earhquake	name="2026.03.19 16:28:55"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1835"	lng="28.1583"	mag="1.8" Depth="14.3" />
 </eqlist>
