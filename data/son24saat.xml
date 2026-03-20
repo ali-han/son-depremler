@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.19 04:21:38"	lokasyon="GUNDUZBEY-YESILYURT (MALATYA)                     "	lat="38.2775"	lng="38.2738"	mag="0.8" Depth="14.0" />
-	<earhquake	name="2026.03.19 04:37:43"	lokasyon="KURUCAOVA-(KAHRAMANMARAS)                         "	lat="37.9563"	lng="36.5668"	mag="1.1" Depth="8.3" />
-	<earhquake	name="2026.03.19 04:49:15"	lokasyon="BALCILAR-KOYCEGIZ (MUGLA)                         "	lat="37.0922"	lng="28.5843"	mag="1.1" Depth="15.9" />
 	<earhquake	name="2026.03.19 05:02:54"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0732"	lng="28.9560"	mag="1.3" Depth="1.0" />
 	<earhquake	name="2026.03.19 05:24:36"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1162"	lng="28.3180"	mag="1.3" Depth="21.9" />
 	<earhquake	name="2026.03.19 06:04:01"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2222"	lng="28.0727"	mag="1.5" Depth="7.6" />
@@ -101,4 +98,9 @@
 	<earhquake	name="2026.03.20 03:23:35"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0597"	lng="28.9677"	mag="3.4" Depth="5.0" />
 	<earhquake	name="2026.03.20 03:27:37"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0515"	lng="28.9708"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2026.03.20 03:29:42"	lokasyon="AHMETLI-SARAYKOY (DENIZLI)                        "	lat="38.0018"	lng="28.9782"	mag="1.1" Depth="27.9" />
+	<earhquake	name="2026.03.20 03:31:59"	lokasyon="BUYUKGELENGEC-CAYIRLI (ERZINCAN)                  "	lat="39.9237"	lng="39.8357"	mag="1.5" Depth="8.1" />
+	<earhquake	name="2026.03.20 03:33:13"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0640"	lng="28.9712"	mag="1.3" Depth="13.6" />
+	<earhquake	name="2026.03.20 03:37:38"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0592"	lng="28.9753"	mag="1.7" Depth="2.2" />
+	<earhquake	name="2026.03.20 04:00:15"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0590"	lng="28.9747"	mag="2.5" Depth="2.7" />
+	<earhquake	name="2026.03.20 04:02:36"	lokasyon="MESELI-GERMENCIK (AYDIN)                          "	lat="37.9697"	lng="27.6687"	mag="1.6" Depth="8.3" />
 </eqlist>
