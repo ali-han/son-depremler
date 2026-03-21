@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.20 20:09:06"	lokasyon="DUACI-KEPEZ (ANTALYA)                             "	lat="36.9610"	lng="30.6790"	mag="1.8" Depth="99.1" />
-	<earhquake	name="2026.03.20 20:46:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2407"	lng="29.0038"	mag="1.3" Depth="12.2" />
 	<earhquake	name="2026.03.20 21:08:07"	lokasyon="KALEMOGLU-GORDES (MANISA)                         "	lat="39.0458"	lng="28.1843"	mag="1.4" Depth="4.0" />
 	<earhquake	name="2026.03.20 21:11:00"	lokasyon="SELCUKLU (KONYA)                                  "	lat="37.9018"	lng="32.4280"	mag="1.2" Depth="0.0" />
 	<earhquake	name="2026.03.20 21:34:38"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1758"	lng="28.9662"	mag="1.1" Depth="19.8" />
@@ -90,4 +88,6 @@
 	<earhquake	name="2026.03.21 18:22:43"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2417"	lng="29.0298"	mag="1.5" Depth="12.4" />
 	<earhquake	name="2026.03.21 18:36:12"	lokasyon="YARAS-(MUGLA)                                     "	lat="37.1608"	lng="28.4832"	mag="1.1" Depth="24.4" />
 	<earhquake	name="2026.03.21 18:57:38"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1543"	lng="28.3107"	mag="1.5" Depth="11.6" />
+	<earhquake	name="2026.03.21 19:48:00"	lokasyon="AKTARLI-PUTURGE (MALATYA)                         "	lat="38.2613"	lng="38.8243"	mag="1.6" Depth="12.7" />
+	<earhquake	name="2026.03.21 19:52:23"	lokasyon="BUYUKTUYSUZ-TOPRAKKALE (OSMANIYE)                 "	lat="36.9853"	lng="36.0973"	mag="2.8" Depth="8.8" />
 </eqlist>
