@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.22 02:39:27"	lokasyon="YENIKOY-DARENDE (MALATYA)                         "	lat="38.5192"	lng="37.3302"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2026.03.22 02:43:05"	lokasyon="IRLIGANLI-(DENIZLI)                               "	lat="37.9063"	lng="29.2412"	mag="1.4" Depth="10.2" />
-	<earhquake	name="2026.03.22 02:43:42"	lokasyon="ASAGI CAMLIKALE-HORASAN (ERZURUM)                 "	lat="40.2327"	lng="42.0275"	mag="1.6" Depth="5.0" />
-	<earhquake	name="2026.03.22 02:46:43"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6320"	lng="36.7780"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2026.03.22 03:07:01"	lokasyon="AKDENIZ                                           "	lat="36.2077"	lng="28.9502"	mag="1.9" Depth="10.1" />
 	<earhquake	name="2026.03.22 03:41:25"	lokasyon="SERPMEKAYA-KARLIOVA (BINGOL)                      "	lat="39.2707"	lng="41.0163"	mag="1.3" Depth="7.4" />
 	<earhquake	name="2026.03.22 04:06:34"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0962"	lng="28.9445"	mag="2.2" Depth="6.2" />
@@ -102,4 +98,5 @@
 	<earhquake	name="2026.03.23 00:30:37"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1983"	lng="28.1707"	mag="1.9" Depth="13.4" />
 	<earhquake	name="2026.03.23 01:11:42"	lokasyon="AGMUSA-ARTOVA (TOKAT)                             "	lat="40.0850"	lng="36.1977"	mag="2.0" Depth="9.6" />
 	<earhquake	name="2026.03.23 01:31:09"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.7548"	lng="27.4458"	mag="1.3" Depth="4.8" />
+	<earhquake	name="2026.03.23 02:05:15"	lokasyon="KABAAGAC-SARAYKOY (DENIZLI)                       "	lat="37.9320"	lng="28.7815"	mag="1.5" Depth="13.5" />
 </eqlist>
