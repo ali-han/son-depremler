@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.23 14:29:04"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0785"	lng="28.9457"	mag="1.8" Depth="6.2" />
-	<earhquake	name="2026.03.23 14:37:31"	lokasyon="ORHANGAZI-YIGILCA (DUZCE)                         "	lat="40.9498"	lng="31.3965"	mag="1.3" Depth="6.8" />
 	<earhquake	name="2026.03.23 15:01:14"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6163"	lng="36.7655"	mag="2.2" Depth="5.3" />
 	<earhquake	name="2026.03.23 15:26:29"	lokasyon="GUMUSKOL-ULUBEY (USAK)                            "	lat="38.4788"	lng="29.1627"	mag="1.3" Depth="5.3" />
 	<earhquake	name="2026.03.23 15:41:26"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0835"	lng="28.3230"	mag="1.6" Depth="12.7" />
@@ -99,4 +97,5 @@
 	<earhquake	name="2026.03.24 13:36:00"	lokasyon="EGE DENIZI                                        "	lat="36.7345"	lng="25.6017"	mag="1.8" Depth="8.6" />
 	<earhquake	name="2026.03.24 13:42:11"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2808"	lng="38.7245"	mag="1.4" Depth="20.0" />
 	<earhquake	name="2026.03.24 13:55:05"	lokasyon="AKARCA-SEREFLIKOCHISAR (ANKARA)                   "	lat="39.1740"	lng="33.2298"	mag="1.1" Depth="16.3" />
+	<earhquake	name="2026.03.24 14:35:20"	lokasyon="EGE DENIZI                                        "	lat="35.7835"	lng="27.1978"	mag="2.4" Depth="11.1" />
 </eqlist>
