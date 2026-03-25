@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.25 01:30:43"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2388"	lng="28.9935"	mag="1.8" Depth="6.5" />
-	<earhquake	name="2026.03.25 01:35:49"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2418"	lng="28.9488"	mag="2.4" Depth="7.2" />
-	<earhquake	name="2026.03.25 01:38:21"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2422"	lng="28.9722"	mag="1.3" Depth="10.3" />
-	<earhquake	name="2026.03.25 01:40:35"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2415"	lng="28.9750"	mag="1.0" Depth="13.2" />
-	<earhquake	name="2026.03.25 01:45:52"	lokasyon="ORTAKLI-AFSIN (KAHRAMANMARAS)                     "	lat="38.1432"	lng="37.0277"	mag="2.5" Depth="3.9" />
 	<earhquake	name="2026.03.25 02:09:00"	lokasyon="KALEALTI-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.1563"	lng="37.0628"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2026.03.25 02:26:00"	lokasyon="KEDEK-KEMAH (ERZINCAN)                            "	lat="39.8357"	lng="39.0352"	mag="1.4" Depth="7.3" />
 	<earhquake	name="2026.03.25 03:05:55"	lokasyon="ALASAR-YATAGAN (MUGLA)                            "	lat="37.3015"	lng="28.2457"	mag="1.4" Depth="3.1" />
@@ -89,4 +84,8 @@
 	<earhquake	name="2026.03.25 23:25:55"	lokasyon="YUNANISTAN                                        "	lat="40.3607"	lng="24.0810"	mag="1.9" Depth="6.2" />
 	<earhquake	name="2026.03.25 23:51:19"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2547"	lng="29.0202"	mag="1.9" Depth="9.5" />
 	<earhquake	name="2026.03.26 00:20:43"	lokasyon="YUNANISTAN                                        "	lat="39.2015"	lng="23.3822"	mag="2.9" Depth="8.8" />
+	<earhquake	name="2026.03.26 01:06:17"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6872"	lng="35.3712"	mag="1.8" Depth="4.2" />
+	<earhquake	name="2026.03.26 01:18:42"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.1017"	lng="30.5883"	mag="1.5" Depth="8.6" />
+	<earhquake	name="2026.03.26 01:21:43"	lokasyon="YUNANISTAN                                        "	lat="40.3137"	lng="24.1038"	mag="1.4" Depth="5.1" />
+	<earhquake	name="2026.03.26 01:26:27"	lokasyon="BALCIKHISAR-HAYMANA (ANKARA)                      "	lat="39.2727"	lng="32.7572"	mag="1.7" Depth="5.0" />
 </eqlist>
