@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.24 14:28:48"	lokasyon="COBANTASI-(BINGOL)                                "	lat="39.0620"	lng="40.8438"	mag="1.4" Depth="10.0" />
-	<earhquake	name="2026.03.24 14:35:20"	lokasyon="EGE DENIZI                                        "	lat="35.7835"	lng="27.1978"	mag="2.4" Depth="11.1" />
 	<earhquake	name="2026.03.24 15:22:34"	lokasyon="KATRANCILAR-ESME (USAK)                           "	lat="38.4978"	lng="29.1658"	mag="1.4" Depth="14.6" />
 	<earhquake	name="2026.03.24 15:26:27"	lokasyon="KATRANCILAR-ESME (USAK)                           "	lat="38.4910"	lng="29.1258"	mag="1.4" Depth="17.0" />
 	<earhquake	name="2026.03.24 15:38:29"	lokasyon="AKDENIZ                                           "	lat="35.3675"	lng="32.2837"	mag="3.7" Depth="78.3" />
@@ -75,4 +73,8 @@
 	<earhquake	name="2026.03.25 13:01:54"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1677"	lng="28.0978"	mag="1.7" Depth="9.4" />
 	<earhquake	name="2026.03.25 13:04:29"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6755"	lng="35.3775"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2026.03.25 13:07:18"	lokasyon="KARACAOREN-KELKIT (GUMUSHANE)                     "	lat="39.9465"	lng="39.5655"	mag="1.2" Depth="5.2" />
+	<earhquake	name="2026.03.25 13:14:39"	lokasyon="GEMLIK (BURSA)                                    "	lat="40.4448"	lng="29.1718"	mag="0.9" Depth="9.8" />
+	<earhquake	name="2026.03.25 13:25:01"	lokasyon="OGUZ-KELKIT (GUMUSHANE)                           "	lat="39.9665"	lng="39.6302"	mag="1.6" Depth="9.4" />
+	<earhquake	name="2026.03.25 14:12:07"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0838"	lng="28.3378"	mag="1.1" Depth="8.4" />
+	<earhquake	name="2026.03.25 14:26:08"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4613"	lng="29.2365"	mag="1.0" Depth="0.0" />
 </eqlist>
