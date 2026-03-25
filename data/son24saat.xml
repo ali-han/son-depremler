@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.25 02:09:00"	lokasyon="KALEALTI-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.1563"	lng="37.0628"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2026.03.25 02:26:00"	lokasyon="KEDEK-KEMAH (ERZINCAN)                            "	lat="39.8357"	lng="39.0352"	mag="1.4" Depth="7.3" />
 	<earhquake	name="2026.03.25 03:05:55"	lokasyon="ALASAR-YATAGAN (MUGLA)                            "	lat="37.3015"	lng="28.2457"	mag="1.4" Depth="3.1" />
 	<earhquake	name="2026.03.25 03:11:38"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      REVIZE01   (2026.03.25 03:11:38)"	lat="40.1905"	lng="31.7553"	mag="2.0" Depth="6.0" />
 	<earhquake	name="2026.03.25 03:43:36"	lokasyon="AKDENIZ                                           "	lat="35.7410"	lng="32.0152"	mag="1.7" Depth="15.0" />
@@ -88,4 +86,7 @@
 	<earhquake	name="2026.03.26 01:18:42"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.1017"	lng="30.5883"	mag="1.5" Depth="8.6" />
 	<earhquake	name="2026.03.26 01:21:43"	lokasyon="YUNANISTAN                                        "	lat="40.3137"	lng="24.1038"	mag="1.4" Depth="5.1" />
 	<earhquake	name="2026.03.26 01:26:27"	lokasyon="BALCIKHISAR-HAYMANA (ANKARA)                      "	lat="39.2727"	lng="32.7572"	mag="1.7" Depth="5.0" />
+	<earhquake	name="2026.03.26 01:41:14"	lokasyon="BANDIRMA KORFEZI (MARMARA DENIZI)                 "	lat="40.4172"	lng="28.0913"	mag="1.6" Depth="7.6" />
+	<earhquake	name="2026.03.26 01:42:20"	lokasyon="SUYUGUZEL-BALA (ANKARA)                           "	lat="39.3672"	lng="33.1978"	mag="1.3" Depth="5.3" />
+	<earhquake	name="2026.03.26 02:15:16"	lokasyon="EGE DENIZI                                        "	lat="38.8333"	lng="26.4323"	mag="1.8" Depth="6.4" />
 </eqlist>
