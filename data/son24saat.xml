@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.26 00:20:43"	lokasyon="YUNANISTAN                                        "	lat="39.2015"	lng="23.3822"	mag="2.9" Depth="8.8" />
 	<earhquake	name="2026.03.26 01:06:17"	lokasyon="YETIMLI-ALADAG (ADANA)                            "	lat="37.6872"	lng="35.3712"	mag="1.8" Depth="4.2" />
 	<earhquake	name="2026.03.26 01:18:42"	lokasyon="KOMURCULER-DOSEMEALTI (ANTALYA)                   "	lat="37.1017"	lng="30.5883"	mag="1.5" Depth="8.6" />
 	<earhquake	name="2026.03.26 01:21:43"	lokasyon="YUNANISTAN                                        "	lat="40.3137"	lng="24.1038"	mag="1.4" Depth="5.1" />
@@ -103,4 +102,6 @@
 	<earhquake	name="2026.03.26 23:00:46"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1678"	lng="28.2338"	mag="1.7" Depth="17.8" />
 	<earhquake	name="2026.03.26 23:05:13"	lokasyon="BABAKALE-AYVACIK (CANAKKALE)                      "	lat="39.5033"	lng="26.0800"	mag="1.0" Depth="8.8" />
 	<earhquake	name="2026.03.26 23:12:14"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.2260"	lng="31.7395"	mag="1.9" Depth="5.8" />
+	<earhquake	name="2026.03.26 23:52:30"	lokasyon="MARMARA DENIZI                                    "	lat="40.7967"	lng="27.7615"	mag="1.2" Depth="15.9" />
+	<earhquake	name="2026.03.27 00:21:17"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.0993"	lng="28.2992"	mag="1.0" Depth="9.6" />
 </eqlist>
