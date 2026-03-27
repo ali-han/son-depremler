@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.26 16:32:48"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1362"	lng="28.3747"	mag="2.3" Depth="9.4" />
-	<earhquake	name="2026.03.26 16:38:57"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0707"	lng="28.3455"	mag="1.6" Depth="9.2" />
 	<earhquake	name="2026.03.26 17:05:26"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2345"	lng="29.0415"	mag="1.7" Depth="11.8" />
 	<earhquake	name="2026.03.26 17:42:33"	lokasyon="UMITALAN-KESTEL (BURSA)                           "	lat="40.1663"	lng="29.3893"	mag="1.3" Depth="5.0" />
 	<earhquake	name="2026.03.26 17:53:17"	lokasyon="EYUP (ISTANBUL)                                   "	lat="41.0572"	lng="28.9457"	mag="1.0" Depth="0.0" />
@@ -75,4 +73,5 @@
 	<earhquake	name="2026.03.27 15:41:08"	lokasyon="SULTANGAZI (ISTANBUL)                             "	lat="41.1027"	lng="28.8655"	mag="0.9" Depth="0.0" />
 	<earhquake	name="2026.03.27 15:42:58"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2438"	lng="37.7492"	mag="2.0" Depth="12.8" />
 	<earhquake	name="2026.03.27 15:45:31"	lokasyon="YENIKARAKUYU-YATAGAN (MUGLA)                      "	lat="37.2972"	lng="28.1918"	mag="1.7" Depth="0.0" />
+	<earhquake	name="2026.03.27 16:40:55"	lokasyon="YUNANISTAN                                        "	lat="40.4180"	lng="24.0373"	mag="1.9" Depth="2.3" />
 </eqlist>
