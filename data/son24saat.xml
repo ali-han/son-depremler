@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.27 02:02:02"	lokasyon="MAHMUTLU-BULDAN (DENIZLI)                         "	lat="38.0428"	lng="28.9707"	mag="1.4" Depth="13.8" />
-	<earhquake	name="2026.03.27 02:02:57"	lokasyon="MAHMUTLU-BULDAN (DENIZLI)                         "	lat="38.0368"	lng="28.9728"	mag="1.5" Depth="17.0" />
-	<earhquake	name="2026.03.27 02:15:57"	lokasyon="YUNANISTAN                                        "	lat="39.0465"	lng="23.6190"	mag="2.3" Depth="16.4" />
-	<earhquake	name="2026.03.27 02:36:14"	lokasyon="KUSCU-MURADIYE (VAN)                              "	lat="38.7838"	lng="43.6422"	mag="1.7" Depth="5.4" />
 	<earhquake	name="2026.03.27 03:05:01"	lokasyon="PIRAHMETLER-(BOLU)                                "	lat="40.7648"	lng="31.5425"	mag="1.2" Depth="3.7" />
 	<earhquake	name="2026.03.27 03:05:58"	lokasyon="ATALAR-YESILYURT (MALATYA)                        "	lat="38.2247"	lng="38.1462"	mag="1.2" Depth="8.4" />
 	<earhquake	name="2026.03.27 03:10:40"	lokasyon="KAPUZBASI-YAHYALI (KAYSERI)                       "	lat="37.7113"	lng="35.3702"	mag="1.4" Depth="8.3" />
@@ -72,4 +68,8 @@
 	<earhquake	name="2026.03.28 00:47:08"	lokasyon="BASKOY-ORHANELI (BURSA)                           "	lat="40.0613"	lng="28.8437"	mag="1.6" Depth="13.0" />
 	<earhquake	name="2026.03.28 01:03:04"	lokasyon="CAKMAKKAYA-ALACAKAYA (ELAZIG)                     "	lat="38.5038"	lng="39.8585"	mag="2.6" Depth="2.4" />
 	<earhquake	name="2026.03.28 01:05:48"	lokasyon="KAPISUYU-SAMANDAG (HATAY)                         "	lat="36.1235"	lng="35.8610"	mag="1.4" Depth="7.1" />
+	<earhquake	name="2026.03.28 01:30:03"	lokasyon="KARAOMERLER-SELCUKLU (KONYA)                      "	lat="38.0988"	lng="32.6827"	mag="1.6" Depth="5.4" />
+	<earhquake	name="2026.03.28 01:36:36"	lokasyon="FINDIKKOY-DOGANSEHIR (MALATYA)                    "	lat="38.1372"	lng="37.8013"	mag="1.2" Depth="29.4" />
+	<earhquake	name="2026.03.28 01:51:33"	lokasyon="TAYTAN-SALIHLI (MANISA)                           "	lat="38.5382"	lng="28.2215"	mag="1.6" Depth="9.9" />
+	<earhquake	name="2026.03.28 01:56:25"	lokasyon="AZIZIYE (ERZURUM)                                 "	lat="39.9762"	lng="41.1192"	mag="2.0" Depth="5.1" />
 </eqlist>
