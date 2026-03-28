@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.03.27 16:40:55"	lokasyon="YUNANISTAN                                        "	lat="40.4180"	lng="24.0373"	mag="1.9" Depth="2.3" />
-	<earhquake	name="2026.03.27 16:49:52"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0577"	lng="28.9628"	mag="2.1" Depth="10.2" />
 	<earhquake	name="2026.03.27 17:16:24"	lokasyon="SAKIZ-MUT (MERSIN)                                "	lat="36.6282"	lng="33.3062"	mag="1.8" Depth="21.1" />
 	<earhquake	name="2026.03.27 17:30:30"	lokasyon="EGE DENIZI                                        "	lat="36.6350"	lng="25.8073"	mag="2.2" Depth="7.9" />
 	<earhquake	name="2026.03.27 17:42:13"	lokasyon="GAZIOSMANPASA (ISTANBUL)                          "	lat="41.0765"	lng="28.9183"	mag="0.7" Depth="0.0" />
@@ -73,4 +71,5 @@
 	<earhquake	name="2026.03.28 14:47:09"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1582"	lng="28.3068"	mag="1.7" Depth="8.1" />
 	<earhquake	name="2026.03.28 15:10:46"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1725"	lng="28.3190"	mag="1.3" Depth="18.1" />
 	<earhquake	name="2026.03.28 15:21:48"	lokasyon="DEMIRLI-KAMAN (KIRSEHIR)                          "	lat="39.3257"	lng="33.9807"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.03.28 16:51:02"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4603"	lng="26.3110"	mag="1.4" Depth="13.2" />
 </eqlist>
