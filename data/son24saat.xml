@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.01 14:04:12"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2405"	lng="28.9868"	mag="1.8" Depth="4.9" />
-	<earhquake	name="2026.04.01 14:47:14"	lokasyon="CALTILI-SINDIRGI (BALIKESIR)                      "	lat="39.2363"	lng="28.2258"	mag="1.9" Depth="19.5" />
-	<earhquake	name="2026.04.01 14:49:01"	lokasyon="KEKLIKPINARI-AKCADAG (MALATYA)                    "	lat="38.4757"	lng="38.0280"	mag="2.2" Depth="7.1" />
 	<earhquake	name="2026.04.01 17:29:42"	lokasyon="ULUKOY-(MALATYA)                                  "	lat="38.1610"	lng="38.5192"	mag="1.5" Depth="16.4" />
 	<earhquake	name="2026.04.01 17:36:29"	lokasyon="YUSUFCAM-SINDIRGI (BALIKESIR)                     "	lat="39.2802"	lng="28.2108"	mag="1.0" Depth="17.7" />
 	<earhquake	name="2026.04.01 17:47:54"	lokasyon="SEKKOY-MILAS (MUGLA)                              "	lat="37.1335"	lng="27.9222"	mag="1.8" Depth="0.0" />
@@ -61,4 +58,5 @@
 	<earhquake	name="2026.04.02 13:09:27"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.9285"	lng="36.5108"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2026.04.02 13:09:48"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1255"	lng="28.2030"	mag="1.1" Depth="4.9" />
 	<earhquake	name="2026.04.02 13:34:30"	lokasyon="CAYKOY-PUTURGE (MALATYA)                          "	lat="38.2372"	lng="38.7038"	mag="2.2" Depth="5.4" />
+	<earhquake	name="2026.04.02 14:41:42"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1975"	lng="28.2173"	mag="2.9" Depth="10.3" />
 </eqlist>
