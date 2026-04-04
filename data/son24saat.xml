@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.03 16:29:20"	lokasyon="KAYALIDERE-SIMAV (KUTAHYA)                        "	lat="39.2420"	lng="28.9135"	mag="1.4" Depth="1.4" />
-	<earhquake	name="2026.04.03 16:45:33"	lokasyon="ESENCE-(ADIYAMAN)                                 "	lat="37.8687"	lng="38.3130"	mag="1.8" Depth="19.9" />
 	<earhquake	name="2026.04.03 17:50:00"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2528"	lng="29.0270"	mag="1.4" Depth="12.0" />
 	<earhquake	name="2026.04.03 17:59:11"	lokasyon="MAHMUTLU-BULDAN (DENIZLI)                         "	lat="38.0338"	lng="28.9677"	mag="1.7" Depth="18.9" />
 	<earhquake	name="2026.04.03 18:14:40"	lokasyon="UCTEPE-ERDEMLI (MERSIN)                           "	lat="36.5758"	lng="34.2305"	mag="1.6" Depth="1.6" />
@@ -71,4 +69,6 @@
 	<earhquake	name="2026.04.04 14:51:26"	lokasyon="ERGENUSAGI-KOZAN (ADANA)                          "	lat="37.6265"	lng="35.5592"	mag="3.3" Depth="5.0" />
 	<earhquake	name="2026.04.04 14:51:43"	lokasyon="KUCUKBUKU-SINDIRGI (BALIKESIR)                    "	lat="39.2612"	lng="28.0908"	mag="1.5" Depth="7.8" />
 	<earhquake	name="2026.04.04 15:14:14"	lokasyon="KUMARLI-(KAHRAMANMARAS)                           "	lat="37.8758"	lng="36.5195"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2026.04.04 16:05:55"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0857"	lng="28.9490"	mag="2.1" Depth="13.4" />
+	<earhquake	name="2026.04.04 16:37:21"	lokasyon="AKSAAGAC-SAIMBEYLI (ADANA)                        "	lat="37.9105"	lng="36.2355"	mag="2.0" Depth="8.2" />
 </eqlist>
