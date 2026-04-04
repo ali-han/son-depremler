@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.03 03:04:27"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2523"	lng="29.0098"	mag="2.9" Depth="4.7" />
-	<earhquake	name="2026.04.03 03:09:07"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2563"	lng="29.0305"	mag="1.2" Depth="13.5" />
-	<earhquake	name="2026.04.03 03:20:04"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1075"	lng="28.3413"	mag="1.9" Depth="11.1" />
-	<earhquake	name="2026.04.03 03:48:30"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2438"	lng="29.0277"	mag="2.2" Depth="4.6" />
 	<earhquake	name="2026.04.03 04:18:54"	lokasyon="ORTAKOY-SUNGURLU (CORUM)                          "	lat="40.3793"	lng="34.4465"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.04.03 04:56:47"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1105"	lng="28.3567"	mag="3.1" Depth="8.9" />
 	<earhquake	name="2026.04.03 05:01:29"	lokasyon="SUCIKTI-ODEMIS (IZMIR)                            "	lat="38.3082"	lng="27.8715"	mag="2.0" Depth="4.9" />
@@ -82,4 +78,8 @@
 	<earhquake	name="2026.04.04 00:39:46"	lokasyon="AHLATCIK-(KASTAMONU)                              "	lat="41.3560"	lng="33.5695"	mag="2.7" Depth="4.4" />
 	<earhquake	name="2026.04.04 01:42:43"	lokasyon="KADIRUSAGI-YESILYURT (MALATYA)                    "	lat="38.2240"	lng="38.2525"	mag="1.6" Depth="5.9" />
 	<earhquake	name="2026.04.04 02:11:20"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.1030"	lng="38.3447"	mag="1.6" Depth="1.7" />
+	<earhquake	name="2026.04.04 02:43:08"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0803"	lng="28.4070"	mag="1.5" Depth="7.2" />
+	<earhquake	name="2026.04.04 02:55:25"	lokasyon="KARABOGURTLEN-ULA (MUGLA)                         "	lat="37.0670"	lng="28.5072"	mag="1.2" Depth="22.6" />
+	<earhquake	name="2026.04.04 03:02:27"	lokasyon="TEKEDERESI-PUTURGE (MALATYA)                      "	lat="38.1290"	lng="38.6147"	mag="2.2" Depth="2.9" />
+	<earhquake	name="2026.04.04 03:16:38"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6322"	lng="36.7683"	mag="3.2" Depth="5.0" />
 </eqlist>
