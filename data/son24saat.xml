@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.03 23:21:13"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2753"	lng="28.9850"	mag="1.5" Depth="9.0" />
-	<earhquake	name="2026.04.03 23:54:06"	lokasyon="OZLUCE-(MUGLA)                                    "	lat="37.2245"	lng="28.4943"	mag="1.9" Depth="11.8" />
 	<earhquake	name="2026.04.04 00:32:19"	lokasyon="IKIZCE-YESILYURT (MALATYA)                        "	lat="38.2992"	lng="38.2093"	mag="1.3" Depth="8.3" />
 	<earhquake	name="2026.04.04 00:39:46"	lokasyon="AHLATCIK-(KASTAMONU)                              "	lat="41.3560"	lng="33.5695"	mag="2.7" Depth="4.4" />
 	<earhquake	name="2026.04.04 01:42:43"	lokasyon="KADIRUSAGI-YESILYURT (MALATYA)                    "	lat="38.2240"	lng="38.2525"	mag="1.6" Depth="5.9" />
@@ -82,4 +80,5 @@
 	<earhquake	name="2026.04.04 22:11:52"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2182"	lng="28.1223"	mag="1.7" Depth="9.5" />
 	<earhquake	name="2026.04.04 22:12:16"	lokasyon="GAZIEMIR (IZMIR)                                  "	lat="38.3462"	lng="27.1215"	mag="1.5" Depth="13.0" />
 	<earhquake	name="2026.04.04 22:29:48"	lokasyon="EFIR-SIMAV (KUTAHYA)                              "	lat="39.2255"	lng="28.8118"	mag="1.3" Depth="20.2" />
+	<earhquake	name="2026.04.04 23:19:15"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0173"	lng="37.6048"	mag="1.2" Depth="16.9" />
 </eqlist>
