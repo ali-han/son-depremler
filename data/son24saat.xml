@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.04 13:37:51"	lokasyon="SURIYE                                            "	lat="36.6768"	lng="38.4230"	mag="2.0" Depth="2.9" />
 	<earhquake	name="2026.04.04 14:10:08"	lokasyon="MARMARACIK-YENISEHIR (BURSA)                      "	lat="40.2568"	lng="29.4397"	mag="1.6" Depth="8.1" />
 	<earhquake	name="2026.04.04 14:51:26"	lokasyon="ERGENUSAGI-KOZAN (ADANA)                          "	lat="37.6265"	lng="35.5592"	mag="3.3" Depth="5.0" />
 	<earhquake	name="2026.04.04 14:51:43"	lokasyon="KUCUKBUKU-SINDIRGI (BALIKESIR)                    "	lat="39.2612"	lng="28.0908"	mag="1.5" Depth="7.8" />
@@ -93,4 +92,8 @@
 	<earhquake	name="2026.04.05 11:50:06"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.2167"	lng="31.7398"	mag="1.9" Depth="9.6" />
 	<earhquake	name="2026.04.05 12:13:28"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1165"	lng="28.3715"	mag="1.6" Depth="8.9" />
 	<earhquake	name="2026.04.05 12:27:31"	lokasyon="EVKAFTEKE-AKHISAR (MANISA)                        "	lat="39.0255"	lng="27.6298"	mag="1.3" Depth="5.0" />
+	<earhquake	name="2026.04.05 12:35:42"	lokasyon="FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)              "	lat="37.9467"	lng="36.4338"	mag="1.4" Depth="6.8" />
+	<earhquake	name="2026.04.05 13:11:33"	lokasyon="EKINLIK-MARMARA (BALIKESIR)                       "	lat="40.6028"	lng="27.4345"	mag="0.9" Depth="15.5" />
+	<earhquake	name="2026.04.05 13:18:32"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1028"	lng="28.3763"	mag="1.6" Depth="5.2" />
+	<earhquake	name="2026.04.05 13:27:47"	lokasyon="SUDALAN-GEYVE (SAKARYA)                           "	lat="40.4908"	lng="30.3922"	mag="2.4" Depth="9.7" />
 </eqlist>
