@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.05 02:06:29"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2362"	lng="29.0855"	mag="0.8" Depth="5.0" />
-	<earhquake	name="2026.04.05 02:20:01"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1308"	lng="37.0145"	mag="2.4" Depth="5.0" />
-	<earhquake	name="2026.04.05 02:35:21"	lokasyon="KALEM-MILAS (MUGLA)                               "	lat="37.0940"	lng="27.9983"	mag="1.4" Depth="11.5" />
-	<earhquake	name="2026.04.05 02:47:06"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2418"	lng="29.0373"	mag="1.4" Depth="11.6" />
-	<earhquake	name="2026.04.05 02:56:30"	lokasyon="EGE DENIZI                                        "	lat="36.6563"	lng="25.6910"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2026.04.05 03:06:51"	lokasyon="YESILOZ-GULSEHIR (NEVSEHIR)                       "	lat="38.7652"	lng="34.7297"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2026.04.05 03:58:10"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1170"	lng="28.3508"	mag="2.3" Depth="9.2" />
 	<earhquake	name="2026.04.05 04:15:01"	lokasyon="YATAGAN-AKHISAR (MANISA)                          "	lat="39.0343"	lng="27.6930"	mag="1.7" Depth="6.1" />
@@ -94,4 +89,8 @@
 	<earhquake	name="2026.04.06 01:07:28"	lokasyon="GUNYURDU-TARSUS (MERSIN)                          "	lat="36.9780"	lng="35.1845"	mag="1.8" Depth="25.6" />
 	<earhquake	name="2026.04.06 01:08:59"	lokasyon="BAYRAMGAZI-PAZARCIK (KAHRAMANMARAS)               "	lat="37.3100"	lng="36.9872"	mag="1.4" Depth="5.4" />
 	<earhquake	name="2026.04.06 01:13:24"	lokasyon="POLATDERESI-DOGANSEHIR (MALATYA)                  "	lat="38.1668"	lng="37.9383"	mag="1.5" Depth="15.1" />
+	<earhquake	name="2026.04.06 01:38:16"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.1905"	lng="31.4423"	mag="2.6" Depth="7.1" />
+	<earhquake	name="2026.04.06 01:39:51"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.4445"	lng="25.8770"	mag="2.0" Depth="6.3" />
+	<earhquake	name="2026.04.06 01:44:02"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7845"	lng="29.0938"	mag="2.1" Depth="17.3" />
+	<earhquake	name="2026.04.06 01:59:29"	lokasyon="AGCASAR-AFSIN (KAHRAMANMARAS)                     "	lat="38.1957"	lng="36.7620"	mag="1.7" Depth="5.0" />
 </eqlist>
