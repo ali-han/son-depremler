@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.07 01:28:15"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2085"	lng="28.1097"	mag="1.9" Depth="13.1" />
 	<earhquake	name="2026.04.07 02:00:30"	lokasyon="CAVDAR-SARIZ (KAYSERI)                            "	lat="38.7012"	lng="36.7313"	mag="1.3" Depth="7.6" />
 	<earhquake	name="2026.04.07 02:07:16"	lokasyon="YOGUNPELIT-YIGILCA (DUZCE)                        "	lat="40.9010"	lng="31.6447"	mag="1.2" Depth="14.6" />
 	<earhquake	name="2026.04.07 02:11:35"	lokasyon="GOKKOY-(BALIKESIR)                                "	lat="39.6283"	lng="27.8352"	mag="1.4" Depth="5.5" />
@@ -87,4 +86,6 @@
 	<earhquake	name="2026.04.07 23:34:07"	lokasyon="YUNANISTAN                                        "	lat="38.3688"	lng="21.9822"	mag="3.2" Depth="19.7" />
 	<earhquake	name="2026.04.08 00:09:16"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2618"	lng="37.7513"	mag="2.3" Depth="10.9" />
 	<earhquake	name="2026.04.08 00:15:53"	lokasyon="YENIKOY-DARENDE (MALATYA)                         "	lat="38.5125"	lng="37.2873"	mag="1.8" Depth="5.3" />
+	<earhquake	name="2026.04.08 01:20:23"	lokasyon="YUNTDAGIKOSELER-(MANISA)                          "	lat="38.8455"	lng="27.2055"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.04.08 01:29:15"	lokasyon="CAMLICA-KARACABEY (BURSA)                         "	lat="40.3377"	lng="28.5507"	mag="2.1" Depth="8.0" />
 </eqlist>
