@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.13 01:10:02"	lokasyon="ELYAPAN-BIGADIC (BALIKESIR)                       "	lat="39.4458"	lng="27.9955"	mag="2.1" Depth="17.2" />
-	<earhquake	name="2026.04.13 01:19:57"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2612"	lng="28.9873"	mag="1.1" Depth="9.3" />
-	<earhquake	name="2026.04.13 01:24:35"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2490"	lng="29.0008"	mag="1.8" Depth="4.9" />
-	<earhquake	name="2026.04.13 01:35:32"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2543"	lng="28.9712"	mag="3.1" Depth="6.9" />
 	<earhquake	name="2026.04.13 02:29:39"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.8258"	lng="31.5225"	mag="2.1" Depth="5.2" />
 	<earhquake	name="2026.04.13 02:42:57"	lokasyon="BUDAKLI-KARACOBAN (ERZURUM)                       "	lat="39.3210"	lng="42.0040"	mag="2.1" Depth="2.3" />
 	<earhquake	name="2026.04.13 02:47:22"	lokasyon="KEMALKOY-(CANAKKALE)                              "	lat="40.1625"	lng="26.5192"	mag="1.4" Depth="18.5" />
@@ -116,4 +112,6 @@
 	<earhquake	name="2026.04.14 00:17:12"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="28.9790"	mag="1.3" Depth="12.0" />
 	<earhquake	name="2026.04.14 00:18:17"	lokasyon="VAN GOLU                                          "	lat="38.6777"	lng="43.0877"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2026.04.14 00:34:28"	lokasyon="CINARDIBI-BAYINDIR (IZMIR)                        "	lat="38.2948"	lng="27.4953"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.04.14 00:55:24"	lokasyon="EGE DENIZI                                        "	lat="36.5182"	lng="26.7290"	mag="2.3" Depth="14.5" />
+	<earhquake	name="2026.04.14 01:02:11"	lokasyon="FINIKE ACIKLARI-ANTALYA (AKDENIZ)                 "	lat="36.1530"	lng="30.1813"	mag="2.1" Depth="7.6" />
 </eqlist>
