@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.14 14:22:01"	lokasyon="CUKUROBA-IVRINDI (BALIKESIR)                      "	lat="39.4993"	lng="27.5570"	mag="1.9" Depth="19.5" />
-	<earhquake	name="2026.04.14 14:42:32"	lokasyon="KIBRISLAR-KOZAN (ADANA)                           "	lat="37.6363"	lng="35.6908"	mag="1.3" Depth="29.2" />
 	<earhquake	name="2026.04.14 15:09:56"	lokasyon="TURFULLAR-BIGADIC (BALIKESIR)                     "	lat="39.4900"	lng="28.2978"	mag="2.1" Depth="9.4" />
 	<earhquake	name="2026.04.14 15:12:47"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2250"	lng="28.1173"	mag="1.5" Depth="10.3" />
 	<earhquake	name="2026.04.14 15:14:34"	lokasyon="AKDENIZ                                           "	lat="34.3172"	lng="32.3192"	mag="2.5" Depth="11.3" />
@@ -83,8 +81,11 @@
 	<earhquake	name="2026.04.15 11:02:47"	lokasyon="ARSLANLAR-TORBALI (IZMIR)                         "	lat="38.1503"	lng="27.4377"	mag="1.5" Depth="11.0" />
 	<earhquake	name="2026.04.15 11:04:23"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2352"	lng="28.9930"	mag="1.5" Depth="16.1" />
 	<earhquake	name="2026.04.15 11:23:35"	lokasyon="DAYAKPINAR-GURUN (SIVAS)                          "	lat="38.8748"	lng="37.3995"	mag="2.4" Depth="9.4" />
+	<earhquake	name="2026.04.15 12:02:09"	lokasyon="NARLICA-BERGAMA (IZMIR)                           "	lat="39.1042"	lng="27.0633"	mag="1.7" Depth="7.6" />
 	<earhquake	name="2026.04.15 12:29:03"	lokasyon="MERSINLI-SALIHLI (MANISA)                         "	lat="38.5237"	lng="28.3833"	mag="1.4" Depth="2.8" />
+	<earhquake	name="2026.04.15 12:31:00"	lokasyon="SERINBAYIR-AHLAT (BITLIS)                         "	lat="38.7063"	lng="42.2723"	mag="1.8" Depth="30.4" />
 	<earhquake	name="2026.04.15 12:50:55"	lokasyon="GOKLER-GEDIZ (KUTAHYA)                            "	lat="39.0073"	lng="29.5558"	mag="1.9" Depth="5.2" />
 	<earhquake	name="2026.04.15 12:52:58"	lokasyon="CAMKOY-BIGADIC (BALIKESIR)                        "	lat="39.4570"	lng="28.1568"	mag="1.8" Depth="8.8" />
 	<earhquake	name="2026.04.15 12:53:59"	lokasyon="ISKELE-BIGADIC (BALIKESIR)                        "	lat="39.5037"	lng="28.1617"	mag="1.7" Depth="7.1" />
+	<earhquake	name="2026.04.15 14:24:25"	lokasyon="GOKDERE-ERZIN (HATAY)                             "	lat="37.0090"	lng="36.2230"	mag="2.6" Depth="15.4" />
 </eqlist>
