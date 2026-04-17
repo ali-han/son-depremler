@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.16 14:16:34"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1788"	lng="28.9730"	mag="1.6" Depth="1.9" />
-	<earhquake	name="2026.04.16 14:20:33"	lokasyon="DEGIRMENBELI-(BOLU)                               "	lat="40.8667"	lng="31.7730"	mag="1.6" Depth="4.1" />
-	<earhquake	name="2026.04.16 14:59:02"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.2085"	lng="28.2392"	mag="1.7" Depth="9.1" />
 	<earhquake	name="2026.04.16 15:13:56"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1695"	lng="28.2608"	mag="1.5" Depth="8.9" />
 	<earhquake	name="2026.04.16 15:16:45"	lokasyon="BOZBURUN ACIKLARI-MUGLA (EGE DENIZI)              "	lat="36.7072"	lng="27.9598"	mag="1.7" Depth="70.4" />
 	<earhquake	name="2026.04.16 15:42:32"	lokasyon="TOPTEPE-TEKMAN (ERZURUM)                          "	lat="39.6272"	lng="41.3005"	mag="1.8" Depth="9.6" />
@@ -94,5 +91,9 @@
 	<earhquake	name="2026.04.17 11:32:45"	lokasyon="ERYABA-NIKSAR (TOKAT)                             "	lat="40.5632"	lng="36.7653"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2026.04.17 11:35:15"	lokasyon="SEVDILI-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.2740"	lng="37.5700"	mag="2.1" Depth="3.6" />
 	<earhquake	name="2026.04.17 11:58:38"	lokasyon="KUMARLI-(KAHRAMANMARAS)                           "	lat="37.8643"	lng="36.4667"	mag="3.1" Depth="5.4" />
+	<earhquake	name="2026.04.17 12:39:46"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2360"	lng="29.0550"	mag="1.4" Depth="5.1" />
 	<earhquake	name="2026.04.17 12:44:02"	lokasyon="BAYIRKOY-MILAS (MUGLA)                            "	lat="37.0943"	lng="27.9127"	mag="1.4" Depth="0.0" />
+	<earhquake	name="2026.04.17 12:53:58"	lokasyon="GOKSUN (KAHRAMANMARAS)                            "	lat="38.0200"	lng="36.5060"	mag="1.8" Depth="3.2" />
+	<earhquake	name="2026.04.17 13:08:33"	lokasyon="SEKKOY-MILAS (MUGLA)                              "	lat="37.1183"	lng="27.9183"	mag="1.2" Depth="0.0" />
+	<earhquake	name="2026.04.17 13:14:43"	lokasyon="KURUCAOVA-(KAHRAMANMARAS)                         "	lat="37.9788"	lng="36.5867"	mag="1.9" Depth="28.8" />
 </eqlist>
