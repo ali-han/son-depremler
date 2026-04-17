@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.16 17:21:26"	lokasyon="GOLPINAR-GOKSUN (KAHRAMANMARAS)                   "	lat="37.9607"	lng="36.4857"	mag="2.0" Depth="6.6" />
-	<earhquake	name="2026.04.16 17:48:46"	lokasyon="SURIYE                                            "	lat="36.5160"	lng="37.3348"	mag="2.0" Depth="7.7" />
-	<earhquake	name="2026.04.16 17:53:33"	lokasyon="YUNANISTAN                                        "	lat="40.2710"	lng="24.0990"	mag="1.9" Depth="13.3" />
 	<earhquake	name="2026.04.16 18:03:31"	lokasyon="CALDERE-BIGADIC (BALIKESIR)                       "	lat="39.5232"	lng="28.1687"	mag="1.7" Depth="13.4" />
 	<earhquake	name="2026.04.16 18:34:14"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.6952"	lng="27.4433"	mag="2.4" Depth="4.6" />
 	<earhquake	name="2026.04.16 18:57:49"	lokasyon="HAMZABEYLI-(MANISA)                               "	lat="38.5470"	lng="27.6160"	mag="1.7" Depth="5.3" />
@@ -102,4 +99,5 @@
 	<earhquake	name="2026.04.17 16:09:10"	lokasyon="YENIKOY-(BILECIK)                                 "	lat="40.1387"	lng="30.0658"	mag="1.6" Depth="4.9" />
 	<earhquake	name="2026.04.17 16:21:47"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.8352"	lng="28.0263"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2026.04.17 16:49:15"	lokasyon="KAYACIK-GORDES (MANISA)                           "	lat="38.9285"	lng="28.1785"	mag="2.0" Depth="9.5" />
+	<earhquake	name="2026.04.17 17:12:26"	lokasyon="AKSAKAL-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.3265"	lng="37.3777"	mag="1.6" Depth="23.6" />
 </eqlist>
