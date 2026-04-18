@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.17 18:22:17"	lokasyon="SOGUTLUDERE-KADIRLI (OSMANIYE)                    "	lat="37.3595"	lng="36.1280"	mag="1.6" Depth="12.0" />
-	<earhquake	name="2026.04.17 19:41:44"	lokasyon="MESCICELE-(BOLU)                                  "	lat="40.8657"	lng="31.7120"	mag="1.5" Depth="3.7" />
 	<earhquake	name="2026.04.17 20:01:58"	lokasyon="KIBRIS-TUZLA                                      "	lat="35.0138"	lng="33.7442"	mag="2.5" Depth="6.8" />
 	<earhquake	name="2026.04.17 20:23:54"	lokasyon="MUREFTE-SARKOY (TEKIRDAG)                         "	lat="40.6660"	lng="27.2538"	mag="1.8" Depth="12.5" />
 	<earhquake	name="2026.04.17 20:55:16"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6153"	lng="36.7568"	mag="1.9" Depth="5.7" />
@@ -75,4 +73,7 @@
 	<earhquake	name="2026.04.18 16:34:12"	lokasyon="KUCUKBUKU-SINDIRGI (BALIKESIR)                    "	lat="39.2795"	lng="28.1067"	mag="1.8" Depth="14.6" />
 	<earhquake	name="2026.04.18 16:56:42"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0417"	lng="37.5187"	mag="2.4" Depth="6.3" />
 	<earhquake	name="2026.04.18 17:11:49"	lokasyon="YUKSEKOREN-KOZAN (ADANA)                          "	lat="37.4153"	lng="35.6797"	mag="2.5" Depth="7.7" />
+	<earhquake	name="2026.04.18 18:19:35"	lokasyon="GUNBALI-SIVRICE (ELAZIG)                          "	lat="38.4825"	lng="39.1388"	mag="1.4" Depth="5.1" />
+	<earhquake	name="2026.04.18 18:45:36"	lokasyon="KARATAS-(DENIZLI)                                 "	lat="37.6753"	lng="29.2605"	mag="1.7" Depth="11.6" />
+	<earhquake	name="2026.04.18 19:07:53"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2052"	lng="28.0630"	mag="1.8" Depth="10.0" />
 </eqlist>
