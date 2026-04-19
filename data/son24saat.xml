@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.18 13:08:23"	lokasyon="EGE DENIZI                                        "	lat="36.6620"	lng="25.7600"	mag="2.0" Depth="4.1" />
-	<earhquake	name="2026.04.18 13:29:06"	lokasyon="KAYNAR-(KAHRAMANMARAS)                            "	lat="37.7720"	lng="36.6138"	mag="2.2" Depth="6.4" />
 	<earhquake	name="2026.04.18 14:09:41"	lokasyon="SAHINLI-NIKSAR (TOKAT)                            "	lat="40.5962"	lng="36.8935"	mag="2.5" Depth="7.2" />
 	<earhquake	name="2026.04.18 14:31:58"	lokasyon="GOKGEDIK-ANDIRIN (KAHRAMANMARAS)                  "	lat="37.5972"	lng="36.4623"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2026.04.18 15:38:01"	lokasyon="MARMARA DENIZI                                    "	lat="40.8307"	lng="28.8455"	mag="2.5" Depth="10.5" />
@@ -73,4 +71,10 @@
 	<earhquake	name="2026.04.19 09:27:00"	lokasyon="KORUCU-(ELAZIG)                                   "	lat="38.5993"	lng="39.5257"	mag="1.5" Depth="7.3" />
 	<earhquake	name="2026.04.19 10:04:39"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.9772"	lng="25.9548"	mag="4.6" Depth="2.1" />
 	<earhquake	name="2026.04.19 11:27:50"	lokasyon="KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               "	lat="37.8633"	lng="36.3965"	mag="2.2" Depth="10.3" />
+	<earhquake	name="2026.04.19 11:56:29"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0770"	lng="28.3653"	mag="1.2" Depth="16.7" />
+	<earhquake	name="2026.04.19 12:05:24"	lokasyon="DALAMAN ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.5798"	lng="28.7485"	mag="2.1" Depth="13.1" />
+	<earhquake	name="2026.04.19 12:11:22"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.1052"	lng="28.3957"	mag="1.4" Depth="9.5" />
+	<earhquake	name="2026.04.19 12:14:04"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.0855"	lng="28.2920"	mag="1.4" Depth="19.2" />
+	<earhquake	name="2026.04.19 12:47:29"	lokasyon="KUCUKCAMURLU-GOKSUN (KAHRAMANMARAS)               "	lat="37.8513"	lng="36.4125"	mag="1.9" Depth="7.7" />
+	<earhquake	name="2026.04.19 13:05:29"	lokasyon="CANAKCI-DURSUNBEY (BALIKESIR)                     "	lat="39.3435"	lng="28.7280"	mag="2.1" Depth="8.1" />
 </eqlist>
