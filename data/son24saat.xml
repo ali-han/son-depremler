@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.21 18:25:21"	lokasyon="YUKARIORUKCU-AKCADAG (MALATYA)                    "	lat="38.4645"	lng="38.0492"	mag="1.2" Depth="3.3" />
-	<earhquake	name="2026.04.21 18:26:17"	lokasyon="OVACIK-KEPSUT (BALIKESIR)                         "	lat="39.5990"	lng="28.2048"	mag="1.7" Depth="5.2" />
-	<earhquake	name="2026.04.21 18:34:27"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2093"	lng="28.9670"	mag="1.7" Depth="23.2" />
-	<earhquake	name="2026.04.21 18:34:53"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2557"	lng="29.0163"	mag="1.4" Depth="1.2" />
-	<earhquake	name="2026.04.21 18:37:49"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1833"	lng="28.1363"	mag="1.6" Depth="12.8" />
-	<earhquake	name="2026.04.21 18:43:20"	lokasyon="AKDENIZ                                           "	lat="35.4982"	lng="27.4880"	mag="2.0" Depth="15.1" />
-	<earhquake	name="2026.04.21 18:49:00"	lokasyon="CIMEN-CIHANBEYLI (KONYA)                          "	lat="39.0208"	lng="32.5403"	mag="2.4" Depth="5.7" />
 	<earhquake	name="2026.04.21 19:13:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2387"	lng="28.9910"	mag="2.6" Depth="6.9" />
 	<earhquake	name="2026.04.21 19:40:27"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1715"	lng="28.2670"	mag="1.7" Depth="5.4" />
 	<earhquake	name="2026.04.21 19:44:14"	lokasyon="KAVAKLIDERE-PUTURGE (MALATYA)                     "	lat="38.2407"	lng="38.6602"	mag="1.4" Depth="2.3" />
@@ -93,4 +86,5 @@
 	<earhquake	name="2026.04.22 17:17:00"	lokasyon="DIZGINKALE-PATNOS (AGRI)                          REVIZE01   (2026.04.22 17:17:00)"	lat="38.9582"	lng="42.8287"	mag="4.4" Depth="5.0" />
 	<earhquake	name="2026.04.22 17:23:28"	lokasyon="DIZGINKALE-PATNOS (AGRI)                          "	lat="38.9580"	lng="42.8240"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2026.04.22 17:28:14"	lokasyon="KUCAK-PATNOS (AGRI)                               "	lat="38.9785"	lng="42.8528"	mag="1.9" Depth="26.1" />
+	<earhquake	name="2026.04.22 18:40:53"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1620"	lng="28.1528"	mag="1.8" Depth="9.0" />
 </eqlist>
