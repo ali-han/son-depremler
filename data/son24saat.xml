@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.21 19:13:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2387"	lng="28.9910"	mag="2.6" Depth="6.9" />
-	<earhquake	name="2026.04.21 19:40:27"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1715"	lng="28.2670"	mag="1.7" Depth="5.4" />
-	<earhquake	name="2026.04.21 19:44:14"	lokasyon="KAVAKLIDERE-PUTURGE (MALATYA)                     "	lat="38.2407"	lng="38.6602"	mag="1.4" Depth="2.3" />
-	<earhquake	name="2026.04.21 20:09:38"	lokasyon="KARABAYIR-CAMELI (DENIZLI)                        "	lat="36.9617"	lng="29.0957"	mag="1.7" Depth="9.5" />
-	<earhquake	name="2026.04.21 20:22:14"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1557"	lng="28.2455"	mag="2.4" Depth="12.4" />
-	<earhquake	name="2026.04.21 20:52:12"	lokasyon="EGE DENIZI                                        "	lat="36.4490"	lng="26.4007"	mag="1.8" Depth="125.0" />
 	<earhquake	name="2026.04.21 21:06:51"	lokasyon="AKDENIZ                                           "	lat="35.9878"	lng="30.4422"	mag="2.3" Depth="17.0" />
 	<earhquake	name="2026.04.21 21:07:27"	lokasyon="KIZILCUBUK-KARLIOVA (BINGOL)                      "	lat="39.3642"	lng="40.8663"	mag="2.1" Depth="6.1" />
 	<earhquake	name="2026.04.21 21:23:40"	lokasyon="AKTARLI-PUTURGE (MALATYA)                         "	lat="38.2823"	lng="38.8157"	mag="2.5" Depth="3.3" />
@@ -86,5 +80,10 @@
 	<earhquake	name="2026.04.22 17:17:00"	lokasyon="DIZGINKALE-PATNOS (AGRI)                          REVIZE01   (2026.04.22 17:17:00)"	lat="38.9582"	lng="42.8287"	mag="4.4" Depth="5.0" />
 	<earhquake	name="2026.04.22 17:23:28"	lokasyon="DIZGINKALE-PATNOS (AGRI)                          "	lat="38.9580"	lng="42.8240"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2026.04.22 17:28:14"	lokasyon="KUCAK-PATNOS (AGRI)                               "	lat="38.9785"	lng="42.8528"	mag="1.9" Depth="26.1" />
+	<earhquake	name="2026.04.22 17:46:26"	lokasyon="HASANCELEBI-HEKIMHAN (MALATYA)                    "	lat="38.9522"	lng="37.9010"	mag="1.8" Depth="4.8" />
 	<earhquake	name="2026.04.22 18:40:53"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1620"	lng="28.1528"	mag="1.8" Depth="9.0" />
+	<earhquake	name="2026.04.22 18:48:42"	lokasyon="ARMUTLU-PATNOS (AGRI)                             "	lat="38.9695"	lng="42.8603"	mag="2.4" Depth="5.0" />
+	<earhquake	name="2026.04.22 19:08:10"	lokasyon="HACIYUSUFLAR-YENICE (CANAKKALE)                   "	lat="39.7615"	lng="27.4580"	mag="1.4" Depth="10.5" />
+	<earhquake	name="2026.04.22 19:09:24"	lokasyon="ARMUTLU-PATNOS (AGRI)                             "	lat="38.9650"	lng="42.8682"	mag="1.9" Depth="7.8" />
+	<earhquake	name="2026.04.22 19:47:20"	lokasyon="KUCAK-PATNOS (AGRI)                               "	lat="38.9858"	lng="42.8630"	mag="2.0" Depth="11.8" />
 </eqlist>
