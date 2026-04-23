@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.22 16:01:15"	lokasyon="KARAHAN-ALADAG (ADANA)                            "	lat="37.6253"	lng="35.5012"	mag="1.8" Depth="24.2" />
-	<earhquake	name="2026.04.22 16:12:12"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.2030"	lng="26.3852"	mag="2.3" Depth="1.7" />
-	<earhquake	name="2026.04.22 16:17:35"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="36.7252"	lng="27.2095"	mag="2.4" Depth="5.1" />
-	<earhquake	name="2026.04.22 16:18:40"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="36.7203"	lng="27.2082"	mag="2.1" Depth="5.8" />
 	<earhquake	name="2026.04.22 17:17:00"	lokasyon="DIZGINKALE-PATNOS (AGRI)                          REVIZE01   (2026.04.22 17:17:00)"	lat="38.9582"	lng="42.8287"	mag="4.4" Depth="5.0" />
 	<earhquake	name="2026.04.22 17:23:28"	lokasyon="DIZGINKALE-PATNOS (AGRI)                          "	lat="38.9580"	lng="42.8240"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2026.04.22 17:28:14"	lokasyon="KUCAK-PATNOS (AGRI)                               "	lat="38.9785"	lng="42.8528"	mag="1.9" Depth="26.1" />
@@ -78,4 +74,7 @@
 	<earhquake	name="2026.04.23 13:48:40"	lokasyon="BAYKOY-(HAKKARI)                                  "	lat="37.5527"	lng="43.7478"	mag="2.9" Depth="5.0" />
 	<earhquake	name="2026.04.23 14:22:52"	lokasyon="YAGMURLAR-GEDIZ (KUTAHYA)                         "	lat="39.0660"	lng="29.6612"	mag="1.7" Depth="8.7" />
 	<earhquake	name="2026.04.23 14:46:34"	lokasyon="DAMLIBOGAZ-MILAS (MUGLA)                          "	lat="37.3050"	lng="27.6905"	mag="2.0" Depth="0.0" />
+	<earhquake	name="2026.04.23 14:56:41"	lokasyon="KARAAHMET-GOKSUN (KAHRAMANMARAS)                  "	lat="38.0110"	lng="36.5748"	mag="2.0" Depth="8.6" />
+	<earhquake	name="2026.04.23 15:03:08"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.1885"	lng="25.9225"	mag="1.9" Depth="8.4" />
+	<earhquake	name="2026.04.23 15:52:55"	lokasyon="KEMERLI-HORASAN (ERZURUM)                         "	lat="40.0215"	lng="42.3292"	mag="2.6" Depth="7.9" />
 </eqlist>
