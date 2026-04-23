@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.22 05:05:14"	lokasyon="ASAGIORUKCU-AKCADAG (MALATYA)                     "	lat="38.4323"	lng="38.0547"	mag="1.7" Depth="7.1" />
-	<earhquake	name="2026.04.22 05:29:53"	lokasyon="GURSU-CAMELI (DENIZLI)                            "	lat="36.9495"	lng="29.3387"	mag="1.4" Depth="5.3" />
-	<earhquake	name="2026.04.22 05:31:59"	lokasyon="AKDENIZ                                           "	lat="35.8245"	lng="32.1100"	mag="1.6" Depth="19.7" />
-	<earhquake	name="2026.04.22 05:41:13"	lokasyon="YOGUNOLUK-GOKSUN (KAHRAMANMARAS)                  "	lat="37.9340"	lng="36.3437"	mag="2.5" Depth="1.7" />
-	<earhquake	name="2026.04.22 05:56:27"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.5257"	lng="26.9610"	mag="2.1" Depth="6.2" />
-	<earhquake	name="2026.04.22 07:08:11"	lokasyon="GUNDUZBEY-YESILYURT (MALATYA)                     "	lat="38.2647"	lng="38.2953"	mag="1.1" Depth="16.5" />
-	<earhquake	name="2026.04.22 07:14:19"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.7925"	lng="31.5035"	mag="1.1" Depth="13.0" />
-	<earhquake	name="2026.04.22 07:37:59"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4305"	lng="37.5063"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2026.04.22 08:10:35"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2652"	lng="28.9717"	mag="1.5" Depth="12.2" />
-	<earhquake	name="2026.04.22 08:24:01"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1343"	lng="28.2365"	mag="1.3" Depth="9.2" />
-	<earhquake	name="2026.04.22 08:34:21"	lokasyon="ULA (MUGLA)                                       "	lat="37.1115"	lng="28.4577"	mag="2.5" Depth="5.0" />
-	<earhquake	name="2026.04.22 08:40:51"	lokasyon="ULA (MUGLA)                                       "	lat="37.1132"	lng="28.4263"	mag="1.6" Depth="14.2" />
-	<earhquake	name="2026.04.22 08:46:15"	lokasyon="YESILOVA-ULA (MUGLA)                              "	lat="37.0853"	lng="28.4413"	mag="1.2" Depth="17.6" />
 	<earhquake	name="2026.04.22 09:01:56"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0113"	lng="25.9385"	mag="2.2" Depth="15.7" />
 	<earhquake	name="2026.04.22 09:12:23"	lokasyon="KUZLUK-(MUGLA)                                    "	lat="37.3828"	lng="28.5992"	mag="2.8" Depth="6.8" />
 	<earhquake	name="2026.04.22 09:29:44"	lokasyon="KABAKDERE-(BALIKESIR)                             "	lat="39.6957"	lng="27.8553"	mag="1.5" Depth="5.0" />
@@ -83,8 +70,24 @@
 	<earhquake	name="2026.04.23 01:37:50"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="28.9768"	mag="1.2" Depth="11.6" />
 	<earhquake	name="2026.04.23 02:29:58"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.9018"	lng="36.5050"	mag="1.7" Depth="7.2" />
 	<earhquake	name="2026.04.23 02:44:54"	lokasyon="EGE DENIZI                                        "	lat="36.6455"	lng="25.7318"	mag="1.5" Depth="5.0" />
+	<earhquake	name="2026.04.23 02:50:06"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1593"	lng="31.7200"	mag="2.1" Depth="2.2" />
 	<earhquake	name="2026.04.23 02:54:18"	lokasyon="DONGEL-(KAHRAMANMARAS)                            "	lat="37.8680"	lng="36.6403"	mag="3.0" Depth="7.9" />
 	<earhquake	name="2026.04.23 02:56:34"	lokasyon="SEKLI-BEYPAZARI (ANKARA)                          "	lat="40.1993"	lng="31.6875"	mag="1.6" Depth="7.0" />
+	<earhquake	name="2026.04.23 03:01:59"	lokasyon="DONGEL-(KAHRAMANMARAS)                            "	lat="37.8570"	lng="36.6525"	mag="1.2" Depth="8.4" />
 	<earhquake	name="2026.04.23 03:09:08"	lokasyon="YUNUSLAR-GEDIZ (KUTAHYA)                          "	lat="39.1325"	lng="29.5035"	mag="1.7" Depth="2.0" />
+	<earhquake	name="2026.04.23 03:10:53"	lokasyon="DOGU AKDENIZ                                      "	lat="33.9948"	lng="35.2525"	mag="3.4" Depth="5.0" />
 	<earhquake	name="2026.04.23 03:17:01"	lokasyon="YAGCILAR-URLA (IZMIR)                             "	lat="38.3058"	lng="26.6827"	mag="1.2" Depth="3.9" />
+	<earhquake	name="2026.04.23 04:19:07"	lokasyon="KURUCAOLUK-SUSURLUK (BALIKESIR)                   "	lat="39.9328"	lng="28.0703"	mag="0.9" Depth="5.0" />
+	<earhquake	name="2026.04.23 04:20:28"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2332"	lng="28.0997"	mag="1.2" Depth="14.5" />
+	<earhquake	name="2026.04.23 04:51:47"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.1003"	lng="38.3632"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.04.23 04:58:24"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.0900"	lng="38.3918"	mag="2.0" Depth="5.0" />
+	<earhquake	name="2026.04.23 05:13:25"	lokasyon="PINARBASI-CAMARDI (NIGDE)                         "	lat="37.8720"	lng="35.2083"	mag="1.7" Depth="1.0" />
+	<earhquake	name="2026.04.23 05:32:38"	lokasyon="BASKALECIK-PULUMUR (TUNCELI)                      "	lat="39.5632"	lng="39.8473"	mag="1.5" Depth="9.0" />
+	<earhquake	name="2026.04.23 05:38:58"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0440"	lng="25.8698"	mag="1.6" Depth="6.6" />
+	<earhquake	name="2026.04.23 05:52:08"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9508"	lng="25.9977"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.04.23 06:05:39"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.9012"	lng="36.5015"	mag="1.4" Depth="1.2" />
+	<earhquake	name="2026.04.23 06:18:37"	lokasyon="YUKARIKOY-AYVACIK (CANAKKALE)                     "	lat="39.5425"	lng="26.1752"	mag="1.7" Depth="4.2" />
+	<earhquake	name="2026.04.23 07:15:13"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2262"	lng="28.1390"	mag="1.5" Depth="6.9" />
+	<earhquake	name="2026.04.23 07:31:10"	lokasyon="YUNANISTAN                                        "	lat="39.6970"	lng="24.1248"	mag="2.3" Depth="7.5" />
+	<earhquake	name="2026.04.23 07:42:54"	lokasyon="EGE DENIZI                                        "	lat="38.7277"	lng="25.0632"	mag="2.8" Depth="9.9" />
 </eqlist>
