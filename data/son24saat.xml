@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.23 17:04:06"	lokasyon="FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)              "	lat="37.9518"	lng="36.4175"	mag="1.4" Depth="7.5" />
-	<earhquake	name="2026.04.23 17:20:32"	lokasyon="KECILI-YAHSIHAN (KIRIKKALE)                       "	lat="40.0057"	lng="33.5250"	mag="1.4" Depth="28.2" />
-	<earhquake	name="2026.04.23 17:45:40"	lokasyon="VAN GOLU                                          "	lat="38.6370"	lng="43.0963"	mag="2.3" Depth="21.9" />
 	<earhquake	name="2026.04.23 18:28:49"	lokasyon="GURLEYIK-DALAMAN (MUGLA)                          "	lat="36.9307"	lng="29.0710"	mag="1.5" Depth="4.1" />
 	<earhquake	name="2026.04.23 18:38:51"	lokasyon="CANBAZ-ANDIRIN (KAHRAMANMARAS)                    "	lat="37.6877"	lng="36.3320"	mag="1.6" Depth="11.6" />
 	<earhquake	name="2026.04.23 19:06:41"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1217"	lng="28.1778"	mag="1.7" Depth="12.1" />
@@ -126,4 +123,5 @@
 	<earhquake	name="2026.04.24 16:35:57"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0043"	lng="26.0390"	mag="2.2" Depth="6.1" />
 	<earhquake	name="2026.04.24 16:42:35"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0287"	lng="26.0423"	mag="3.2" Depth="5.0" />
 	<earhquake	name="2026.04.24 16:45:22"	lokasyon="YENIKARAKUYU-YATAGAN (MUGLA)                      "	lat="37.2933"	lng="28.1880"	mag="2.1" Depth="0.0" />
+	<earhquake	name="2026.04.24 17:10:19"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0413"	lng="25.8662"	mag="4.1" Depth="5.0" />
 </eqlist>
