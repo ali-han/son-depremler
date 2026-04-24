@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.23 22:21:54"	lokasyon="CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             "	lat="37.3178"	lng="37.0043"	mag="1.5" Depth="6.6" />
-	<earhquake	name="2026.04.23 22:39:46"	lokasyon="BAHCEYAKA-YATAGAN (MUGLA)                         "	lat="37.2687"	lng="28.1835"	mag="1.6" Depth="1.0" />
 	<earhquake	name="2026.04.23 23:15:04"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1908"	lng="28.0812"	mag="0.9" Depth="8.4" />
 	<earhquake	name="2026.04.23 23:17:04"	lokasyon="ULAS-MILAS (MUGLA)                                "	lat="37.2258"	lng="27.8490"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2026.04.23 23:18:21"	lokasyon="POSYAGBASAN-ALADAG (ADANA)                        "	lat="37.4898"	lng="35.2910"	mag="1.6" Depth="11.2" />
@@ -123,4 +121,10 @@
 	<earhquake	name="2026.04.24 19:53:29"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1445"	lng="28.0995"	mag="1.4" Depth="9.9" />
 	<earhquake	name="2026.04.24 19:57:42"	lokasyon="BOSTANBASI-YESILYURT (MALATYA)                    "	lat="38.3112"	lng="38.2920"	mag="1.7" Depth="7.8" />
 	<earhquake	name="2026.04.24 20:07:24"	lokasyon="EGE DENIZI                                        "	lat="39.9855"	lng="24.9552"	mag="1.8" Depth="12.0" />
+	<earhquake	name="2026.04.24 20:10:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2273"	lng="28.9533"	mag="1.9" Depth="11.5" />
+	<earhquake	name="2026.04.24 20:22:22"	lokasyon="MARMARA DENIZI                                    "	lat="40.7970"	lng="28.5033"	mag="1.4" Depth="3.8" />
+	<earhquake	name="2026.04.24 20:55:48"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1998"	lng="28.1083"	mag="1.5" Depth="8.8" />
+	<earhquake	name="2026.04.24 21:38:24"	lokasyon="YIRICEK-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9950"	lng="36.4755"	mag="2.4" Depth="5.0" />
+	<earhquake	name="2026.04.24 22:09:13"	lokasyon="FINIKE ACIKLARI-ANTALYA (AKDENIZ)                 "	lat="36.1495"	lng="30.2270"	mag="2.8" Depth="5.0" />
+	<earhquake	name="2026.04.24 22:24:49"	lokasyon="ALIKURT-BOZKURT (DENIZLI)                         "	lat="37.8572"	lng="29.4587"	mag="2.5" Depth="5.3" />
 </eqlist>
