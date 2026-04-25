@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.24 13:09:24"	lokasyon="KALECIK-CELIKHAN (ADIYAMAN)                       "	lat="38.1230"	lng="38.3048"	mag="3.4" Depth="5.0" />
-	<earhquake	name="2026.04.24 13:42:20"	lokasyon="AYDINCIK ACIKLARI-MERSIN (AKDENIZ)                "	lat="36.0635"	lng="33.5880"	mag="1.2" Depth="5.0" />
-	<earhquake	name="2026.04.24 13:58:43"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.7947"	lng="26.2368"	mag="3.0" Depth="7.8" />
 	<earhquake	name="2026.04.24 14:10:54"	lokasyon="EGE DENIZI                                        "	lat="35.7448"	lng="25.8628"	mag="2.0" Depth="11.3" />
 	<earhquake	name="2026.04.24 14:45:13"	lokasyon="SUNGURPASA-INEGOL (BURSA)                         "	lat="40.1878"	lng="29.5162"	mag="1.2" Depth="26.3" />
 	<earhquake	name="2026.04.24 15:04:20"	lokasyon="GAZIKOY-DARENDE (MALATYA)                         "	lat="38.4190"	lng="37.3502"	mag="1.4" Depth="24.3" />
@@ -105,4 +102,7 @@
 	<earhquake	name="2026.04.25 11:17:40"	lokasyon="KUCAK-PATNOS (AGRI)                               "	lat="39.0108"	lng="42.8675"	mag="2.4" Depth="9.0" />
 	<earhquake	name="2026.04.25 11:18:53"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1403"	lng="28.3358"	mag="2.3" Depth="13.7" />
 	<earhquake	name="2026.04.25 12:01:50"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4285"	lng="37.5182"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.04.25 12:16:07"	lokasyon="KUCAK-PATNOS (AGRI)                               "	lat="38.9987"	lng="42.8772"	mag="2.4" Depth="5.7" />
+	<earhquake	name="2026.04.25 12:58:09"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2215"	lng="28.0225"	mag="1.5" Depth="12.9" />
+	<earhquake	name="2026.04.25 13:00:14"	lokasyon="CAKMAK-(MUGLA)                                    "	lat="37.1752"	lng="28.6488"	mag="1.6" Depth="5.0" />
 </eqlist>
