@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.24 20:07:24"	lokasyon="EGE DENIZI                                        "	lat="39.9855"	lng="24.9552"	mag="1.8" Depth="12.0" />
-	<earhquake	name="2026.04.24 20:10:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2273"	lng="28.9533"	mag="1.9" Depth="11.5" />
-	<earhquake	name="2026.04.24 20:22:22"	lokasyon="MARMARA DENIZI                                    "	lat="40.7970"	lng="28.5033"	mag="1.4" Depth="3.8" />
-	<earhquake	name="2026.04.24 20:55:48"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1998"	lng="28.1083"	mag="1.5" Depth="8.8" />
 	<earhquake	name="2026.04.24 21:38:24"	lokasyon="YIRICEK-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9950"	lng="36.4755"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2026.04.24 22:09:13"	lokasyon="FINIKE ACIKLARI-ANTALYA (AKDENIZ)                 "	lat="36.1495"	lng="30.2270"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2026.04.24 22:24:49"	lokasyon="ALIKURT-BOZKURT (DENIZLI)                         "	lat="37.8572"	lng="29.4587"	mag="2.5" Depth="5.3" />
@@ -91,4 +87,8 @@
 	<earhquake	name="2026.04.25 17:51:55"	lokasyon="CAMKOY-BIGADIC (BALIKESIR)                        "	lat="39.4680"	lng="28.1643"	mag="1.6" Depth="10.4" />
 	<earhquake	name="2026.04.25 18:18:28"	lokasyon="TASAGIL-PASINLER (ERZURUM)                        "	lat="39.8315"	lng="41.5752"	mag="2.7" Depth="6.4" />
 	<earhquake	name="2026.04.25 18:51:14"	lokasyon="YENICEKENT-BULDAN (DENIZLI)                       "	lat="38.0775"	lng="28.9542"	mag="2.8" Depth="5.0" />
+	<earhquake	name="2026.04.25 18:55:11"	lokasyon="KERTMEKARACAOREN-ULAS (SIVAS)                     "	lat="39.4115"	lng="37.3043"	mag="1.6" Depth="16.5" />
+	<earhquake	name="2026.04.25 19:20:28"	lokasyon="AGCAKOCA-TEKMAN (ERZURUM)                         "	lat="39.7807"	lng="41.5068"	mag="1.7" Depth="5.5" />
+	<earhquake	name="2026.04.25 19:27:34"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2358"	lng="29.0440"	mag="1.8" Depth="8.7" />
+	<earhquake	name="2026.04.25 20:04:23"	lokasyon="CAMLICA-PASINLER (ERZURUM)                        "	lat="39.8395"	lng="41.5222"	mag="2.0" Depth="6.3" />
 </eqlist>
