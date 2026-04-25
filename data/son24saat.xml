@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.24 12:18:00"	lokasyon="HASANCELEBI-HEKIMHAN (MALATYA)                    "	lat="38.9458"	lng="37.8837"	mag="2.1" Depth="2.3" />
-	<earhquake	name="2026.04.24 12:21:02"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9172"	lng="26.0025"	mag="3.1" Depth="5.0" />
-	<earhquake	name="2026.04.24 12:26:45"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.9668"	lng="25.9825"	mag="4.3" Depth="8.3" />
-	<earhquake	name="2026.04.24 12:28:15"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0290"	lng="26.0378"	mag="3.6" Depth="8.8" />
-	<earhquake	name="2026.04.24 12:36:44"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8843"	lng="25.9993"	mag="2.9" Depth="8.4" />
-	<earhquake	name="2026.04.24 12:38:43"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9377"	lng="26.1103"	mag="3.7" Depth="9.3" />
-	<earhquake	name="2026.04.24 12:41:02"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1235"	lng="26.0605"	mag="3.2" Depth="5.5" />
 	<earhquake	name="2026.04.24 13:09:24"	lokasyon="KALECIK-CELIKHAN (ADIYAMAN)                       "	lat="38.1230"	lng="38.3048"	mag="3.4" Depth="5.0" />
 	<earhquake	name="2026.04.24 13:42:20"	lokasyon="AYDINCIK ACIKLARI-MERSIN (AKDENIZ)                "	lat="36.0635"	lng="33.5880"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2026.04.24 13:58:43"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.7947"	lng="26.2368"	mag="3.0" Depth="7.8" />
@@ -109,5 +102,7 @@
 	<earhquake	name="2026.04.25 10:57:41"	lokasyon="KADIRUSAGI-YESILYURT (MALATYA)                    "	lat="38.1817"	lng="38.2613"	mag="1.4" Depth="13.7" />
 	<earhquake	name="2026.04.25 10:58:51"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9288"	lng="26.0343"	mag="3.5" Depth="7.2" />
 	<earhquake	name="2026.04.25 11:15:31"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8867"	lng="26.1283"	mag="2.8" Depth="11.5" />
+	<earhquake	name="2026.04.25 11:17:40"	lokasyon="KUCAK-PATNOS (AGRI)                               "	lat="39.0108"	lng="42.8675"	mag="2.4" Depth="9.0" />
 	<earhquake	name="2026.04.25 11:18:53"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1403"	lng="28.3358"	mag="2.3" Depth="13.7" />
+	<earhquake	name="2026.04.25 12:01:50"	lokasyon="SUGUL-DARENDE (MALATYA)                           "	lat="38.4285"	lng="37.5182"	mag="1.6" Depth="5.0" />
 </eqlist>
