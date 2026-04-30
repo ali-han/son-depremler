@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.29 23:08:39"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8900"	lng="26.0667"	mag="2.4" Depth="5.0" />
-	<earhquake	name="2026.04.29 23:30:51"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.1180"	lng="31.8068"	mag="3.2" Depth="87.4" />
 	<earhquake	name="2026.04.30 00:16:04"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2078"	lng="26.0770"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2026.04.30 00:40:40"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2247"	lng="28.1598"	mag="1.1" Depth="3.9" />
 	<earhquake	name="2026.04.30 00:59:14"	lokasyon="KARABAYIR-CAMELI (DENIZLI)                        "	lat="36.9103"	lng="29.1168"	mag="1.8" Depth="8.4" />
@@ -70,5 +68,10 @@
 	<earhquake	name="2026.04.30 19:43:41"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.1865"	lng="28.1840"	mag="1.4" Depth="16.7" />
 	<earhquake	name="2026.04.30 19:55:12"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1567"	lng="37.7880"	mag="1.8" Depth="18.5" />
 	<earhquake	name="2026.04.30 20:30:49"	lokasyon="DARENDE (MALATYA)                                 "	lat="38.5700"	lng="37.4620"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2026.04.30 21:01:37"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8655"	lng="25.9787"	mag="2.5" Depth="7.4" />
+	<earhquake	name="2026.04.30 21:13:06"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9360"	lng="26.2295"	mag="1.8" Depth="9.0" />
+	<earhquake	name="2026.04.30 21:54:53"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8610"	lng="25.9943"	mag="2.3" Depth="12.4" />
 	<earhquake	name="2026.04.30 22:25:21"	lokasyon="SARNICKOY-(MUGLA)                                 "	lat="37.0747"	lng="28.1072"	mag="1.4" Depth="15.3" />
+	<earhquake	name="2026.04.30 22:52:10"	lokasyon="KOKPINAR-PUTURGE (MALATYA)                        "	lat="38.2168"	lng="38.6995"	mag="1.6" Depth="13.2" />
+	<earhquake	name="2026.04.30 23:22:52"	lokasyon="ORMANICI-PUTURGE (MALATYA)                        "	lat="38.2500"	lng="38.7865"	mag="2.2" Depth="9.3" />
 </eqlist>
