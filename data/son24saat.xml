@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.04.30 00:16:04"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2078"	lng="26.0770"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2026.04.30 00:40:40"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2247"	lng="28.1598"	mag="1.1" Depth="3.9" />
-	<earhquake	name="2026.04.30 00:59:14"	lokasyon="KARABAYIR-CAMELI (DENIZLI)                        "	lat="36.9103"	lng="29.1168"	mag="1.8" Depth="8.4" />
 	<earhquake	name="2026.04.30 01:02:33"	lokasyon="ERMENISTAN                                        "	lat="41.1297"	lng="43.9793"	mag="1.4" Depth="5.5" />
 	<earhquake	name="2026.04.30 01:06:18"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.8628"	lng="26.6853"	mag="1.6" Depth="11.2" />
 	<earhquake	name="2026.04.30 01:24:18"	lokasyon="MESEICI-BULANIK (MUS)                             "	lat="39.1108"	lng="41.8747"	mag="1.6" Depth="15.5" />
@@ -74,4 +71,7 @@
 	<earhquake	name="2026.04.30 22:25:21"	lokasyon="SARNICKOY-(MUGLA)                                 "	lat="37.0747"	lng="28.1072"	mag="1.4" Depth="15.3" />
 	<earhquake	name="2026.04.30 22:52:10"	lokasyon="KOKPINAR-PUTURGE (MALATYA)                        "	lat="38.2168"	lng="38.6995"	mag="1.6" Depth="13.2" />
 	<earhquake	name="2026.04.30 23:22:52"	lokasyon="ORMANICI-PUTURGE (MALATYA)                        "	lat="38.2500"	lng="38.7865"	mag="2.2" Depth="9.3" />
+	<earhquake	name="2026.04.30 23:33:24"	lokasyon="EGE DENIZI                                        "	lat="36.6343"	lng="25.7258"	mag="2.2" Depth="2.2" />
+	<earhquake	name="2026.04.30 23:45:02"	lokasyon="BESTEPE-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.3518"	lng="37.4637"	mag="1.7" Depth="5.0" />
+	<earhquake	name="2026.04.30 23:58:09"	lokasyon="EGE DENIZI                                        "	lat="36.6615"	lng="25.7443"	mag="1.9" Depth="8.6" />
 </eqlist>
