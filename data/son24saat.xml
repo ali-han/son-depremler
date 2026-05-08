@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.07 11:03:46"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1280"	lng="28.3230"	mag="1.4" Depth="12.6" />
-	<earhquake	name="2026.05.07 11:57:20"	lokasyon="KARACAAGAC-MILAS (MUGLA)                          "	lat="37.1485"	lng="27.8960"	mag="1.7" Depth="0.0" />
 	<earhquake	name="2026.05.07 12:17:39"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.1888"	lng="33.6255"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.05.07 12:18:30"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2673"	lng="37.7810"	mag="2.0" Depth="17.4" />
 	<earhquake	name="2026.05.07 12:36:30"	lokasyon="AKUSAGI-KALE (MALATYA)                            "	lat="38.3483"	lng="38.8188"	mag="1.6" Depth="4.8" />
@@ -119,4 +117,8 @@
 	<earhquake	name="2026.05.08 10:15:40"	lokasyon="YUNANISTAN                                        "	lat="39.8753"	lng="24.2193"	mag="1.9" Depth="18.7" />
 	<earhquake	name="2026.05.08 10:22:19"	lokasyon="KARABAYIR-CAMELI (DENIZLI)                        "	lat="36.8952"	lng="29.1838"	mag="1.4" Depth="17.1" />
 	<earhquake	name="2026.05.08 10:29:40"	lokasyon="KARABAYIR-CAMELI (DENIZLI)                        "	lat="36.9038"	lng="29.1305"	mag="2.3" Depth="12.4" />
+	<earhquake	name="2026.05.08 10:47:49"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.0962"	lng="38.4345"	mag="2.5" Depth="12.2" />
+	<earhquake	name="2026.05.08 10:48:44"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1442"	lng="28.1190"	mag="1.2" Depth="15.3" />
+	<earhquake	name="2026.05.08 11:17:15"	lokasyon="GURCISTAN                                         "	lat="41.9068"	lng="43.4790"	mag="2.6" Depth="31.1" />
+	<earhquake	name="2026.05.08 11:19:00"	lokasyon="TURKIYE-IRAN SINIR BOLGESI                        "	lat="38.4148"	lng="44.7200"	mag="2.5" Depth="3.6" />
 </eqlist>
