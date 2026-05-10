@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.10 00:00:06"	lokasyon="EGE DENIZI                                        "	lat="37.3178"	lng="26.9502"	mag="1.6" Depth="19.3" />
-	<earhquake	name="2026.05.10 00:43:35"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.0808"	lng="38.4720"	mag="2.2" Depth="5.4" />
 	<earhquake	name="2026.05.10 01:05:55"	lokasyon="COPLER-ILIC (ERZINCAN)                            "	lat="39.4117"	lng="38.5315"	mag="1.8" Depth="7.0" />
 	<earhquake	name="2026.05.10 01:09:21"	lokasyon="EGE DENIZI                                        "	lat="37.3117"	lng="26.9553"	mag="1.4" Depth="13.2" />
 	<earhquake	name="2026.05.10 01:21:12"	lokasyon="KIRECKOY-GOKSUN (KAHRAMANMARAS)                   "	lat="37.9802"	lng="36.5318"	mag="1.7" Depth="8.5" />
@@ -79,6 +77,10 @@
 	<earhquake	name="2026.05.10 22:06:47"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.3223"	lng="25.3510"	mag="1.6" Depth="13.0" />
 	<earhquake	name="2026.05.10 22:08:41"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.2163"	lng="26.3635"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2026.05.10 22:20:30"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1858"	lng="28.2328"	mag="1.5" Depth="13.4" />
+	<earhquake	name="2026.05.10 22:29:09"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2825"	lng="37.7737"	mag="1.3" Depth="15.1" />
+	<earhquake	name="2026.05.10 22:44:04"	lokasyon="AKDENIZ                                           "	lat="35.3518"	lng="27.4555"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.05.10 22:48:20"	lokasyon="KOPRUBASI OMEREFENDI-(DUZCE)                      "	lat="40.8072"	lng="31.0465"	mag="3.1" Depth="4.0" />
 	<earhquake	name="2026.05.10 23:04:33"	lokasyon="GUMUSLU-GEDIZ (KUTAHYA)                           "	lat="38.9910"	lng="29.4610"	mag="1.5" Depth="3.1" />
+	<earhquake	name="2026.05.10 23:28:45"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2427"	lng="38.1510"	mag="3.3" Depth="5.0" />
+	<earhquake	name="2026.05.10 23:29:54"	lokasyon="EGE DENIZI                                        "	lat="36.6758"	lng="26.6988"	mag="4.2" Depth="153.3" />
 </eqlist>
