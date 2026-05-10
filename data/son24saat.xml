@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.10 02:10:09"	lokasyon="GOKDERE-ERZIN (HATAY)                             "	lat="37.0027"	lng="36.1548"	mag="2.1" Depth="6.4" />
-	<earhquake	name="2026.05.10 02:56:51"	lokasyon="ESMEDERE-SINDIRGI (BALIKESIR)                     "	lat="39.3398"	lng="28.0593"	mag="2.3" Depth="8.6" />
 	<earhquake	name="2026.05.10 03:05:23"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9020"	lng="27.6310"	mag="1.0" Depth="3.1" />
 	<earhquake	name="2026.05.10 03:10:31"	lokasyon="YUNANISTAN                                        "	lat="36.6760"	lng="24.0717"	mag="2.5" Depth="20.6" />
 	<earhquake	name="2026.05.10 03:23:19"	lokasyon="TASDIBI-IVRINDI (BALIKESIR)                       "	lat="39.3783"	lng="27.3932"	mag="1.7" Depth="13.7" />
@@ -77,4 +75,11 @@
 	<earhquake	name="2026.05.10 23:29:54"	lokasyon="EGE DENIZI                                        "	lat="36.6758"	lng="26.6988"	mag="4.2" Depth="153.3" />
 	<earhquake	name="2026.05.11 00:23:22"	lokasyon="DOGANBEY ACIKLARI-AYDIN (EGE DENIZI)              "	lat="37.5978"	lng="27.0603"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2026.05.11 00:52:44"	lokasyon="KATRANCI-BIGA (CANAKKALE)                         "	lat="40.1335"	lng="27.1870"	mag="1.7" Depth="8.1" />
+	<earhquake	name="2026.05.11 01:37:20"	lokasyon="AKARCA-ELBISTAN (KAHRAMANMARAS)                   "	lat="38.4607"	lng="37.2760"	mag="1.2" Depth="11.0" />
+	<earhquake	name="2026.05.11 01:40:32"	lokasyon="CAMLICA-YATAGAN (MUGLA)                           "	lat="37.2408"	lng="27.9587"	mag="1.3" Depth="5.4" />
+	<earhquake	name="2026.05.11 01:41:42"	lokasyon="KURUCAOVA-(KAHRAMANMARAS)                         "	lat="37.9578"	lng="36.5423"	mag="1.7" Depth="2.8" />
+	<earhquake	name="2026.05.11 01:44:56"	lokasyon="IKIZKOY-MILAS (MUGLA)                             "	lat="37.1768"	lng="27.8668"	mag="1.8" Depth="7.9" />
+	<earhquake	name="2026.05.11 01:48:03"	lokasyon="BAGDAMLARI-MILAS (MUGLA)                          "	lat="37.1510"	lng="27.8552"	mag="1.1" Depth="5.0" />
+	<earhquake	name="2026.05.11 01:53:09"	lokasyon="BELOREN-BUCAK (BURDUR)                            "	lat="37.5140"	lng="30.5947"	mag="2.6" Depth="7.7" />
+	<earhquake	name="2026.05.11 02:12:14"	lokasyon="IKIZKOY-MILAS (MUGLA)                             "	lat="37.1752"	lng="27.8487"	mag="1.6" Depth="10.4" />
 </eqlist>
