@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.12 00:10:18"	lokasyon="KUP-ALADAG (ADANA)                                "	lat="37.6882"	lng="35.3853"	mag="2.4" Depth="5.0" />
-	<earhquake	name="2026.05.12 00:16:09"	lokasyon="KUP-ALADAG (ADANA)                                "	lat="37.6892"	lng="35.4032"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2026.05.12 00:19:23"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.0805"	lng="38.3567"	mag="1.3" Depth="23.2" />
-	<earhquake	name="2026.05.12 00:34:52"	lokasyon="AKCAKAYA-MILAS (MUGLA)                            "	lat="37.0675"	lng="27.8472"	mag="2.1" Depth="9.4" />
 	<earhquake	name="2026.05.12 01:00:14"	lokasyon="BOZBEL-DALAMAN (MUGLA)                            "	lat="36.9383"	lng="29.0052"	mag="0.9" Depth="5.3" />
 	<earhquake	name="2026.05.12 01:00:40"	lokasyon="KUP-ALADAG (ADANA)                                "	lat="37.6985"	lng="35.4008"	mag="1.3" Depth="16.4" />
 	<earhquake	name="2026.05.12 01:09:48"	lokasyon="UCGOZE-YESILYURT (MALATYA)                        "	lat="38.2048"	lng="38.3440"	mag="0.6" Depth="17.9" />
@@ -86,4 +82,10 @@
 	<earhquake	name="2026.05.12 21:58:14"	lokasyon="ORTULU-GULNAR (MERSIN)                            "	lat="36.4492"	lng="33.3983"	mag="0.8" Depth="15.2" />
 	<earhquake	name="2026.05.12 22:05:04"	lokasyon="YAKINCA-YESILYURT (MALATYA)                       "	lat="38.3042"	lng="38.2355"	mag="1.2" Depth="5.2" />
 	<earhquake	name="2026.05.12 22:10:17"	lokasyon="YENIKOY-ALASEHIR (MANISA)                         "	lat="38.3938"	lng="28.3908"	mag="0.5" Depth="4.9" />
+	<earhquake	name="2026.05.12 23:07:39"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2740"	lng="37.7745"	mag="1.8" Depth="8.5" />
+	<earhquake	name="2026.05.12 23:17:37"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2390"	lng="28.1392"	mag="1.4" Depth="7.1" />
+	<earhquake	name="2026.05.12 23:38:15"	lokasyon="ILISULUK-KULUNCAK (MALATYA)                       "	lat="38.8117"	lng="37.6510"	mag="1.9" Depth="8.6" />
+	<earhquake	name="2026.05.13 00:10:07"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="38.0473"	lng="37.4635"	mag="1.5" Depth="16.4" />
+	<earhquake	name="2026.05.13 00:13:16"	lokasyon="DOGANBEYLI-TUFANBEYLI (ADANA)                     "	lat="38.1173"	lng="36.1733"	mag="1.4" Depth="6.1" />
+	<earhquake	name="2026.05.13 00:19:47"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.9350"	lng="36.5303"	mag="1.9" Depth="7.6" />
 </eqlist>
