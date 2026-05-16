@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.15 21:27:52"	lokasyon="GUZLUK-ARAC (KASTAMONU)                           "	lat="41.0568"	lng="33.3442"	mag="2.0" Depth="8.2" />
-	<earhquake	name="2026.05.15 21:44:55"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2773"	lng="37.7852"	mag="1.1" Depth="15.9" />
-	<earhquake	name="2026.05.15 22:18:15"	lokasyon="SOGUKYURT-ALASEHIR (MANISA)                       "	lat="38.3673"	lng="28.3982"	mag="1.4" Depth="7.9" />
-	<earhquake	name="2026.05.15 22:54:06"	lokasyon="MARMARA DENIZI                                    "	lat="40.6322"	lng="27.5617"	mag="1.4" Depth="13.0" />
-	<earhquake	name="2026.05.15 22:59:57"	lokasyon="GEBEN-ANDIRIN (KAHRAMANMARAS)                     "	lat="37.7940"	lng="36.4003"	mag="2.5" Depth="7.0" />
 	<earhquake	name="2026.05.15 23:00:37"	lokasyon="MARMARA (BALIKESIR)                               "	lat="40.6067"	lng="27.5683"	mag="2.6" Depth="14.6" />
 	<earhquake	name="2026.05.15 23:01:18"	lokasyon="KULU (KONYA)                                      "	lat="39.0945"	lng="33.0780"	mag="1.5" Depth="1.6" />
 	<earhquake	name="2026.05.15 23:03:53"	lokasyon="GOLPINAR-GOKSUN (KAHRAMANMARAS)                   "	lat="37.9715"	lng="36.4787"	mag="1.6" Depth="7.6" />
@@ -81,4 +76,10 @@
 	<earhquake	name="2026.05.16 19:46:26"	lokasyon="CELTIKDERESI-SEBEN (BOLU)                         "	lat="40.3497"	lng="31.7213"	mag="1.9" Depth="14.2" />
 	<earhquake	name="2026.05.16 19:57:17"	lokasyon="AGILBASI-KULU (KONYA)                             "	lat="39.1012"	lng="33.0018"	mag="1.6" Depth="8.5" />
 	<earhquake	name="2026.05.16 20:40:34"	lokasyon="SULARBASI-GURUN (SIVAS)                           "	lat="38.7638"	lng="37.3588"	mag="1.6" Depth="8.4" />
+	<earhquake	name="2026.05.16 21:09:30"	lokasyon="AKDENIZ                                           "	lat="35.9298"	lng="28.0645"	mag="1.8" Depth="8.1" />
+	<earhquake	name="2026.05.16 21:21:07"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8578"	lng="26.8800"	mag="1.5" Depth="5.4" />
+	<earhquake	name="2026.05.16 21:27:07"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1730"	lng="28.9915"	mag="1.1" Depth="19.9" />
+	<earhquake	name="2026.05.16 21:59:53"	lokasyon="ZEKERIYAKOY-GOLYAKA (DUZCE)                       "	lat="40.7715"	lng="30.9313"	mag="1.7" Depth="5.2" />
+	<earhquake	name="2026.05.16 22:04:59"	lokasyon="GUNEY-SIMAV (KUTAHYA)                             "	lat="39.1905"	lng="28.9257"	mag="1.5" Depth="9.5" />
+	<earhquake	name="2026.05.16 22:06:44"	lokasyon="BASOREN-BEYPAZARI (ANKARA)                        "	lat="40.2158"	lng="31.8767"	mag="2.2" Depth="1.9" />
 </eqlist>
