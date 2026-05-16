@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.15 19:11:18"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.8748"	lng="26.0465"	mag="3.4" Depth="5.0" />
-	<earhquake	name="2026.05.15 19:16:10"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0363"	lng="26.0710"	mag="2.5" Depth="6.6" />
-	<earhquake	name="2026.05.15 19:25:41"	lokasyon="KUYUMCULAR-TURKOGLU (KAHRAMANMARAS)               "	lat="37.4130"	lng="36.9300"	mag="1.3" Depth="9.1" />
-	<earhquake	name="2026.05.15 19:48:31"	lokasyon="OMERBEYLI-GERMENCIK (AYDIN)                       "	lat="37.8737"	lng="27.6595"	mag="1.4" Depth="5.0" />
-	<earhquake	name="2026.05.15 20:38:50"	lokasyon="CAKILLI-SINDIRGI (BALIKESIR)                      "	lat="39.2910"	lng="28.0635"	mag="1.3" Depth="12.1" />
 	<earhquake	name="2026.05.15 21:27:52"	lokasyon="GUZLUK-ARAC (KASTAMONU)                           "	lat="41.0568"	lng="33.3442"	mag="2.0" Depth="8.2" />
 	<earhquake	name="2026.05.15 21:44:55"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2773"	lng="37.7852"	mag="1.1" Depth="15.9" />
 	<earhquake	name="2026.05.15 22:18:15"	lokasyon="SOGUKYURT-ALASEHIR (MANISA)                       "	lat="38.3673"	lng="28.3982"	mag="1.4" Depth="7.9" />
@@ -82,4 +77,7 @@
 	<earhquake	name="2026.05.16 17:57:27"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4992"	lng="28.1180"	mag="1.8" Depth="12.7" />
 	<earhquake	name="2026.05.16 18:08:27"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="37.9935"	lng="37.5337"	mag="1.6" Depth="14.3" />
 	<earhquake	name="2026.05.16 18:39:25"	lokasyon="EGE DENIZI                                        "	lat="39.5112"	lng="25.2373"	mag="2.7" Depth="8.1" />
+	<earhquake	name="2026.05.16 19:33:48"	lokasyon="NUHHOCA-BEYPAZARI (ANKARA)                        "	lat="40.2775"	lng="31.8045"	mag="2.1" Depth="6.6" />
+	<earhquake	name="2026.05.16 19:46:26"	lokasyon="CELTIKDERESI-SEBEN (BOLU)                         "	lat="40.3497"	lng="31.7213"	mag="1.9" Depth="14.2" />
+	<earhquake	name="2026.05.16 19:57:17"	lokasyon="AGILBASI-KULU (KONYA)                             "	lat="39.1012"	lng="33.0018"	mag="1.6" Depth="8.5" />
 </eqlist>
