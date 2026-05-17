@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.16 15:10:08"	lokasyon="ORTAOREN-BOZOVA (SANLIURFA)                       "	lat="37.1922"	lng="38.4972"	mag="1.6" Depth="28.2" />
-	<earhquake	name="2026.05.16 15:51:09"	lokasyon="DUZLEN-(MANISA)                                   "	lat="38.7835"	lng="27.1463"	mag="2.4" Depth="15.4" />
-	<earhquake	name="2026.05.16 15:53:56"	lokasyon="ATALAR-YESILYURT (MALATYA)                        "	lat="38.1955"	lng="38.1830"	mag="1.4" Depth="14.6" />
-	<earhquake	name="2026.05.16 15:57:49"	lokasyon="CALIK-KEBAN (ELAZIG)                              REVIZE01   (2026.05.16 15:57:49)"	lat="38.7560"	lng="38.7638"	mag="1.6" Depth="3.3" />
-	<earhquake	name="2026.05.16 16:23:11"	lokasyon="KULU (KONYA)                                      "	lat="39.1073"	lng="33.0663"	mag="1.7" Depth="1.1" />
-	<earhquake	name="2026.05.16 16:58:40"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8427"	lng="26.8913"	mag="1.5" Depth="7.9" />
-	<earhquake	name="2026.05.16 17:16:35"	lokasyon="GUNEY-SIMAV (KUTAHYA)                             "	lat="39.1908"	lng="28.9292"	mag="1.0" Depth="19.3" />
-	<earhquake	name="2026.05.16 17:53:49"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9373"	lng="26.2120"	mag="2.2" Depth="15.1" />
-	<earhquake	name="2026.05.16 17:57:27"	lokasyon="DEGIRMENLI-BIGADIC (BALIKESIR)                    "	lat="39.4992"	lng="28.1180"	mag="1.8" Depth="12.7" />
 	<earhquake	name="2026.05.16 18:08:27"	lokasyon="TATLAR-NURHAK (KAHRAMANMARAS)                     "	lat="37.9935"	lng="37.5337"	mag="1.6" Depth="14.3" />
 	<earhquake	name="2026.05.16 18:39:25"	lokasyon="EGE DENIZI                                        "	lat="39.5112"	lng="25.2373"	mag="2.7" Depth="8.1" />
 	<earhquake	name="2026.05.16 19:33:48"	lokasyon="NUHHOCA-BEYPAZARI (ANKARA)                        "	lat="40.2775"	lng="31.8045"	mag="2.1" Depth="6.6" />
@@ -91,4 +82,5 @@
 	<earhquake	name="2026.05.17 14:07:10"	lokasyon="ARIKONAK-SINCIK (ADIYAMAN)                        "	lat="38.1448"	lng="38.5792"	mag="1.7" Depth="10.5" />
 	<earhquake	name="2026.05.17 14:14:45"	lokasyon="DIKYAMAC-KEMAH (ERZINCAN)                         "	lat="39.6253"	lng="38.7867"	mag="1.6" Depth="17.0" />
 	<earhquake	name="2026.05.17 14:32:27"	lokasyon="AKDENIZ                                           "	lat="35.0727"	lng="27.9308"	mag="3.0" Depth="67.4" />
+	<earhquake	name="2026.05.17 17:00:08"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1162"	lng="28.2252"	mag="1.7" Depth="15.6" />
 </eqlist>
