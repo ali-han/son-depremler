@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.16 21:09:30"	lokasyon="AKDENIZ                                           "	lat="35.9298"	lng="28.0645"	mag="1.8" Depth="8.1" />
-	<earhquake	name="2026.05.16 21:21:07"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8578"	lng="26.8800"	mag="1.5" Depth="5.4" />
-	<earhquake	name="2026.05.16 21:27:07"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1730"	lng="28.9915"	mag="1.1" Depth="19.9" />
-	<earhquake	name="2026.05.16 21:59:53"	lokasyon="ZEKERIYAKOY-GOLYAKA (DUZCE)                       "	lat="40.7715"	lng="30.9313"	mag="1.7" Depth="5.2" />
-	<earhquake	name="2026.05.16 22:04:59"	lokasyon="GUNEY-SIMAV (KUTAHYA)                             "	lat="39.1905"	lng="28.9257"	mag="1.5" Depth="9.5" />
-	<earhquake	name="2026.05.16 22:06:44"	lokasyon="BASOREN-BEYPAZARI (ANKARA)                        "	lat="40.2158"	lng="31.8767"	mag="2.2" Depth="1.9" />
-	<earhquake	name="2026.05.16 22:24:38"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2428"	lng="37.7377"	mag="1.4" Depth="11.7" />
-	<earhquake	name="2026.05.16 22:50:34"	lokasyon="AKKOCALI-AKHISAR (MANISA)                         "	lat="39.1913"	lng="27.9512"	mag="1.9" Depth="10.8" />
 	<earhquake	name="2026.05.16 23:10:00"	lokasyon="DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               "	lat="38.2427"	lng="37.3142"	mag="1.5" Depth="22.0" />
 	<earhquake	name="2026.05.16 23:11:46"	lokasyon="HASBEY-(SIVAS)                                    "	lat="39.5752"	lng="37.1282"	mag="1.6" Depth="7.7" />
 	<earhquake	name="2026.05.16 23:23:52"	lokasyon="KUMARLI-(KAHRAMANMARAS)                           "	lat="37.8523"	lng="36.4600"	mag="1.7" Depth="4.9" />
@@ -81,4 +73,6 @@
 	<earhquake	name="2026.05.17 19:12:42"	lokasyon="INCECIK-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.3670"	lng="37.3722"	mag="1.9" Depth="5.5" />
 	<earhquake	name="2026.05.17 19:15:25"	lokasyon="HASBEY-(SIVAS)                                    "	lat="39.5747"	lng="37.1188"	mag="1.9" Depth="8.9" />
 	<earhquake	name="2026.05.17 20:34:50"	lokasyon="GULDUREN-HISARCIK (KUTAHYA)                       "	lat="39.2387"	lng="29.1048"	mag="1.6" Depth="5.5" />
+	<earhquake	name="2026.05.17 21:19:50"	lokasyon="ACIPINAR-(SIVAS)                                  "	lat="39.6238"	lng="37.1317"	mag="1.3" Depth="1.2" />
+	<earhquake	name="2026.05.17 22:24:21"	lokasyon="DIKMEN-AKSEKI (ANTALYA)                           "	lat="36.9702"	lng="31.7927"	mag="1.9" Depth="8.0" />
 </eqlist>
