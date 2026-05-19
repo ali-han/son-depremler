@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.18 10:02:46"	lokasyon="ACIKGUNEY-KIGI (BINGOL)                           "	lat="39.2868"	lng="40.2250"	mag="2.2" Depth="8.1" />
-	<earhquake	name="2026.05.18 10:06:46"	lokasyon="CUBUK-MENGEN (BOLU)                               "	lat="41.0150"	lng="32.0450"	mag="2.1" Depth="8.2" />
-	<earhquake	name="2026.05.18 12:21:18"	lokasyon="SOGUTLU-AKHISAR (MANISA)                          "	lat="39.1643"	lng="28.0038"	mag="1.9" Depth="5.2" />
 	<earhquake	name="2026.05.18 13:14:14"	lokasyon="YEDIKARDES-SIVRICE (ELAZIG)                       "	lat="38.4222"	lng="39.3010"	mag="2.0" Depth="17.9" />
 	<earhquake	name="2026.05.18 15:36:57"	lokasyon="EGE DENIZI                                        "	lat="38.8315"	lng="26.4872"	mag="2.5" Depth="8.9" />
 	<earhquake	name="2026.05.18 16:57:06"	lokasyon="SARILAR-AKHISAR (MANISA)                          "	lat="39.0812"	lng="28.0100"	mag="1.5" Depth="10.8" />
@@ -53,4 +50,13 @@
 	<earhquake	name="2026.05.19 07:26:31"	lokasyon="CANAKCI-KALE (MALATYA)                            "	lat="38.3503"	lng="38.8002"	mag="2.3" Depth="7.8" />
 	<earhquake	name="2026.05.19 07:52:05"	lokasyon="GANISEYH-AKKISLA (KAYSERI)                        "	lat="39.0000"	lng="36.2482"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2026.05.19 08:11:17"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2357"	lng="28.1430"	mag="1.5" Depth="8.1" />
+	<earhquake	name="2026.05.19 08:34:07"	lokasyon="EGE DENIZI                                        "	lat="36.5277"	lng="25.6418"	mag="1.5" Depth="8.5" />
+	<earhquake	name="2026.05.19 08:44:06"	lokasyon="SABIRTASI-KIGI (BINGOL)                           "	lat="39.3178"	lng="40.2322"	mag="2.2" Depth="10.2" />
+	<earhquake	name="2026.05.19 09:30:42"	lokasyon="YENIYAPAN-GOKSUN (KAHRAMANMARAS)                  "	lat="38.1525"	lng="36.6340"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.05.19 10:21:17"	lokasyon="ALAATTIN-ACIPAYAM (DENIZLI)                       "	lat="37.4497"	lng="29.3053"	mag="1.5" Depth="7.4" />
+	<earhquake	name="2026.05.19 10:25:12"	lokasyon="KUMCATI-TURKOGLU (KAHRAMANMARAS)                  "	lat="37.3722"	lng="37.0113"	mag="2.1" Depth="10.8" />
+	<earhquake	name="2026.05.19 11:07:02"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2112"	lng="28.1435"	mag="2.5" Depth="8.9" />
+	<earhquake	name="2026.05.19 11:37:25"	lokasyon="SEKKOY-MILAS (MUGLA)                              "	lat="37.1212"	lng="27.9063"	mag="1.0" Depth="0.0" />
+	<earhquake	name="2026.05.19 11:39:58"	lokasyon="MESUTLAR-BEYSEHIR (KONYA)                         "	lat="37.7102"	lng="31.8817"	mag="1.8" Depth="5.1" />
+	<earhquake	name="2026.05.19 12:26:10"	lokasyon="CERKESLI-DILOVASI (KOCAELI)                       "	lat="40.8265"	lng="29.6287"	mag="1.2" Depth="0.0" />
 </eqlist>
