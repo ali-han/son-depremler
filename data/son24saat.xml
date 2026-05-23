@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.22 09:03:39"	lokasyon="DURANLAR-KIGI (BINGOL)                            REVIZE01   (2026.05.22 09:03:40)"	lat="39.2613"	lng="40.3482"	mag="1.8" Depth="27.7" />
-	<earhquake	name="2026.05.22 09:31:12"	lokasyon="HASANBEYLI-SARICAM (ADANA)                        "	lat="37.0013"	lng="35.5325"	mag="1.6" Depth="24.6" />
-	<earhquake	name="2026.05.22 10:30:41"	lokasyon="EGE DENIZI                                        "	lat="36.6243"	lng="25.5937"	mag="1.6" Depth="9.2" />
-	<earhquake	name="2026.05.22 11:20:40"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1973"	lng="28.1472"	mag="1.6" Depth="9.9" />
-	<earhquake	name="2026.05.22 11:45:15"	lokasyon="KARABAG-KURTALAN (SIIRT)                          "	lat="38.0470"	lng="41.7143"	mag="2.2" Depth="8.7" />
-	<earhquake	name="2026.05.22 11:57:31"	lokasyon="HARUNUSAGI-AKCADAG (MALATYA)                      "	lat="38.2475"	lng="37.6850"	mag="1.8" Depth="9.7" />
 	<earhquake	name="2026.05.22 12:01:01"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.2203"	lng="33.6105"	mag="1.7" Depth="0.0" />
 	<earhquake	name="2026.05.22 12:27:06"	lokasyon="ASAGIKEPEN-SIVRIHISAR (ESKISEHIR)                 "	lat="39.3583"	lng="31.5362"	mag="0.8" Depth="5.0" />
 	<earhquake	name="2026.05.22 12:43:18"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.1865"	lng="33.8065"	mag="1.3" Depth="0.0" />
@@ -75,4 +69,6 @@
 	<earhquake	name="2026.05.23 08:23:27"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1863"	lng="29.0087"	mag="1.9" Depth="10.4" />
 	<earhquake	name="2026.05.23 08:28:00"	lokasyon="PELITLI-(MALATYA)                                 "	lat="38.2675"	lng="38.6087"	mag="1.9" Depth="7.1" />
 	<earhquake	name="2026.05.23 08:46:21"	lokasyon="KALEKOY-(AMASYA)                                  "	lat="40.5990"	lng="35.9192"	mag="1.7" Depth="5.0" />
+	<earhquake	name="2026.05.23 09:19:21"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2078"	lng="28.1232"	mag="1.7" Depth="7.5" />
+	<earhquake	name="2026.05.23 10:55:47"	lokasyon="KARADENIZ                                         "	lat="42.3315"	lng="32.5068"	mag="2.8" Depth="15.9" />
 </eqlist>
