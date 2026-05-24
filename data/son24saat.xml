@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.24 01:05:57"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8402"	lng="26.9688"	mag="0.9" Depth="14.6" />
-	<earhquake	name="2026.05.24 01:11:12"	lokasyon="HORZUMSAZDERE-ALASEHIR (MANISA)                   "	lat="38.3618"	lng="28.3623"	mag="1.6" Depth="8.3" />
-	<earhquake	name="2026.05.24 01:15:55"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8947"	lng="26.9378"	mag="1.2" Depth="10.4" />
-	<earhquake	name="2026.05.24 01:17:49"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2725"	lng="37.7675"	mag="1.2" Depth="10.7" />
-	<earhquake	name="2026.05.24 01:29:46"	lokasyon="YUNANISTAN                                        "	lat="37.9608"	lng="23.3160"	mag="3.7" Depth="153.8" />
-	<earhquake	name="2026.05.24 01:44:44"	lokasyon="AYVACIK-(BALIKESIR)                               "	lat="39.4192"	lng="27.9635"	mag="1.1" Depth="17.0" />
 	<earhquake	name="2026.05.24 02:13:01"	lokasyon="AKKOC-DOSEMEALTI (ANTALYA)                        "	lat="37.1497"	lng="30.4632"	mag="1.4" Depth="81.9" />
 	<earhquake	name="2026.05.24 02:41:37"	lokasyon="SUCEYIN-ARAPGIR (MALATYA)                         "	lat="39.0317"	lng="38.2988"	mag="1.1" Depth="11.0" />
 	<earhquake	name="2026.05.24 02:53:13"	lokasyon="MURADIYE-(MANISA)                                 "	lat="38.6707"	lng="27.3460"	mag="1.8" Depth="7.5" />
@@ -109,4 +103,6 @@
 	<earhquake	name="2026.05.25 00:16:56"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1907"	lng="37.8040"	mag="1.3" Depth="19.2" />
 	<earhquake	name="2026.05.25 00:19:24"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2070"	lng="38.5282"	mag="1.4" Depth="9.6" />
 	<earhquake	name="2026.05.25 00:48:01"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7523"	lng="36.0263"	mag="1.3" Depth="8.3" />
+	<earhquake	name="2026.05.25 01:03:06"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1682"	lng="28.9867"	mag="1.1" Depth="14.1" />
+	<earhquake	name="2026.05.25 01:04:29"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7748"	lng="36.0275"	mag="1.4" Depth="5.3" />
 </eqlist>
