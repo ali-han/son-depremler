@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.25 00:11:32"	lokasyon="ORENCIK-(SANLIURFA)                               "	lat="37.2205"	lng="38.8978"	mag="1.5" Depth="6.8" />
-	<earhquake	name="2026.05.25 00:16:56"	lokasyon="CAVUSLU-DOGANSEHIR (MALATYA)                      "	lat="38.1907"	lng="37.8040"	mag="1.3" Depth="19.2" />
-	<earhquake	name="2026.05.25 00:19:24"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2070"	lng="38.5282"	mag="1.4" Depth="9.6" />
-	<earhquake	name="2026.05.25 00:48:01"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7523"	lng="36.0263"	mag="1.3" Depth="8.3" />
 	<earhquake	name="2026.05.25 01:03:06"	lokasyon="NASA-SIMAV (KUTAHYA)                              "	lat="39.1682"	lng="28.9867"	mag="1.1" Depth="14.1" />
 	<earhquake	name="2026.05.25 01:04:29"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7748"	lng="36.0275"	mag="1.4" Depth="5.3" />
 	<earhquake	name="2026.05.25 01:06:24"	lokasyon="ESENLER-HIZAN (BITLIS)                            "	lat="38.1398"	lng="42.5722"	mag="1.7" Depth="3.7" />
@@ -72,6 +68,7 @@
 	<earhquake	name="2026.05.25 17:18:54"	lokasyon="MUDANYA (BURSA)                                   "	lat="40.3933"	lng="28.8977"	mag="1.6" Depth="6.1" />
 	<earhquake	name="2026.05.25 17:45:32"	lokasyon="FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)              "	lat="37.9367"	lng="36.4225"	mag="2.0" Depth="14.1" />
 	<earhquake	name="2026.05.25 18:25:03"	lokasyon="ISACA-AKHISAR (MANISA)                            "	lat="39.1272"	lng="28.0468"	mag="1.7" Depth="13.0" />
+	<earhquake	name="2026.05.25 18:28:11"	lokasyon="FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS)              "	lat="37.9315"	lng="36.4198"	mag="1.5" Depth="13.1" />
 	<earhquake	name="2026.05.25 18:31:48"	lokasyon="PINARBASI-CELIKHAN (ADIYAMAN)                     "	lat="38.0495"	lng="38.1577"	mag="1.4" Depth="6.3" />
 	<earhquake	name="2026.05.25 18:41:41"	lokasyon="ERTUGRUL-GUNEY (DENIZLI)                          "	lat="38.0870"	lng="29.0182"	mag="1.2" Depth="4.7" />
 	<earhquake	name="2026.05.25 18:56:32"	lokasyon="DARENDE (MALATYA)                                 "	lat="38.5343"	lng="37.5072"	mag="1.2" Depth="1.8" />
@@ -83,13 +80,26 @@
 	<earhquake	name="2026.05.25 20:28:48"	lokasyon="DIKICI-DINAR (AFYONKARAHISAR)                     "	lat="38.0392"	lng="30.1660"	mag="1.9" Depth="7.6" />
 	<earhquake	name="2026.05.25 20:45:00"	lokasyon="YAKINYURT-HILVAN (SANLIURFA)                      "	lat="37.5030"	lng="38.7255"	mag="1.5" Depth="11.7" />
 	<earhquake	name="2026.05.25 20:57:42"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2487"	lng="28.0927"	mag="1.5" Depth="7.8" />
+	<earhquake	name="2026.05.25 21:04:50"	lokasyon="GOLCUK-ULA (MUGLA)                                "	lat="37.1483"	lng="28.5383"	mag="1.8" Depth="5.8" />
+	<earhquake	name="2026.05.25 21:09:39"	lokasyon="KUZUCAK-CEYHAN (ADANA)                            "	lat="37.0725"	lng="36.0015"	mag="2.0" Depth="1.3" />
 	<earhquake	name="2026.05.25 21:42:31"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1625"	lng="28.2782"	mag="1.5" Depth="8.6" />
 	<earhquake	name="2026.05.25 21:44:52"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7410"	lng="36.0745"	mag="4.0" Depth="5.0" />
 	<earhquake	name="2026.05.25 21:55:52"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7338"	lng="36.0885"	mag="1.8" Depth="1.4" />
 	<earhquake	name="2026.05.25 21:57:19"	lokasyon="EKINOZU (KAHRAMANMARAS)                           "	lat="38.0797"	lng="37.1743"	mag="1.5" Depth="3.7" />
+	<earhquake	name="2026.05.25 22:10:14"	lokasyon="KUP-ALADAG (ADANA)                                "	lat="37.6837"	lng="35.4322"	mag="1.4" Depth="5.9" />
+	<earhquake	name="2026.05.25 22:32:07"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7283"	lng="36.0513"	mag="2.3" Depth="5.0" />
+	<earhquake	name="2026.05.25 22:34:19"	lokasyon="KARABAYIR-CAMELI (DENIZLI)                        "	lat="36.8912"	lng="29.1290"	mag="1.3" Depth="18.5" />
+	<earhquake	name="2026.05.25 22:41:58"	lokasyon="SIRCALI-SIRVAN (SIIRT)                            "	lat="38.0153"	lng="42.3777"	mag="2.1" Depth="9.1" />
 	<earhquake	name="2026.05.25 22:46:12"	lokasyon="MARMARA DENIZI                                    "	lat="40.8005"	lng="27.8847"	mag="1.9" Depth="18.9" />
 	<earhquake	name="2026.05.25 23:12:45"	lokasyon="AKKOCALI-AKHISAR (MANISA)                         "	lat="39.1870"	lng="27.9867"	mag="1.7" Depth="8.9" />
 	<earhquake	name="2026.05.25 23:13:25"	lokasyon="KOVUKCINAR-FEKE (ADANA)                           "	lat="37.7982"	lng="36.0442"	mag="1.9" Depth="6.7" />
 	<earhquake	name="2026.05.25 23:14:56"	lokasyon="KAYALIDERE-SIMAV (KUTAHYA)                        "	lat="39.2547"	lng="28.8905"	mag="1.2" Depth="10.8" />
 	<earhquake	name="2026.05.25 23:15:57"	lokasyon="BEKTAS-AYVACIK (CANAKKALE)                        "	lat="39.5028"	lng="26.2428"	mag="1.6" Depth="7.8" />
+	<earhquake	name="2026.05.25 23:38:26"	lokasyon="INCIRCI-FEKE (ADANA)                              "	lat="37.7318"	lng="36.0315"	mag="1.4" Depth="6.0" />
+	<earhquake	name="2026.05.25 23:41:39"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.7083"	lng="29.2513"	mag="1.2" Depth="3.9" />
+	<earhquake	name="2026.05.25 23:43:01"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.1955"	lng="38.5027"	mag="1.9" Depth="3.4" />
+	<earhquake	name="2026.05.25 23:43:56"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2272"	lng="38.5432"	mag="2.1" Depth="4.6" />
+	<earhquake	name="2026.05.25 23:46:34"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1200"	lng="28.2863"	mag="1.2" Depth="11.6" />
+	<earhquake	name="2026.05.26 00:17:03"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.6998"	lng="29.2120"	mag="1.4" Depth="8.0" />
+	<earhquake	name="2026.05.26 00:28:02"	lokasyon="YALINDAL-ERMENEK (KARAMAN)                        "	lat="36.5085"	lng="32.9490"	mag="1.4" Depth="5.0" />
 </eqlist>
