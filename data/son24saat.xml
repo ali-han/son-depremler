@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.05.30 15:09:00"	lokasyon="TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)             "	lat="38.1205"	lng="37.6173"	mag="1.7" Depth="11.1" />
 	<earhquake	name="2026.05.30 16:02:34"	lokasyon="BELEK ACIKLARI-ANTALYA (AKDENIZ)                  "	lat="36.7883"	lng="30.9492"	mag="1.7" Depth="30.0" />
 	<earhquake	name="2026.05.30 16:14:11"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2380"	lng="38.5652"	mag="1.6" Depth="4.5" />
 	<earhquake	name="2026.05.30 16:36:13"	lokasyon="GURCISTAN                                         "	lat="41.2230"	lng="44.1408"	mag="2.3" Depth="26.9" />
@@ -98,4 +97,8 @@
 	<earhquake	name="2026.05.31 13:06:23"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.4048"	lng="26.6123"	mag="2.5" Depth="3.5" />
 	<earhquake	name="2026.05.31 13:27:34"	lokasyon="ESENKOY-CINARCIK (YALOVA)                         "	lat="40.5957"	lng="28.9432"	mag="2.3" Depth="5.3" />
 	<earhquake	name="2026.05.31 13:47:17"	lokasyon="DOKUZTAY-AFSIN (KAHRAMANMARAS)                    "	lat="38.4712"	lng="36.8580"	mag="1.9" Depth="26.0" />
+	<earhquake	name="2026.05.31 13:56:48"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.4515"	lng="26.5720"	mag="2.8" Depth="4.9" />
+	<earhquake	name="2026.05.31 14:33:40"	lokasyon="KAPUZBASI-YAHYALI (KAYSERI)                       "	lat="37.7478"	lng="35.3750"	mag="1.1" Depth="5.4" />
+	<earhquake	name="2026.05.31 14:59:43"	lokasyon="CALLI-BURHANIYE (BALIKESIR)                       "	lat="39.4767"	lng="27.0455"	mag="1.7" Depth="19.3" />
+	<earhquake	name="2026.05.31 15:10:59"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2753"	lng="37.7537"	mag="1.7" Depth="8.4" />
 </eqlist>
