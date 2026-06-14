@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.06.14 00:20:43"	lokasyon="CILEME-MENDERES (IZMIR)                           "	lat="38.1213"	lng="27.1975"	mag="1.9" Depth="5.5" />
 	<earhquake	name="2026.06.14 01:12:20"	lokasyon="UZUNHUSEYIN-KALE (MALATYA)                        "	lat="38.3268"	lng="38.8872"	mag="2.0" Depth="2.8" />
 	<earhquake	name="2026.06.14 01:18:43"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7840"	lng="36.0583"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2026.06.14 01:32:30"	lokasyon="CIGIRLI-PUTURGE (MALATYA)                         "	lat="38.3007"	lng="38.8977"	mag="1.8" Depth="7.9" />
@@ -81,4 +80,8 @@
 	<earhquake	name="2026.06.14 22:38:22"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2355"	lng="37.7815"	mag="1.5" Depth="11.8" />
 	<earhquake	name="2026.06.14 22:42:29"	lokasyon="ILYASLAR-BIGADIC (BALIKESIR)                      "	lat="39.4322"	lng="28.2567"	mag="2.4" Depth="9.1" />
 	<earhquake	name="2026.06.14 23:27:20"	lokasyon="EGE DENIZI                                        "	lat="39.7773"	lng="25.4588"	mag="1.2" Depth="13.6" />
+	<earhquake	name="2026.06.14 23:36:26"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2233"	lng="29.0418"	mag="1.4" Depth="3.0" />
+	<earhquake	name="2026.06.14 23:37:34"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2283"	lng="29.0360"	mag="1.4" Depth="5.2" />
+	<earhquake	name="2026.06.14 23:53:29"	lokasyon="AKCALIUSAGI-KOZAN (ADANA)                         "	lat="37.6677"	lng="36.0328"	mag="1.4" Depth="10.2" />
+	<earhquake	name="2026.06.15 00:32:56"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2468"	lng="28.9397"	mag="1.7" Depth="5.4" />
 </eqlist>
