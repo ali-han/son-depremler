@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.06.22 02:02:00"	lokasyon="HALKAAVLU-KIRKAGAC (MANISA)                       "	lat="39.2597"	lng="27.8778"	mag="1.5" Depth="8.2" />
-	<earhquake	name="2026.06.22 02:14:57"	lokasyon="OCAKLAR-ERDEK (BALIKESIR)                         "	lat="40.4578"	lng="27.7835"	mag="2.3" Depth="11.0" />
-	<earhquake	name="2026.06.22 02:36:13"	lokasyon="AHATLAR-DEMIRCI (MANISA)                          "	lat="38.9305"	lng="28.6505"	mag="1.5" Depth="13.5" />
 	<earhquake	name="2026.06.22 03:00:37"	lokasyon="TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)             "	lat="38.0825"	lng="37.6067"	mag="1.5" Depth="7.5" />
 	<earhquake	name="2026.06.22 03:06:14"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.4470"	lng="25.8643"	mag="2.6" Depth="8.6" />
 	<earhquake	name="2026.06.22 03:17:16"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8843"	lng="26.9337"	mag="1.8" Depth="5.0" />
@@ -55,4 +52,6 @@
 	<earhquake	name="2026.06.23 00:03:34"	lokasyon="PINARBASI-CAMARDI (NIGDE)                         "	lat="37.8967"	lng="35.1417"	mag="2.3" Depth="5.5" />
 	<earhquake	name="2026.06.23 00:41:50"	lokasyon="GUNEY-SIMAV (KUTAHYA)                             "	lat="39.1820"	lng="28.9043"	mag="0.5" Depth="20.2" />
 	<earhquake	name="2026.06.23 01:18:58"	lokasyon="SENKOY-YEDISU (BINGOL)                            "	lat="39.4038"	lng="40.5300"	mag="3.3" Depth="3.8" />
+	<earhquake	name="2026.06.23 01:31:32"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7768"	lng="36.0738"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.06.23 02:21:34"	lokasyon="SARIKIZ-MERAM (KONYA)                             "	lat="37.6927"	lng="32.3507"	mag="2.7" Depth="2.5" />
 </eqlist>
