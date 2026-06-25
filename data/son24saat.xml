@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.06.24 08:46:16"	lokasyon="BEYLICE-HENDEK (SAKARYA)                          REVIZE01   (2026.06.24 08:46:15)"	lat="40.8293"	lng="30.8512"	mag="3.4" Depth="5.3" />
-	<earhquake	name="2026.06.24 09:06:05"	lokasyon="DAZYURT-(MANISA)                                  "	lat="38.7730"	lng="27.1907"	mag="2.1" Depth="8.6" />
-	<earhquake	name="2026.06.24 09:17:20"	lokasyon="KARATAS-(DENIZLI)                                 "	lat="37.7013"	lng="29.1777"	mag="1.3" Depth="0.0" />
-	<earhquake	name="2026.06.24 10:11:33"	lokasyon="MUREFTE-SARKOY (TEKIRDAG)                         "	lat="40.6678"	lng="27.2850"	mag="1.2" Depth="9.4" />
-	<earhquake	name="2026.06.24 10:21:50"	lokasyon="TEPECIK-GURUN (SIVAS)                             "	lat="38.6388"	lng="37.4028"	mag="1.9" Depth="15.2" />
 	<earhquake	name="2026.06.24 11:25:57"	lokasyon="EGE DENIZI                                        "	lat="35.6093"	lng="27.0848"	mag="5.1" Depth="8.0" />
 	<earhquake	name="2026.06.24 11:39:16"	lokasyon="EGE DENIZI                                        "	lat="36.5100"	lng="25.7352"	mag="1.9" Depth="12.7" />
 	<earhquake	name="2026.06.24 11:57:17"	lokasyon="CAMKOY-BULDAN (DENIZLI)                           "	lat="38.0945"	lng="28.9240"	mag="2.1" Depth="17.8" />
@@ -51,4 +46,12 @@
 	<earhquake	name="2026.06.25 06:28:30"	lokasyon="GURSU-CAMELI (DENIZLI)                            "	lat="36.9377"	lng="29.3132"	mag="1.3" Depth="5.0" />
 	<earhquake	name="2026.06.25 06:32:14"	lokasyon="GOLYAKA-ILGIN (KONYA)                             "	lat="38.4645"	lng="31.8243"	mag="1.2" Depth="8.9" />
 	<earhquake	name="2026.06.25 06:57:02"	lokasyon="GURUN (SIVAS)                                     "	lat="38.7070"	lng="37.2363"	mag="1.9" Depth="16.2" />
+	<earhquake	name="2026.06.25 08:51:52"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8618"	lng="26.8875"	mag="3.4" Depth="5.4" />
+	<earhquake	name="2026.06.25 08:53:43"	lokasyon="DALYANKOY ACIKLARI-IZMIR (EGE DENIZI)             "	lat="38.4278"	lng="26.4378"	mag="2.0" Depth="2.4" />
+	<earhquake	name="2026.06.25 09:23:06"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8747"	lng="26.8667"	mag="1.7" Depth="1.4" />
+	<earhquake	name="2026.06.25 09:31:37"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1118"	lng="28.2935"	mag="2.1" Depth="12.0" />
+	<earhquake	name="2026.06.25 09:59:45"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1673"	lng="29.0375"	mag="0.8" Depth="5.0" />
+	<earhquake	name="2026.06.25 10:27:21"	lokasyon="BASKALECIK-PULUMUR (TUNCELI)                      "	lat="39.5342"	lng="39.8442"	mag="1.5" Depth="3.8" />
+	<earhquake	name="2026.06.25 10:34:56"	lokasyon="DAGYOLU-PULUMUR (TUNCELI)                         "	lat="39.5282"	lng="39.8797"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.06.25 10:36:18"	lokasyon="DAGYOLU-PULUMUR (TUNCELI)                         "	lat="39.5328"	lng="39.8965"	mag="1.4" Depth="1.9" />
 </eqlist>
