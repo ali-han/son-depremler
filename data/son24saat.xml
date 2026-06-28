@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.06.27 21:24:04"	lokasyon="SUMAKLI-GEDIZ (KUTAHYA)                           "	lat="38.9587"	lng="29.5608"	mag="1.9" Depth="14.4" />
-	<earhquake	name="2026.06.27 21:42:48"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2542"	lng="38.7318"	mag="2.1" Depth="8.3" />
-	<earhquake	name="2026.06.27 21:46:26"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7812"	lng="36.5445"	mag="2.1" Depth="4.7" />
 	<earhquake	name="2026.06.27 22:44:24"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3913"	lng="26.2487"	mag="2.1" Depth="9.3" />
 	<earhquake	name="2026.06.27 22:44:51"	lokasyon="KANLIKAVAK-GOKSUN (KAHRAMANMARAS)                 "	lat="38.1002"	lng="36.6042"	mag="1.9" Depth="5.3" />
 	<earhquake	name="2026.06.27 23:05:30"	lokasyon="TOYGARLI-(HATAY)                                  "	lat="36.2065"	lng="36.0742"	mag="2.9" Depth="5.0" />
@@ -59,4 +56,9 @@
 	<earhquake	name="2026.06.28 19:34:15"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7640"	lng="36.5473"	mag="3.1" Depth="3.1" />
 	<earhquake	name="2026.06.28 20:05:40"	lokasyon="SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                "	lat="38.0950"	lng="37.4872"	mag="1.5" Depth="12.2" />
 	<earhquake	name="2026.06.28 20:21:03"	lokasyon="ESKIYASSIPINAR-PINARBASI (KAYSERI)                "	lat="38.7605"	lng="36.5763"	mag="1.4" Depth="9.0" />
+	<earhquake	name="2026.06.28 20:38:27"	lokasyon="DUTLU-AKCADAG (MALATYA)                           "	lat="38.2933"	lng="37.7798"	mag="1.0" Depth="23.7" />
+	<earhquake	name="2026.06.28 20:41:30"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7758"	lng="36.5570"	mag="1.7" Depth="17.4" />
+	<earhquake	name="2026.06.28 20:56:17"	lokasyon="ASAGIKIZILCEVLIK-PINARBASI (KAYSERI)              "	lat="38.8023"	lng="36.5662"	mag="1.8" Depth="14.4" />
+	<earhquake	name="2026.06.28 21:06:53"	lokasyon="GURCISTAN                                         "	lat="41.3402"	lng="43.8968"	mag="1.9" Depth="9.1" />
+	<earhquake	name="2026.06.28 21:36:45"	lokasyon="COBANUSAGI-AKCADAG (MALATYA)                      "	lat="38.4253"	lng="37.8450"	mag="1.7" Depth="11.7" />
 </eqlist>
