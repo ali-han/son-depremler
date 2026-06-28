@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.06.27 20:29:21"	lokasyon="DAMLICA-DEMIROZU (BAYBURT)                        "	lat="39.9823"	lng="39.7720"	mag="2.7" Depth="5.4" />
-	<earhquake	name="2026.06.27 20:29:38"	lokasyon="KOCKOY-(VAN)                                      "	lat="38.6980"	lng="43.5277"	mag="2.4" Depth="5.0" />
-	<earhquake	name="2026.06.27 20:46:45"	lokasyon="KALEKOY-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0503"	lng="36.6223"	mag="1.7" Depth="9.4" />
-	<earhquake	name="2026.06.27 20:48:50"	lokasyon="KOZLUCA-(VAN)                                     "	lat="38.6688"	lng="43.5447"	mag="1.5" Depth="13.7" />
 	<earhquake	name="2026.06.27 21:24:04"	lokasyon="SUMAKLI-GEDIZ (KUTAHYA)                           "	lat="38.9587"	lng="29.5608"	mag="1.9" Depth="14.4" />
 	<earhquake	name="2026.06.27 21:42:48"	lokasyon="BALPINARI-PUTURGE (MALATYA)                       "	lat="38.2542"	lng="38.7318"	mag="2.1" Depth="8.3" />
 	<earhquake	name="2026.06.27 21:46:26"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7812"	lng="36.5445"	mag="2.1" Depth="4.7" />
@@ -59,4 +55,8 @@
 	<earhquake	name="2026.06.28 17:52:34"	lokasyon="EKINOZU (KAHRAMANMARAS)                           "	lat="38.0913"	lng="37.1740"	mag="2.1" Depth="5.4" />
 	<earhquake	name="2026.06.28 18:04:25"	lokasyon="AKDENIZ                                           "	lat="35.7850"	lng="30.9373"	mag="3.4" Depth="31.5" />
 	<earhquake	name="2026.06.28 18:10:31"	lokasyon="YUNANISTAN                                        "	lat="36.1405"	lng="23.1043"	mag="3.4" Depth="54.4" />
+	<earhquake	name="2026.06.28 19:16:49"	lokasyon="KUYUBASI-(BILECIK)                                "	lat="40.1875"	lng="30.0138"	mag="1.6" Depth="12.9" />
+	<earhquake	name="2026.06.28 19:34:15"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7640"	lng="36.5473"	mag="3.1" Depth="3.1" />
+	<earhquake	name="2026.06.28 20:05:40"	lokasyon="SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                "	lat="38.0950"	lng="37.4872"	mag="1.5" Depth="12.2" />
+	<earhquake	name="2026.06.28 20:21:03"	lokasyon="ESKIYASSIPINAR-PINARBASI (KAYSERI)                "	lat="38.7605"	lng="36.5763"	mag="1.4" Depth="9.0" />
 </eqlist>
