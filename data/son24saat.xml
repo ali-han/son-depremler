@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.06.27 13:09:43"	lokasyon="AKPINAR-EYUP (ISTANBUL)                           "	lat="41.2787"	lng="28.7543"	mag="1.2" Depth="0.0" />
-	<earhquake	name="2026.06.27 13:10:30"	lokasyon="CAMPINAR-CELIKHAN (ADIYAMAN)                      "	lat="38.1577"	lng="38.2462"	mag="1.7" Depth="18.4" />
-	<earhquake	name="2026.06.27 13:27:38"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3763"	lng="26.2215"	mag="4.3" Depth="7.9" />
-	<earhquake	name="2026.06.27 13:29:39"	lokasyon="BERGAMA (IZMIR)                                   "	lat="39.1080"	lng="27.1922"	mag="1.9" Depth="8.6" />
-	<earhquake	name="2026.06.27 13:50:44"	lokasyon="YESILOVACIK-SILIFKE (MERSIN)                      "	lat="36.1848"	lng="33.7202"	mag="1.2" Depth="0.0" />
-	<earhquake	name="2026.06.27 14:00:09"	lokasyon="KIBRIS ACIKLARI-GUNEY--(AKDENIZ)                  "	lat="34.4305"	lng="33.7308"	mag="2.3" Depth="6.3" />
-	<earhquake	name="2026.06.27 14:05:05"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.6532"	lng="27.4602"	mag="2.5" Depth="16.6" />
-	<earhquake	name="2026.06.27 14:41:37"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3892"	lng="26.2288"	mag="1.8" Depth="6.1" />
-	<earhquake	name="2026.06.27 15:10:01"	lokasyon="EGRISOGUT-PINARBASI (KAYSERI)                     "	lat="38.6390"	lng="36.3785"	mag="2.1" Depth="9.1" />
-	<earhquake	name="2026.06.27 15:21:05"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.5285"	lng="25.8883"	mag="2.4" Depth="5.4" />
 	<earhquake	name="2026.06.27 17:18:56"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3893"	lng="26.2275"	mag="1.9" Depth="7.2" />
 	<earhquake	name="2026.06.27 17:37:04"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.3872"	lng="26.2872"	mag="1.7" Depth="2.7" />
 	<earhquake	name="2026.06.27 17:57:53"	lokasyon="AKCAOREN-(VAN)                                    "	lat="38.7400"	lng="43.4820"	mag="3.3" Depth="5.0" />
@@ -60,4 +50,8 @@
 	<earhquake	name="2026.06.28 11:51:45"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1872"	lng="28.1997"	mag="2.0" Depth="9.5" />
 	<earhquake	name="2026.06.28 12:18:34"	lokasyon="KUSADASI (AYDIN)                                  "	lat="37.8747"	lng="27.2782"	mag="2.1" Depth="5.7" />
 	<earhquake	name="2026.06.28 12:30:53"	lokasyon="KUSADASI (AYDIN)                                  "	lat="37.8737"	lng="27.2798"	mag="2.5" Depth="5.3" />
+	<earhquake	name="2026.06.28 12:51:46"	lokasyon="ESKIYASSIPINAR-PINARBASI (KAYSERI)                "	lat="38.7677"	lng="36.5753"	mag="1.8" Depth="9.6" />
+	<earhquake	name="2026.06.28 13:18:11"	lokasyon="YESILKOY-FINIKE (ANTALYA)                         "	lat="36.4653"	lng="30.0183"	mag="1.8" Depth="8.7" />
+	<earhquake	name="2026.06.28 14:43:30"	lokasyon="ONIKI ADALAR (EGE DENIZI)                         "	lat="37.8078"	lng="26.4650"	mag="2.7" Depth="8.3" />
+	<earhquake	name="2026.06.28 14:48:06"	lokasyon="EGRISOGUT-PINARBASI (KAYSERI)                     "	lat="38.6488"	lng="36.3912"	mag="2.1" Depth="6.2" />
 </eqlist>
