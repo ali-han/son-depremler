@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.06.29 13:06:12"	lokasyon="SULTANGAZI (ISTANBUL)                             "	lat="41.0903"	lng="28.8492"	mag="0.9" Depth="0.0" />
-	<earhquake	name="2026.06.29 13:49:41"	lokasyon="KOCULLU-CEKMEKOY (ISTANBUL)                       "	lat="41.0593"	lng="29.3257"	mag="1.1" Depth="5.1" />
-	<earhquake	name="2026.06.29 14:02:28"	lokasyon="GUCUKSU-GOKSUN (KAHRAMANMARAS)                    "	lat="38.0758"	lng="36.6382"	mag="3.0" Depth="6.1" />
-	<earhquake	name="2026.06.29 14:52:45"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2478"	lng="29.0598"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2026.06.29 16:16:48"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1912"	lng="28.2875"	mag="1.6" Depth="18.9" />
 	<earhquake	name="2026.06.29 16:18:02"	lokasyon="KARACAKAS-SOMA (MANISA)                           "	lat="39.1927"	lng="27.7778"	mag="1.4" Depth="0.0" />
 	<earhquake	name="2026.06.29 17:13:49"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.6020"	lng="25.8512"	mag="2.6" Depth="5.5" />
@@ -91,4 +87,8 @@
 	<earhquake	name="2026.06.30 11:45:54"	lokasyon="SISLI (ISTANBUL)                                  "	lat="41.0795"	lng="29.0377"	mag="0.8" Depth="0.0" />
 	<earhquake	name="2026.06.30 11:50:31"	lokasyon="DOGANBEYLI-TUFANBEYLI (ADANA)                     "	lat="38.1363"	lng="36.1547"	mag="1.3" Depth="11.2" />
 	<earhquake	name="2026.06.30 12:18:49"	lokasyon="KIBRIS-DEGIRMENLIK                                "	lat="35.2352"	lng="33.5685"	mag="1.9" Depth="3.8" />
+	<earhquake	name="2026.06.30 12:42:33"	lokasyon="BAGLICA-(ADIYAMAN)                                "	lat="37.9415"	lng="38.2522"	mag="1.3" Depth="27.0" />
+	<earhquake	name="2026.06.30 13:05:15"	lokasyon="KOCULLU-CEKMEKOY (ISTANBUL)                       "	lat="41.0498"	lng="29.3153"	mag="1.0" Depth="0.0" />
+	<earhquake	name="2026.06.30 14:10:04"	lokasyon="KOZDEREGUVEN-(BALIKESIR)                          "	lat="39.3555"	lng="27.8740"	mag="2.0" Depth="6.9" />
+	<earhquake	name="2026.06.30 14:46:49"	lokasyon="CITGOL-SIMAV (KUTAHYA)                            "	lat="39.1307"	lng="28.9567"	mag="1.7" Depth="14.1" />
 </eqlist>
