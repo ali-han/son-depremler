@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.02 22:10:12"	lokasyon="AKKOPRU-KOYCEGIZ (MUGLA)                          "	lat="36.9852"	lng="28.9767"	mag="1.6" Depth="4.9" />
 	<earhquake	name="2026.07.02 23:02:05"	lokasyon="SACIKARA-KADINHANI (KONYA)                        "	lat="38.5622"	lng="32.1397"	mag="2.8" Depth="5.8" />
 	<earhquake	name="2026.07.02 23:11:27"	lokasyon="EGE DENIZI                                        "	lat="40.1928"	lng="25.1202"	mag="3.2" Depth="7.8" />
 	<earhquake	name="2026.07.02 23:32:02"	lokasyon="EGE DENIZI                                        "	lat="40.1648"	lng="25.1332"	mag="2.0" Depth="8.0" />
@@ -51,4 +50,8 @@
 	<earhquake	name="2026.07.03 20:11:06"	lokasyon="YUNANISTAN                                        "	lat="41.2150"	lng="24.8038"	mag="2.1" Depth="9.4" />
 	<earhquake	name="2026.07.03 20:47:34"	lokasyon="HACIHUSEYINEFENDI-SIMAV (KUTAHYA)                 "	lat="39.1240"	lng="28.7098"	mag="1.6" Depth="9.4" />
 	<earhquake	name="2026.07.03 20:55:57"	lokasyon="SABUNLU-DALAMAN (MUGLA)                           "	lat="36.8312"	lng="28.9505"	mag="1.5" Depth="22.4" />
+	<earhquake	name="2026.07.03 22:13:41"	lokasyon="SOGUKSU-GUMUSOVA (DUZCE)                          "	lat="40.8490"	lng="30.8965"	mag="1.8" Depth="13.9" />
+	<earhquake	name="2026.07.03 22:28:32"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2260"	lng="37.8052"	mag="1.7" Depth="7.8" />
+	<earhquake	name="2026.07.03 22:29:45"	lokasyon="EGE DENIZI                                        "	lat="38.8120"	lng="25.7030"	mag="2.3" Depth="12.7" />
+	<earhquake	name="2026.07.03 22:39:14"	lokasyon="YAYLANLI-BASKIL (ELAZIG)                          "	lat="38.4083"	lng="38.8760"	mag="1.9" Depth="9.5" />
 </eqlist>
