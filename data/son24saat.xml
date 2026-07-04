@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.03 22:13:41"	lokasyon="SOGUKSU-GUMUSOVA (DUZCE)                          "	lat="40.8490"	lng="30.8965"	mag="1.8" Depth="13.9" />
-	<earhquake	name="2026.07.03 22:28:32"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2260"	lng="37.8052"	mag="1.7" Depth="7.8" />
-	<earhquake	name="2026.07.03 22:29:45"	lokasyon="EGE DENIZI                                        "	lat="38.8120"	lng="25.7030"	mag="2.3" Depth="12.7" />
-	<earhquake	name="2026.07.03 22:39:14"	lokasyon="YAYLANLI-BASKIL (ELAZIG)                          "	lat="38.4083"	lng="38.8760"	mag="1.9" Depth="9.5" />
 	<earhquake	name="2026.07.04 00:08:52"	lokasyon="GURCISTAN                                         "	lat="41.3883"	lng="43.9498"	mag="2.5" Depth="2.5" />
 	<earhquake	name="2026.07.04 00:12:59"	lokasyon="YUNANISTAN                                        "	lat="40.2877"	lng="24.1532"	mag="1.6" Depth="7.0" />
 	<earhquake	name="2026.07.04 00:24:25"	lokasyon="GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI)          "	lat="39.4822"	lng="25.9035"	mag="1.3" Depth="8.7" />
@@ -54,4 +50,8 @@
 	<earhquake	name="2026.07.04 20:11:03"	lokasyon="KAPUZBASI-YAHYALI (KAYSERI)                       "	lat="37.7957"	lng="35.3618"	mag="1.9" Depth="5.0" />
 	<earhquake	name="2026.07.04 20:52:55"	lokasyon="DOGANBEY-KARACOBAN (ERZURUM)                      "	lat="39.2992"	lng="42.1627"	mag="2.0" Depth="7.7" />
 	<earhquake	name="2026.07.04 21:18:24"	lokasyon="BICKIYANI-KAYNASLI (DUZCE)                        "	lat="40.7132"	lng="31.3463"	mag="2.0" Depth="10.2" />
+	<earhquake	name="2026.07.04 21:32:46"	lokasyon="YAZBASI-BULANIK (MUS)                             "	lat="39.2835"	lng="42.2118"	mag="2.2" Depth="12.5" />
+	<earhquake	name="2026.07.04 21:39:29"	lokasyon="SIRADERE-BULANIK (MUS)                            "	lat="39.2750"	lng="42.1930"	mag="2.1" Depth="13.5" />
+	<earhquake	name="2026.07.04 21:56:20"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0785"	lng="28.9757"	mag="1.6" Depth="13.7" />
+	<earhquake	name="2026.07.04 22:19:37"	lokasyon="SAKALIUZUN-AKCADAG (MALATYA)                      "	lat="38.4532"	lng="37.8852"	mag="1.2" Depth="14.7" />
 </eqlist>
