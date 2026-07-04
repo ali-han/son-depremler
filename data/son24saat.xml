@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.03 08:18:16"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9358"	lng="27.6140"	mag="2.3" Depth="7.0" />
-	<earhquake	name="2026.07.03 08:58:09"	lokasyon="GOKCEYAKA-YESILOVA (BURDUR)                       "	lat="37.6710"	lng="29.9182"	mag="1.5" Depth="4.8" />
-	<earhquake	name="2026.07.03 09:13:47"	lokasyon="UCDOGAN-GURPINAR (VAN)                            "	lat="37.8567"	lng="43.5935"	mag="2.1" Depth="3.4" />
-	<earhquake	name="2026.07.03 09:45:35"	lokasyon="ALACABAYIR-(BALIKESIR)                            "	lat="39.8917"	lng="27.9310"	mag="2.0" Depth="5.3" />
-	<earhquake	name="2026.07.03 10:02:18"	lokasyon="ISHAKLAR-ULUBEY (USAK)                            "	lat="38.3383"	lng="29.3447"	mag="1.6" Depth="15.0" />
-	<earhquake	name="2026.07.03 10:23:32"	lokasyon="BOLUKKAYA-PUTURGE (MALATYA)                       "	lat="38.2867"	lng="38.8130"	mag="2.3" Depth="5.5" />
-	<earhquake	name="2026.07.03 10:33:08"	lokasyon="GEVEN-ALACA (CORUM)                               "	lat="40.2388"	lng="34.8988"	mag="2.0" Depth="17.7" />
 	<earhquake	name="2026.07.03 11:27:33"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8257"	lng="27.1598"	mag="2.2" Depth="12.7" />
 	<earhquake	name="2026.07.03 11:44:39"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2262"	lng="28.0532"	mag="1.6" Depth="10.0" />
 	<earhquake	name="2026.07.03 12:47:54"	lokasyon="TEKEDERESI-PUTURGE (MALATYA)                      "	lat="38.1415"	lng="38.6067"	mag="1.1" Depth="19.3" />
@@ -62,4 +55,7 @@
 	<earhquake	name="2026.07.04 06:40:15"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7848"	lng="36.0898"	mag="2.0" Depth="7.1" />
 	<earhquake	name="2026.07.04 07:21:30"	lokasyon="ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI)          "	lat="40.6042"	lng="28.8182"	mag="1.8" Depth="11.3" />
 	<earhquake	name="2026.07.04 07:25:57"	lokasyon="GOKMENLER-SAIMBEYLI (ADANA)                       "	lat="38.0453"	lng="36.0085"	mag="1.5" Depth="14.0" />
+	<earhquake	name="2026.07.04 07:49:43"	lokasyon="KONAKLI-ARHAVI (ARTVIN)                           "	lat="41.3247"	lng="41.3235"	mag="2.1" Depth="7.2" />
+	<earhquake	name="2026.07.04 08:57:15"	lokasyon="ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI)          "	lat="40.5917"	lng="28.7973"	mag="2.5" Depth="13.2" />
+	<earhquake	name="2026.07.04 10:22:43"	lokasyon="KIZILBURUN-GURUN (SIVAS)                          "	lat="38.7200"	lng="37.1682"	mag="1.8" Depth="5.0" />
 </eqlist>
