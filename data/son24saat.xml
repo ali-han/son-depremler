@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.04 20:11:03"	lokasyon="KAPUZBASI-YAHYALI (KAYSERI)                       "	lat="37.7957"	lng="35.3618"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2026.07.04 20:52:55"	lokasyon="DOGANBEY-KARACOBAN (ERZURUM)                      "	lat="39.2992"	lng="42.1627"	mag="2.0" Depth="7.7" />
-	<earhquake	name="2026.07.04 21:18:24"	lokasyon="BICKIYANI-KAYNASLI (DUZCE)                        "	lat="40.7132"	lng="31.3463"	mag="2.0" Depth="10.2" />
-	<earhquake	name="2026.07.04 21:32:46"	lokasyon="YAZBASI-BULANIK (MUS)                             "	lat="39.2835"	lng="42.2118"	mag="2.2" Depth="12.5" />
-	<earhquake	name="2026.07.04 21:39:29"	lokasyon="SIRADERE-BULANIK (MUS)                            "	lat="39.2750"	lng="42.1930"	mag="2.1" Depth="13.5" />
-	<earhquake	name="2026.07.04 21:56:20"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0785"	lng="28.9757"	mag="1.6" Depth="13.7" />
-	<earhquake	name="2026.07.04 22:19:37"	lokasyon="SAKALIUZUN-AKCADAG (MALATYA)                      "	lat="38.4532"	lng="37.8852"	mag="1.2" Depth="14.7" />
 	<earhquake	name="2026.07.04 23:33:23"	lokasyon="KARACAM-KOYCEGIZ (MUGLA)                          "	lat="37.0567"	lng="29.0205"	mag="1.9" Depth="19.3" />
 	<earhquake	name="2026.07.05 00:03:03"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7353"	lng="36.0725"	mag="3.1" Depth="5.0" />
 	<earhquake	name="2026.07.05 00:06:38"	lokasyon="TASOLUK-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9675"	lng="36.4530"	mag="1.5" Depth="15.2" />
@@ -91,4 +84,5 @@
 	<earhquake	name="2026.07.05 18:52:55"	lokasyon="AKDENIZ                                           "	lat="35.3257"	lng="27.1777"	mag="2.8" Depth="9.7" />
 	<earhquake	name="2026.07.05 18:54:46"	lokasyon="KUMCELTEGI-(CORUM)                                "	lat="40.6223"	lng="34.4667"	mag="2.1" Depth="2.1" />
 	<earhquake	name="2026.07.05 19:06:15"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1233"	lng="38.4897"	mag="2.0" Depth="10.9" />
+	<earhquake	name="2026.07.05 21:40:51"	lokasyon="TRABZON ACIKLARI (KARADENIZ)                      "	lat="41.5783"	lng="39.9660"	mag="2.7" Depth="5.6" />
 </eqlist>
