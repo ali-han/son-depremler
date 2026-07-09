@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.08 03:22:03"	lokasyon="KARAYAKUP-GOLOVA (SIVAS)                          "	lat="40.0572"	lng="38.7043"	mag="3.0" Depth="3.1" />
-	<earhquake	name="2026.07.08 03:24:13"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.9703"	lng="25.9665"	mag="2.4" Depth="5.0" />
-	<earhquake	name="2026.07.08 04:34:14"	lokasyon="ERDEK (BALIKESIR)                                 "	lat="40.3873"	lng="27.7625"	mag="1.6" Depth="2.1" />
 	<earhquake	name="2026.07.08 06:18:26"	lokasyon="TOPBOGAZI-KIRIKHAN (HATAY)                        "	lat="36.4143"	lng="36.2882"	mag="2.2" Depth="11.0" />
 	<earhquake	name="2026.07.08 06:44:22"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2303"	lng="29.0080"	mag="1.8" Depth="6.9" />
 	<earhquake	name="2026.07.08 06:46:01"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1800"	lng="29.0348"	mag="0.6" Depth="14.8" />
@@ -53,4 +50,9 @@
 	<earhquake	name="2026.07.09 00:57:26"	lokasyon="CORUS-ULA (MUGLA)                                 "	lat="36.9810"	lng="28.4815"	mag="1.2" Depth="4.0" />
 	<earhquake	name="2026.07.09 01:41:53"	lokasyon="ORTAOREN-EKINOZU (KAHRAMANMARAS)                  "	lat="38.0915"	lng="37.1155"	mag="1.6" Depth="7.0" />
 	<earhquake	name="2026.07.09 02:03:37"	lokasyon="ULUKOY-(MALATYA)                                  "	lat="38.1585"	lng="38.5137"	mag="1.4" Depth="20.4" />
+	<earhquake	name="2026.07.09 02:16:46"	lokasyon="ALTINOVA-(KAHRAMANMARAS)                          "	lat="37.4857"	lng="36.8327"	mag="1.6" Depth="7.9" />
+	<earhquake	name="2026.07.09 02:55:21"	lokasyon="EGE DENIZI                                        "	lat="36.0952"	lng="26.9265"	mag="2.6" Depth="8.1" />
+	<earhquake	name="2026.07.09 02:59:18"	lokasyon="DEGIRMENOZU-(VAN)                                 "	lat="38.8017"	lng="43.5417"	mag="2.5" Depth="5.0" />
+	<earhquake	name="2026.07.09 03:17:08"	lokasyon="EGE DENIZI                                        "	lat="38.6715"	lng="25.4422"	mag="2.1" Depth="17.8" />
+	<earhquake	name="2026.07.09 03:46:56"	lokasyon="DUSECEK-EMET (KUTAHYA)                            "	lat="39.2283"	lng="29.4310"	mag="1.2" Depth="9.3" />
 </eqlist>
