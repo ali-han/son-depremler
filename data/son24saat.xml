@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.09 23:13:53"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="37.0473"	lng="28.2547"	mag="1.5" Depth="6.9" />
-	<earhquake	name="2026.07.09 23:14:04"	lokasyon="ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS)            "	lat="38.2078"	lng="37.6665"	mag="2.1" Depth="6.9" />
-	<earhquake	name="2026.07.09 23:30:28"	lokasyon="BOZBEL-DALAMAN (MUGLA)                            "	lat="36.9655"	lng="29.0042"	mag="1.7" Depth="7.2" />
 	<earhquake	name="2026.07.10 00:45:36"	lokasyon="TURKPIYALA-SOMA (MANISA)                          "	lat="39.3202"	lng="27.7478"	mag="1.6" Depth="5.9" />
 	<earhquake	name="2026.07.10 00:53:38"	lokasyon="UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)            "	lat="39.9458"	lng="26.0335"	mag="1.3" Depth="13.2" />
 	<earhquake	name="2026.07.10 01:07:46"	lokasyon="MARMARA DENIZI                                    "	lat="40.7483"	lng="28.0272"	mag="1.4" Depth="9.8" />
@@ -57,4 +54,6 @@
 	<earhquake	name="2026.07.10 21:17:03"	lokasyon="KOCASINAN (KAYSERI)                               "	lat="38.7995"	lng="35.5305"	mag="2.0" Depth="5.0" />
 	<earhquake	name="2026.07.10 21:46:18"	lokasyon="TEKIR-(KAHRAMANMARAS)                             "	lat="37.8872"	lng="36.6417"	mag="1.9" Depth="7.8" />
 	<earhquake	name="2026.07.10 22:26:18"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2782"	lng="28.9933"	mag="1.4" Depth="12.3" />
+	<earhquake	name="2026.07.10 22:53:14"	lokasyon="FOCA (IZMIR)                                      "	lat="38.6267"	lng="26.7558"	mag="1.5" Depth="15.5" />
+	<earhquake	name="2026.07.10 23:29:18"	lokasyon="GEBEN-ANDIRIN (KAHRAMANMARAS)                     "	lat="37.7808"	lng="36.4968"	mag="1.6" Depth="8.5" />
 </eqlist>
