@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.10 00:45:36"	lokasyon="TURKPIYALA-SOMA (MANISA)                          "	lat="39.3202"	lng="27.7478"	mag="1.6" Depth="5.9" />
-	<earhquake	name="2026.07.10 00:53:38"	lokasyon="UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)            "	lat="39.9458"	lng="26.0335"	mag="1.3" Depth="13.2" />
 	<earhquake	name="2026.07.10 01:07:46"	lokasyon="MARMARA DENIZI                                    "	lat="40.7483"	lng="28.0272"	mag="1.4" Depth="9.8" />
 	<earhquake	name="2026.07.10 01:12:37"	lokasyon="MARMARA DENIZI                                    "	lat="40.7397"	lng="28.0593"	mag="1.4" Depth="16.8" />
 	<earhquake	name="2026.07.10 01:29:39"	lokasyon="MARMARA DENIZI                                    "	lat="40.7477"	lng="28.0523"	mag="1.3" Depth="23.2" />
@@ -56,4 +54,5 @@
 	<earhquake	name="2026.07.10 22:26:18"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2782"	lng="28.9933"	mag="1.4" Depth="12.3" />
 	<earhquake	name="2026.07.10 22:53:14"	lokasyon="FOCA (IZMIR)                                      "	lat="38.6267"	lng="26.7558"	mag="1.5" Depth="15.5" />
 	<earhquake	name="2026.07.10 23:29:18"	lokasyon="GEBEN-ANDIRIN (KAHRAMANMARAS)                     "	lat="37.7808"	lng="36.4968"	mag="1.6" Depth="8.5" />
+	<earhquake	name="2026.07.11 00:11:40"	lokasyon="KUCUKBUKU-SINDIRGI (BALIKESIR)                    "	lat="39.2843"	lng="28.0933"	mag="1.4" Depth="7.3" />
 </eqlist>
