@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.10 16:00:29"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3203"	lng="26.0205"	mag="2.9" Depth="7.0" />
-	<earhquake	name="2026.07.10 16:27:46"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7480"	lng="36.5353"	mag="2.7" Depth="7.8" />
 	<earhquake	name="2026.07.10 17:16:29"	lokasyon="AVSA-MARMARA (BALIKESIR)                          "	lat="40.5057"	lng="27.5172"	mag="1.8" Depth="7.1" />
 	<earhquake	name="2026.07.10 17:29:54"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7647"	lng="36.5388"	mag="1.3" Depth="7.7" />
 	<earhquake	name="2026.07.10 17:30:45"	lokasyon="EGE DENIZI                                        "	lat="35.8877"	lng="27.2165"	mag="2.9" Depth="6.2" />
@@ -75,4 +73,7 @@
 	<earhquake	name="2026.07.11 14:21:04"	lokasyon="OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.3342"	lng="28.9648"	mag="2.0" Depth="7.8" />
 	<earhquake	name="2026.07.11 15:05:26"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4992"	lng="26.3707"	mag="2.2" Depth="8.2" />
 	<earhquake	name="2026.07.11 15:07:20"	lokasyon="SULUDERE-HUYUK (KONYA)                            "	lat="37.9725"	lng="31.6173"	mag="1.2" Depth="2.1" />
+	<earhquake	name="2026.07.11 15:18:38"	lokasyon="YAYKIN-AKHISAR (MANISA)                           "	lat="39.1552"	lng="27.9375"	mag="1.5" Depth="10.0" />
+	<earhquake	name="2026.07.11 15:42:21"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2465"	lng="29.0375"	mag="1.4" Depth="5.0" />
+	<earhquake	name="2026.07.11 16:11:04"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2455"	lng="37.7915"	mag="2.4" Depth="13.4" />
 </eqlist>
