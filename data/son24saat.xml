@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.11 10:32:00"	lokasyon="DEVLETLIBABA-SINDIRGI (BALIKESIR)                 "	lat="39.1570"	lng="28.4595"	mag="1.4" Depth="13.5" />
-	<earhquake	name="2026.07.11 10:40:05"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2757"	lng="28.0350"	mag="0.9" Depth="13.5" />
-	<earhquake	name="2026.07.11 10:53:01"	lokasyon="POLATDERESI-DOGANSEHIR (MALATYA)                  "	lat="38.1640"	lng="37.9350"	mag="1.2" Depth="0.0" />
 	<earhquake	name="2026.07.11 12:02:07"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="39.0078"	lng="25.8352"	mag="1.9" Depth="5.5" />
 	<earhquake	name="2026.07.11 12:06:20"	lokasyon="KOCYATAGI-(ERZINCAN)                              "	lat="39.9248"	lng="39.2233"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.07.11 12:15:06"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.1802"	lng="33.7597"	mag="1.2" Depth="0.0" />
@@ -69,4 +66,6 @@
 	<earhquake	name="2026.07.12 08:19:24"	lokasyon="PINARBASI-CELIKHAN (ADIYAMAN)                     "	lat="38.0507"	lng="38.1673"	mag="1.7" Depth="12.1" />
 	<earhquake	name="2026.07.12 08:51:17"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2180"	lng="28.1613"	mag="2.1" Depth="7.9" />
 	<earhquake	name="2026.07.12 08:54:48"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9453"	lng="27.4302"	mag="2.4" Depth="7.6" />
+	<earhquake	name="2026.07.12 10:35:05"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1622"	lng="28.2393"	mag="1.9" Depth="11.7" />
+	<earhquake	name="2026.07.12 10:37:18"	lokasyon="DEGIRMENDERE-GOKSUN (KAHRAMANMARAS)               "	lat="37.9130"	lng="36.4848"	mag="2.4" Depth="2.0" />
 </eqlist>
