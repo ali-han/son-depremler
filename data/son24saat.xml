@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.12 16:09:21"	lokasyon="AKDENIZ                                           "	lat="35.6870"	lng="29.1768"	mag="1.6" Depth="6.0" />
-	<earhquake	name="2026.07.12 16:43:49"	lokasyon="DEMIRKAZIK-CAMARDI (NIGDE)                        "	lat="37.8363"	lng="35.1048"	mag="2.2" Depth="6.7" />
-	<earhquake	name="2026.07.12 16:44:45"	lokasyon="YUNANISTAN                                        "	lat="39.5757"	lng="23.6332"	mag="2.1" Depth="8.6" />
-	<earhquake	name="2026.07.12 18:02:47"	lokasyon="SARIOT-KALE (MALATYA)                             "	lat="38.3218"	lng="38.7450"	mag="1.5" Depth="14.6" />
-	<earhquake	name="2026.07.12 18:39:52"	lokasyon="AKDAG-SIMAV (KUTAHYA)                             "	lat="39.1743"	lng="28.8837"	mag="1.5" Depth="7.0" />
-	<earhquake	name="2026.07.12 18:49:31"	lokasyon="KUCUKKOMURCU-TIRE (IZMIR)                         "	lat="38.0383"	lng="27.7510"	mag="1.5" Depth="5.4" />
 	<earhquake	name="2026.07.12 19:13:00"	lokasyon="YUNANISTAN                                        "	lat="38.7637"	lng="23.3540"	mag="2.9" Depth="10.5" />
 	<earhquake	name="2026.07.12 19:29:26"	lokasyon="CEVIZLI-CAMELI (DENIZLI)                          "	lat="37.0228"	lng="29.3147"	mag="1.2" Depth="11.4" />
 	<earhquake	name="2026.07.12 21:24:57"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.8085"	lng="31.4928"	mag="1.5" Depth="10.2" />
@@ -55,4 +49,8 @@
 	<earhquake	name="2026.07.13 14:43:00"	lokasyon="KARAGUR-SINDIRGI (BALIKESIR)                      "	lat="39.2487"	lng="28.1067"	mag="2.2" Depth="9.0" />
 	<earhquake	name="2026.07.13 14:45:53"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2440"	lng="29.0258"	mag="2.8" Depth="5.1" />
 	<earhquake	name="2026.07.13 15:16:22"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2178"	lng="28.1390"	mag="1.8" Depth="9.3" />
+	<earhquake	name="2026.07.13 16:27:14"	lokasyon="CALTI-CARDAK (DENIZLI)                            "	lat="37.7397"	lng="29.6862"	mag="1.6" Depth="12.3" />
+	<earhquake	name="2026.07.13 18:01:58"	lokasyon="YUNANISTAN                                        "	lat="40.3375"	lng="24.0923"	mag="2.3" Depth="11.5" />
+	<earhquake	name="2026.07.13 18:05:01"	lokasyon="UCOCAK-ARICAK (ELAZIG)                            "	lat="38.4957"	lng="40.2765"	mag="3.1" Depth="5.0" />
+	<earhquake	name="2026.07.13 18:12:40"	lokasyon="ALPA-TAVAS (DENIZLI)                              "	lat="37.1890"	lng="29.0370"	mag="1.4" Depth="26.3" />
 </eqlist>
