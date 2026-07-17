@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.17 00:52:11"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4318"	lng="26.0948"	mag="0.6" Depth="4.0" />
-	<earhquake	name="2026.07.17 00:55:55"	lokasyon="BALIKLICESME-BIGA (CANAKKALE)                     "	lat="40.3108"	lng="27.0953"	mag="1.5" Depth="13.6" />
 	<earhquake	name="2026.07.17 01:03:37"	lokasyon="EVRI-PAZARCIK (KAHRAMANMARAS)                     "	lat="37.2625"	lng="37.0970"	mag="2.0" Depth="6.7" />
 	<earhquake	name="2026.07.17 01:35:03"	lokasyon="UVECIK ACIKLARI-CANAKKALE (EGE DENIZI)            "	lat="39.9665"	lng="26.0805"	mag="1.5" Depth="5.0" />
 	<earhquake	name="2026.07.17 01:42:16"	lokasyon="KAPIDERE-DOGANSEHIR (MALATYA)                     "	lat="37.9710"	lng="37.6865"	mag="1.2" Depth="5.8" />
@@ -79,5 +77,10 @@
 	<earhquake	name="2026.07.17 20:41:52"	lokasyon="ESENCE-SENKAYA (ERZURUM)                          "	lat="40.5715"	lng="42.5592"	mag="1.6" Depth="8.2" />
 	<earhquake	name="2026.07.17 20:54:33"	lokasyon="TASOLUK-KIRIKHAN (HATAY)                          "	lat="36.6223"	lng="36.3713"	mag="3.3" Depth="8.0" />
 	<earhquake	name="2026.07.17 21:07:27"	lokasyon="KALEDIBI-ISKENDERUN (HATAY)                       "	lat="36.6370"	lng="36.3467"	mag="1.8" Depth="8.1" />
+	<earhquake	name="2026.07.17 21:27:14"	lokasyon="KALEKOY-AYRANCI (KARAMAN)                         "	lat="37.4410"	lng="33.5822"	mag="1.5" Depth="11.4" />
+	<earhquake	name="2026.07.17 22:43:16"	lokasyon="EGE DENIZI                                        "	lat="39.5897"	lng="25.3828"	mag="1.8" Depth="18.9" />
 	<earhquake	name="2026.07.17 22:55:33"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1922"	lng="28.1455"	mag="1.4" Depth="12.2" />
+	<earhquake	name="2026.07.17 23:56:24"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.2122"	lng="31.7467"	mag="2.2" Depth="8.7" />
+	<earhquake	name="2026.07.18 00:08:13"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2323"	lng="28.0945"	mag="1.7" Depth="9.1" />
+	<earhquake	name="2026.07.18 00:24:40"	lokasyon="YOLKURU-DOGANSEHIR (MALATYA)                      "	lat="38.1233"	lng="37.8483"	mag="1.1" Depth="17.1" />
 </eqlist>
