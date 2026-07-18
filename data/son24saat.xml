@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.17 23:56:24"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.2122"	lng="31.7467"	mag="2.2" Depth="8.7" />
-	<earhquake	name="2026.07.18 00:08:13"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2323"	lng="28.0945"	mag="1.7" Depth="9.1" />
-	<earhquake	name="2026.07.18 00:24:40"	lokasyon="YOLKURU-DOGANSEHIR (MALATYA)                      "	lat="38.1233"	lng="37.8483"	mag="1.1" Depth="17.1" />
-	<earhquake	name="2026.07.18 00:25:19"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2632"	lng="28.9437"	mag="1.1" Depth="14.8" />
 	<earhquake	name="2026.07.18 01:01:44"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1742"	lng="28.0707"	mag="1.5" Depth="29.7" />
 	<earhquake	name="2026.07.18 01:15:20"	lokasyon="ARDICLI-PULUMUR (TUNCELI)                         "	lat="39.5043"	lng="39.7742"	mag="1.3" Depth="9.5" />
 	<earhquake	name="2026.07.18 01:16:27"	lokasyon="KAVACIK-HEKIMHAN (MALATYA)                        "	lat="38.7967"	lng="38.1247"	mag="1.7" Depth="18.8" />
@@ -105,4 +101,8 @@
 	<earhquake	name="2026.07.18 20:29:44"	lokasyon="ISKENDERUN KORFEZI (AKDENIZ)                      "	lat="36.2987"	lng="35.5997"	mag="2.7" Depth="6.3" />
 	<earhquake	name="2026.07.18 21:43:28"	lokasyon="PUSATLAR-CAVDARHISAR (KUTAHYA)                    "	lat="39.1752"	lng="29.4217"	mag="1.6" Depth="4.4" />
 	<earhquake	name="2026.07.18 22:01:51"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1708"	lng="28.3195"	mag="1.4" Depth="7.6" />
+	<earhquake	name="2026.07.18 22:41:59"	lokasyon="GERMIYAN-CESME (IZMIR)                            "	lat="38.3213"	lng="26.4673"	mag="1.6" Depth="16.8" />
+	<earhquake	name="2026.07.18 22:56:07"	lokasyon="ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS)            "	lat="38.2068"	lng="37.7022"	mag="2.0" Depth="1.6" />
+	<earhquake	name="2026.07.18 23:30:41"	lokasyon="YOLKURU-DOGANSEHIR (MALATYA)                      "	lat="38.1348"	lng="37.8763"	mag="1.9" Depth="5.0" />
+	<earhquake	name="2026.07.18 23:50:58"	lokasyon="HAMIDIYE-CEYHAN (ADANA)                           "	lat="36.9982"	lng="35.9918"	mag="3.0" Depth="7.8" />
 </eqlist>
