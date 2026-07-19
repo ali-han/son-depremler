@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.18 03:02:45"	lokasyon="YENIKOY (MALATYA)                                 "	lat="38.3240"	lng="38.5210"	mag="1.2" Depth="16.1" />
-	<earhquake	name="2026.07.18 03:10:57"	lokasyon="SISAM ADASI (EGE DENIZI)                          "	lat="37.8500"	lng="26.4747"	mag="1.7" Depth="5.5" />
-	<earhquake	name="2026.07.18 03:18:33"	lokasyon="CAGIRGAN (KAHRAMANMARAS)                          "	lat="37.3832"	lng="36.6060"	mag="0.8" Depth="6.8" />
-	<earhquake	name="2026.07.18 03:23:41"	lokasyon="YUNANISTAN                                        "	lat="38.7668"	lng="23.4748"	mag="2.3" Depth="10.4" />
-	<earhquake	name="2026.07.18 03:35:59"	lokasyon="DERE-KEMAH (ERZINCAN)                             "	lat="39.4997"	lng="39.2393"	mag="1.7" Depth="8.5" />
 	<earhquake	name="2026.07.18 04:12:07"	lokasyon="YAZIKOY-AFSIN (KAHRAMANMARAS)                     "	lat="38.1560"	lng="36.7663"	mag="1.8" Depth="5.4" />
 	<earhquake	name="2026.07.18 04:20:14"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2613"	lng="28.9257"	mag="2.9" Depth="6.8" />
 	<earhquake	name="2026.07.18 04:24:03"	lokasyon="OYSU-ALTINTAS (KUTAHYA)                           "	lat="38.9593"	lng="29.9037"	mag="1.6" Depth="5.3" />
@@ -99,4 +94,9 @@
 	<earhquake	name="2026.07.19 01:39:03"	lokasyon="ESENKENT-(ELAZIG)                                 "	lat="38.8662"	lng="39.0423"	mag="1.4" Depth="17.0" />
 	<earhquake	name="2026.07.19 01:50:47"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2460"	lng="28.9338"	mag="1.1" Depth="14.3" />
 	<earhquake	name="2026.07.19 02:14:12"	lokasyon="ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS)            "	lat="38.1985"	lng="37.6872"	mag="2.0" Depth="2.4" />
+	<earhquake	name="2026.07.19 02:23:58"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1728"	lng="28.2882"	mag="1.1" Depth="15.3" />
+	<earhquake	name="2026.07.19 02:42:35"	lokasyon="KARACAOREN-(MUGLA)                                "	lat="37.2333"	lng="28.7257"	mag="1.6" Depth="4.8" />
+	<earhquake	name="2026.07.19 02:57:35"	lokasyon="PINARKOY-MILAS (MUGLA)                            "	lat="37.1023"	lng="27.9747"	mag="1.1" Depth="15.0" />
+	<earhquake	name="2026.07.19 03:21:55"	lokasyon="TORATLI-CEMISGEZEK (TUNCELI)                      "	lat="39.0512"	lng="39.0028"	mag="2.4" Depth="5.0" />
+	<earhquake	name="2026.07.19 03:45:02"	lokasyon="AGACKORUR-VARTO (MUS)                             "	lat="39.2163"	lng="41.5753"	mag="2.8" Depth="5.0" />
 </eqlist>
