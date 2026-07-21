@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.20 18:29:04"	lokasyon="EGE DENIZI                                        "	lat="40.1845"	lng="25.1582"	mag="1.8" Depth="4.6" />
-	<earhquake	name="2026.07.20 18:52:42"	lokasyon="YUKARIGOLALAN-(VAN)                               "	lat="38.7578"	lng="43.5837"	mag="1.6" Depth="11.8" />
 	<earhquake	name="2026.07.20 19:39:10"	lokasyon="EGE DENIZI                                        "	lat="39.3478"	lng="25.7245"	mag="1.8" Depth="2.7" />
 	<earhquake	name="2026.07.20 19:59:18"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2623"	lng="28.0670"	mag="1.9" Depth="7.9" />
 	<earhquake	name="2026.07.20 20:04:00"	lokasyon="KUCUKLU-DOGANSEHIR (MALATYA)                      "	lat="38.0142"	lng="37.6770"	mag="1.8" Depth="17.8" />
@@ -72,4 +70,6 @@
 	<earhquake	name="2026.07.21 16:55:12"	lokasyon="SORKUN-GOLHISAR (BURDUR)                          "	lat="37.1880"	lng="29.5807"	mag="2.6" Depth="6.4" />
 	<earhquake	name="2026.07.21 16:55:14"	lokasyon="AKDENIZ                                           "	lat="35.7782"	lng="32.7400"	mag="1.5" Depth="8.2" />
 	<earhquake	name="2026.07.21 17:36:44"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.8227"	lng="26.8187"	mag="2.6" Depth="12.7" />
+	<earhquake	name="2026.07.21 17:43:41"	lokasyon="YUKARIDEMIRCI-KOVANCILAR (ELAZIG)                 "	lat="38.8865"	lng="40.1847"	mag="1.7" Depth="22.1" />
+	<earhquake	name="2026.07.21 17:50:50"	lokasyon="GEMTEPE-PALU (ELAZIG)                             "	lat="38.8132"	lng="40.3017"	mag="2.0" Depth="5.8" />
 </eqlist>
