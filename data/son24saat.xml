@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.24 23:09:51"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.2843"	lng="26.0840"	mag="2.9" Depth="12.6" />
-	<earhquake	name="2026.07.24 23:11:52"	lokasyon="KARABUCAK-KOZAN (ADANA)                           "	lat="37.6397"	lng="35.8687"	mag="2.2" Depth="8.0" />
-	<earhquake	name="2026.07.24 23:52:02"	lokasyon="CITAK-GUROYMAK (BITLIS)                           "	lat="38.6665"	lng="42.1488"	mag="1.4" Depth="12.0" />
 	<earhquake	name="2026.07.25 00:00:51"	lokasyon="KIRLANGIC-YESILYURT (MALATYA)                     "	lat="38.2480"	lng="38.0872"	mag="1.8" Depth="10.1" />
 	<earhquake	name="2026.07.25 00:28:43"	lokasyon="UCUYUK-ALTINTAS (KUTAHYA)                         "	lat="39.1060"	lng="30.0513"	mag="1.8" Depth="10.5" />
 	<earhquake	name="2026.07.25 00:57:04"	lokasyon="GOKTEPE-MENEMEN (IZMIR)                           "	lat="38.6203"	lng="27.1515"	mag="1.7" Depth="13.4" />
@@ -54,4 +51,9 @@
 	<earhquake	name="2026.07.25 20:39:41"	lokasyon="SEVDILI-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.2737"	lng="37.5683"	mag="1.1" Depth="16.7" />
 	<earhquake	name="2026.07.25 20:55:39"	lokasyon="KERIMOGLU-SULUOVA (AMASYA)                        "	lat="40.8372"	lng="35.6152"	mag="1.6" Depth="8.0" />
 	<earhquake	name="2026.07.25 21:59:55"	lokasyon="ESENKAYA-KALE (DENIZLI)                           "	lat="37.4088"	lng="28.6575"	mag="1.7" Depth="5.4" />
+	<earhquake	name="2026.07.25 22:44:08"	lokasyon="ALIOBASI-AMASRA (BARTIN)                          "	lat="41.7637"	lng="32.5168"	mag="1.6" Depth="5.4" />
+	<earhquake	name="2026.07.25 22:54:02"	lokasyon="YENIKOY-ORHANGAZI (BURSA)                         "	lat="40.5060"	lng="29.3550"	mag="1.7" Depth="4.2" />
+	<earhquake	name="2026.07.25 23:01:02"	lokasyon="SEFERIHISAR ACIKLARI-IZMIR (EGE DENIZI)           "	lat="38.1562"	lng="26.6565"	mag="1.6" Depth="6.9" />
+	<earhquake	name="2026.07.25 23:38:34"	lokasyon="ARMUTLU-PAZARCIK (KAHRAMANMARAS)                  "	lat="37.4980"	lng="37.2685"	mag="1.7" Depth="5.3" />
+	<earhquake	name="2026.07.25 23:49:05"	lokasyon="SALMANIPAK-PAZARCIK (KAHRAMANMARAS)               "	lat="37.4120"	lng="37.1942"	mag="1.9" Depth="4.6" />
 </eqlist>
