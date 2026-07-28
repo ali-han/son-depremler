@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.28 02:04:39"	lokasyon="KURFALLI-BERGAMA (IZMIR)                          "	lat="39.0303"	lng="27.0785"	mag="1.4" Depth="12.8" />
-	<earhquake	name="2026.07.28 02:07:20"	lokasyon="HANCERLI-AKCADAG (MALATYA)                        "	lat="38.3058"	lng="37.8438"	mag="1.1" Depth="20.3" />
-	<earhquake	name="2026.07.28 02:08:27"	lokasyon="FINDIK-GOKSUN (KAHRAMANMARAS)                     "	lat="38.0808"	lng="36.7107"	mag="1.5" Depth="8.1" />
-	<earhquake	name="2026.07.28 02:10:04"	lokasyon="SAIMBEYLI (ADANA)                                 "	lat="38.0073"	lng="36.1125"	mag="1.0" Depth="22.6" />
-	<earhquake	name="2026.07.28 02:39:42"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7838"	lng="36.0593"	mag="1.6" Depth="7.3" />
-	<earhquake	name="2026.07.28 02:49:08"	lokasyon="ASAGIKALEOBA-IVRINDI (BALIKESIR)                  "	lat="39.5532"	lng="27.5333"	mag="2.0" Depth="7.9" />
 	<earhquake	name="2026.07.28 03:01:22"	lokasyon="BOZKOY-BERGAMA (IZMIR)                            "	lat="39.0380"	lng="27.0908"	mag="2.2" Depth="5.4" />
 	<earhquake	name="2026.07.28 03:17:26"	lokasyon="KARAKOSE-SINCIK (ADIYAMAN)                        "	lat="38.0965"	lng="38.4818"	mag="2.0" Depth="2.9" />
 	<earhquake	name="2026.07.28 03:21:01"	lokasyon="AKSAZ-BIGA (CANAKKALE)                            "	lat="40.4117"	lng="27.1618"	mag="1.2" Depth="12.3" />
@@ -71,4 +65,9 @@
 	<earhquake	name="2026.07.29 00:28:49"	lokasyon="EGE DENIZI                                        "	lat="36.0148"	lng="25.4658"	mag="2.4" Depth="47.5" />
 	<earhquake	name="2026.07.29 00:47:41"	lokasyon="MESUDIYE-DATCA (MUGLA)                            "	lat="36.6817"	lng="27.5725"	mag="1.6" Depth="22.0" />
 	<earhquake	name="2026.07.29 01:06:24"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9628"	lng="27.4093"	mag="1.5" Depth="5.9" />
+	<earhquake	name="2026.07.29 01:15:09"	lokasyon="GOKBEL-MILAS (MUGLA)                              "	lat="37.0457"	lng="27.7597"	mag="1.5" Depth="10.7" />
+	<earhquake	name="2026.07.29 02:05:25"	lokasyon="MAZIKOY-BODRUM (MUGLA)                            "	lat="37.0195"	lng="27.7337"	mag="1.9" Depth="10.2" />
+	<earhquake	name="2026.07.29 02:22:21"	lokasyon="VAN GOLU                                          "	lat="38.6518"	lng="43.0825"	mag="1.2" Depth="18.7" />
+	<earhquake	name="2026.07.29 02:29:22"	lokasyon="YUNANISTAN                                        "	lat="39.3835"	lng="23.6022"	mag="3.4" Depth="21.0" />
+	<earhquake	name="2026.07.29 02:31:20"	lokasyon="TEKIR-(KAHRAMANMARAS)                             "	lat="37.9060"	lng="36.6383"	mag="2.3" Depth="13.1" />
 </eqlist>
