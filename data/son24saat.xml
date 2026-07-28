@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.28 01:02:57"	lokasyon="DOGANSEHIR (MALATYA)                              "	lat="38.0745"	lng="37.8962"	mag="1.2" Depth="24.4" />
-	<earhquake	name="2026.07.28 01:15:29"	lokasyon="AKDENIZ                                           "	lat="35.7432"	lng="31.2448"	mag="2.0" Depth="5.0" />
-	<earhquake	name="2026.07.28 01:40:18"	lokasyon="ASLANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.2162"	lng="28.3103"	mag="1.1" Depth="6.7" />
-	<earhquake	name="2026.07.28 01:44:56"	lokasyon="EGE DENIZI                                        "	lat="39.3773"	lng="25.6338"	mag="1.6" Depth="11.1" />
 	<earhquake	name="2026.07.28 02:04:39"	lokasyon="KURFALLI-BERGAMA (IZMIR)                          "	lat="39.0303"	lng="27.0785"	mag="1.4" Depth="12.8" />
 	<earhquake	name="2026.07.28 02:07:20"	lokasyon="HANCERLI-AKCADAG (MALATYA)                        "	lat="38.3058"	lng="37.8438"	mag="1.1" Depth="20.3" />
 	<earhquake	name="2026.07.28 02:08:27"	lokasyon="FINDIK-GOKSUN (KAHRAMANMARAS)                     "	lat="38.0808"	lng="36.7107"	mag="1.5" Depth="8.1" />
@@ -73,4 +69,6 @@
 	<earhquake	name="2026.07.29 00:02:00"	lokasyon="GOVDELI-DOGANSEHIR (MALATYA)                      "	lat="38.0862"	lng="37.5575"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.07.29 00:25:08"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9808"	lng="27.1728"	mag="1.5" Depth="8.7" />
 	<earhquake	name="2026.07.29 00:28:49"	lokasyon="EGE DENIZI                                        "	lat="36.0148"	lng="25.4658"	mag="2.4" Depth="47.5" />
+	<earhquake	name="2026.07.29 00:47:41"	lokasyon="MESUDIYE-DATCA (MUGLA)                            "	lat="36.6817"	lng="27.5725"	mag="1.6" Depth="22.0" />
+	<earhquake	name="2026.07.29 01:06:24"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9628"	lng="27.4093"	mag="1.5" Depth="5.9" />
 </eqlist>
