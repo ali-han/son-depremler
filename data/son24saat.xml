@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.29 01:06:24"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9628"	lng="27.4093"	mag="1.5" Depth="5.9" />
-	<earhquake	name="2026.07.29 01:15:09"	lokasyon="GOKBEL-MILAS (MUGLA)                              "	lat="37.0457"	lng="27.7597"	mag="1.5" Depth="10.7" />
-	<earhquake	name="2026.07.29 02:05:25"	lokasyon="MAZIKOY-BODRUM (MUGLA)                            "	lat="37.0195"	lng="27.7337"	mag="1.9" Depth="10.2" />
-	<earhquake	name="2026.07.29 02:22:21"	lokasyon="VAN GOLU                                          "	lat="38.6518"	lng="43.0825"	mag="1.2" Depth="18.7" />
-	<earhquake	name="2026.07.29 02:29:22"	lokasyon="YUNANISTAN                                        "	lat="39.3835"	lng="23.6022"	mag="3.4" Depth="21.0" />
-	<earhquake	name="2026.07.29 02:31:20"	lokasyon="TEKIR-(KAHRAMANMARAS)                             "	lat="37.9060"	lng="36.6383"	mag="2.3" Depth="13.1" />
-	<earhquake	name="2026.07.29 02:35:37"	lokasyon="MAKEDONYA                                         "	lat="41.1235"	lng="23.2883"	mag="1.2" Depth="5.4" />
-	<earhquake	name="2026.07.29 02:39:32"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.6950"	lng="29.2160"	mag="1.0" Depth="8.2" />
-	<earhquake	name="2026.07.29 02:43:09"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="35.8603"	lng="27.8485"	mag="2.0" Depth="30.0" />
 	<earhquake	name="2026.07.29 03:17:19"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2477"	lng="37.7847"	mag="1.9" Depth="10.2" />
 	<earhquake	name="2026.07.29 03:43:24"	lokasyon="CELEBILER-SINDIRGI (BALIKESIR)                    "	lat="39.2880"	lng="28.1835"	mag="1.1" Depth="5.0" />
 	<earhquake	name="2026.07.29 03:54:37"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2278"	lng="29.0010"	mag="1.8" Depth="11.6" />
@@ -76,4 +67,10 @@
 	<earhquake	name="2026.07.30 00:36:03"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3238"	lng="26.0878"	mag="2.1" Depth="5.6" />
 	<earhquake	name="2026.07.30 00:38:26"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3292"	lng="26.0870"	mag="1.3" Depth="7.0" />
 	<earhquake	name="2026.07.30 00:45:57"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3202"	lng="26.0785"	mag="1.7" Depth="7.6" />
+	<earhquake	name="2026.07.30 01:24:59"	lokasyon="CATALELMA-SENKAYA (ERZURUM)                       "	lat="40.4540"	lng="42.3123"	mag="1.1" Depth="18.0" />
+	<earhquake	name="2026.07.30 01:26:30"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.7083"	lng="28.3428"	mag="2.9" Depth="9.3" />
+	<earhquake	name="2026.07.30 01:37:25"	lokasyon="HANCERLI-AKCADAG (MALATYA)                        "	lat="38.3047"	lng="37.8490"	mag="1.6" Depth="11.1" />
+	<earhquake	name="2026.07.30 01:48:23"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.7155"	lng="28.3277"	mag="1.5" Depth="9.4" />
+	<earhquake	name="2026.07.30 01:55:31"	lokasyon="HANCERLI-AKCADAG (MALATYA)                        "	lat="38.3015"	lng="37.8390"	mag="1.4" Depth="14.9" />
+	<earhquake	name="2026.07.30 02:00:19"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.7247"	lng="28.3635"	mag="3.9" Depth="11.0" />
 </eqlist>
