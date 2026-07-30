@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.29 22:07:15"	lokasyon="YUNANISTAN                                        "	lat="36.2910"	lng="23.0352"	mag="2.7" Depth="12.8" />
-	<earhquake	name="2026.07.29 22:28:44"	lokasyon="DEDEKOY-AKCADAG (MALATYA)                         "	lat="38.2262"	lng="37.9505"	mag="0.9" Depth="17.4" />
-	<earhquake	name="2026.07.29 22:30:45"	lokasyon="DEDEKOY-AKCADAG (MALATYA)                         "	lat="38.2427"	lng="37.9580"	mag="1.0" Depth="5.0" />
-	<earhquake	name="2026.07.29 22:41:50"	lokasyon="KAMISLIK-SIVRICE (ELAZIG)                         "	lat="38.3975"	lng="39.1200"	mag="1.3" Depth="10.3" />
-	<earhquake	name="2026.07.29 22:51:11"	lokasyon="AKDENIZ                                           "	lat="35.1972"	lng="27.7788"	mag="2.6" Depth="5.0" />
 	<earhquake	name="2026.07.29 23:40:54"	lokasyon="YENICE-CAMOLUK (GIRESUN)                          "	lat="40.1312"	lng="38.8978"	mag="2.2" Depth="12.7" />
 	<earhquake	name="2026.07.29 23:53:30"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.6962"	lng="28.3380"	mag="3.3" Depth="1.4" />
 	<earhquake	name="2026.07.30 00:00:55"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.7002"	lng="28.3367"	mag="3.8" Depth="6.5" />
@@ -92,4 +87,11 @@
 	<earhquake	name="2026.07.30 19:08:24"	lokasyon="YUNANISTAN                                        "	lat="40.4003"	lng="24.0492"	mag="1.6" Depth="7.4" />
 	<earhquake	name="2026.07.30 20:21:10"	lokasyon="KOVUKCINAR-FEKE (ADANA)                           "	lat="37.8060"	lng="36.0588"	mag="1.6" Depth="5.5" />
 	<earhquake	name="2026.07.30 20:52:18"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2373"	lng="28.0953"	mag="1.9" Depth="14.5" />
+	<earhquake	name="2026.07.30 21:10:28"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     REVIZE01   (2026.07.30 21:10:29)"	lat="38.2448"	lng="37.8375"	mag="1.1" Depth="19.1" />
+	<earhquake	name="2026.07.30 21:10:29"	lokasyon="OTLUKBELI-DEMIROZU (BAYBURT)                      "	lat="40.0067"	lng="39.9070"	mag="2.3" Depth="9.6" />
+	<earhquake	name="2026.07.30 21:11:45"	lokasyon="OTLUKBELI-DEMIROZU (BAYBURT)                      "	lat="40.0007"	lng="39.9338"	mag="1.3" Depth="4.6" />
+	<earhquake	name="2026.07.30 21:27:53"	lokasyon="ASAGIBORANDERE-PINARBASI (KAYSERI)                "	lat="38.7713"	lng="36.5162"	mag="1.6" Depth="5.4" />
+	<earhquake	name="2026.07.30 21:47:29"	lokasyon="NURDAGI (GAZIANTEP)                               "	lat="37.1665"	lng="36.7312"	mag="2.5" Depth="9.2" />
+	<earhquake	name="2026.07.30 22:09:18"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2590"	lng="37.8135"	mag="1.1" Depth="12.2" />
+	<earhquake	name="2026.07.30 22:29:36"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.7203"	lng="26.5903"	mag="1.8" Depth="15.1" />
 </eqlist>
