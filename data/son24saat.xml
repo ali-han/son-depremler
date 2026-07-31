@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.07.30 20:21:10"	lokasyon="KOVUKCINAR-FEKE (ADANA)                           "	lat="37.8060"	lng="36.0588"	mag="1.6" Depth="5.5" />
-	<earhquake	name="2026.07.30 20:52:18"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2373"	lng="28.0953"	mag="1.9" Depth="14.5" />
-	<earhquake	name="2026.07.30 21:10:28"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     REVIZE01   (2026.07.30 21:10:29)"	lat="38.2448"	lng="37.8375"	mag="1.1" Depth="19.1" />
-	<earhquake	name="2026.07.30 21:10:29"	lokasyon="OTLUKBELI-DEMIROZU (BAYBURT)                      "	lat="40.0067"	lng="39.9070"	mag="2.3" Depth="9.6" />
-	<earhquake	name="2026.07.30 21:11:45"	lokasyon="OTLUKBELI-DEMIROZU (BAYBURT)                      "	lat="40.0007"	lng="39.9338"	mag="1.3" Depth="4.6" />
-	<earhquake	name="2026.07.30 21:27:53"	lokasyon="ASAGIBORANDERE-PINARBASI (KAYSERI)                "	lat="38.7713"	lng="36.5162"	mag="1.6" Depth="5.4" />
-	<earhquake	name="2026.07.30 21:47:29"	lokasyon="NURDAGI (GAZIANTEP)                               "	lat="37.1665"	lng="36.7312"	mag="2.5" Depth="9.2" />
-	<earhquake	name="2026.07.30 22:09:18"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2590"	lng="37.8135"	mag="1.1" Depth="12.2" />
-	<earhquake	name="2026.07.30 22:29:36"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.7203"	lng="26.5903"	mag="1.8" Depth="15.1" />
 	<earhquake	name="2026.07.30 23:15:30"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1182"	lng="38.4552"	mag="1.8" Depth="5.3" />
 	<earhquake	name="2026.07.30 23:54:38"	lokasyon="YILLARCA-CINAR (DIYARBAKIR)                       "	lat="37.7588"	lng="40.1358"	mag="1.7" Depth="10.1" />
 	<earhquake	name="2026.07.31 00:02:37"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.2003"	lng="29.0618"	mag="1.2" Depth="13.3" />
@@ -63,4 +54,8 @@
 	<earhquake	name="2026.07.31 17:52:49"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.0330"	lng="26.0958"	mag="1.8" Depth="3.7" />
 	<earhquake	name="2026.07.31 18:44:21"	lokasyon="KINIK-SINDIRGI (BALIKESIR)                        "	lat="39.1223"	lng="28.2062"	mag="1.6" Depth="18.2" />
 	<earhquake	name="2026.07.31 19:23:46"	lokasyon="CENNETPINARI-PAZARCIK (KAHRAMANMARAS)             "	lat="37.3143"	lng="37.0283"	mag="2.7" Depth="5.3" />
+	<earhquake	name="2026.07.31 19:32:37"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2555"	lng="37.8665"	mag="1.1" Depth="4.7" />
+	<earhquake	name="2026.07.31 21:15:13"	lokasyon="KAPAKLIKUYU-SAIMBEYLI (ADANA)                     "	lat="37.8260"	lng="36.1572"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2026.07.31 21:26:15"	lokasyon="TEKIROVA-KEMER (ANTALYA)                          "	lat="36.5092"	lng="30.5228"	mag="1.6" Depth="5.8" />
+	<earhquake	name="2026.07.31 21:51:21"	lokasyon="AKPINAR-EKINOZU (KAHRAMANMARAS)                   "	lat="38.0805"	lng="37.2155"	mag="1.7" Depth="4.4" />
 </eqlist>
