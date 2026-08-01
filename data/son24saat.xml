@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.01 00:24:20"	lokasyon="GOKCELER-SIMAV (KUTAHYA)                          "	lat="39.1057"	lng="29.0435"	mag="1.8" Depth="9.1" />
-	<earhquake	name="2026.08.01 00:30:46"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2407"	lng="29.0365"	mag="2.2" Depth="8.8" />
 	<earhquake	name="2026.08.01 01:35:48"	lokasyon="AKOREN-SARIKAMIS (KARS)                           "	lat="40.2820"	lng="42.2252"	mag="0.9" Depth="5.3" />
 	<earhquake	name="2026.08.01 02:19:28"	lokasyon="OZBASI-KOZAN (ADANA)                              "	lat="37.5855"	lng="35.7683"	mag="1.3" Depth="12.7" />
 	<earhquake	name="2026.08.01 02:19:29"	lokasyon="TURGUT-ULA (MUGLA)                                "	lat="37.1603"	lng="28.6558"	mag="1.8" Depth="5.0" />
@@ -86,4 +84,11 @@
 	<earhquake	name="2026.08.01 22:51:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2570"	lng="28.9853"	mag="2.0" Depth="5.4" />
 	<earhquake	name="2026.08.01 22:54:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2543"	lng="28.9975"	mag="1.8" Depth="5.3" />
 	<earhquake	name="2026.08.01 23:02:13"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2370"	lng="28.9870"	mag="1.7" Depth="12.1" />
+	<earhquake	name="2026.08.01 23:12:45"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2072"	lng="28.9410"	mag="2.0" Depth="10.7" />
+	<earhquake	name="2026.08.01 23:13:03"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1940"	lng="29.0078"	mag="1.6" Depth="15.5" />
+	<earhquake	name="2026.08.01 23:14:59"	lokasyon="MESTAN-(ADIYAMAN)                                 "	lat="37.9920"	lng="38.2098"	mag="0.9" Depth="11.9" />
+	<earhquake	name="2026.08.01 23:23:31"	lokasyon="AKDENIZ                                           "	lat="35.6840"	lng="28.6205"	mag="2.4" Depth="19.0" />
+	<earhquake	name="2026.08.01 23:46:09"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1190"	lng="38.4418"	mag="1.5" Depth="8.9" />
+	<earhquake	name="2026.08.01 23:51:52"	lokasyon="BAYINDIR (IZMIR)                                  "	lat="38.2208"	lng="27.6445"	mag="1.9" Depth="19.5" />
+	<earhquake	name="2026.08.02 00:20:08"	lokasyon="HIZIRSAH-DATCA (MUGLA)                            "	lat="36.7352"	lng="27.6355"	mag="1.7" Depth="7.5" />
 </eqlist>
