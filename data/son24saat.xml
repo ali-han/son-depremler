@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.01 01:35:48"	lokasyon="AKOREN-SARIKAMIS (KARS)                           "	lat="40.2820"	lng="42.2252"	mag="0.9" Depth="5.3" />
 	<earhquake	name="2026.08.01 02:19:28"	lokasyon="OZBASI-KOZAN (ADANA)                              "	lat="37.5855"	lng="35.7683"	mag="1.3" Depth="12.7" />
 	<earhquake	name="2026.08.01 02:19:29"	lokasyon="TURGUT-ULA (MUGLA)                                "	lat="37.1603"	lng="28.6558"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.08.01 02:42:50"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.5885"	lng="25.4068"	mag="2.4" Depth="20.2" />
@@ -91,4 +90,8 @@
 	<earhquake	name="2026.08.01 23:46:09"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1190"	lng="38.4418"	mag="1.5" Depth="8.9" />
 	<earhquake	name="2026.08.01 23:51:52"	lokasyon="BAYINDIR (IZMIR)                                  "	lat="38.2208"	lng="27.6445"	mag="1.9" Depth="19.5" />
 	<earhquake	name="2026.08.02 00:20:08"	lokasyon="HIZIRSAH-DATCA (MUGLA)                            "	lat="36.7352"	lng="27.6355"	mag="1.7" Depth="7.5" />
+	<earhquake	name="2026.08.02 00:22:24"	lokasyon="OSMANIYE-MARMARIS (MUGLA)                         "	lat="36.7267"	lng="28.2217"	mag="1.9" Depth="56.6" />
+	<earhquake	name="2026.08.02 00:31:10"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4827"	lng="29.1988"	mag="1.2" Depth="7.4" />
+	<earhquake	name="2026.08.02 00:35:56"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3117"	lng="26.0710"	mag="1.8" Depth="7.3" />
+	<earhquake	name="2026.08.02 01:02:55"	lokasyon="KIZLAN-DATCA (MUGLA)                              "	lat="36.7882"	lng="27.6688"	mag="1.3" Depth="5.5" />
 </eqlist>
