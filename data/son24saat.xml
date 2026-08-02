@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.01 22:04:46"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2338"	lng="29.0543"	mag="1.4" Depth="10.7" />
-	<earhquake	name="2026.08.01 22:14:00"	lokasyon="CANAKCI-KALE (MALATYA)                            "	lat="38.3107"	lng="38.7722"	mag="1.2" Depth="4.8" />
-	<earhquake	name="2026.08.01 22:44:22"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2600"	lng="28.9815"	mag="2.1" Depth="4.3" />
-	<earhquake	name="2026.08.01 22:45:48"	lokasyon="ALHANUSAGI-(MALATYA)                              "	lat="38.3172"	lng="38.6175"	mag="1.7" Depth="7.7" />
-	<earhquake	name="2026.08.01 22:48:10"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2433"	lng="29.0158"	mag="0.9" Depth="11.3" />
-	<earhquake	name="2026.08.01 22:51:24"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2570"	lng="28.9853"	mag="2.0" Depth="5.4" />
-	<earhquake	name="2026.08.01 22:54:51"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2543"	lng="28.9975"	mag="1.8" Depth="5.3" />
 	<earhquake	name="2026.08.01 23:02:13"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2370"	lng="28.9870"	mag="1.7" Depth="12.1" />
 	<earhquake	name="2026.08.01 23:12:45"	lokasyon="HAMZABEY-SIMAV (KUTAHYA)                          "	lat="39.2072"	lng="28.9410"	mag="2.0" Depth="10.7" />
 	<earhquake	name="2026.08.01 23:13:03"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1940"	lng="29.0078"	mag="1.6" Depth="15.5" />
@@ -82,4 +75,7 @@
 	<earhquake	name="2026.08.02 18:51:05"	lokasyon="AKDENIZ                                           "	lat="35.1530"	lng="29.1208"	mag="2.1" Depth="92.4" />
 	<earhquake	name="2026.08.02 20:08:47"	lokasyon="ORTAKOY-AKCADAG (MALATYA)                         "	lat="38.2857"	lng="37.8108"	mag="1.4" Depth="10.0" />
 	<earhquake	name="2026.08.02 20:48:22"	lokasyon="YUNANISTAN                                        "	lat="39.3760"	lng="23.5208"	mag="1.9" Depth="18.4" />
+	<earhquake	name="2026.08.02 21:12:03"	lokasyon="AYVALI-GURUN (SIVAS)                              "	lat="38.7508"	lng="37.5050"	mag="1.4" Depth="6.6" />
+	<earhquake	name="2026.08.02 21:44:39"	lokasyon="COPLER-ILIC (ERZINCAN)                            "	lat="39.4012"	lng="38.5238"	mag="1.6" Depth="11.5" />
+	<earhquake	name="2026.08.02 22:20:24"	lokasyon="YALOVA ACIKLARI (MARMARA DENIZI)                  "	lat="40.7665"	lng="29.1532"	mag="1.5" Depth="10.9" />
 </eqlist>
