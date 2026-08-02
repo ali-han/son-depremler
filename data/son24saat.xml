@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.01 20:18:39"	lokasyon="EGE DENIZI                                        "	lat="37.9130"	lng="26.5023"	mag="2.3" Depth="8.6" />
-	<earhquake	name="2026.08.01 20:32:13"	lokasyon="GOKCELI-NIKSAR (TOKAT)                            "	lat="40.5742"	lng="36.7205"	mag="2.9" Depth="4.2" />
-	<earhquake	name="2026.08.01 20:32:27"	lokasyon="KABAKLI-CICEKDAGI (KIRSEHIR)                      "	lat="39.6832"	lng="34.1765"	mag="3.7" Depth="4.5" />
-	<earhquake	name="2026.08.01 20:35:37"	lokasyon="CAYUSTU-BIGADIC (BALIKESIR)                       "	lat="39.3947"	lng="27.9652"	mag="1.7" Depth="5.2" />
-	<earhquake	name="2026.08.01 21:40:41"	lokasyon="SEVINDIK-CINAR (DIYARBAKIR)                       "	lat="37.7448"	lng="39.9710"	mag="1.8" Depth="7.9" />
-	<earhquake	name="2026.08.01 21:45:41"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.2737"	lng="26.0732"	mag="1.2" Depth="10.1" />
 	<earhquake	name="2026.08.01 22:04:46"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2338"	lng="29.0543"	mag="1.4" Depth="10.7" />
 	<earhquake	name="2026.08.01 22:14:00"	lokasyon="CANAKCI-KALE (MALATYA)                            "	lat="38.3107"	lng="38.7722"	mag="1.2" Depth="4.8" />
 	<earhquake	name="2026.08.01 22:44:22"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2600"	lng="28.9815"	mag="2.1" Depth="4.3" />
@@ -85,4 +79,7 @@
 	<earhquake	name="2026.08.02 17:31:02"	lokasyon="SULTANIYE-SELCUK (IZMIR)                          "	lat="37.8797"	lng="27.3062"	mag="2.6" Depth="4.9" />
 	<earhquake	name="2026.08.02 17:36:45"	lokasyon="KUSADASI (AYDIN)                                  "	lat="37.8888"	lng="27.2670"	mag="1.5" Depth="4.8" />
 	<earhquake	name="2026.08.02 17:50:37"	lokasyon="HIDIRKOY-(VAN)                                    "	lat="38.7157"	lng="43.3855"	mag="2.3" Depth="8.3" />
+	<earhquake	name="2026.08.02 18:51:05"	lokasyon="AKDENIZ                                           "	lat="35.1530"	lng="29.1208"	mag="2.1" Depth="92.4" />
+	<earhquake	name="2026.08.02 20:08:47"	lokasyon="ORTAKOY-AKCADAG (MALATYA)                         "	lat="38.2857"	lng="37.8108"	mag="1.4" Depth="10.0" />
+	<earhquake	name="2026.08.02 20:48:22"	lokasyon="YUNANISTAN                                        "	lat="39.3760"	lng="23.5208"	mag="1.9" Depth="18.4" />
 </eqlist>
