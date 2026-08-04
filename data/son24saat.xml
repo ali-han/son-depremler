@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.03 22:02:06"	lokasyon="CIFTLIKKOY-TORTUM (ERZURUM)                       "	lat="40.2888"	lng="41.4482"	mag="2.0" Depth="6.3" />
-	<earhquake	name="2026.08.03 22:13:24"	lokasyon="GULUMPASALI-SILIFKE (MERSIN)                      "	lat="36.2957"	lng="33.9488"	mag="1.7" Depth="1.8" />
 	<earhquake	name="2026.08.03 23:34:09"	lokasyon="YUNANISTAN                                        "	lat="39.4492"	lng="24.0747"	mag="2.0" Depth="8.5" />
 	<earhquake	name="2026.08.04 00:15:36"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1688"	lng="28.2363"	mag="1.8" Depth="9.6" />
 	<earhquake	name="2026.08.04 00:34:00"	lokasyon="ILICAK-AKCADAG (MALATYA)                          "	lat="38.4757"	lng="38.0692"	mag="1.7" Depth="5.0" />
@@ -44,5 +42,10 @@
 	<earhquake	name="2026.08.04 19:38:46"	lokasyon="OYUKLU-LICE (DIYARBAKIR)                          "	lat="38.3233"	lng="40.8085"	mag="1.8" Depth="8.7" />
 	<earhquake	name="2026.08.04 20:12:30"	lokasyon="SARIDERE-BERGAMA (IZMIR)                          "	lat="39.0160"	lng="27.1042"	mag="1.8" Depth="10.3" />
 	<earhquake	name="2026.08.04 20:51:47"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1395"	lng="28.1142"	mag="2.0" Depth="10.8" />
+	<earhquake	name="2026.08.04 21:04:53"	lokasyon="YOLKAYA-YILDIZELI (SIVAS)                         "	lat="39.7278"	lng="36.2680"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2026.08.04 21:28:04"	lokasyon="KAPAKLIKUYU-SAIMBEYLI (ADANA)                     "	lat="37.8215"	lng="36.2095"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2026.08.04 21:29:13"	lokasyon="YUNANISTAN                                        "	lat="39.4373"	lng="24.0510"	mag="2.6" Depth="15.2" />
+	<earhquake	name="2026.08.04 21:45:41"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3128"	lng="26.0852"	mag="1.3" Depth="9.6" />
+	<earhquake	name="2026.08.04 21:57:18"	lokasyon="GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)       "	lat="40.7167"	lng="27.5240"	mag="1.6" Depth="15.7" />
+	<earhquake	name="2026.08.04 22:29:59"	lokasyon="TATILI-SARIOGLAN (KAYSERI)                        "	lat="39.0983"	lng="36.0442"	mag="1.5" Depth="7.6" />
 </eqlist>
