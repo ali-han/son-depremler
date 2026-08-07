@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.06 21:03:59"	lokasyon="TASOLUK-GOKSUN (KAHRAMANMARAS)                    "	lat="37.9658"	lng="36.4537"	mag="1.5" Depth="14.8" />
-	<earhquake	name="2026.08.06 21:49:18"	lokasyon="ORENCIK-DOGANSEHIR (MALATYA)                      "	lat="37.9578"	lng="37.7547"	mag="1.2" Depth="15.6" />
 	<earhquake	name="2026.08.06 22:02:32"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0683"	lng="37.6552"	mag="1.6" Depth="14.0" />
 	<earhquake	name="2026.08.06 22:15:26"	lokasyon="KIRCA-SULTANDAGI (AFYONKARAHISAR)                 "	lat="38.5130"	lng="31.2697"	mag="1.9" Depth="5.4" />
 	<earhquake	name="2026.08.06 22:25:08"	lokasyon="HIRKATEPE-BEYPAZARI (ANKARA)                      "	lat="40.1958"	lng="31.7393"	mag="1.9" Depth="8.0" />
@@ -64,4 +62,5 @@
 	<earhquake	name="2026.08.07 18:54:44"	lokasyon="KABAAGAC-SARAYKOY (DENIZLI)                       "	lat="37.9267"	lng="28.8045"	mag="1.4" Depth="1.7" />
 	<earhquake	name="2026.08.07 19:40:49"	lokasyon="KURTULUS-SILIFKE (MERSIN)                         "	lat="36.2627"	lng="34.0232"	mag="1.4" Depth="8.8" />
 	<earhquake	name="2026.08.07 20:04:00"	lokasyon="KARAAHMETLI-(MANISA)                              "	lat="38.8530"	lng="27.1695"	mag="2.1" Depth="7.9" />
+	<earhquake	name="2026.08.07 20:57:39"	lokasyon="KARAHASAN-MALAZGIRT (MUS)                         "	lat="38.9968"	lng="42.6553"	mag="1.8" Depth="18.4" />
 </eqlist>
