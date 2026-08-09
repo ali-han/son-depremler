@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.08 11:24:16"	lokasyon="BALIKLI-SARIKAMIS (KARS)                          "	lat="40.0155"	lng="42.5450"	mag="1.8" Depth="13.6" />
-	<earhquake	name="2026.08.08 11:31:35"	lokasyon="BALIKLI-SARIKAMIS (KARS)                          "	lat="40.0245"	lng="42.5738"	mag="1.6" Depth="2.1" />
-	<earhquake	name="2026.08.08 11:47:19"	lokasyon="SOGANLI-ALASEHIR (MANISA)                         "	lat="38.5143"	lng="28.4688"	mag="1.2" Depth="4.8" />
-	<earhquake	name="2026.08.08 12:04:32"	lokasyon="HARUNUSAGI-AKCADAG (MALATYA)                      "	lat="38.2385"	lng="37.7335"	mag="1.9" Depth="17.1" />
-	<earhquake	name="2026.08.08 12:12:49"	lokasyon="IMAMUSAGI-SILIFKE (MERSIN)                        "	lat="36.2805"	lng="33.7555"	mag="1.3" Depth="0.0" />
-	<earhquake	name="2026.08.08 12:38:25"	lokasyon="SARICALAR-SELCUKLU (KONYA)                        "	lat="38.0868"	lng="32.6102"	mag="0.8" Depth="0.0" />
-	<earhquake	name="2026.08.08 12:40:02"	lokasyon="BAYAT-SOMA (MANISA)                               "	lat="39.1995"	lng="27.7032"	mag="1.6" Depth="0.0" />
 	<earhquake	name="2026.08.08 13:16:16"	lokasyon="SAMLI-(BALIKESIR)                                 "	lat="39.8252"	lng="27.8658"	mag="0.9" Depth="16.3" />
 	<earhquake	name="2026.08.08 13:20:03"	lokasyon="MALAZ-GORDES (MANISA)                             "	lat="39.0647"	lng="28.2852"	mag="1.2" Depth="4.8" />
 	<earhquake	name="2026.08.08 13:31:09"	lokasyon="MILLI PARK-KUSADASI (AYDIN)                       "	lat="37.6862"	lng="27.0513"	mag="2.7" Depth="2.9" />
@@ -85,4 +78,5 @@
 	<earhquake	name="2026.08.09 09:36:00"	lokasyon="MIDILLI ADASI (EGE DENIZI)                        "	lat="39.3152"	lng="26.0980"	mag="1.5" Depth="11.2" />
 	<earhquake	name="2026.08.09 10:00:23"	lokasyon="AKDENIZ                                           "	lat="36.1560"	lng="28.1520"	mag="2.6" Depth="3.3" />
 	<earhquake	name="2026.08.09 10:07:34"	lokasyon="INCECIK-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.3562"	lng="37.3492"	mag="2.4" Depth="1.3" />
+	<earhquake	name="2026.08.09 11:05:37"	lokasyon="KARACAOREN-SIMAV (KUTAHYA)                        "	lat="39.1858"	lng="29.0278"	mag="1.2" Depth="14.5" />
 </eqlist>
