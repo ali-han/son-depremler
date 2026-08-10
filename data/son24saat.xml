@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.09 02:26:14"	lokasyon="BAGLICAY-GURUN (SIVAS)                            "	lat="38.8315"	lng="37.4780"	mag="1.9" Depth="5.0" />
-	<earhquake	name="2026.08.09 02:37:42"	lokasyon="TURKMENLI-BAYRAMIC (CANAKKALE)                    "	lat="39.7730"	lng="26.4790"	mag="1.0" Depth="10.9" />
-	<earhquake	name="2026.08.09 02:57:42"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.3673"	lng="24.4617"	mag="2.2" Depth="7.1" />
 	<earhquake	name="2026.08.09 03:12:46"	lokasyon="BABAKALE-AYVACIK (CANAKKALE)                      "	lat="39.4907"	lng="26.0455"	mag="2.4" Depth="5.7" />
 	<earhquake	name="2026.08.09 03:16:07"	lokasyon="BABAKALE-AYVACIK (CANAKKALE)                      "	lat="39.4867"	lng="26.0442"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2026.08.09 03:31:19"	lokasyon="DEGIRMENKOY-GEDIZ (KUTAHYA)                       "	lat="39.1182"	lng="29.3300"	mag="0.8" Depth="20.0" />
@@ -68,4 +65,10 @@
 	<earhquake	name="2026.08.09 23:39:06"	lokasyon="TURGUT-ULA (MUGLA)                                "	lat="37.1498"	lng="28.7078"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2026.08.10 00:21:57"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9473"	lng="26.0097"	mag="2.1" Depth="8.8" />
 	<earhquake	name="2026.08.10 01:44:53"	lokasyon="SENKOY-CINARCIK (YALOVA)                          "	lat="40.6508"	lng="28.9997"	mag="2.1" Depth="11.9" />
+	<earhquake	name="2026.08.10 01:50:55"	lokasyon="SENKOY-CINARCIK (YALOVA)                          "	lat="40.6455"	lng="29.0087"	mag="1.9" Depth="6.6" />
+	<earhquake	name="2026.08.10 02:02:27"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1778"	lng="28.2240"	mag="2.0" Depth="11.0" />
+	<earhquake	name="2026.08.10 02:09:40"	lokasyon="SENKOY-CINARCIK (YALOVA)                          "	lat="40.6448"	lng="28.9985"	mag="1.7" Depth="10.8" />
+	<earhquake	name="2026.08.10 02:17:09"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.4297"	lng="27.0347"	mag="1.2" Depth="14.0" />
+	<earhquake	name="2026.08.10 02:21:07"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9020"	lng="27.5887"	mag="2.0" Depth="7.4" />
+	<earhquake	name="2026.08.10 02:40:49"	lokasyon="RODOS ADASI (AKDENIZ)                             "	lat="36.0887"	lng="28.0983"	mag="2.3" Depth="10.5" />
 </eqlist>
