@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.12 21:19:30"	lokasyon="KARAMAGARA-AKCADAG (MALATYA)                      "	lat="38.4565"	lng="37.9913"	mag="1.4" Depth="12.2" />
-	<earhquake	name="2026.08.12 21:27:43"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1677"	lng="28.2227"	mag="1.9" Depth="12.3" />
-	<earhquake	name="2026.08.12 21:29:49"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3762"	lng="37.4223"	mag="1.9" Depth="4.7" />
-	<earhquake	name="2026.08.12 22:20:15"	lokasyon="AYRITEPE-YUNAK (KONYA)                            "	lat="38.6827"	lng="31.6468"	mag="1.5" Depth="14.0" />
 	<earhquake	name="2026.08.12 23:04:41"	lokasyon="SINIRKOY-YAGLIDERE (GIRESUN)                      "	lat="40.6927"	lng="38.6137"	mag="2.1" Depth="15.2" />
 	<earhquake	name="2026.08.12 23:18:14"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2555"	lng="37.7502"	mag="1.5" Depth="9.4" />
 	<earhquake	name="2026.08.12 23:46:34"	lokasyon="KORKUYU-CEYHAN (ADANA)                            "	lat="36.9452"	lng="35.8555"	mag="1.8" Depth="6.9" />
@@ -64,4 +60,9 @@
 	<earhquake	name="2026.08.13 20:04:27"	lokasyon="GUNDEGER-PUTURGE (MALATYA)                        "	lat="38.3092"	lng="38.8330"	mag="1.8" Depth="3.3" />
 	<earhquake	name="2026.08.13 20:05:11"	lokasyon="TOMBAK-GOKSUN (KAHRAMANMARAS)                     "	lat="38.1275"	lng="36.9763"	mag="1.8" Depth="7.1" />
 	<earhquake	name="2026.08.13 20:15:15"	lokasyon="CEVIZDERE-(ELAZIG)                                "	lat="38.5170"	lng="39.3738"	mag="1.5" Depth="5.0" />
+	<earhquake	name="2026.08.13 20:27:45"	lokasyon="EGE DENIZI                                        "	lat="35.9685"	lng="27.4940"	mag="1.9" Depth="12.7" />
+	<earhquake	name="2026.08.13 20:58:46"	lokasyon="KARANEBILI-KOZAN (ADANA)                          "	lat="37.6218"	lng="35.7370"	mag="1.8" Depth="10.5" />
+	<earhquake	name="2026.08.13 21:14:47"	lokasyon="EBER-CAY (AFYONKARAHISAR)                         "	lat="38.6248"	lng="31.1035"	mag="1.6" Depth="10.3" />
+	<earhquake	name="2026.08.13 21:22:39"	lokasyon="CAYIRLI-ARGUVAN (MALATYA)                         "	lat="38.8755"	lng="38.3928"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.08.13 21:25:00"	lokasyon="CAMLICA-KAYNASLI (DUZCE)                          "	lat="40.7348"	lng="31.3490"	mag="2.1" Depth="10.5" />
 </eqlist>
