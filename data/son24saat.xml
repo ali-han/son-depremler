@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.13 12:42:01"	lokasyon="CAYGOREN-SINDIRGI (BALIKESIR)                     "	lat="39.2473"	lng="28.2060"	mag="1.8" Depth="7.3" />
 	<earhquake	name="2026.08.13 13:01:10"	lokasyon="HUGTAS-GOKSUN (KAHRAMANMARAS)                     "	lat="38.0070"	lng="36.3220"	mag="2.6" Depth="12.1" />
 	<earhquake	name="2026.08.13 13:33:37"	lokasyon="GOKDERE-(AMASYA)                                  "	lat="40.5233"	lng="35.5493"	mag="4.0" Depth="5.0" />
 	<earhquake	name="2026.08.13 14:49:17"	lokasyon="YENIYURT-ERDEMLI (MERSIN)                         "	lat="36.6238"	lng="34.1093"	mag="1.9" Depth="14.5" />
@@ -58,4 +57,6 @@
 	<earhquake	name="2026.08.14 09:40:26"	lokasyon="KOZLUOREN-SOMA (MANISA)                           "	lat="39.2953"	lng="27.7315"	mag="1.5" Depth="1.1" />
 	<earhquake	name="2026.08.14 10:10:07"	lokasyon="TEKEDERESI-PUTURGE (MALATYA)                      "	lat="38.1575"	lng="38.6040"	mag="2.0" Depth="21.7" />
 	<earhquake	name="2026.08.14 10:12:43"	lokasyon="YOLKURU-DOGANSEHIR (MALATYA)                      "	lat="38.1398"	lng="37.9005"	mag="1.9" Depth="8.4" />
+	<earhquake	name="2026.08.14 10:38:04"	lokasyon="KARAGI-AKSU (ISPARTA)                             "	lat="37.8292"	lng="31.1735"	mag="1.5" Depth="9.7" />
+	<earhquake	name="2026.08.14 10:42:07"	lokasyon="KUCUKYAPALAK-ELBISTAN (KAHRAMANMARAS)             "	lat="38.3042"	lng="37.2067"	mag="1.8" Depth="3.8" />
 </eqlist>
