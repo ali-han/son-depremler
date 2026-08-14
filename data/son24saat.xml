@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.13 16:00:58"	lokasyon="SOGUTCUK-KORKUTELI (ANTALYA)                      "	lat="36.9968"	lng="30.3978"	mag="1.9" Depth="9.3" />
-	<earhquake	name="2026.08.13 16:08:07"	lokasyon="HORZUMSAZDERE-ALASEHIR (MANISA)                   "	lat="38.3617"	lng="28.3620"	mag="1.8" Depth="5.2" />
 	<earhquake	name="2026.08.13 17:27:24"	lokasyon="PINARKOY-MILAS (MUGLA)                            "	lat="37.0837"	lng="27.9825"	mag="1.5" Depth="0.0" />
 	<earhquake	name="2026.08.13 17:44:43"	lokasyon="OVACIK-KIRAZ (IZMIR)                              "	lat="38.3452"	lng="28.2145"	mag="1.8" Depth="4.8" />
 	<earhquake	name="2026.08.13 17:53:20"	lokasyon="SOGUTCUK-KORKUTELI (ANTALYA)                      "	lat="36.9640"	lng="30.3712"	mag="1.8" Depth="12.9" />
@@ -64,4 +62,5 @@
 	<earhquake	name="2026.08.14 14:05:37"	lokasyon="KILLIK-MUSTAFAKEMALPASA (BURSA)                   "	lat="40.0482"	lng="28.6360"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.08.14 14:14:06"	lokasyon="GOKGOZLER-LACIN (CORUM)                           "	lat="40.8225"	lng="34.8578"	mag="2.0" Depth="13.2" />
 	<earhquake	name="2026.08.14 14:23:33"	lokasyon="BALCILAR-KOYCEGIZ (MUGLA)                         "	lat="37.0903"	lng="28.5917"	mag="1.8" Depth="8.1" />
+	<earhquake	name="2026.08.14 15:42:54"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2110"	lng="27.9505"	mag="1.8" Depth="8.3" />
 </eqlist>
