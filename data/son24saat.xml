@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.14 15:42:54"	lokasyon="HACET-KIRKAGAC (MANISA)                           "	lat="39.2110"	lng="27.9505"	mag="1.8" Depth="8.3" />
 	<earhquake	name="2026.08.14 16:42:23"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2108"	lng="28.0707"	mag="3.1" Depth="12.9" />
 	<earhquake	name="2026.08.14 18:14:37"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2125"	lng="28.0543"	mag="1.6" Depth="7.8" />
 	<earhquake	name="2026.08.14 19:12:13"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2365"	lng="29.0157"	mag="1.2" Depth="10.9" />
@@ -50,5 +49,8 @@
 	<earhquake	name="2026.08.15 12:22:45"	lokasyon="BOLALAN-TATVAN (BITLIS)                           "	lat="38.4688"	lng="42.4628"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2026.08.15 13:42:51"	lokasyon="ISIKKARA-(KUTAHYA)                                "	lat="39.5895"	lng="30.0908"	mag="1.6" Depth="15.2" />
 	<earhquake	name="2026.08.15 13:46:15"	lokasyon="KARAOMERLER-SELCUKLU (KONYA)                      "	lat="38.0955"	lng="32.6887"	mag="1.4" Depth="7.8" />
+	<earhquake	name="2026.08.15 14:19:28"	lokasyon="KALEBOGAZI-(AMASYA)                               "	lat="40.5502"	lng="35.5468"	mag="1.5" Depth="5.2" />
 	<earhquake	name="2026.08.15 14:24:30"	lokasyon="BULGURLU-(MALATYA)                                "	lat="38.3455"	lng="38.4438"	mag="1.2" Depth="20.5" />
+	<earhquake	name="2026.08.15 14:50:42"	lokasyon="YAKINCA-YESILYURT (MALATYA)                       "	lat="38.3165"	lng="38.2180"	mag="2.7" Depth="14.6" />
+	<earhquake	name="2026.08.15 14:51:20"	lokasyon="BARIS-NURHAK (KAHRAMANMARAS)                      "	lat="38.0205"	lng="37.3812"	mag="2.2" Depth="5.0" />
 </eqlist>
