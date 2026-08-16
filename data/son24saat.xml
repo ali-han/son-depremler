@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.15 16:19:25"	lokasyon="KOCAKORU-MUSTAFAKEMALPASA (BURSA)                 "	lat="40.0428"	lng="28.6707"	mag="3.3" Depth="7.6" />
-	<earhquake	name="2026.08.15 16:32:00"	lokasyon="KOCAKORU-MUSTAFAKEMALPASA (BURSA)                 "	lat="40.0417"	lng="28.6603"	mag="1.8" Depth="7.3" />
 	<earhquake	name="2026.08.15 17:06:03"	lokasyon="YUNANISTAN                                        "	lat="40.3247"	lng="24.0962"	mag="2.9" Depth="8.9" />
 	<earhquake	name="2026.08.15 17:34:37"	lokasyon="OSMANIYE-MUSTAFAKEMALPASA (BURSA)                 "	lat="39.9552"	lng="28.6765"	mag="1.9" Depth="1.2" />
 	<earhquake	name="2026.08.15 18:45:33"	lokasyon="EGE DENIZI                                        "	lat="35.8730"	lng="27.6073"	mag="3.1" Depth="8.0" />
@@ -49,4 +47,5 @@
 	<earhquake	name="2026.08.16 15:23:13"	lokasyon="ZINCIRLI-ISLAHIYE (GAZIANTEP)                     "	lat="37.0932"	lng="36.6930"	mag="3.0" Depth="9.4" />
 	<earhquake	name="2026.08.16 15:43:55"	lokasyon="BOYNUYOGUN-SARICAM (ADANA)                        "	lat="37.0505"	lng="35.4262"	mag="2.6" Depth="16.6" />
 	<earhquake	name="2026.08.16 15:45:05"	lokasyon="DUZLEN-(MANISA)                                   "	lat="38.7830"	lng="27.1488"	mag="2.2" Depth="17.6" />
+	<earhquake	name="2026.08.16 15:56:08"	lokasyon="KOCAKORU-MUSTAFAKEMALPASA (BURSA)                 "	lat="40.0458"	lng="28.6727"	mag="2.5" Depth="10.5" />
 </eqlist>
