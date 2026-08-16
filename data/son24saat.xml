@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.15 04:55:26"	lokasyon="AKDENIZ                                           "	lat="36.2452"	lng="35.5247"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2026.08.15 05:07:02"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2507"	lng="29.0008"	mag="1.4" Depth="11.5" />
 	<earhquake	name="2026.08.15 05:26:29"	lokasyon="KUMBETLI-NIKSAR (TOKAT)                           "	lat="40.6410"	lng="36.7597"	mag="1.7" Depth="27.1" />
 	<earhquake	name="2026.08.15 05:27:21"	lokasyon="YUVADAMI-AHLAT (BITLIS)                           "	lat="38.8210"	lng="42.4837"	mag="1.7" Depth="24.0" />
@@ -49,4 +48,6 @@
 	<earhquake	name="2026.08.16 02:34:18"	lokasyon="TANISIK-(MALATYA)                                 "	lat="38.2830"	lng="38.5535"	mag="1.5" Depth="3.7" />
 	<earhquake	name="2026.08.16 02:36:44"	lokasyon="TOKLUCA-(MALATYA)                                 "	lat="38.2778"	lng="38.5477"	mag="2.0" Depth="1.8" />
 	<earhquake	name="2026.08.16 03:19:18"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2397"	lng="28.1192"	mag="2.3" Depth="8.0" />
+	<earhquake	name="2026.08.16 04:07:28"	lokasyon="ALTINSAC-GEVAS (VAN)                              "	lat="38.4133"	lng="42.8760"	mag="1.8" Depth="5.2" />
+	<earhquake	name="2026.08.16 04:28:42"	lokasyon="TORATLI-CEMISGEZEK (TUNCELI)                      "	lat="39.0910"	lng="39.0115"	mag="2.1" Depth="5.0" />
 </eqlist>
