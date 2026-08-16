@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.16 01:08:54"	lokasyon="KOCKALE-(ELAZIG)                                  "	lat="38.5748"	lng="39.4825"	mag="2.9" Depth="7.7" />
-	<earhquake	name="2026.08.16 01:41:21"	lokasyon="ORTAKLI-AFSIN (KAHRAMANMARAS)                     "	lat="38.1595"	lng="37.0160"	mag="2.3" Depth="5.0" />
-	<earhquake	name="2026.08.16 01:51:20"	lokasyon="NARLI-GEMLIK (BURSA)                              "	lat="40.4582"	lng="29.0158"	mag="1.4" Depth="2.4" />
 	<earhquake	name="2026.08.16 02:32:03"	lokasyon="GULUMUSAGI-(MALATYA)                              "	lat="38.2287"	lng="38.5327"	mag="1.5" Depth="5.3" />
 	<earhquake	name="2026.08.16 02:33:50"	lokasyon="SEVILDAG-(MALATYA)                                "	lat="38.3782"	lng="38.5365"	mag="1.9" Depth="8.7" />
 	<earhquake	name="2026.08.16 02:34:18"	lokasyon="TANISIK-(MALATYA)                                 "	lat="38.2830"	lng="38.5535"	mag="1.5" Depth="3.7" />
@@ -57,4 +54,5 @@
 	<earhquake	name="2026.08.16 23:17:49"	lokasyon="AKTAS-KEMAH (ERZINCAN)                            "	lat="39.8147"	lng="39.1197"	mag="1.5" Depth="10.0" />
 	<earhquake	name="2026.08.16 23:30:14"	lokasyon="CANTIRLI-BEYPAZARI (ANKARA)                       "	lat="40.1290"	lng="31.7732"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.08.17 00:43:17"	lokasyon="ALAKIR-SINDIRGI (BALIKESIR)                       "	lat="39.2200"	lng="28.0405"	mag="1.4" Depth="7.9" />
+	<earhquake	name="2026.08.17 00:57:41"	lokasyon="TETIRLIK-PAZARCIK (KAHRAMANMARAS)                 "	lat="37.5367"	lng="37.2893"	mag="1.8" Depth="7.0" />
 </eqlist>
