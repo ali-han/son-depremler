@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.16 15:16:54"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1898"	lng="28.1168"	mag="2.1" Depth="14.8" />
-	<earhquake	name="2026.08.16 15:23:13"	lokasyon="ZINCIRLI-ISLAHIYE (GAZIANTEP)                     "	lat="37.0932"	lng="36.6930"	mag="3.0" Depth="9.4" />
-	<earhquake	name="2026.08.16 15:43:55"	lokasyon="BOYNUYOGUN-SARICAM (ADANA)                        "	lat="37.0505"	lng="35.4262"	mag="2.6" Depth="16.6" />
-	<earhquake	name="2026.08.16 15:45:05"	lokasyon="DUZLEN-(MANISA)                                   "	lat="38.7830"	lng="27.1488"	mag="2.2" Depth="17.6" />
-	<earhquake	name="2026.08.16 15:56:08"	lokasyon="KOCAKORU-MUSTAFAKEMALPASA (BURSA)                 "	lat="40.0458"	lng="28.6727"	mag="2.5" Depth="10.5" />
 	<earhquake	name="2026.08.16 18:39:55"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2042"	lng="28.0212"	mag="1.7" Depth="11.3" />
 	<earhquake	name="2026.08.16 18:47:31"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.7652"	lng="31.5293"	mag="1.5" Depth="12.7" />
 	<earhquake	name="2026.08.16 18:56:04"	lokasyon="ELBISTANHUYUGU-ISLAHIYE (GAZIANTEP)               "	lat="37.0988"	lng="36.7287"	mag="1.6" Depth="10.9" />
@@ -65,4 +60,6 @@
 	<earhquake	name="2026.08.17 13:54:59"	lokasyon="EGE DENIZI                                        "	lat="38.5170"	lng="25.3788"	mag="2.0" Depth="6.9" />
 	<earhquake	name="2026.08.17 14:23:23"	lokasyon="AKKOY-INHISAR (BILECIK)                           REVIZE01   (2026.08.17 14:23:23)"	lat="40.0915"	lng="30.4595"	mag="3.0" Depth="5.4" />
 	<earhquake	name="2026.08.17 14:40:06"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.1927"	lng="28.0413"	mag="2.1" Depth="9.7" />
+	<earhquake	name="2026.08.17 14:50:42"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2092"	lng="28.1007"	mag="2.5" Depth="17.4" />
+	<earhquake	name="2026.08.17 15:31:41"	lokasyon="EGE DENIZI                                        "	lat="35.5205"	lng="26.6363"	mag="2.7" Depth="13.1" />
 </eqlist>
