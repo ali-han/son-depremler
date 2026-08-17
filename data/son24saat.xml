@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.16 18:39:55"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2042"	lng="28.0212"	mag="1.7" Depth="11.3" />
-	<earhquake	name="2026.08.16 18:47:31"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.7652"	lng="31.5293"	mag="1.5" Depth="12.7" />
-	<earhquake	name="2026.08.16 18:56:04"	lokasyon="ELBISTANHUYUGU-ISLAHIYE (GAZIANTEP)               "	lat="37.0988"	lng="36.7287"	mag="1.6" Depth="10.9" />
 	<earhquake	name="2026.08.16 19:15:18"	lokasyon="GUZELKOY-ISKENDERUN (HATAY)                       "	lat="36.6018"	lng="36.2977"	mag="1.7" Depth="5.0" />
 	<earhquake	name="2026.08.16 19:50:14"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1713"	lng="38.4537"	mag="1.4" Depth="5.0" />
 	<earhquake	name="2026.08.16 19:58:06"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1960"	lng="28.2205"	mag="1.5" Depth="15.8" />
@@ -65,4 +62,5 @@
 	<earhquake	name="2026.08.17 16:27:46"	lokasyon="BALIKESIR (BALIKESIR)                             "	lat="39.6552"	lng="27.8658"	mag="1.2" Depth="5.2" />
 	<earhquake	name="2026.08.17 16:56:37"	lokasyon="ASAGIIHSANGAZILI-DELICE (KIRIKKALE)               "	lat="39.8410"	lng="34.0738"	mag="1.8" Depth="5.4" />
 	<earhquake	name="2026.08.17 17:29:45"	lokasyon="PASAKONAGI-(DUZCE)                                "	lat="40.8080"	lng="31.0723"	mag="1.4" Depth="9.9" />
+	<earhquake	name="2026.08.17 18:08:01"	lokasyon="KADIRUSAGI-YESILYURT (MALATYA)                    "	lat="38.2372"	lng="38.2505"	mag="1.5" Depth="19.3" />
 </eqlist>
