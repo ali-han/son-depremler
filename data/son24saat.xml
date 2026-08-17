@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.16 10:06:06"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2318"	lng="38.1225"	mag="2.4" Depth="10.3" />
-	<earhquake	name="2026.08.16 10:17:24"	lokasyon="TAHTAKOPRU-VEZIRKOPRU (SAMSUN)                    "	lat="41.1053"	lng="35.0113"	mag="2.0" Depth="3.5" />
-	<earhquake	name="2026.08.16 10:50:10"	lokasyon="SOGUT-DOGANSEHIR (MALATYA)                        "	lat="38.0682"	lng="37.7320"	mag="1.3" Depth="4.2" />
-	<earhquake	name="2026.08.16 11:32:36"	lokasyon="GORGU-YESILYURT (MALATYA)                         "	lat="38.2485"	lng="38.1368"	mag="1.3" Depth="9.0" />
 	<earhquake	name="2026.08.16 12:41:13"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2218"	lng="28.1563"	mag="1.3" Depth="5.3" />
 	<earhquake	name="2026.08.16 13:01:54"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2350"	lng="28.1025"	mag="2.5" Depth="9.7" />
 	<earhquake	name="2026.08.16 13:04:32"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2350"	lng="28.1232"	mag="2.2" Depth="10.5" />
@@ -64,4 +60,6 @@
 	<earhquake	name="2026.08.17 09:22:48"	lokasyon="HAMDIYE-GUNEY (DENIZLI)                           "	lat="38.0807"	lng="28.9648"	mag="2.1" Depth="7.8" />
 	<earhquake	name="2026.08.17 09:32:20"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2200"	lng="29.0562"	mag="1.3" Depth="2.8" />
 	<earhquake	name="2026.08.17 09:51:58"	lokasyon="DEREKARABAG-BOLVADIN (AFYONKARAHISAR)             "	lat="38.6905"	lng="31.1823"	mag="1.4" Depth="10.0" />
+	<earhquake	name="2026.08.17 10:34:52"	lokasyon="KAYABASI-FETHIYE (MUGLA)                          "	lat="36.8643"	lng="29.7207"	mag="1.7" Depth="11.6" />
+	<earhquake	name="2026.08.17 10:44:57"	lokasyon="KIZILOT-MANAVGAT (ANTALYA)                        "	lat="36.7015"	lng="31.5775"	mag="1.9" Depth="107.8" />
 </eqlist>
