@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.17 20:21:07"	lokasyon="BABAKALE-AYVACIK (CANAKKALE)                      "	lat="39.4880"	lng="26.0712"	mag="1.7" Depth="15.1" />
-	<earhquake	name="2026.08.17 20:30:38"	lokasyon="MURATCA-INHISAR (BILECIK)                         "	lat="40.1270"	lng="30.4550"	mag="2.2" Depth="8.6" />
 	<earhquake	name="2026.08.17 21:02:43"	lokasyon="ORTABURUN-CINARCIK (YALOVA)                       "	lat="40.6132"	lng="29.1217"	mag="1.5" Depth="12.6" />
 	<earhquake	name="2026.08.17 21:26:09"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2178"	lng="29.0138"	mag="1.2" Depth="12.8" />
 	<earhquake	name="2026.08.17 22:01:29"	lokasyon="BELENLI-KELKIT (GUMUSHANE)                        "	lat="39.9250"	lng="39.5097"	mag="1.9" Depth="11.5" />
@@ -86,4 +84,6 @@
 	<earhquake	name="2026.08.18 18:42:45"	lokasyon="CAMDERE-KOZAN (ADANA)                             "	lat="37.6485"	lng="35.8145"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2026.08.18 19:23:44"	lokasyon="CAMDERE-KOZAN (ADANA)                             "	lat="37.6558"	lng="35.8482"	mag="2.1" Depth="6.1" />
 	<earhquake	name="2026.08.18 19:30:34"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1355"	lng="28.2997"	mag="1.4" Depth="9.3" />
+	<earhquake	name="2026.08.18 20:10:58"	lokasyon="BEHRAM-AYVACIK (CANAKKALE)                        "	lat="39.4840"	lng="26.2963"	mag="1.6" Depth="17.3" />
+	<earhquake	name="2026.08.18 20:18:50"	lokasyon="OSMANKOSELI-HALKAPINAR (KONYA)                    "	lat="37.4033"	lng="34.3318"	mag="3.5" Depth="7.1" />
 </eqlist>
