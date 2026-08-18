@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.17 17:29:45"	lokasyon="PASAKONAGI-(DUZCE)                                "	lat="40.8080"	lng="31.0723"	mag="1.4" Depth="9.9" />
-	<earhquake	name="2026.08.17 17:44:34"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.9252"	lng="24.3425"	mag="2.7" Depth="4.9" />
 	<earhquake	name="2026.08.17 18:08:01"	lokasyon="KADIRUSAGI-YESILYURT (MALATYA)                    "	lat="38.2372"	lng="38.2505"	mag="1.5" Depth="19.3" />
 	<earhquake	name="2026.08.17 18:52:23"	lokasyon="CANTIRLI-BEYPAZARI (ANKARA)                       "	lat="40.1520"	lng="31.7703"	mag="2.4" Depth="8.3" />
 	<earhquake	name="2026.08.17 20:21:07"	lokasyon="BABAKALE-AYVACIK (CANAKKALE)                      "	lat="39.4880"	lng="26.0712"	mag="1.7" Depth="15.1" />
@@ -76,4 +74,6 @@
 	<earhquake	name="2026.08.18 15:18:12"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.4613"	lng="26.0093"	mag="3.1" Depth="5.0" />
 	<earhquake	name="2026.08.18 15:51:11"	lokasyon="TAHTALI-GONEN (BALIKESIR)                         "	lat="40.1562"	lng="27.4260"	mag="1.0" Depth="8.5" />
 	<earhquake	name="2026.08.18 16:31:03"	lokasyon="KARATERZI-DOGANSEHIR (MALATYA)                    "	lat="38.1750"	lng="37.8982"	mag="1.9" Depth="10.3" />
+	<earhquake	name="2026.08.18 16:46:46"	lokasyon="EDREMIT KORFEZI (EGE DENIZI)                      "	lat="39.4732"	lng="26.3018"	mag="1.4" Depth="11.5" />
+	<earhquake	name="2026.08.18 17:29:51"	lokasyon="YUNANISTAN                                        "	lat="38.3573"	lng="23.3150"	mag="2.8" Depth="16.8" />
 </eqlist>
