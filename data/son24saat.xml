@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.17 12:12:03"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.2727"	lng="33.7232"	mag="1.2" Depth="0.0" />
-	<earhquake	name="2026.08.17 12:16:17"	lokasyon="CUMHURIYET-YESILYURT (MALATYA)                    "	lat="38.2425"	lng="38.0507"	mag="1.1" Depth="0.0" />
-	<earhquake	name="2026.08.17 12:23:31"	lokasyon="SURENDAL-CINAR (DIYARBAKIR)                       "	lat="37.5442"	lng="40.2987"	mag="1.7" Depth="9.0" />
 	<earhquake	name="2026.08.17 13:07:05"	lokasyon="YENIKONAK-(ELAZIG)                                "	lat="38.6117"	lng="38.9768"	mag="1.8" Depth="23.2" />
 	<earhquake	name="2026.08.17 13:11:47"	lokasyon="CETMI-GUMUSHACIKOY (AMASYA)                       "	lat="40.8303"	lng="35.1867"	mag="1.8" Depth="5.4" />
 	<earhquake	name="2026.08.17 13:54:59"	lokasyon="EGE DENIZI                                        "	lat="38.5170"	lng="25.3788"	mag="2.0" Depth="6.9" />
@@ -69,4 +66,7 @@
 	<earhquake	name="2026.08.18 10:44:28"	lokasyon="ADALAR (ISTANBUL)                                 REVIZE01   (2026.08.18 10:44:28)"	lat="40.8703"	lng="29.1343"	mag="0.7" Depth="14.5" />
 	<earhquake	name="2026.08.18 10:49:28"	lokasyon="YUNANISTAN                                        "	lat="38.8755"	lng="23.3290"	mag="2.2" Depth="19.9" />
 	<earhquake	name="2026.08.18 11:05:13"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.8348"	lng="29.1570"	mag="0.8" Depth="11.2" />
+	<earhquake	name="2026.08.18 12:10:19"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1653"	lng="28.2340"	mag="1.6" Depth="10.4" />
+	<earhquake	name="2026.08.18 12:11:47"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.2250"	lng="33.7452"	mag="1.0" Depth="0.0" />
+	<earhquake	name="2026.08.18 12:12:23"	lokasyon="ISIKLI-SILIFKE (MERSIN)                           "	lat="36.2472"	lng="33.7072"	mag="1.0" Depth="0.0" />
 </eqlist>
