@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.19 01:16:11"	lokasyon="EGE DENIZI                                        "	lat="39.4613"	lng="25.0435"	mag="1.8" Depth="7.9" />
-	<earhquake	name="2026.08.19 01:30:18"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1065"	lng="28.3142"	mag="1.8" Depth="11.4" />
-	<earhquake	name="2026.08.19 01:57:14"	lokasyon="KAVALLI-SIVRICE (ELAZIG)                          "	lat="38.4670"	lng="39.1510"	mag="1.4" Depth="1.8" />
-	<earhquake	name="2026.08.19 01:57:49"	lokasyon="KAVAKTEPE-(ELAZIG)                                "	lat="38.5023"	lng="39.1965"	mag="1.3" Depth="3.0" />
-	<earhquake	name="2026.08.19 01:59:14"	lokasyon="KAVAKTEPE-(ELAZIG)                                "	lat="38.5033"	lng="39.1912"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2026.08.19 02:05:47"	lokasyon="AKDENIZ                                           "	lat="35.9662"	lng="31.6493"	mag="1.8" Depth="8.0" />
 	<earhquake	name="2026.08.19 02:41:33"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1645"	lng="28.1278"	mag="1.5" Depth="13.0" />
 	<earhquake	name="2026.08.19 03:20:47"	lokasyon="GECITLI-SINCIK (ADIYAMAN)                         "	lat="38.1073"	lng="38.5013"	mag="1.5" Depth="2.6" />
@@ -78,4 +73,7 @@
 	<earhquake	name="2026.08.20 00:35:10"	lokasyon="MARMARA DENIZI                                    "	lat="40.7872"	lng="27.9152"	mag="1.8" Depth="8.6" />
 	<earhquake	name="2026.08.20 00:41:45"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7758"	lng="29.0888"	mag="2.9" Depth="12.2" />
 	<earhquake	name="2026.08.20 00:43:45"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7767"	lng="29.1027"	mag="1.8" Depth="10.1" />
+	<earhquake	name="2026.08.20 01:01:48"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1663"	lng="28.1620"	mag="1.2" Depth="8.8" />
+	<earhquake	name="2026.08.20 01:08:10"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7925"	lng="29.1162"	mag="1.2" Depth="12.0" />
+	<earhquake	name="2026.08.20 01:11:55"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7927"	lng="29.0888"	mag="1.7" Depth="12.1" />
 </eqlist>
