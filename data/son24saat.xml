@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.18 10:33:52"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9782"	lng="26.0083"	mag="1.4" Depth="17.7" />
-	<earhquake	name="2026.08.18 10:39:20"	lokasyon="BEGRE-DOGANSEHIR (MALATYA)                        "	lat="38.0720"	lng="37.6808"	mag="2.1" Depth="3.4" />
-	<earhquake	name="2026.08.18 10:40:03"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7718"	lng="29.1268"	mag="1.0" Depth="20.6" />
-	<earhquake	name="2026.08.18 10:44:28"	lokasyon="ADALAR (ISTANBUL)                                 REVIZE01   (2026.08.18 10:44:28)"	lat="40.8703"	lng="29.1343"	mag="0.7" Depth="14.5" />
-	<earhquake	name="2026.08.18 10:49:28"	lokasyon="YUNANISTAN                                        "	lat="38.8755"	lng="23.3290"	mag="2.2" Depth="19.9" />
-	<earhquake	name="2026.08.18 11:05:13"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.8348"	lng="29.1570"	mag="0.8" Depth="11.2" />
 	<earhquake	name="2026.08.18 12:10:19"	lokasyon="BAYRAKLI-SINDIRGI (BALIKESIR)                     "	lat="39.1653"	lng="28.2340"	mag="1.6" Depth="10.4" />
 	<earhquake	name="2026.08.18 12:11:47"	lokasyon="AKDERE-SILIFKE (MERSIN)                           "	lat="36.2250"	lng="33.7452"	mag="1.0" Depth="0.0" />
 	<earhquake	name="2026.08.18 12:12:23"	lokasyon="ISIKLI-SILIFKE (MERSIN)                           "	lat="36.2472"	lng="33.7072"	mag="1.0" Depth="0.0" />
@@ -73,4 +67,5 @@
 	<earhquake	name="2026.08.19 08:19:11"	lokasyon="SARICOKEK-KAYNASLI (DUZCE)                        "	lat="40.8107"	lng="31.3380"	mag="1.7" Depth="11.1" />
 	<earhquake	name="2026.08.19 08:24:55"	lokasyon="GURCISTAN                                         "	lat="41.3055"	lng="43.9207"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2026.08.19 08:40:38"	lokasyon="KARAAGAC-(VAN)                                    "	lat="38.8542"	lng="43.4910"	mag="2.0" Depth="10.2" />
+	<earhquake	name="2026.08.19 10:23:40"	lokasyon="GUNLUCE ACIKLARI-MUGLA (AKDENIZ)                  "	lat="36.7520"	lng="28.3497"	mag="2.5" Depth="53.1" />
 </eqlist>
