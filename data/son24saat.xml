@@ -1,26 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.20 03:03:25"	lokasyon="CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)         "	lat="40.7797"	lng="29.0817"	mag="1.6" Depth="8.0" />
-	<earhquake	name="2026.08.20 03:28:11"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7932"	lng="29.1033"	mag="1.4" Depth="9.1" />
-	<earhquake	name="2026.08.20 03:32:52"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7897"	lng="29.0877"	mag="1.5" Depth="11.4" />
-	<earhquake	name="2026.08.20 03:33:33"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7772"	lng="29.1003"	mag="2.7" Depth="10.2" />
-	<earhquake	name="2026.08.20 03:33:50"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7945"	lng="29.1180"	mag="1.5" Depth="4.7" />
-	<earhquake	name="2026.08.20 03:35:45"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7845"	lng="29.0995"	mag="1.5" Depth="10.3" />
-	<earhquake	name="2026.08.20 03:36:16"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7838"	lng="29.0793"	mag="1.5" Depth="8.1" />
-	<earhquake	name="2026.08.20 03:38:41"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7857"	lng="29.0850"	mag="1.6" Depth="11.0" />
-	<earhquake	name="2026.08.20 03:40:00"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7735"	lng="29.1028"	mag="1.9" Depth="8.6" />
-	<earhquake	name="2026.08.20 03:41:43"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7757"	lng="29.0990"	mag="1.5" Depth="7.6" />
-	<earhquake	name="2026.08.20 03:42:14"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7933"	lng="29.1002"	mag="1.6" Depth="11.0" />
-	<earhquake	name="2026.08.20 03:44:21"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7820"	lng="29.1160"	mag="1.5" Depth="11.9" />
-	<earhquake	name="2026.08.20 03:45:39"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7738"	lng="29.0957"	mag="2.5" Depth="8.9" />
-	<earhquake	name="2026.08.20 04:22:08"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7823"	lng="29.0930"	mag="1.5" Depth="9.2" />
-	<earhquake	name="2026.08.20 04:24:12"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7790"	lng="29.0890"	mag="1.6" Depth="9.0" />
-	<earhquake	name="2026.08.20 04:25:54"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7813"	lng="29.1035"	mag="1.6" Depth="10.9" />
-	<earhquake	name="2026.08.20 04:31:38"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7802"	lng="29.0938"	mag="2.8" Depth="10.5" />
-	<earhquake	name="2026.08.20 04:42:09"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7807"	lng="29.1018"	mag="1.4" Depth="7.1" />
-	<earhquake	name="2026.08.20 04:43:17"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.8082"	lng="29.1750"	mag="1.7" Depth="5.0" />
-	<earhquake	name="2026.08.20 04:43:55"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7732"	lng="29.1128"	mag="1.6" Depth="8.3" />
-	<earhquake	name="2026.08.20 04:54:35"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7738"	lng="29.1173"	mag="1.2" Depth="10.4" />
 	<earhquake	name="2026.08.20 05:01:22"	lokasyon="CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)         "	lat="40.7807"	lng="29.0677"	mag="1.7" Depth="7.5" />
 	<earhquake	name="2026.08.20 05:11:41"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2233"	lng="28.1268"	mag="1.2" Depth="20.5" />
 	<earhquake	name="2026.08.20 05:40:34"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7795"	lng="29.1053"	mag="2.9" Depth="11.5" />
@@ -142,4 +121,7 @@
 	<earhquake	name="2026.08.21 02:23:58"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2402"	lng="29.0170"	mag="1.5" Depth="8.0" />
 	<earhquake	name="2026.08.21 02:28:21"	lokasyon="HARUNUSAGI-AKCADAG (MALATYA)                      "	lat="38.2505"	lng="37.7280"	mag="2.6" Depth="1.7" />
 	<earhquake	name="2026.08.21 02:47:09"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2390"	lng="29.0115"	mag="2.1" Depth="10.5" />
+	<earhquake	name="2026.08.21 02:56:45"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2380"	lng="28.0903"	mag="1.5" Depth="10.2" />
+	<earhquake	name="2026.08.21 03:04:16"	lokasyon="KARAKOCA-SIMAV (KUTAHYA)                          "	lat="39.2673"	lng="28.9647"	mag="3.3" Depth="9.7" />
+	<earhquake	name="2026.08.21 03:42:13"	lokasyon="ELMALI-YEDISU (BINGOL)                            "	lat="39.4052"	lng="40.6415"	mag="2.2" Depth="5.1" />
 </eqlist>
