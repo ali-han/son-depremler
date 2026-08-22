@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.21 22:51:24"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7652"	lng="36.5438"	mag="1.5" Depth="9.4" />
 	<earhquake	name="2026.08.21 23:01:20"	lokasyon="ESENKOY-GOKSUN (KAHRAMANMARAS)                    "	lat="38.1818"	lng="36.6408"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2026.08.21 23:06:11"	lokasyon="MESTAN-(ADIYAMAN)                                 "	lat="37.9842"	lng="38.2165"	mag="1.2" Depth="23.3" />
 	<earhquake	name="2026.08.21 23:23:58"	lokasyon="GULBAHCE-KEMAH (ERZINCAN)                         "	lat="39.6127"	lng="38.6893"	mag="2.5" Depth="5.0" />
@@ -63,4 +62,7 @@
 	<earhquake	name="2026.08.22 20:58:08"	lokasyon="AKDAG-KELKIT (GUMUSHANE)                          "	lat="39.9093"	lng="39.4407"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2026.08.22 21:18:21"	lokasyon="ELMALAR-(KAHRAMANMARAS)                           "	lat="37.5253"	lng="37.1088"	mag="1.7" Depth="3.5" />
 	<earhquake	name="2026.08.22 21:23:41"	lokasyon="ESKIBALTA-YEDISU (BINGOL)                         "	lat="39.4453"	lng="40.4607"	mag="1.6" Depth="3.5" />
+	<earhquake	name="2026.08.22 21:47:49"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1615"	lng="28.2077"	mag="1.4" Depth="17.3" />
+	<earhquake	name="2026.08.22 22:11:52"	lokasyon="CAMLIK-DEREBUCAK (KONYA)                          "	lat="37.3365"	lng="31.6863"	mag="2.4" Depth="4.2" />
+	<earhquake	name="2026.08.22 22:16:27"	lokasyon="CAMLIK-DEREBUCAK (KONYA)                          "	lat="37.3458"	lng="31.6800"	mag="1.8" Depth="11.0" />
 </eqlist>
