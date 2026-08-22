@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.21 08:10:49"	lokasyon="CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI)         "	lat="40.7672"	lng="29.0880"	mag="0.8" Depth="12.3" />
-	<earhquake	name="2026.08.21 08:13:21"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7835"	lng="29.1032"	mag="1.9" Depth="15.4" />
-	<earhquake	name="2026.08.21 08:14:46"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.7668"	lng="29.1240"	mag="1.9" Depth="9.4" />
-	<earhquake	name="2026.08.21 08:57:55"	lokasyon="PURSAKLAR (ANKARA)                                "	lat="40.0562"	lng="32.8633"	mag="1.2" Depth="26.0" />
 	<earhquake	name="2026.08.21 09:10:09"	lokasyon="CAMPINAR-CELIKHAN (ADIYAMAN)                      "	lat="38.1380"	lng="38.2262"	mag="2.1" Depth="18.8" />
 	<earhquake	name="2026.08.21 09:23:48"	lokasyon="OLUDENIZ ACIKLARI-MUGLA (AKDENIZ)                 "	lat="36.3490"	lng="28.9250"	mag="2.1" Depth="15.7" />
 	<earhquake	name="2026.08.21 09:58:42"	lokasyon="CAMLIK-SIMAV (KUTAHYA)                            "	lat="39.3068"	lng="28.8625"	mag="1.6" Depth="13.9" />
@@ -65,4 +61,6 @@
 	<earhquake	name="2026.08.22 06:43:11"	lokasyon="CEVIRME-AKCADAG (MALATYA)                         "	lat="38.2713"	lng="37.7420"	mag="1.6" Depth="9.5" />
 	<earhquake	name="2026.08.22 07:20:24"	lokasyon="DUZLEN-(MANISA)                                   "	lat="38.7687"	lng="27.1393"	mag="1.8" Depth="12.3" />
 	<earhquake	name="2026.08.22 07:34:24"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1738"	lng="28.0820"	mag="1.2" Depth="15.9" />
+	<earhquake	name="2026.08.22 07:47:57"	lokasyon="KARASEVINC-KADINHANI (KONYA)                      "	lat="38.1952"	lng="32.0870"	mag="0.9" Depth="23.4" />
+	<earhquake	name="2026.08.22 08:26:30"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2483"	lng="28.0762"	mag="1.9" Depth="7.5" />
 </eqlist>
