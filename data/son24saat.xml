@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.22 08:26:30"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2483"	lng="28.0762"	mag="1.9" Depth="7.5" />
-	<earhquake	name="2026.08.22 08:39:49"	lokasyon="INLI-CAY (AFYONKARAHISAR)                         "	lat="38.5180"	lng="30.8382"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2026.08.22 09:40:59"	lokasyon="CANKAYA (ANKARA)                                  "	lat="39.8333"	lng="32.9402"	mag="1.3" Depth="14.2" />
 	<earhquake	name="2026.08.22 10:41:23"	lokasyon="OGUZELI (GAZIANTEP)                               "	lat="36.9623"	lng="37.4392"	mag="2.2" Depth="5.0" />
 	<earhquake	name="2026.08.22 11:06:32"	lokasyon="KABAKOZ-GORDES (MANISA)                           "	lat="39.0060"	lng="28.2273"	mag="1.5" Depth="3.7" />
@@ -82,4 +80,8 @@
 	<earhquake	name="2026.08.23 07:37:40"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.2877"	lng="31.6743"	mag="1.6" Depth="29.2" />
 	<earhquake	name="2026.08.23 07:42:18"	lokasyon="MARMARA DENIZI                                    "	lat="40.6498"	lng="27.8898"	mag="1.4" Depth="6.2" />
 	<earhquake	name="2026.08.23 07:44:59"	lokasyon="ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS)            "	lat="38.2002"	lng="37.7293"	mag="1.4" Depth="16.8" />
+	<earhquake	name="2026.08.23 07:56:31"	lokasyon="KARABACAK-DARENDE (MALATYA)                       "	lat="38.6710"	lng="37.5838"	mag="1.4" Depth="10.4" />
+	<earhquake	name="2026.08.23 07:58:44"	lokasyon="KOZLU-(BOLU)                                      "	lat="40.8103"	lng="31.5738"	mag="1.2" Depth="5.3" />
+	<earhquake	name="2026.08.23 08:06:28"	lokasyon="TASPINAR-KOYULHISAR (SIVAS)                       "	lat="40.3407"	lng="37.8192"	mag="2.3" Depth="7.4" />
+	<earhquake	name="2026.08.23 08:15:57"	lokasyon="GOKOVA KORFEZI (EGE DENIZI)                       "	lat="36.9398"	lng="27.6730"	mag="1.1" Depth="11.1" />
 </eqlist>
