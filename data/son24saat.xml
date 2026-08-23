@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.22 19:19:12"	lokasyon="YUNANISTAN                                        "	lat="40.3695"	lng="23.6705"	mag="1.4" Depth="5.8" />
-	<earhquake	name="2026.08.22 19:50:24"	lokasyon="KUCUKDAGDERE-SINDIRGI (BALIKESIR)                 "	lat="39.1568"	lng="28.3302"	mag="1.4" Depth="12.6" />
-	<earhquake	name="2026.08.22 19:56:44"	lokasyon="YUNANISTAN                                        "	lat="40.4372"	lng="23.6872"	mag="1.4" Depth="7.9" />
 	<earhquake	name="2026.08.22 20:07:46"	lokasyon="GIRIT ADASI ACIKLARI (AKDENIZ)                    "	lat="34.7838"	lng="24.9853"	mag="2.3" Depth="3.5" />
 	<earhquake	name="2026.08.22 20:17:29"	lokasyon="YUNANISTAN                                        "	lat="40.4415"	lng="23.6795"	mag="1.1" Depth="4.2" />
 	<earhquake	name="2026.08.22 20:23:11"	lokasyon="BOZLAR-BIGA (CANAKKALE)                           "	lat="40.3380"	lng="27.3542"	mag="1.8" Depth="3.4" />
@@ -85,4 +82,5 @@
 	<earhquake	name="2026.08.23 15:45:45"	lokasyon="YAHSIBEY-DIKILI (IZMIR)                           "	lat="39.0597"	lng="26.8227"	mag="1.7" Depth="4.9" />
 	<earhquake	name="2026.08.23 16:25:21"	lokasyon="GECITLI-SEREFLIKOCHISAR (ANKARA)                  "	lat="39.1268"	lng="33.6378"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2026.08.23 17:46:46"	lokasyon="KAVAKCALI-ULA (MUGLA)                             "	lat="37.0882"	lng="28.6510"	mag="1.2" Depth="27.8" />
+	<earhquake	name="2026.08.23 19:06:47"	lokasyon="OLUKKOYAGI-TARSUS (MERSIN)                        "	lat="37.2485"	lng="34.5913"	mag="1.4" Depth="18.6" />
 </eqlist>
