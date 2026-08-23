@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.22 15:35:44"	lokasyon="IBILLER-SINDIRGI (BALIKESIR)                      "	lat="39.2712"	lng="28.1490"	mag="1.6" Depth="10.0" />
-	<earhquake	name="2026.08.22 15:41:50"	lokasyon="BOZALAN-EZINE (CANAKKALE)                         "	lat="39.8633"	lng="26.2468"	mag="1.2" Depth="5.0" />
 	<earhquake	name="2026.08.22 16:46:11"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.8762"	lng="26.8988"	mag="1.5" Depth="2.4" />
 	<earhquake	name="2026.08.22 17:10:08"	lokasyon="INCECIK-ELBISTAN (KAHRAMANMARAS)                  "	lat="38.3730"	lng="37.3787"	mag="2.0" Depth="8.5" />
 	<earhquake	name="2026.08.22 17:16:27"	lokasyon="KIZILGUR-SINDIRGI (BALIKESIR)                     "	lat="39.2595"	lng="28.0463"	mag="1.9" Depth="9.4" />
@@ -88,4 +86,6 @@
 	<earhquake	name="2026.08.23 14:01:44"	lokasyon="DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               "	lat="38.2218"	lng="37.3392"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2026.08.23 14:14:29"	lokasyon="SEHITHALIT-SARIKAMIS (KARS)                       "	lat="40.1763"	lng="42.5550"	mag="1.8" Depth="8.2" />
 	<earhquake	name="2026.08.23 14:18:01"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1642"	lng="24.5620"	mag="2.1" Depth="40.2" />
+	<earhquake	name="2026.08.23 14:32:40"	lokasyon="ALHANUSAGI-(MALATYA)                              "	lat="38.3150"	lng="38.6555"	mag="1.7" Depth="18.0" />
+	<earhquake	name="2026.08.23 15:08:06"	lokasyon="UZUNGAZI-SARIKAMIS (KARS)                         "	lat="40.1518"	lng="42.5133"	mag="1.9" Depth="17.1" />
 </eqlist>
