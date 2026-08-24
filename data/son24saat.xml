@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.23 13:23:30"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1750"	lng="28.1990"	mag="1.4" Depth="9.5" />
-	<earhquake	name="2026.08.23 13:46:10"	lokasyon="HAMIDIYE-KIRKAGAC (MANISA)                        "	lat="39.3048"	lng="27.8353"	mag="1.5" Depth="8.9" />
 	<earhquake	name="2026.08.23 14:01:44"	lokasyon="DEMIRCILIK-ELBISTAN (KAHRAMANMARAS)               "	lat="38.2218"	lng="37.3392"	mag="1.6" Depth="5.4" />
 	<earhquake	name="2026.08.23 14:14:29"	lokasyon="SEHITHALIT-SARIKAMIS (KARS)                       "	lat="40.1763"	lng="42.5550"	mag="1.8" Depth="8.2" />
 	<earhquake	name="2026.08.23 14:18:01"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1642"	lng="24.5620"	mag="2.1" Depth="40.2" />
@@ -59,4 +57,5 @@
 	<earhquake	name="2026.08.24 09:51:37"	lokasyon="ADALAR (ISTANBUL)                                 "	lat="40.8280"	lng="29.1292"	mag="0.9" Depth="6.6" />
 	<earhquake	name="2026.08.24 10:09:37"	lokasyon="KUCUKKISLA-KAYNARCA (SAKARYA)                     "	lat="41.0092"	lng="30.4100"	mag="1.6" Depth="22.7" />
 	<earhquake	name="2026.08.24 10:57:32"	lokasyon="HARUNUSAGI-AKCADAG (MALATYA)                      "	lat="38.2498"	lng="37.7257"	mag="1.7" Depth="21.4" />
+	<earhquake	name="2026.08.24 12:26:00"	lokasyon="ISIKLI-SILIFKE (MERSIN)                           "	lat="36.2670"	lng="33.7118"	mag="1.3" Depth="0.0" />
 </eqlist>
