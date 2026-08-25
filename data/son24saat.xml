@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.25 00:17:08"	lokasyon="KADIKOY-(AYDIN)                                   "	lat="37.8057"	lng="27.8067"	mag="1.4" Depth="10.0" />
-	<earhquake	name="2026.08.25 00:18:09"	lokasyon="GOKCEKOY-ALADAG (ADANA)                           "	lat="37.5517"	lng="35.5443"	mag="1.7" Depth="6.8" />
-	<earhquake	name="2026.08.25 00:47:10"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2530"	lng="28.0830"	mag="1.7" Depth="9.8" />
 	<earhquake	name="2026.08.25 01:00:32"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1230"	lng="28.3057"	mag="2.1" Depth="9.7" />
 	<earhquake	name="2026.08.25 01:06:59"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1132"	lng="28.2947"	mag="1.6" Depth="12.7" />
 	<earhquake	name="2026.08.25 01:30:59"	lokasyon="BELENARDIC-AKKOY (DENIZLI)                        "	lat="38.0530"	lng="29.0440"	mag="1.0" Depth="7.4" />
@@ -46,4 +43,6 @@
 	<earhquake	name="2026.08.25 22:10:11"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1232"	lng="38.4223"	mag="2.5" Depth="1.1" />
 	<earhquake	name="2026.08.25 22:27:11"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1350"	lng="38.3853"	mag="3.6" Depth="5.0" />
 	<earhquake	name="2026.08.25 22:47:07"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1325"	lng="38.4230"	mag="2.1" Depth="5.0" />
+	<earhquake	name="2026.08.25 23:17:20"	lokasyon="MANDIRA-SINDIRGI (BALIKESIR)                      "	lat="39.2245"	lng="28.1317"	mag="1.6" Depth="7.3" />
+	<earhquake	name="2026.08.25 23:20:16"	lokasyon="CAYGOREN-SINDIRGI (BALIKESIR)                     "	lat="39.2627"	lng="28.1988"	mag="1.3" Depth="7.2" />
 </eqlist>
