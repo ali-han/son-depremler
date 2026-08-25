@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.24 02:00:57"	lokasyon="EGE DENIZI                                        "	lat="39.3812"	lng="25.5883"	mag="1.9" Depth="9.1" />
-	<earhquake	name="2026.08.24 02:16:33"	lokasyon="ASAGIBEYCAYIR-PINARBASI (KAYSERI)                 "	lat="38.6633"	lng="36.4553"	mag="2.1" Depth="5.6" />
-	<earhquake	name="2026.08.24 03:27:16"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4487"	lng="26.3410"	mag="1.9" Depth="11.9" />
-	<earhquake	name="2026.08.24 03:57:41"	lokasyon="DEDEYAZI-DOGANSEHIR (MALATYA)                     "	lat="38.2448"	lng="37.7877"	mag="2.2" Depth="7.8" />
 	<earhquake	name="2026.08.24 04:03:22"	lokasyon="YOLCATI-ALTINTAS (KUTAHYA)                        "	lat="39.0315"	lng="30.1965"	mag="1.9" Depth="8.4" />
 	<earhquake	name="2026.08.24 04:45:38"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1628"	lng="28.1598"	mag="2.3" Depth="11.9" />
 	<earhquake	name="2026.08.24 05:17:51"	lokasyon="EGE DENIZI                                        "	lat="36.6737"	lng="25.7982"	mag="1.9" Depth="9.8" />
@@ -64,4 +60,5 @@
 	<earhquake	name="2026.08.25 00:47:10"	lokasyon="ALACAATLI-SINDIRGI (BALIKESIR)                    "	lat="39.2530"	lng="28.0830"	mag="1.7" Depth="9.8" />
 	<earhquake	name="2026.08.25 01:00:32"	lokasyon="YUREGIL-SINDIRGI (BALIKESIR)                      "	lat="39.1230"	lng="28.3057"	mag="2.1" Depth="9.7" />
 	<earhquake	name="2026.08.25 01:30:59"	lokasyon="BELENARDIC-AKKOY (DENIZLI)                        "	lat="38.0530"	lng="29.0440"	mag="1.0" Depth="7.4" />
+	<earhquake	name="2026.08.25 03:30:45"	lokasyon="GOZENE-YESILYURT (MALATYA)                        "	lat="38.1848"	lng="38.0267"	mag="2.7" Depth="5.4" />
 </eqlist>
