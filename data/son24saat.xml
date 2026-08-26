@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.25 11:43:34"	lokasyon="KOCKALE-(ELAZIG)                                  "	lat="38.5715"	lng="39.4443"	mag="2.1" Depth="20.7" />
-	<earhquake	name="2026.08.25 11:53:28"	lokasyon="EGE DENIZI                                        "	lat="36.4693"	lng="27.5390"	mag="2.2" Depth="12.5" />
 	<earhquake	name="2026.08.25 13:21:49"	lokasyon="BAYIRLI-SINDIRGI (BALIKESIR)                      "	lat="39.2288"	lng="28.1010"	mag="1.7" Depth="11.0" />
 	<earhquake	name="2026.08.25 13:59:09"	lokasyon="KARAYAKUP-GOLOVA (SIVAS)                          "	lat="40.0573"	lng="38.7042"	mag="3.1" Depth="3.6" />
 	<earhquake	name="2026.08.25 15:53:43"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.7763"	lng="27.1537"	mag="1.9" Depth="4.1" />
@@ -64,4 +62,5 @@
 	<earhquake	name="2026.08.26 10:10:36"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7290"	lng="36.5363"	mag="2.4" Depth="7.7" />
 	<earhquake	name="2026.08.26 10:27:05"	lokasyon="YUKARIBURANDERE-PINARBASI (KAYSERI)               "	lat="38.7562"	lng="36.5538"	mag="1.8" Depth="8.4" />
 	<earhquake	name="2026.08.26 10:35:04"	lokasyon="KAVAKKOY-SIVRICE (ELAZIG)                         "	lat="38.3935"	lng="39.1312"	mag="2.1" Depth="7.9" />
+	<earhquake	name="2026.08.26 11:08:41"	lokasyon="GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS)               "	lat="38.0735"	lng="37.2558"	mag="1.8" Depth="5.4" />
 </eqlist>
