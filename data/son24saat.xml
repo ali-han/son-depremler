@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.08.29 03:08:29"	lokasyon="ALIFAKI-KIRKAGAC (MANISA)                         "	lat="39.1298"	lng="27.8788"	mag="1.0" Depth="10.1" />
-	<earhquake	name="2026.08.29 03:42:53"	lokasyon="BOGAZEVCI-CICEKDAGI (KIRSEHIR)                    "	lat="39.7077"	lng="34.1468"	mag="1.5" Depth="5.0" />
-	<earhquake	name="2026.08.29 03:44:02"	lokasyon="OSMANCIK-ANDIRIN (KAHRAMANMARAS)                  "	lat="37.7113"	lng="36.2108"	mag="1.4" Depth="6.2" />
-	<earhquake	name="2026.08.29 03:50:09"	lokasyon="YESILUZUMLU-FETHIYE (MUGLA)                       "	lat="36.7420"	lng="29.2158"	mag="1.6" Depth="5.3" />
-	<earhquake	name="2026.08.29 04:15:48"	lokasyon="HACILI-SALIHLI (MANISA)                           "	lat="38.4513"	lng="28.3550"	mag="1.1" Depth="15.2" />
-	<earhquake	name="2026.08.29 04:27:24"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.2033"	lng="28.1042"	mag="2.3" Depth="13.6" />
-	<earhquake	name="2026.08.29 04:32:17"	lokasyon="KOCAOZ-COBANLAR (AFYONKARAHISAR)                  "	lat="38.6967"	lng="30.8498"	mag="2.4" Depth="6.8" />
-	<earhquake	name="2026.08.29 04:41:15"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1945"	lng="28.1517"	mag="1.0" Depth="15.4" />
-	<earhquake	name="2026.08.29 04:44:14"	lokasyon="HASTARLA-CAYIRLI (ERZINCAN)                       "	lat="39.8340"	lng="39.8700"	mag="1.9" Depth="7.4" />
-	<earhquake	name="2026.08.29 04:45:29"	lokasyon="TAVSANUSAGI-BASKIL (ELAZIG)                       "	lat="38.6030"	lng="38.7897"	mag="1.1" Depth="4.4" />
-	<earhquake	name="2026.08.29 04:49:27"	lokasyon="SAROS KORFEZI (EGE DENIZI)                        "	lat="40.4605"	lng="26.2993"	mag="1.1" Depth="10.2" />
 	<earhquake	name="2026.08.29 05:32:55"	lokasyon="SAHINKAYA-SINDIRGI (BALIKESIR)                    "	lat="39.2233"	lng="28.0102"	mag="1.5" Depth="12.1" />
 	<earhquake	name="2026.08.29 05:33:07"	lokasyon="CETIBELI-MARMARIS (MUGLA)                         "	lat="37.0220"	lng="28.2888"	mag="1.8" Depth="2.6" />
 	<earhquake	name="2026.08.29 05:37:23"	lokasyon="ELMALI-PULUMUR (TUNCELI)                          "	lat="39.4953"	lng="40.1505"	mag="3.0" Depth="6.3" />
@@ -55,4 +44,13 @@
 	<earhquake	name="2026.08.30 00:28:51"	lokasyon="KARAKUZU-ALIAGA (IZMIR)                           "	lat="38.7718"	lng="27.1140"	mag="2.0" Depth="16.7" />
 	<earhquake	name="2026.08.30 00:41:11"	lokasyon="YENIDIBEK-MALKARA (TEKIRDAG)                      "	lat="40.7698"	lng="26.8762"	mag="1.7" Depth="15.4" />
 	<earhquake	name="2026.08.30 02:17:37"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1032"	lng="38.4470"	mag="1.5" Depth="14.6" />
+	<earhquake	name="2026.08.30 02:34:01"	lokasyon="SASAL-MENDERES (IZMIR)                            "	lat="38.1692"	lng="27.1162"	mag="1.7" Depth="5.0" />
+	<earhquake	name="2026.08.30 02:46:19"	lokasyon="KIRKGECIT-PINARBASI (KAYSERI)                     "	lat="38.7015"	lng="36.6178"	mag="1.7" Depth="12.3" />
+	<earhquake	name="2026.08.30 02:49:17"	lokasyon="KIZILAGIL-(BOLU)                                  "	lat="40.7827"	lng="31.5157"	mag="1.4" Depth="12.4" />
+	<earhquake	name="2026.08.30 03:12:12"	lokasyon="OTMANLAR-(MANISA)                                 "	lat="38.7583"	lng="27.1603"	mag="1.7" Depth="12.4" />
+	<earhquake	name="2026.08.30 03:12:53"	lokasyon="KARAPINAR-SARIZ (KAYSERI)                         "	lat="38.6325"	lng="36.6117"	mag="1.6" Depth="15.8" />
+	<earhquake	name="2026.08.30 03:35:46"	lokasyon="ANTALYA KORFEZI (AKDENIZ)                         "	lat="36.2488"	lng="31.3578"	mag="2.5" Depth="23.6" />
+	<earhquake	name="2026.08.30 03:36:04"	lokasyon="YENILER-SIMAV (KUTAHYA)                           "	lat="39.2413"	lng="28.9538"	mag="1.2" Depth="11.8" />
+	<earhquake	name="2026.08.30 03:57:12"	lokasyon="NIKSAR (TOKAT)                                    "	lat="40.6050"	lng="36.9593"	mag="1.6" Depth="6.7" />
+	<earhquake	name="2026.08.30 04:00:04"	lokasyon="YENIKOY-BABADAG (DENIZLI)                         "	lat="37.7993"	lng="28.8787"	mag="1.3" Depth="14.0" />
 </eqlist>
