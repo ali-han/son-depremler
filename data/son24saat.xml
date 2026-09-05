@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.09.05 01:11:39"	lokasyon="KARATAS-(DENIZLI)                                 "	lat="37.7038"	lng="29.2008"	mag="1.5" Depth="4.4" />
-	<earhquake	name="2026.09.05 01:13:11"	lokasyon="KARATEKE-HONAZ (DENIZLI)                          "	lat="37.7150"	lng="29.2238"	mag="2.2" Depth="13.4" />
-	<earhquake	name="2026.09.05 01:30:38"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9405"	lng="26.1138"	mag="1.9" Depth="5.4" />
-	<earhquake	name="2026.09.05 01:53:57"	lokasyon="IZMIR KORFEZI (EGE DENIZI)                        "	lat="38.6448"	lng="26.7130"	mag="1.9" Depth="16.0" />
 	<earhquake	name="2026.09.05 02:05:51"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1033"	lng="38.4130"	mag="0.9" Depth="17.3" />
 	<earhquake	name="2026.09.05 02:13:26"	lokasyon="KARATAS-(DENIZLI)                                 "	lat="37.7142"	lng="29.2067"	mag="1.2" Depth="13.3" />
 	<earhquake	name="2026.09.05 02:58:34"	lokasyon="SISAM ADASI (EGE DENIZI)                          "	lat="37.6815"	lng="26.8080"	mag="1.8" Depth="10.2" />
@@ -51,4 +47,6 @@
 	<earhquake	name="2026.09.05 23:20:42"	lokasyon="YUNANISTAN                                        "	lat="40.3488"	lng="23.9808"	mag="2.2" Depth="8.0" />
 	<earhquake	name="2026.09.05 23:40:23"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1580"	lng="25.2245"	mag="2.8" Depth="9.5" />
 	<earhquake	name="2026.09.05 23:52:12"	lokasyon="BOREZ-GORDES (MANISA)                             "	lat="39.0038"	lng="28.2737"	mag="1.0" Depth="13.8" />
+	<earhquake	name="2026.09.06 01:06:41"	lokasyon="BURGUDERE-PALU (ELAZIG)                           "	lat="38.7333"	lng="40.2115"	mag="1.6" Depth="7.4" />
+	<earhquake	name="2026.09.06 01:28:58"	lokasyon="SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                "	lat="38.1350"	lng="37.4533"	mag="1.5" Depth="5.1" />
 </eqlist>
