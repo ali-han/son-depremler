@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.09.05 00:36:36"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1505"	lng="28.3818"	mag="1.5" Depth="8.4" />
-	<earhquake	name="2026.09.05 00:43:39"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1638"	lng="28.1670"	mag="1.4" Depth="9.4" />
-	<earhquake	name="2026.09.05 00:53:28"	lokasyon="FOCA (IZMIR)                                      "	lat="38.6497"	lng="26.7467"	mag="2.1" Depth="12.8" />
 	<earhquake	name="2026.09.05 01:11:39"	lokasyon="KARATAS-(DENIZLI)                                 "	lat="37.7038"	lng="29.2008"	mag="1.5" Depth="4.4" />
 	<earhquake	name="2026.09.05 01:13:11"	lokasyon="KARATEKE-HONAZ (DENIZLI)                          "	lat="37.7150"	lng="29.2238"	mag="2.2" Depth="13.4" />
 	<earhquake	name="2026.09.05 01:30:38"	lokasyon="MIDILLI ADASI GUNEYI (EGE DENIZI)                 "	lat="38.9405"	lng="26.1138"	mag="1.9" Depth="5.4" />
@@ -52,4 +49,6 @@
 	<earhquake	name="2026.09.05 22:22:44"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2280"	lng="28.0873"	mag="1.4" Depth="8.7" />
 	<earhquake	name="2026.09.05 22:48:02"	lokasyon="CAVLI-SAVASTEPE (BALIKESIR)                       "	lat="39.5368"	lng="27.6213"	mag="1.5" Depth="12.6" />
 	<earhquake	name="2026.09.05 23:20:42"	lokasyon="YUNANISTAN                                        "	lat="40.3488"	lng="23.9808"	mag="2.2" Depth="8.0" />
+	<earhquake	name="2026.09.05 23:40:23"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1580"	lng="25.2245"	mag="2.8" Depth="9.5" />
+	<earhquake	name="2026.09.05 23:52:12"	lokasyon="BOREZ-GORDES (MANISA)                             "	lat="39.0038"	lng="28.2737"	mag="1.0" Depth="13.8" />
 </eqlist>
