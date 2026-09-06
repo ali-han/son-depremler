@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.09.05 22:17:08"	lokasyon="CAGLAYAN-(ERZINCAN)                               "	lat="39.5822"	lng="39.6948"	mag="1.4" Depth="4.6" />
-	<earhquake	name="2026.09.05 22:21:33"	lokasyon="YUNANISTAN                                        "	lat="39.5815"	lng="23.4753"	mag="1.3" Depth="16.2" />
-	<earhquake	name="2026.09.05 22:22:44"	lokasyon="KOZLU-SINDIRGI (BALIKESIR)                        "	lat="39.2280"	lng="28.0873"	mag="1.4" Depth="8.7" />
-	<earhquake	name="2026.09.05 22:48:02"	lokasyon="CAVLI-SAVASTEPE (BALIKESIR)                       "	lat="39.5368"	lng="27.6213"	mag="1.5" Depth="12.6" />
-	<earhquake	name="2026.09.05 23:20:42"	lokasyon="YUNANISTAN                                        "	lat="40.3488"	lng="23.9808"	mag="2.2" Depth="8.0" />
-	<earhquake	name="2026.09.05 23:40:23"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.1580"	lng="25.2245"	mag="2.8" Depth="9.5" />
-	<earhquake	name="2026.09.05 23:52:12"	lokasyon="BOREZ-GORDES (MANISA)                             "	lat="39.0038"	lng="28.2737"	mag="1.0" Depth="13.8" />
 	<earhquake	name="2026.09.06 01:06:41"	lokasyon="BURGUDERE-PALU (ELAZIG)                           "	lat="38.7333"	lng="40.2115"	mag="1.6" Depth="7.4" />
 	<earhquake	name="2026.09.06 01:28:58"	lokasyon="SUNNETKOY-ELBISTAN (KAHRAMANMARAS)                "	lat="38.1350"	lng="37.4533"	mag="1.5" Depth="5.1" />
 	<earhquake	name="2026.09.06 02:12:44"	lokasyon="OZBEK-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.2137"	lng="37.4413"	mag="1.8" Depth="2.9" />
@@ -66,4 +59,7 @@
 	<earhquake	name="2026.09.06 21:08:32"	lokasyon="SAHINYURDU-GEMLIK (BURSA)                         "	lat="40.4762"	lng="29.2088"	mag="1.1" Depth="8.4" />
 	<earhquake	name="2026.09.06 21:18:55"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="35.0635"	lng="23.8510"	mag="2.2" Depth="58.5" />
 	<earhquake	name="2026.09.06 21:28:16"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1532"	lng="28.1920"	mag="1.6" Depth="12.8" />
+	<earhquake	name="2026.09.06 22:55:48"	lokasyon="CENGELLI-PUTURGE (MALATYA)                        "	lat="38.2667"	lng="38.8682"	mag="1.7" Depth="1.6" />
+	<earhquake	name="2026.09.06 23:33:42"	lokasyon="YALINTAS-ELBISTAN (KAHRAMANMARAS)                 "	lat="38.3645"	lng="37.4300"	mag="1.7" Depth="6.5" />
+	<earhquake	name="2026.09.07 00:15:58"	lokasyon="KAVAKLI-(BALIKESIR)                               "	lat="39.7058"	lng="27.8627"	mag="1.2" Depth="3.6" />
 </eqlist>
