@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.09.08 03:08:55"	lokasyon="EGE DENIZI                                        "	lat="36.0120"	lng="27.3297"	mag="1.8" Depth="7.5" />
-	<earhquake	name="2026.09.08 03:24:32"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.2132"	lng="29.0222"	mag="1.2" Depth="10.4" />
-	<earhquake	name="2026.09.08 04:32:15"	lokasyon="KERTIL-SINDIRGI (BALIKESIR)                       "	lat="39.1903"	lng="28.0800"	mag="1.0" Depth="10.4" />
-	<earhquake	name="2026.09.08 04:43:33"	lokasyon="SOFULAR-CAMELI (DENIZLI)                          "	lat="36.9753"	lng="29.2973"	mag="1.4" Depth="7.2" />
-	<earhquake	name="2026.09.08 04:59:09"	lokasyon="CEVIZLI-CAMELI (DENIZLI)                          "	lat="36.9858"	lng="29.2907"	mag="1.1" Depth="5.0" />
 	<earhquake	name="2026.09.08 05:10:42"	lokasyon="KARAKOZAN-SELENDI (MANISA)                        "	lat="38.8213"	lng="29.0888"	mag="1.5" Depth="5.3" />
 	<earhquake	name="2026.09.08 05:23:37"	lokasyon="SALKONAK-YESILYURT (MALATYA)                      "	lat="38.1602"	lng="38.3973"	mag="0.9" Depth="15.1" />
 	<earhquake	name="2026.09.08 05:46:01"	lokasyon="EGE DENIZI                                        "	lat="39.2797"	lng="25.7103"	mag="2.2" Depth="11.8" />
@@ -49,4 +44,8 @@
 	<earhquake	name="2026.09.09 01:26:21"	lokasyon="EGIRLER-SIMAV (KUTAHYA)                           "	lat="39.1880"	lng="28.9738"	mag="0.9" Depth="16.6" />
 	<earhquake	name="2026.09.09 01:28:27"	lokasyon="DUZLEN-(MANISA)                                   "	lat="38.7665"	lng="27.1337"	mag="1.3" Depth="15.8" />
 	<earhquake	name="2026.09.09 01:39:26"	lokasyon="KARAKUZU-ALIAGA (IZMIR)                           "	lat="38.7552"	lng="27.1165"	mag="1.7" Depth="7.5" />
+	<earhquake	name="2026.09.09 02:36:14"	lokasyon="KUCUKYAYA-KIRKAGAC (MANISA)                       "	lat="39.1772"	lng="27.7632"	mag="1.4" Depth="6.0" />
+	<earhquake	name="2026.09.09 02:40:21"	lokasyon="ALVAR-KULUNCAK (MALATYA)                          "	lat="38.9177"	lng="37.6347"	mag="1.3" Depth="7.0" />
+	<earhquake	name="2026.09.09 02:41:32"	lokasyon="AKDENIZ                                           "	lat="36.4925"	lng="28.6318"	mag="2.8" Depth="7.9" />
+	<earhquake	name="2026.09.09 03:30:40"	lokasyon="KARAKURT-KIRKAGAC (MANISA)                        "	lat="39.1118"	lng="27.7810"	mag="2.6" Depth="3.9" />
 </eqlist>
