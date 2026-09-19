@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.09.18 16:07:51"	lokasyon="LIMAN-HOPA (ARTVIN)                               "	lat="41.5488"	lng="41.3687"	mag="1.8" Depth="5.4" />
-	<earhquake	name="2026.09.18 16:24:23"	lokasyon="TAPKIRANKALE-ELBISTAN (KAHRAMANMARAS)             "	lat="38.0957"	lng="37.5553"	mag="1.5" Depth="6.1" />
-	<earhquake	name="2026.09.18 16:40:15"	lokasyon="GIRIT ADASI (AKDENIZ)                             "	lat="34.9723"	lng="23.4078"	mag="3.0" Depth="18.9" />
-	<earhquake	name="2026.09.18 17:46:07"	lokasyon="YUNANISTAN                                        "	lat="40.2245"	lng="24.0967"	mag="2.6" Depth="17.3" />
-	<earhquake	name="2026.09.18 18:03:39"	lokasyon="EGE DENIZI                                        "	lat="39.3338"	lng="25.6452"	mag="2.4" Depth="13.4" />
-	<earhquake	name="2026.09.18 18:18:43"	lokasyon="ARIKUYUSU-GULNAR (MERSIN)                         "	lat="36.3988"	lng="33.4570"	mag="1.0" Depth="2.5" />
-	<earhquake	name="2026.09.18 18:25:49"	lokasyon="TIFILLAR-AYVALIK (BALIKESIR)                      "	lat="39.2993"	lng="26.8883"	mag="2.1" Depth="14.3" />
-	<earhquake	name="2026.09.18 18:31:17"	lokasyon="CUKURASMA-GULNAR (MERSIN)                         "	lat="36.3847"	lng="33.4472"	mag="0.9" Depth="2.7" />
-	<earhquake	name="2026.09.18 18:49:28"	lokasyon="ISIKLAR-SINDIRGI (BALIKESIR)                      "	lat="39.1772"	lng="28.2750"	mag="1.5" Depth="7.5" />
-	<earhquake	name="2026.09.18 18:50:50"	lokasyon="ASAGIBEYCAYIR-PINARBASI (KAYSERI)                 "	lat="38.6803"	lng="36.4198"	mag="2.5" Depth="5.0" />
 	<earhquake	name="2026.09.18 20:40:30"	lokasyon="YILMAZ-ILIC (ERZINCAN)                            "	lat="39.6567"	lng="38.3890"	mag="2.3" Depth="5.0" />
 	<earhquake	name="2026.09.18 21:09:39"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9038"	lng="27.1295"	mag="3.8" Depth="8.1" />
 	<earhquake	name="2026.09.18 21:56:03"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1492"	lng="28.1588"	mag="2.5" Depth="11.8" />
@@ -61,4 +51,10 @@
 	<earhquake	name="2026.09.19 13:15:41"	lokasyon="TANISIK-(MALATYA)                                 "	lat="38.2888"	lng="38.5767"	mag="1.6" Depth="16.7" />
 	<earhquake	name="2026.09.19 13:17:44"	lokasyon="KOBAKLAR-GORDES (MANISA)                          "	lat="39.0725"	lng="28.3372"	mag="1.1" Depth="22.2" />
 	<earhquake	name="2026.09.19 13:24:04"	lokasyon="CORUS-ULA (MUGLA)                                 "	lat="36.9725"	lng="28.4663"	mag="1.4" Depth="5.3" />
+	<earhquake	name="2026.09.19 14:57:13"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7607"	lng="36.1043"	mag="1.9" Depth="5.6" />
+	<earhquake	name="2026.09.19 15:50:48"	lokasyon="EGE DENIZI                                        "	lat="36.6973"	lng="25.4627"	mag="2.1" Depth="52.8" />
+	<earhquake	name="2026.09.19 16:56:33"	lokasyon="GUMUSPINAR-ULAS (SIVAS)                           "	lat="39.3888"	lng="37.0187"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.09.19 17:11:07"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.7927"	lng="26.8805"	mag="2.1" Depth="5.4" />
+	<earhquake	name="2026.09.19 18:33:18"	lokasyon="AYDINLAR-HONAZ (DENIZLI)                          "	lat="37.7223"	lng="29.3763"	mag="2.0" Depth="3.6" />
+	<earhquake	name="2026.09.19 18:37:28"	lokasyon="CANDARLI KORFEZI (EGE DENIZI)                     "	lat="38.7803"	lng="26.8578"	mag="2.0" Depth="7.1" />
 </eqlist>
