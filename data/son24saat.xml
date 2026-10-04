@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.10.03 20:35:48"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2415"	lng="28.9730"	mag="2.1" Depth="14.1" />
-	<earhquake	name="2026.10.03 21:32:45"	lokasyon="KONAKALMAZ-(ELAZIG)                               "	lat="38.6195"	lng="39.6467"	mag="2.1" Depth="5.0" />
-	<earhquake	name="2026.10.03 21:46:00"	lokasyon="YUVA-GURUN (SIVAS)                                "	lat="38.7717"	lng="37.4528"	mag="1.6" Depth="10.1" />
 	<earhquake	name="2026.10.03 23:27:51"	lokasyon="KARAGOL-CELIKHAN (ADIYAMAN)                       "	lat="38.1018"	lng="38.4102"	mag="2.5" Depth="1.6" />
 	<earhquake	name="2026.10.04 00:39:21"	lokasyon="DURMEPINAR-GURUN (SIVAS)                          "	lat="38.9790"	lng="37.3810"	mag="2.1" Depth="7.0" />
 	<earhquake	name="2026.10.04 00:44:32"	lokasyon="DEMIRCI-(MANISA)                                  "	lat="38.8383"	lng="27.4022"	mag="1.8" Depth="7.8" />
@@ -46,14 +43,43 @@
 	<earhquake	name="2026.10.04 16:29:27"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7475"	lng="36.1103"	mag="2.4" Depth="5.0" />
 	<earhquake	name="2026.10.04 16:53:18"	lokasyon="KIRIKUSAGI-FEKE (ADANA)                           "	lat="37.8075"	lng="35.9575"	mag="1.8" Depth="5.0" />
 	<earhquake	name="2026.10.04 16:59:41"	lokasyon="ERDEK KORFEZI (MARMARA DENIZI)                    "	lat="40.3522"	lng="27.5607"	mag="2.3" Depth="8.5" />
+	<earhquake	name="2026.10.04 17:01:31"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7725"	lng="36.0663"	mag="1.7" Depth="13.4" />
 	<earhquake	name="2026.10.04 17:05:39"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7662"	lng="36.0562"	mag="2.9" Depth="2.2" />
+	<earhquake	name="2026.10.04 17:17:39"	lokasyon="KUYUBELI-KOZAN (ADANA)                            "	lat="37.6792"	lng="35.9917"	mag="1.8" Depth="3.6" />
 	<earhquake	name="2026.10.04 17:20:51"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7912"	lng="36.1243"	mag="2.2" Depth="1.3" />
 	<earhquake	name="2026.10.04 17:39:18"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7312"	lng="36.0747"	mag="2.7" Depth="2.2" />
 	<earhquake	name="2026.10.04 17:55:21"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7480"	lng="36.0625"	mag="1.7" Depth="5.8" />
+	<earhquake	name="2026.10.04 17:57:04"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7300"	lng="36.1150"	mag="1.5" Depth="10.1" />
+	<earhquake	name="2026.10.04 17:58:38"	lokasyon="AKCALIUSAGI-KOZAN (ADANA)                         "	lat="37.7068"	lng="36.0838"	mag="1.5" Depth="15.7" />
 	<earhquake	name="2026.10.04 18:02:20"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7845"	lng="36.1323"	mag="2.8" Depth="5.0" />
 	<earhquake	name="2026.10.04 18:08:53"	lokasyon="TOKMANAKLI-FEKE (ADANA)                           "	lat="37.7223"	lng="36.0707"	mag="1.4" Depth="7.2" />
+	<earhquake	name="2026.10.04 18:18:11"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7877"	lng="36.0275"	mag="1.6" Depth="5.3" />
+	<earhquake	name="2026.10.04 18:22:59"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7815"	lng="36.0640"	mag="1.4" Depth="15.8" />
+	<earhquake	name="2026.10.04 18:24:06"	lokasyon="CELTIKCI-(DENIZLI)                                "	lat="37.8530"	lng="29.0888"	mag="1.2" Depth="11.6" />
 	<earhquake	name="2026.10.04 18:26:57"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7842"	lng="36.0772"	mag="2.1" Depth="5.0" />
 	<earhquake	name="2026.10.04 18:42:14"	lokasyon="ORMANICI-SINDIRGI (BALIKESIR)                     "	lat="39.1900"	lng="28.1197"	mag="1.7" Depth="12.9" />
+	<earhquake	name="2026.10.04 18:48:06"	lokasyon="YUNANISTAN                                        "	lat="39.1422"	lng="23.7260"	mag="2.2" Depth="14.1" />
 	<earhquake	name="2026.10.04 19:00:24"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.8197"	lng="36.1337"	mag="4.3" Depth="6.3" />
 	<earhquake	name="2026.10.04 19:03:45"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7727"	lng="36.1243"	mag="3.1" Depth="5.0" />
+	<earhquake	name="2026.10.04 19:07:28"	lokasyon="KOVUKCINAR-FEKE (ADANA)                           "	lat="37.7968"	lng="36.0327"	mag="1.8" Depth="1.1" />
+	<earhquake	name="2026.10.04 19:19:33"	lokasyon="KUSADASI KORFEZI (EGE DENIZI)                     "	lat="37.9850"	lng="27.1772"	mag="1.3" Depth="8.0" />
+	<earhquake	name="2026.10.04 19:36:26"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7623"	lng="36.1055"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.10.04 19:43:25"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7815"	lng="36.0893"	mag="2.2" Depth="2.5" />
+	<earhquake	name="2026.10.04 19:50:52"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7835"	lng="36.1280"	mag="2.5" Depth="6.4" />
+	<earhquake	name="2026.10.04 20:06:54"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1288"	lng="37.0242"	mag="2.2" Depth="6.6" />
+	<earhquake	name="2026.10.04 20:12:36"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7930"	lng="36.1475"	mag="1.9" Depth="1.7" />
+	<earhquake	name="2026.10.04 20:14:39"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7958"	lng="36.1143"	mag="2.8" Depth="5.6" />
+	<earhquake	name="2026.10.04 20:18:43"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.8108"	lng="36.1118"	mag="2.9" Depth="6.2" />
+	<earhquake	name="2026.10.04 20:28:11"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7868"	lng="36.1138"	mag="4.4" Depth="5.0" />
+	<earhquake	name="2026.10.04 20:32:42"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7552"	lng="36.0710"	mag="1.4" Depth="18.3" />
+	<earhquake	name="2026.10.04 20:35:38"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7748"	lng="36.0855"	mag="1.7" Depth="5.4" />
+	<earhquake	name="2026.10.04 21:02:40"	lokasyon="ESENLI-SUMBAS (OSMANIYE)                          "	lat="37.6928"	lng="36.1158"	mag="1.4" Depth="12.7" />
+	<earhquake	name="2026.10.04 21:04:10"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7558"	lng="36.0992"	mag="1.3" Depth="5.5" />
+	<earhquake	name="2026.10.04 21:08:22"	lokasyon="AKSU-SINCIK (ADIYAMAN)                            "	lat="38.1545"	lng="38.4950"	mag="1.1" Depth="12.9" />
+	<earhquake	name="2026.10.04 21:13:28"	lokasyon="KIRIKUSAGI-FEKE (ADANA)                           "	lat="37.7933"	lng="35.9770"	mag="1.2" Depth="14.5" />
+	<earhquake	name="2026.10.04 21:17:52"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7573"	lng="36.0837"	mag="2.9" Depth="5.0" />
+	<earhquake	name="2026.10.04 21:43:21"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7690"	lng="36.0673"	mag="1.5" Depth="6.0" />
+	<earhquake	name="2026.10.04 22:03:17"	lokasyon="CALIS-ELBISTAN (KAHRAMANMARAS)                    "	lat="38.1005"	lng="37.0133"	mag="1.9" Depth="15.6" />
+	<earhquake	name="2026.10.04 22:03:34"	lokasyon="YUREGIL-KOCASINAN (KAYSERI)                       "	lat="38.9407"	lng="35.6320"	mag="2.2" Depth="5.0" />
+	<earhquake	name="2026.10.04 22:30:14"	lokasyon="AKCALIUSAGI-KOZAN (ADANA)                         "	lat="37.7177"	lng="36.1162"	mag="1.6" Depth="2.1" />
 </eqlist>
