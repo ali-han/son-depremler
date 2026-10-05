@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.10.04 01:34:37"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1748"	lng="28.2223"	mag="1.2" Depth="19.0" />
-	<earhquake	name="2026.10.04 02:00:35"	lokasyon="AKTAS-SINDIRGI (BALIKESIR)                        "	lat="39.1688"	lng="28.2062"	mag="1.3" Depth="10.1" />
-	<earhquake	name="2026.10.04 02:05:24"	lokasyon="YUKARIOZ-YAPRAKLI (CANKIRI)                       "	lat="40.8392"	lng="33.8142"	mag="1.9" Depth="5.1" />
 	<earhquake	name="2026.10.04 03:03:34"	lokasyon="KUCUKOTLUKBELI-OTLUKBELI (ERZINCAN)               "	lat="40.0458"	lng="40.0093"	mag="1.6" Depth="16.6" />
 	<earhquake	name="2026.10.04 03:20:36"	lokasyon="EGE DENIZI                                        "	lat="35.9965"	lng="27.1248"	mag="1.6" Depth="5.0" />
 	<earhquake	name="2026.10.04 03:26:59"	lokasyon="YENIKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI)        "	lat="40.8032"	lng="27.5650"	mag="1.4" Depth="13.8" />
@@ -101,4 +98,13 @@
 	<earhquake	name="2026.10.05 00:39:40"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7747"	lng="36.0448"	mag="1.6" Depth="6.1" />
 	<earhquake	name="2026.10.05 00:42:48"	lokasyon="YAYLACIK-SINDIRGI (BALIKESIR)                     "	lat="39.2073"	lng="28.1677"	mag="1.3" Depth="8.1" />
 	<earhquake	name="2026.10.05 00:48:28"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7562"	lng="36.0532"	mag="1.3" Depth="13.6" />
+	<earhquake	name="2026.10.05 01:16:22"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7610"	lng="36.0473"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.10.05 01:17:07"	lokasyon="YUNANISTAN                                        "	lat="38.7383"	lng="23.3563"	mag="3.1" Depth="15.5" />
+	<earhquake	name="2026.10.05 01:23:39"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7958"	lng="36.0858"	mag="1.6" Depth="5.0" />
+	<earhquake	name="2026.10.05 01:27:50"	lokasyon="TOKMANAKLI-FEKE (ADANA)                           "	lat="37.7230"	lng="36.0547"	mag="1.3" Depth="9.5" />
+	<earhquake	name="2026.10.05 01:29:02"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7517"	lng="36.1008"	mag="2.0" Depth="2.9" />
+	<earhquake	name="2026.10.05 01:51:29"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7690"	lng="36.0837"	mag="4.1" Depth="5.0" />
+	<earhquake	name="2026.10.05 02:18:40"	lokasyon="KURTULUS-SILIFKE (MERSIN)                         "	lat="36.3208"	lng="34.0257"	mag="1.5" Depth="6.6" />
+	<earhquake	name="2026.10.05 02:30:05"	lokasyon="EGE DENIZI                                        "	lat="35.9608"	lng="27.2513"	mag="2.4" Depth="6.7" />
+	<earhquake	name="2026.10.05 02:44:49"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7810"	lng="36.0808"	mag="2.1" Depth="5.0" />
 </eqlist>
