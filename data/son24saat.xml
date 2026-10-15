@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.10.15 00:02:00"	lokasyon="TASKOPRU-SULTANDAGI (AFYONKARAHISAR)              "	lat="38.5437"	lng="31.3460"	mag="1.7" Depth="5.4" />
-	<earhquake	name="2026.10.15 00:18:29"	lokasyon="HACIVELIOBA-GONEN (BALIKESIR)                     "	lat="40.0740"	lng="27.6455"	mag="2.8" Depth="13.3" />
-	<earhquake	name="2026.10.15 00:31:09"	lokasyon="EMIROGLU-PAZARCIK (KAHRAMANMARAS)                 "	lat="37.3118"	lng="37.0435"	mag="1.7" Depth="7.4" />
 	<earhquake	name="2026.10.15 01:02:37"	lokasyon="CIFTLIK-SAVSAT (ARTVIN)                           "	lat="41.2252"	lng="42.2643"	mag="1.4" Depth="24.5" />
 	<earhquake	name="2026.10.15 01:11:21"	lokasyon="AKOLUK-FEKE (ADANA)                               "	lat="37.7408"	lng="36.0497"	mag="1.9" Depth="12.6" />
 	<earhquake	name="2026.10.15 01:15:08"	lokasyon="DEDEPINARI-(ELAZIG)                               "	lat="38.4842"	lng="39.1728"	mag="1.7" Depth="2.1" />
@@ -53,4 +50,10 @@
 	<earhquake	name="2026.10.15 21:27:27"	lokasyon="INLICE-SIMAV (KUTAHYA)                            "	lat="39.1298"	lng="29.1610"	mag="1.1" Depth="5.3" />
 	<earhquake	name="2026.10.15 22:49:10"	lokasyon="KARACAOREN-SANDIKLI (AFYONKARAHISAR)              "	lat="38.4948"	lng="30.3432"	mag="1.5" Depth="19.3" />
 	<earhquake	name="2026.10.15 22:54:12"	lokasyon="DONGELCE-CIDE (KASTAMONU)                         "	lat="41.7482"	lng="32.7838"	mag="2.7" Depth="5.0" />
+	<earhquake	name="2026.10.15 23:02:57"	lokasyon="SEYITUSAGI-YESILYURT (MALATYA)                    "	lat="38.2698"	lng="38.1640"	mag="0.7" Depth="10.9" />
+	<earhquake	name="2026.10.16 00:12:03"	lokasyon="MOLLAHUSUYINLER-SARIZ (KAYSERI)                   "	lat="38.3383"	lng="36.3945"	mag="1.1" Depth="6.1" />
+	<earhquake	name="2026.10.16 00:17:29"	lokasyon="DEREKARABAG-BOLVADIN (AFYONKARAHISAR)             "	lat="38.7305"	lng="31.1635"	mag="2.3" Depth="5.0" />
+	<earhquake	name="2026.10.16 00:22:33"	lokasyon="YUZBASI-KARATAS (ADANA)                           "	lat="36.8105"	lng="35.3202"	mag="1.8" Depth="12.0" />
+	<earhquake	name="2026.10.16 00:26:27"	lokasyon="BAGLICAY-GURUN (SIVAS)                            "	lat="38.8203"	lng="37.4620"	mag="1.4" Depth="7.4" />
+	<earhquake	name="2026.10.16 00:38:36"	lokasyon="HEKIMHAN (MALATYA)                                "	lat="38.8035"	lng="37.9427"	mag="1.7" Depth="5.0" />
 </eqlist>
