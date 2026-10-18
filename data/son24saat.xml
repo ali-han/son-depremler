@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <eqlist>
-	<earhquake	name="2026.10.18 01:13:35"	lokasyon="AYVACIK-SAIMBEYLI (ADANA)                         "	lat="37.7522"	lng="36.1140"	mag="1.4" Depth="15.0" />
-	<earhquake	name="2026.10.18 01:37:06"	lokasyon="TASDAMLAR-CELIKHAN (ADIYAMAN)                     "	lat="38.0937"	lng="38.3387"	mag="1.2" Depth="8.9" />
-	<earhquake	name="2026.10.18 01:49:08"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2418"	lng="29.0373"	mag="1.4" Depth="8.0" />
-	<earhquake	name="2026.10.18 01:51:49"	lokasyon="SINANDEDE-SINDIRGI (BALIKESIR)                    "	lat="39.1817"	lng="28.1802"	mag="2.4" Depth="15.4" />
-	<earhquake	name="2026.10.18 01:54:57"	lokasyon="ILICA-SINDIRGI (BALIKESIR)                        "	lat="39.1832"	lng="28.2348"	mag="1.4" Depth="13.7" />
-	<earhquake	name="2026.10.18 01:56:39"	lokasyon="YAYLABAYIR-SINDIRGI (BALIKESIR)                   "	lat="39.1167"	lng="28.3698"	mag="1.2" Depth="9.6" />
 	<earhquake	name="2026.10.18 02:01:10"	lokasyon="YEMISLI-SIMAV (KUTAHYA)                           "	lat="39.2372"	lng="29.0213"	mag="2.9" Depth="7.0" />
 	<earhquake	name="2026.10.18 02:04:16"	lokasyon="KATRANDAGI-EMET (KUTAHYA)                         "	lat="39.2312"	lng="29.0465"	mag="2.4" Depth="10.1" />
 	<earhquake	name="2026.10.18 02:17:08"	lokasyon="EGE DENIZI                                        "	lat="36.7558"	lng="26.3450"	mag="2.4" Depth="151.8" />
@@ -94,4 +88,9 @@
 	<earhquake	name="2026.10.18 23:20:27"	lokasyon="GUNEDOGRU-DOGANSEHIR (MALATYA)                    "	lat="38.0670"	lng="37.8370"	mag="1.4" Depth="13.6" />
 	<earhquake	name="2026.10.18 23:34:53"	lokasyon="ORLEMIS-BERGAMA (IZMIR)                           "	lat="38.9320"	lng="27.1237"	mag="1.8" Depth="7.9" />
 	<earhquake	name="2026.10.18 23:42:29"	lokasyon="EGE DENIZI                                        "	lat="36.2140"	lng="25.2775"	mag="2.2" Depth="4.8" />
+	<earhquake	name="2026.10.19 00:27:46"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2637"	lng="29.0125"	mag="1.1" Depth="15.0" />
+	<earhquake	name="2026.10.19 00:48:45"	lokasyon="TOKAT-HISARCIK (KUTAHYA)                          "	lat="39.2102"	lng="29.0945"	mag="0.7" Depth="10.4" />
+	<earhquake	name="2026.10.19 00:49:40"	lokasyon="YESILDERE-SIMAV (KUTAHYA)                         "	lat="39.2538"	lng="29.0098"	mag="1.1" Depth="15.2" />
+	<earhquake	name="2026.10.19 00:56:21"	lokasyon="SARIOT-KALE (MALATYA)                             "	lat="38.3505"	lng="38.7563"	mag="1.9" Depth="3.9" />
+	<earhquake	name="2026.10.19 00:58:57"	lokasyon="IKIZPINAR-KALE (MALATYA)                          "	lat="38.3612"	lng="38.7243"	mag="2.3" Depth="1.8" />
 </eqlist>
